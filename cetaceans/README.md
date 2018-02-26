@@ -63,7 +63,7 @@ Below you'll find metadata for each file.
 |---|---|---|
 | `species` | The common name for a species (e.g., `Bottlenose`, `Killer whale; orca` etc.) | text |
 | `yearGroup` | Denotes which of the 3 groups of years the following values have been calculated for. <br/> &bull;`A` = 1939 - 1964 <br/> &bull;`B` = 1965 - 1990 <br/> &bull;`C` = 1991 - 2017. | text | 
-| `sumAnimalDays` | The total number of days that animals were alive and in captivity in the US between January 1st of the starting year and December 31st of the ending year (except for Group C, where total days were calculated between January 1st of 1965 and May 7, 2017). | number |
+| `sumAnimalDays` | The total number of days that animals were alive and in captivity in the US between January 1st of the starting year and December 31st of the ending year (except for Group C, where total days were calculated between January 1st 1991 and May 7, 2017). | number |
 | `count` | Total number of animals living in captivity in the US during a group of years. | number |
 | `DSR` | Daily Survival Rate. Calculated as `1 - (count / sumAnimalDays)` | number |
 | `ASRLow` | Low estimate of Annual Survival Rate. Calculated as `(DSR - (1.96 * (sqrt(DSR * (1 - DSR) / sumAnimalDays)))) ^ 365.25`. | number |
