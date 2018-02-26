@@ -2,8 +2,7 @@ This folder contains all of the data used in The Pudding article [Free Willy and
 
 Below you'll find metadata for each file. 
 
-## acquisitionsOnly2.csv
-*change to acquisitions.csv*
+## acquisitions.csv
 
 - 	**What is this?**: For a whale or dolphin to reside under human care, it must have been captured from the ocean, born in captivity, or rescued. This dataset provides aggregate counts of whales and dolphins that joined the US captive animal population, along with their acquisition methods, between 1938 and May 7, 2017. 
 -   **Source(s)**: The data used to create this aggregated set came from the US National Marine Mammal Inventory (original data requested on June 15, 2015 via FOIA available [here](https://foiaonline.regulations.gov/foia/action/public/view/request?objectId=090004d28075988d)) and from [Ceta-Base](http://www.cetabase.org/). Data from Ceta-Base were downloaded May 7, 2017. The complete, cleaned, non-aggregated dataset can be found in `allCetaceanData.csv`. 
