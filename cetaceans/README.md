@@ -8,6 +8,8 @@ Below you'll find metadata for each file.
 -   **Source(s)**: The data used to create this aggregated set came from the US National Marine Mammal Inventory (original data requested on June 15, 2015 via FOIA available [here](https://foiaonline.regulations.gov/foia/action/public/view/request?objectId=090004d28075988d)) and from [Ceta-Base](http://www.cetabase.org/). Data from Ceta-Base were downloaded May 7, 2017. The complete, cleaned, non-aggregated dataset can be found in `allCetaceanData.csv`. 
 -   **Last Modified**: May 7, 2017
 -   **Contact Information**: [Amber Thomas](mailto:amber@polygraph.cool)
+-   **Spatial Applicability**: United States
+-   **Temporal Applicability**: March 1, 1938 - May 7, 2017
 -   **Variables (Columns)**:
 
 | Header | Description | Data Type |
@@ -26,6 +28,8 @@ Below you'll find metadata for each file.
 -   **Source(s)**: The data used to create this aggregated set came from the US National Marine Mammal Inventory (original data requested on June 15, 2015 via FOIA available [here](https://foiaonline.regulations.gov/foia/action/public/view/request?objectId=090004d28075988d)) and from [Ceta-Base](http://www.cetabase.org/). Data from Ceta-Base were downloaded May 7, 2017. 
 -   **Last Modified**: May 7, 2017
 -   **Contact Information**: [Amber Thomas](mailto:amber@polygraph.cool)
+-   **Spatial Applicability**: United States
+-   **Temporal Applicability**: March 1, 1938 - May 7, 2017
 -   **Variables (Columns)**:
 
 | Header | Description | Data Type |
@@ -57,6 +61,8 @@ Below you'll find metadata for each file.
 -   **Source(s) & Methodology**: The data used to create this aggregated set came from the US National Marine Mammal Inventory (original data requested on June 15, 2015 via FOIA available [here](https://foiaonline.regulations.gov/foia/action/public/view/request?objectId=090004d28075988d)) and from [Ceta-Base](http://www.cetabase.org/). Data from Ceta-Base were downloaded May 7, 2017. The entire course of cetacean captivity has been equally split into three temporal groups (1939 - 1964, 1965 - 1990, 1991 - 2017) . Annual Survival Rate (ASR) was calculated for the entire population of animals that entered captivity during each group as described in [DeMaster and Drevenak (1988)](https://swfsc.noaa.gov/publications/CR/1988/8822.PDF). Due to small sample sizes and to compare to wild animal ASR, age-specific survival rates were not calculated. Animals that died at younger than 60 days of age (or within the first 60 days after capture) were excluded from analysis, to compare to similarly calculated wild values. Animals that were transferred from non-US facilities were included in these data, starting at the date that they joined the US population.
 -   **Last Modified**: May 7, 2017
 -   **Contact Information**: [Amber Thomas](mailto:amber@polygraph.cool)
+-   **Spatial Applicability**: United States
+-   **Temporal Applicability**: March 1, 1938 - May 7, 2017
 -   **Variables (Columns)**:
 
 | Header | Description | Data Type |
