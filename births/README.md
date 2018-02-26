@@ -8,6 +8,8 @@ Below you'll find metadata for each file.
 -   **Source(s) & Methodology**: Data from 1985 - 2002 were downloaded from the [National Bureau for Economic Research](http://www.nber.org/data/vital-statistics-natality-data.html). They obtained the data through the National Center for Health Statistics' National Vital Statistics System (available [here](https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm#Births)). Data from 2003 - 2015 were downloaded using the Year, Month, State, and County aggregators from the CDC's [WONDER tool](https://wonder.cdc.gov/natality.html). For privacy reasons, NCHC doesn't release geolocation information for individual babies born after 2005, so all data is aggregated by month of birth. All data were downloaded on April 5, 2017. 
 -   **Last Modified**: April 5, 2017
 -   **Contact Information**: [Amber Thomas](mailto:amber@polygraph.cool)
+-   **Spatial Applicability**: United States (data by county)
+-   **Temporal Applicability**: January 1, 1985 - December 31, 2015
 -   **Observations (Rows)**: Each row represents the aggregate number of births within a county for a specific month and year.
 -   **Variables (Columns)**:
 
