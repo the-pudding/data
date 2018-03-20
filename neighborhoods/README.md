@@ -2,7 +2,7 @@ This folder contains all of the data used in The Pudding essay [A Tale of Two Ci
 
 Below you'll find metadata for each file. 
 
-## top5_Seattle.csv & top5_NewYork.csv
+## top5_Seattle.csv & top5_NewYorkCity.csv
 
 - 	**What is this?**: Data representing the 5 business types that over-index the most in each of Seattle's and New York City's neighborhoods (respectively). 
 -   **Source(s) & Methods**: Each of Seattle and New York City's neighborhoods were identified using Zillow's [neighborhood-level shapefiles](http://www.zillow.com/howto/api/neighborhood-boundaries.htm). We then used thesed neighborhood names to query the [Yelp API](https://www.yelp.com/developers/documentation/v3/business_search) for any available Yelp [business categories](https://www.yelp.ca/developers/documentation/v3/category_list) using a radius of 2 miles (3210m). Using the latitude/longitude coordinates, we mapped each business to a neighborhood, and compared the ratio of businesses from each category in each neighborhood to their ratio in the city as a whole (e.g., if hairdressers made up 10% of a particular neighborhood's businesses but only 5% of the businesses in the city overall, they were judged to "over-index" in that neighborhood). If a single business had more than one category (e.g., `Outdoor Wear`, `Sports Wear`, and `Bikes`) that business would be repeated three times, once for each category. Thus, a single business could be counted in more than one category, but never more than once in the same category.
