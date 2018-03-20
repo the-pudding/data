@@ -1,0 +1,525 @@
+"neighborhood","yelpAlias","yelpTitle","nCount","neighborhoodTotal","cCount","cityTotal","incidence","rank"
+"Admiral","tours","Tours",5,420,115,41290,4.27,1
+"Admiral","spas","Day Spas",5,420,128,41290,3.84,2
+"Admiral","financialadvising","Financial Advising",7,420,191,41290,3.6,3
+"Admiral","pizza","Pizza",8,420,237,41290,3.32,4
+"Admiral","italian","Italian",5,420,148,41290,3.32,5
+"Alki","fishnchips","Fish & Chips",3,152,29,41290,28.1,1
+"Alki","museums","Museums",3,152,43,41290,18.95,2
+"Alki","tutoring","Tutoring Centers",2,152,64,41290,8.49,3
+"Alki","juicebars","Juice Bars & Smoothies",2,152,66,41290,8.23,4
+"Alki","waxing","Waxing",4,152,163,41290,6.67,5
+"Arbor Heights","estateliquidation","Estate Liquidation",1,27,6,41290,254.88,1
+"Arbor Heights","fabricstores","Fabric Stores",1,27,20,41290,76.46,2
+"Arbor Heights","home_organization","Home Organization",1,27,23,41290,66.49,3
+"Arbor Heights","musicalinstrumentsandteachers","Musical Instruments & Teachers",1,27,40,41290,38.23,4
+"Arbor Heights","photoboothrentals","Photo Booth Rentals",1,27,47,41290,32.54,5
+"Atlantic","cprclasses","CPR Classes",1,88,6,41290,78.2,1
+"Atlantic","qigong","Qi Gong",1,88,7,41290,67.03,2
+"Atlantic","trains","Trains",1,88,8,41290,58.65,3
+"Atlantic","diyfood","Do-It-Yourself Food",1,88,9,41290,52.13,4
+"Atlantic","playgrounds","Playgrounds",1,88,9,41290,52.13,5
+"Ballard","cocktailbars","Cocktail Bars",15,1495,163,41290,2.54,1
+"Ballard","breakfast_brunch","Breakfast & Brunch",17,1495,276,41290,1.7,2
+"Ballard","womenscloth","Women's Clothing",19,1495,311,41290,1.69,3
+"Ballard","photographers","Photographers",15,1495,303,41290,1.37,4
+"Ballard","banks","Banks & Credit Unions",16,1495,335,41290,1.32,5
+"Beacon Hill","filipino","Filipino",2,143,12,41290,48.12,1
+"Beacon Hill","intlgrocery","International Grocery",3,143,24,41290,36.09,2
+"Beacon Hill","meats","Meat Shops",3,143,31,41290,27.94,3
+"Beacon Hill","dimsum","Dim Sum",2,143,26,41290,22.21,4
+"Beacon Hill","oilchange","Oil Change Stations",2,143,49,41290,11.79,5
+"Belltown","cocktailbars","Cocktail Bars",16,1457,163,41290,2.78,1
+"Belltown","marketing","Marketing",30,1457,333,41290,2.55,2
+"Belltown","breakfast_brunch","Breakfast & Brunch",24,1457,276,41290,2.46,3
+"Belltown","apartments","Apartments",69,1457,844,41290,2.32,4
+"Belltown","propertymgmt","Property Management",15,1457,225,41290,1.89,5
+"Bitter Lake","car_dealers","Car Dealers",8,344,96,41290,10,1
+"Bitter Lake","bodyshops","Body Shops",6,344,77,41290,9.35,2
+"Bitter Lake","autorepair","Auto Repair",11,344,377,41290,3.5,3
+"Bitter Lake","hotels","Hotels",4,344,166,41290,2.89,4
+"Bitter Lake","hotels","Hotels",4,344,166,41290,2.89,4
+"Bitter Lake","insurance","Insurance",6,344,332,41290,2.17,5
+"Blue Ridge","christmastrees","Christmas Trees",1,40,7,41290,147.46,1
+"Blue Ridge","reupholstery","Furniture Reupholstery",1,40,25,41290,41.29,2
+"Blue Ridge","hypnosis","Hypnosis/Hypnotherapy",1,40,29,41290,35.59,3
+"Blue Ridge","montessori","Montessori Schools",1,40,30,41290,34.41,4
+"Blue Ridge","petservices","Pet Services",1,40,34,41290,30.36,5
+"Brighton","african","African",2,142,14,41290,41.54,1
+"Brighton","bodyshops","Body Shops",5,142,77,41290,18.88,2
+"Brighton","ethiopian","Ethiopian",2,142,34,41290,17.1,3
+"Brighton","restaurants","Restaurants",3,142,56,41290,15.58,4
+"Brighton","chicken_wings","Chicken Wings",2,142,41,41290,14.18,5
+"Broadmoor","golf","Golf",1,41,2,41290,503.54,1
+"Broadmoor","beertours","Beer Tours",1,41,4,41290,251.77,2
+"Broadmoor","parentingclasses","Parenting Classes",1,41,10,41290,100.71,3
+"Broadmoor","partysupplies","Party Supplies",1,41,16,41290,62.94,4
+"Broadmoor","cookingschools","Cooking Schools",1,41,26,41290,38.73,5
+"Broadview","beaches","Beaches",1,98,3,41290,140.44,1
+"Broadview","gardeners","Gardeners",1,98,3,41290,140.44,2
+"Broadview","assistedliving","Assisted Living Facilities",2,98,8,41290,105.33,3
+"Broadview","medicaltransportation","Medical Transportation",1,98,4,41290,105.33,4
+"Broadview","musicinstrumentservices","Musical Instrument Services",1,98,4,41290,105.33,5
+"Bryant","testprep","Test Preparation",2,126,36,41290,18.21,1
+"Bryant","hairremoval","Hair Removal",4,126,89,41290,14.73,2
+"Bryant","childcloth","Children's Clothing",2,126,50,41290,13.11,3
+"Bryant","medicalspa","Medical Spas",2,126,57,41290,11.5,4
+"Bryant","medicalspa","Medical Spas",2,126,57,41290,11.5,4
+"Bryant","tutoring","Tutoring Centers",2,126,64,41290,10.24,5
+"Capitol Hill","cocktailbars","Cocktail Bars",34,2181,163,41290,3.95,1
+"Capitol Hill","bars","Bars",36,2181,244,41290,2.79,2
+"Capitol Hill","apartments","Apartments",109,2181,844,41290,2.44,3
+"Capitol Hill","newamerican","American (New)",26,2181,260,41290,1.89,4
+"Capitol Hill","realestateagents","Real Estate Agents",108,2181,1108,41290,1.85,5
+"Cedar Park","greek","Greek",3,232,46,41290,11.61,1
+"Cedar Park","mediterranean","Mediterranean",3,232,84,41290,6.36,2
+"Cedar Park","healthtrainers","Trainers",3,232,98,41290,5.45,3
+"Cedar Park","cosmeticdentists","Cosmetic Dentists",3,232,117,41290,4.56,4
+"Cedar Park","insurance","Insurance",7,232,332,41290,3.75,5
+"Central","gaybars","Gay Bars",4,188,19,41290,46.24,1
+"Central","danceclubs","Dance Clubs",2,188,36,41290,12.2,2
+"Central","permanentmakeup","Permanent Makeup",3,188,55,41290,11.98,3
+"Central","officecleaning","Office Cleaning",2,188,42,41290,10.46,4
+"Central","taxis","Taxis",2,188,56,41290,7.84,5
+"Columbia City","musicvenues","Music Venues",6,454,87,41290,6.27,1
+"Columbia City","musicvenues","Music Venues",6,454,87,41290,6.27,1
+"Columbia City","childcare","Child Care & Day Care",7,454,106,41290,6.01,2
+"Columbia City","lounges","Lounges",5,454,100,41290,4.55,3
+"Columbia City","barbers","Barbers",5,454,136,41290,3.34,4
+"Columbia City","othersalons","Nail Salons",6,454,185,41290,2.95,5
+"Crown Hill","bridal","Bridal",2,106,47,41290,16.58,1
+"Crown Hill","vet","Veterinarians",4,106,99,41290,15.74,2
+"Crown Hill","petstore","Pet Stores",2,106,58,41290,13.43,3
+"Crown Hill","groomer","Pet Groomers",2,106,60,41290,12.98,4
+"Crown Hill","pet_training","Pet Training",2,106,68,41290,11.46,5
+"Denny - Blaine","doulas","Doulas",1,2,17,41290,1214.41,1
+"Denny - Blaine","lawyers","Lawyers",1,2,1431,41290,14.43,2
+"Denny Triangle","employmentlawyers","Employment Law",10,777,84,41290,6.33,1
+"Denny Triangle","commercialrealestate","Commercial Real Estate",9,777,91,41290,5.26,2
+"Denny Triangle","general_litigation","General Litigation",9,777,109,41290,4.39,3
+"Denny Triangle","cosmeticdentists","Cosmetic Dentists",8,777,117,41290,3.63,4
+"Denny Triangle","hotels","Hotels",11,777,166,41290,3.52,5
+"Denny Triangle","hotels","Hotels",11,777,166,41290,3.52,5
+"Downtown","investing","Investing",115,6616,234,41290,3.07,1
+"Downtown","personal_injury","Personal Injury Law",150,6616,313,41290,2.99,2
+"Downtown","lawyers","Lawyers",679,6616,1431,41290,2.96,3
+"Downtown","divorce","Divorce & Family Law",92,6616,212,41290,2.71,4
+"Downtown","jewelry","Jewelry",110,6616,284,41290,2.42,5
+"Dunlap","wigs","Wigs",2,167,8,41290,61.81,1
+"Dunlap","hair_extensions","Hair Extensions",4,167,33,41290,29.97,2
+"Dunlap","hair_extensions","Hair Extensions",4,167,33,41290,29.97,2
+"Dunlap","ethiopian","Ethiopian",4,167,34,41290,29.09,3
+"Dunlap","discountstore","Discount Store",2,167,17,41290,29.09,4
+"Dunlap","communitycenters","Community Centers",2,167,32,41290,15.45,5
+"East Queen Anne","realestateagents","Real Estate Agents",101,484,1108,41290,7.78,1
+"East Queen Anne","foodtrucks","Food Trucks",9,484,152,41290,5.05,2
+"East Queen Anne","lifecoach","Life Coach",5,484,102,41290,4.18,3
+"East Queen Anne","dogwalkers","Dog Walkers",9,484,199,41290,3.86,4
+"East Queen Anne","sessionphotography","Session Photography",13,484,321,41290,3.45,5
+"Eastlake","radiostations","Radio Stations",6,418,64,41290,9.26,1
+"Eastlake","yoga","Yoga",5,418,71,41290,6.96,2
+"Eastlake","lifecoach","Life Coach",6,418,102,41290,5.81,3
+"Eastlake","tcm","Traditional Chinese Medicine",5,418,113,41290,4.37,4
+"Eastlake","massage","Massage",10,418,294,41290,3.36,5
+"Fairmount Park","weightlosscenters","Weight Loss Centers",5,228,88,41290,10.29,1
+"Fairmount Park","tcm","Traditional Chinese Medicine",4,228,113,41290,6.41,2
+"Fairmount Park","tours","Tours",4,228,115,41290,6.3,3
+"Fairmount Park","nutritionists","Nutritionists",3,228,120,41290,4.53,4
+"Fairmount Park","autorepair","Auto Repair",8,228,377,41290,3.84,5
+"Fauntleroy","petcremation","Pet Cremation Services",1,95,1,41290,434.63,1
+"Fauntleroy","tattooremoval","Tattoo Removal",1,95,4,41290,108.66,2
+"Fauntleroy","eldercareplanning","Elder Care Planning",1,95,5,41290,86.93,3
+"Fauntleroy","karate","Karate",1,95,5,41290,86.93,4
+"Fauntleroy","personalcare","Personal Care Services",1,95,7,41290,62.09,5
+"First Hill","obgyn","Obstetricians & Gynecologists",17,1037,32,41290,21.15,1
+"First Hill","orthopedists","Orthopedists",21,1037,42,41290,19.91,2
+"First Hill","cosmeticsurgeons","Cosmetic Surgeons",11,1037,25,41290,17.52,3
+"First Hill","physicians","Doctors",51,1037,125,41290,16.25,4
+"First Hill","internalmed","Internal Medicine",20,1037,54,41290,14.75,5
+"Fremont","massage_therapy","Massage Therapy",63,1396,497,41290,3.75,1
+"Fremont","acupuncture","Acupuncture",41,1396,403,41290,3.01,2
+"Fremont","massage","Massage",28,1396,294,41290,2.82,3
+"Fremont","naturopathic","Naturopathic/Holistic",18,1396,207,41290,2.57,4
+"Fremont","skincare","Skin Care",21,1396,280,41290,2.22,5
+"Garfield","cannabisdispensaries","Cannabis Dispensaries",1,92,3,41290,149.6,1
+"Garfield","headshops","Head Shops",1,92,5,41290,89.76,2
+"Garfield","christmastrees","Christmas Trees",1,92,7,41290,64.11,3
+"Garfield","diyfood","Do-It-Yourself Food",1,92,9,41290,49.87,4
+"Garfield","waffles","Waffles",1,92,10,41290,44.88,5
+"Gatewood","telecommunications","Telecommunications",2,152,23,41290,23.62,1
+"Gatewood","arts","Arts & Entertainment",2,152,40,41290,13.58,2
+"Gatewood","artschools","Art Schools",2,152,64,41290,8.49,3
+"Gatewood","specialtyschools","Specialty Schools",2,152,73,41290,7.44,4
+"Gatewood","pet_sitting","Pet Sitting",5,152,203,41290,6.69,5
+"Genesee","adoptionservices","Adoption Services",1,77,3,41290,178.74,1
+"Genesee","registrationservices","Registration Services",1,77,3,41290,178.74,2
+"Genesee","utilities","Utilities",1,77,4,41290,134.06,3
+"Genesee","packingsupplies","Packing Supplies",2,77,14,41290,76.6,4
+"Genesee","paddleboarding","Paddleboarding",1,77,7,41290,76.6,5
+"Georgetown","buildingsupplies","Building Supplies",10,722,49,41290,11.67,1
+"Georgetown","gardening","Nurseries & Gardening",8,722,46,41290,9.95,2
+"Georgetown","furniture","Furniture Stores",25,722,185,41290,7.73,3
+"Georgetown","interiordesign","Interior Design",14,722,150,41290,5.34,4
+"Georgetown","antiques","Antiques",10,722,107,41290,5.34,5
+"Green Lake","realestateagents","Real Estate Agents",60,614,1108,41290,3.64,1
+"Green Lake","naturopathic","Naturopathic/Holistic",11,614,207,41290,3.57,2
+"Green Lake","c_and_mh","Counseling & Mental Health",26,614,577,41290,3.03,3
+"Green Lake","realestatesvcs","Real Estate Services",14,614,339,41290,2.78,4
+"Green Lake","theater","Performing Arts",9,614,295,41290,2.05,5
+"Greenwood","car_dealers","Car Dealers",10,770,96,41290,5.59,1
+"Greenwood","vet","Veterinarians",8,770,99,41290,4.33,2
+"Greenwood","waxing","Waxing",10,770,163,41290,3.29,3
+"Greenwood","autorepair","Auto Repair",23,770,377,41290,3.27,4
+"Greenwood","mexican","Mexican",10,770,219,41290,2.45,5
+"Haller Lake","physicians","Doctors",16,334,125,41290,15.82,1
+"Haller Lake","internalmed","Internal Medicine",5,334,54,41290,11.45,2
+"Haller Lake","servicestations","Gas Stations",4,334,77,41290,6.42,3
+"Haller Lake","drugstores","Drugstores",5,334,114,41290,5.42,4
+"Haller Lake","highschools","Middle Schools & High Schools",4,334,95,41290,5.21,5
+"Harbor Island","homewindowtinting","Home Window Tinting",1,20,3,41290,688.17,1
+"Harbor Island","carwindowtinting","Car Window Tinting",1,20,6,41290,344.08,2
+"Harbor Island","vehicleshipping","Vehicle Shipping",1,20,15,41290,137.63,3
+"Harbor Island","paintstores","Paint Stores",1,20,18,41290,114.69,4
+"Harbor Island","metalfabricators","Metal Fabricators",1,20,42,41290,49.15,5
+"Hawthorne Hills","churches","Churches",1,9,26,41290,176.45,1
+"Hawthorne Hills","publicservicesgovt","Public Services & Government",1,9,52,41290,88.23,2
+"Hawthorne Hills","artschools","Art Schools",1,9,64,41290,71.68,3
+"Hawthorne Hills","printmedia","Print Media",1,9,137,41290,33.49,4
+"Hawthorne Hills","elementaryschools","Elementary Schools",1,9,184,41290,24.93,5
+"High Point","smog_check_stations","Smog Check Stations",1,82,3,41290,167.85,1
+"High Point","food","Food",1,82,7,41290,71.93,2
+"High Point","painters","Painters",1,82,9,41290,55.95,3
+"High Point","magicians","Magicians",1,82,10,41290,50.35,4
+"High Point","foodbanks","Food Banks",1,82,18,41290,27.97,5
+"Highland Park","butcher","Butcher",1,58,8,41290,88.99,1
+"Highland Park","recyclingcenter","Recycling Center",1,58,23,41290,30.95,2
+"Highland Park","churches","Churches",1,58,26,41290,27.38,3
+"Highland Park","junkremovalandhauling","Junk Removal & Hauling",2,58,59,41290,24.13,4
+"Highland Park","auto_detailing","Auto Detailing",2,58,60,41290,23.73,5
+"Hillman City","filipino","Filipino",2,141,12,41290,48.81,1
+"Hillman City","ethiopian","Ethiopian",3,141,34,41290,25.84,2
+"Hillman City","cantonese","Cantonese",2,141,28,41290,20.92,3
+"Hillman City","funeralservices","Funeral Services & Cemeteries",2,141,29,41290,20.2,4
+"Hillman City","montessori","Montessori Schools",2,141,30,41290,19.52,5
+"Holly Park","african","African",2,127,14,41290,46.45,1
+"Holly Park","seafoodmarkets","Seafood Markets",2,127,32,41290,20.32,2
+"Holly Park","vietnamese","Vietnamese",5,127,124,41290,13.11,3
+"Holly Park","couriers","Couriers & Delivery Services",2,127,57,41290,11.41,4
+"Holly Park","juicebars","Juice Bars & Smoothies",2,127,66,41290,9.85,5
+"Industrial District","markets","Fruits & Veggies",14,1214,40,41290,11.9,1
+"Industrial District","hardware","Hardware Stores",16,1214,72,41290,7.56,2
+"Industrial District","kitchenandbath","Kitchen & Bath",14,1214,84,41290,5.67,3
+"Industrial District","copyshops","Printing Services",19,1214,128,41290,5.05,4
+"Industrial District","videofilmproductions","Video/Film Production",13,1214,88,41290,5.02,5
+"Interbay","seafoodmarkets","Seafood Markets",5,421,32,41290,15.32,1
+"Interbay","transport","Transportation",6,421,47,41290,12.52,2
+"Interbay","seafood","Seafood",14,421,189,41290,7.26,3
+"Interbay","financialadvising","Financial Advising",13,421,191,41290,6.68,4
+"Interbay","tours","Tours",7,421,115,41290,5.97,5
+"International District","cantonese","Cantonese",18,643,28,41290,41.28,1
+"International District","dimsum","Dim Sum",12,643,26,41290,29.64,2
+"International District","bubbletea","Bubble Tea",7,643,31,41290,14.5,3
+"International District","chinese","Chinese",17,643,113,41290,9.66,4
+"International District","bbq","Barbeque",9,643,62,41290,9.32,5
+"Jackson Place","hybridcarrepair","Hybrid Car Repair",1,74,1,41290,557.97,1
+"Jackson Place","peruvian","Peruvian",1,74,4,41290,139.49,2
+"Jackson Place","blinds","Shades & Blinds",1,74,7,41290,79.71,3
+"Jackson Place","isps","Internet Service Providers",2,74,15,41290,74.4,4
+"Jackson Place","isps","Internet Service Providers",2,74,15,41290,74.4,4
+"Jackson Place","chickenshop","Chicken Shop",1,74,12,41290,46.5,5
+"Judkins Park","ethiopian","Ethiopian",2,106,34,41290,22.91,1
+"Judkins Park","publicservicesgovt","Public Services & Government",2,106,52,41290,14.98,2
+"Judkins Park","collegeuniv","Colleges & Universities",3,106,86,41290,13.59,3
+"Judkins Park","radiostations","Radio Stations",2,106,64,41290,12.17,4
+"Judkins Park","pet_training","Pet Training",2,106,68,41290,11.46,5
+"Junction","realestateagents","Real Estate Agents",70,680,1108,41290,3.84,1
+"Junction","realestatesvcs","Real Estate Services",20,680,339,41290,3.58,2
+"Junction","sessionphotography","Session Photography",14,680,321,41290,2.65,3
+"Junction","dogwalkers","Dog Walkers",8,680,199,41290,2.44,4
+"Junction","eventphotography","Event Photography",9,680,249,41290,2.19,5
+"Lakewood","securitysystems","Security Systems",1,86,4,41290,120.03,1
+"Lakewood","gutterservices","Gutter Services",1,86,5,41290,96.02,2
+"Lakewood","landsurveying","Land Surveying",1,86,6,41290,80.02,3
+"Lakewood","chinesemartialarts","Chinese Martial Arts",1,86,10,41290,48.01,4
+"Lakewood","religiousorgs","Religious Organizations",1,86,11,41290,43.65,5
+"Laurelhurst","officecleaning","Office Cleaning",2,194,42,41290,10.14,1
+"Laurelhurst","permanentmakeup","Permanent Makeup",2,194,55,41290,7.74,2
+"Laurelhurst","junkremovalandhauling","Junk Removal & Hauling",2,194,59,41290,7.21,3
+"Laurelhurst","homecleaning","Home Cleaning",2,194,65,41290,6.55,4
+"Laurelhurst","drugstores","Drugstores",3,194,114,41290,5.6,5
+"Leschi","psychicmediums","Psychic Mediums",1,100,5,41290,82.58,1
+"Leschi","paddleboarding","Paddleboarding",1,100,7,41290,58.99,2
+"Leschi","popuprestaurants","Pop-Up Restaurants",1,100,8,41290,51.61,3
+"Leschi","filipino","Filipino",1,100,12,41290,34.41,4
+"Leschi","partysupplies","Party Supplies",1,100,16,41290,25.81,5
+"Little Saigon","hotpot","Hot Pot",4,211,16,41290,48.92,1
+"Little Saigon","intlgrocery","International Grocery",5,211,24,41290,40.77,2
+"Little Saigon","szechuan","Szechuan",3,211,16,41290,36.69,3
+"Little Saigon","vietnamese","Vietnamese",17,211,124,41290,26.83,4
+"Little Saigon","shoppingcenters","Shopping Centers",3,211,31,41290,18.94,5
+"Lower Queen Anne","wine_bars","Wine Bars",3,268,65,41290,7.11,1
+"Lower Queen Anne","apartments","Apartments",31,268,844,41290,5.66,2
+"Lower Queen Anne","chinese","Chinese",3,268,113,41290,4.09,3
+"Lower Queen Anne","catering","Caterers",3,268,138,41290,3.35,4
+"Lower Queen Anne","pizza","Pizza",5,268,237,41290,3.25,5
+"Loyal Heights","kitchenandbath","Kitchen & Bath",3,208,84,41290,7.09,1
+"Loyal Heights","preschools","Preschools",7,208,232,41290,5.99,2
+"Loyal Heights","dogwalkers","Dog Walkers",6,208,199,41290,5.99,3
+"Loyal Heights","elementaryschools","Elementary Schools",5,208,184,41290,5.39,4
+"Loyal Heights","pet_sitting","Pet Sitting",5,208,203,41290,4.89,5
+"Madison Park","toys","Toy Stores",3,236,53,41290,9.9,1
+"Madison Park","hairremoval","Hair Removal",3,236,89,41290,5.9,2
+"Madison Park","spas","Day Spas",4,236,128,41290,5.47,3
+"Madison Park","othersalons","Nail Salons",4,236,185,41290,3.78,4
+"Madison Park","carpet_cleaning","Carpet Cleaning",3,236,141,41290,3.72,5
+"Madison Valley","childcloth","Children's Clothing",3,221,50,41290,11.21,1
+"Madison Valley","nutritionists","Nutritionists",4,221,120,41290,6.23,2
+"Madison Valley","c_and_mh","Counseling & Mental Health",17,221,577,41290,5.5,3
+"Madison Valley","antiques","Antiques",3,221,107,41290,5.24,4
+"Madison Valley","othersalons","Nail Salons",5,221,185,41290,5.05,5
+"Madrona","elementaryschools","Elementary Schools",4,221,184,41290,4.06,1
+"Madrona","photographers","Photographers",6,221,303,41290,3.7,2
+"Madrona","theater","Performing Arts",5,221,295,41290,3.17,3
+"Madrona","homedecor","Home Decor",3,221,178,41290,3.15,4
+"Madrona","limos","Limos",3,221,181,41290,3.1,5
+"Magnolia","laundryservices","Laundry Services",6,440,110,41290,5.12,1
+"Magnolia","preschools","Preschools",11,440,232,41290,4.45,2
+"Magnolia","dogwalkers","Dog Walkers",8,440,199,41290,3.77,3
+"Magnolia","insurance","Insurance",13,440,332,41290,3.67,4
+"Magnolia","othersalons","Nail Salons",7,440,185,41290,3.55,5
+"Maple Leaf","mortgagebrokers","Mortgage Brokers",13,573,157,41290,5.97,1
+"Maple Leaf","realestateagents","Real Estate Agents",83,573,1108,41290,5.4,2
+"Maple Leaf","generaldentistry","General Dentistry",13,573,249,41290,3.76,3
+"Maple Leaf","realestatesvcs","Real Estate Services",14,573,339,41290,2.98,4
+"Maple Leaf","elementaryschools","Elementary Schools",7,573,184,41290,2.74,5
+"Matthews Beach","pianoservices","Piano Services",1,55,7,41290,107.25,1
+"Matthews Beach","facepainting","Face Painting",1,55,10,41290,75.07,2
+"Matthews Beach","parks","Parks",2,55,39,41290,38.5,3
+"Matthews Beach","rehabilitation_center","Rehabilitation Center",1,55,20,41290,37.54,4
+"Matthews Beach","retirement_homes","Retirement Homes",1,55,23,41290,32.64,5
+"Meadowbrook","specialed","Special Education",2,129,20,41290,32.01,1
+"Meadowbrook","cannabis_clinics","Cannabis Clinics",2,129,40,41290,16,2
+"Meadowbrook","vet","Veterinarians",4,129,99,41290,12.93,3
+"Meadowbrook","servicestations","Gas Stations",2,129,77,41290,8.31,4
+"Meadowbrook","highschools","Middle Schools & High Schools",2,129,95,41290,6.74,5
+"Minor","ethiopian","Ethiopian",5,325,34,41290,18.68,1
+"Minor","medcenters","Medical Centers",10,325,188,41290,6.76,2
+"Minor","nonprofit","Community Service/Non-Profit",20,325,497,41290,5.11,3
+"Minor","physicians","Doctors",5,325,125,41290,5.08,4
+"Minor","childcare","Child Care & Day Care",4,325,106,41290,4.79,5
+"Montlake","psychiatrists","Psychiatrists",2,103,30,41290,26.72,1
+"Montlake","midwives","Midwives",2,103,33,41290,24.3,2
+"Montlake","bikes","Bikes",2,103,52,41290,15.42,3
+"Montlake","landmarks","Landmarks & Historical Buildings",2,103,60,41290,13.36,4
+"Montlake","highschools","Middle Schools & High Schools",3,103,95,41290,12.66,5
+"Mt. Baker","vietnamese","Vietnamese",3,112,124,41290,8.92,1
+"Mt. Baker","chinese","Chinese",2,112,113,41290,6.52,2
+"Mt. Baker","elementaryschools","Elementary Schools",3,112,184,41290,6.01,3
+"Mt. Baker","italian","Italian",2,112,148,41290,4.98,4
+"Mt. Baker","interiordesign","Interior Design",2,112,150,41290,4.92,5
+"North Beach","packingservices","Packing Services",1,9,21,41290,218.47,1
+"North Beach","buses","Buses",1,9,30,41290,152.93,2
+"North Beach","publictransport","Public Transportation",1,9,45,41290,101.95,3
+"North Beach","reiki","Reiki",1,9,66,41290,69.51,4
+"North Beach","movers","Movers",1,9,119,41290,38.55,5
+"North Beacon Hill","grocery","Grocery",8,317,283,41290,3.68,1
+"North Beacon Hill","burgers","Burgers",4,317,148,41290,3.52,2
+"North Beacon Hill","venues","Venues & Event Spaces",6,317,259,41290,3.02,3
+"North Beacon Hill","mexican","Mexican",5,317,219,41290,2.97,4
+"North Beacon Hill","medcenters","Medical Centers",4,317,188,41290,2.77,5
+"North College Park","transmissionrepair","Transmission Repair",4,331,22,41290,22.68,1
+"North College Park","homehealthcare","Home Health Care",5,331,62,41290,10.06,2
+"North College Park","nutritionists","Nutritionists",6,331,120,41290,6.24,3
+"North College Park","collegeuniv","Colleges & Universities",4,331,86,41290,5.8,4
+"North College Park","physicians","Doctors",5,331,125,41290,4.99,5
+"North Delridge","summer_camps","Summer Camps",2,146,33,41290,17.14,1
+"North Delridge","pest_control","Pest Control",3,146,58,41290,14.63,2
+"North Delridge","educationservices","Educational Services",2,146,49,41290,11.54,3
+"North Delridge","videographers","Videographers",2,146,55,41290,10.28,4
+"North Delridge","venues","Venues & Event Spaces",6,146,259,41290,6.55,5
+"North Queen Anne","funeralservices","Funeral Services & Cemeteries",5,256,29,41290,27.81,1
+"North Queen Anne","selfstorage","Self Storage",4,256,64,41290,10.08,2
+"North Queen Anne","collegeuniv","Colleges & Universities",4,256,86,41290,7.5,3
+"North Queen Anne","kitchenandbath","Kitchen & Bath",3,256,84,41290,5.76,4
+"North Queen Anne","hairremoval","Hair Removal",3,256,89,41290,5.44,5
+"Northgate","realestateagents","Real Estate Agents",217,767,1108,41290,10.54,1
+"Northgate","shoes","Shoe Stores",13,767,97,41290,7.21,2
+"Northgate","sportswear","Sports Wear",8,767,80,41290,5.38,3
+"Northgate","sportswear","Sports Wear",8,767,80,41290,5.38,3
+"Northgate","cosmetics","Cosmetics & Beauty Supply",12,767,121,41290,5.34,4
+"Northgate","cosmetics","Cosmetics & Beauty Supply",12,767,121,41290,5.34,4
+"Northgate","menscloth","Men's Clothing",12,767,158,41290,4.09,5
+"Olympic Hills","autopartssupplies","Auto Parts & Supplies",8,292,65,41290,17.4,1
+"Olympic Hills","autoglass","Auto Glass Services",4,292,58,41290,9.75,2
+"Olympic Hills","videographers","Videographers",3,292,55,41290,7.71,3
+"Olympic Hills","car_dealers","Car Dealers",5,292,96,41290,7.36,4
+"Olympic Hills","auto_detailing","Auto Detailing",3,292,60,41290,7.07,5
+"Olympic Manor","muaythai","Muay Thai",1,53,1,41290,779.06,1
+"Olympic Manor","boxing","Boxing",1,53,5,41290,155.81,2
+"Olympic Manor","brazilianjiujitsu","Brazilian Jiu-jitsu",1,53,5,41290,155.81,3
+"Olympic Manor","gardening","Nurseries & Gardening",2,53,46,41290,33.87,4
+"Olympic Manor","retirement_homes","Retirement Homes",1,53,23,41290,33.87,5
+"Phinney Ridge","pubs","Pubs",8,363,115,41290,7.91,1
+"Phinney Ridge","icecream","Ice Cream & Frozen Yogurt",4,363,87,41290,5.23,2
+"Phinney Ridge","cosmeticdentists","Cosmetic Dentists",4,363,117,41290,3.89,3
+"Phinney Ridge","hairstylists","Hair Stylists",6,363,186,41290,3.67,4
+"Phinney Ridge","desserts","Desserts",4,363,124,41290,3.67,5
+"Pinehurst","importedfood","Imported Food",2,110,13,41290,57.75,1
+"Pinehurst","pediatricians","Pediatricians",2,110,22,41290,34.12,2
+"Pinehurst","restaurants","Restaurants",2,110,56,41290,13.41,3
+"Pinehurst","tutoring","Tutoring Centers",2,110,64,41290,11.73,4
+"Pinehurst","servicestations","Gas Stations",2,110,77,41290,9.75,5
+"Pioneer Square","sportsbars","Sports Bars",11,1064,65,41290,6.57,1
+"Pioneer Square","galleries","Art Galleries",48,1064,302,41290,6.17,2
+"Pioneer Square","galleries","Art Galleries",48,1064,302,41290,6.17,2
+"Pioneer Square","antiques","Antiques",12,1064,107,41290,4.35,3
+"Pioneer Square","criminaldefense","Criminal Defense Law",11,1064,117,41290,3.65,4
+"Pioneer Square","lawyers","Lawyers",131,1064,1431,41290,3.55,5
+"Portage Bay","hindu_temples","Hindu Temples",1,55,1,41290,750.73,1
+"Portage Bay","polish","Polish",1,55,3,41290,250.24,2
+"Portage Bay","amateursportsteams","Amateur Sports Teams",1,55,5,41290,150.15,3
+"Portage Bay","university_housing","University Housing",1,55,7,41290,107.25,4
+"Portage Bay","musicians","Musicians",2,55,35,41290,42.9,5
+"Rainier Beach","sportsteams","Professional Sports Teams",1,87,3,41290,158.2,1
+"Rainier Beach","latin","Latin American",1,87,12,41290,39.55,2
+"Rainier Beach","cajun","Cajun/Creole",1,87,13,41290,36.51,3
+"Rainier Beach","religiousschools","Religious Schools",1,87,13,41290,36.51,4
+"Rainier Beach","gardens","Botanical Gardens",1,87,14,41290,33.9,5
+"Rainier View","stereo_installation","Car Stereo Installation",1,7,3,41290,1966.19,1
+"Rainier View","costumes","Costumes",1,7,7,41290,842.65,2
+"Rainier View","electronics","Electronics",1,7,27,41290,218.47,3
+"Rainier View","junkremovalandhauling","Junk Removal & Hauling",1,7,59,41290,99.98,4
+"Rainier View","autopartssupplies","Auto Parts & Supplies",1,7,65,41290,90.75,5
+"Ravenna","sportswear","Sports Wear",8,656,80,41290,6.29,1
+"Ravenna","sportswear","Sports Wear",8,656,80,41290,6.29,1
+"Ravenna","accessories","Accessories",23,656,232,41290,6.24,2
+"Ravenna","womenscloth","Women's Clothing",27,656,311,41290,5.46,3
+"Ravenna","shoes","Shoe Stores",8,656,97,41290,5.19,4
+"Ravenna","menscloth","Men's Clothing",12,656,158,41290,4.78,5
+"Riverview","csa","CSA",1,69,3,41290,199.47,1
+"Riverview","medicaltransportation","Medical Transportation",1,69,4,41290,149.6,2
+"Riverview","candlestores","Candle Stores",1,69,6,41290,99.73,3
+"Riverview","herbsandspices","Herbs & Spices",1,69,7,41290,85.49,4
+"Riverview","petadoption","Pet Adoption",1,69,7,41290,85.49,5
+"Roosevelt","familydr","Family Practice",8,399,86,41290,9.63,1
+"Roosevelt","physicians","Doctors",8,399,125,41290,6.62,2
+"Roosevelt","reiki","Reiki",4,399,66,41290,6.27,3
+"Roosevelt","naturopathic","Naturopathic/Holistic",12,399,207,41290,6,4
+"Roosevelt","acupuncture","Acupuncture",18,399,403,41290,4.62,5
+"Roxhill","homestaging","Home Staging",3,158,35,41290,22.4,1
+"Roxhill","electronics","Electronics",2,158,27,41290,19.36,2
+"Roxhill","deptstores","Department Stores",3,158,43,41290,18.23,3
+"Roxhill","deptstores","Department Stores",3,158,43,41290,18.23,3
+"Roxhill","tanning","Tanning",2,158,29,41290,18.02,4
+"Roxhill","montessori","Montessori Schools",2,158,30,41290,17.42,5
+"Sand Point","waldorfschools","Waldorf Schools",1,41,4,41290,251.77,1
+"Sand Point","scavengerhunts","Scavenger Hunts",1,41,5,41290,201.41,2
+"Sand Point","playgrounds","Playgrounds",1,41,9,41290,111.9,3
+"Sand Point","communitygardens","Community Gardens",1,41,10,41290,100.71,4
+"Sand Point","african","African",1,41,14,41290,71.93,5
+"Seaview","payroll","Payroll Services",2,143,25,41290,23.1,1
+"Seaview","sportsmed","Sports Medicine",2,143,52,41290,11.11,2
+"Seaview","reiki","Reiki",2,143,66,41290,8.75,3
+"Seaview","kitchenandbath","Kitchen & Bath",2,143,84,41290,6.87,4
+"Seaview","weightlosscenters","Weight Loss Centers",2,143,88,41290,6.56,5
+"Seward Park","gardeners","Gardeners",1,91,3,41290,151.25,1
+"Seward Park","skillednursing","Skilled Nursing",1,91,4,41290,113.43,2
+"Seward Park","hometheatreinstallation","Home Theatre Installation",1,91,6,41290,75.62,3
+"Seward Park","landscaping","Landscaping",2,91,16,41290,56.72,4
+"Seward Park","diyfood","Do-It-Yourself Food",1,91,9,41290,50.42,5
+"South Beacon Hill","environmentaltesting","Environmental Testing",1,33,8,41290,156.4,1
+"South Beacon Hill","machinerental","Machine & Tool Rental",1,33,10,41290,125.12,2
+"South Beacon Hill","home_inspectors","Home Inspectors",1,33,11,41290,113.75,3
+"South Beacon Hill","partybusrentals","Party Bus Rentals",1,33,11,41290,113.75,4
+"South Beacon Hill","importedfood","Imported Food",1,33,13,41290,96.25,5
+"South Delridge","mobilephonerepair","Mobile Phone Repair",2,125,36,41290,18.35,1
+"South Delridge","notaries","Notaries",2,125,41,41290,16.11,2
+"South Delridge","highschools","Middle Schools & High Schools",2,125,95,41290,6.95,3
+"South Delridge","airport_shuttles","Airport Shuttles",2,125,119,41290,5.55,4
+"South Delridge","autorepair","Auto Repair",6,125,377,41290,5.26,5
+"South Lake Union","salad","Salad",11,956,98,41290,4.85,1
+"South Lake Union","mortgagebrokers","Mortgage Brokers",15,956,157,41290,4.13,2
+"South Lake Union","foodtrucks","Food Trucks",13,956,152,41290,3.69,3
+"South Lake Union","hotels","Hotels",14,956,166,41290,3.64,4
+"South Lake Union","hotels","Hotels",14,956,166,41290,3.64,4
+"South Lake Union","venues","Venues & Event Spaces",17,956,259,41290,2.83,5
+"South Park","bustours","Bus Tours",2,176,12,41290,39.1,1
+"South Park","metalfabricators","Metal Fabricators",6,176,42,41290,33.51,2
+"South Park","buses","Buses",3,176,30,41290,23.46,3
+"South Park","publictransport","Public Transportation",3,176,45,41290,15.64,4
+"South Park","bodyshops","Body Shops",4,176,77,41290,12.19,5
+"Sunset Hill","ivhydration","IV Hydration",2,105,3,41290,262.16,1
+"Sunset Hill","sailing","Sailing",2,105,5,41290,157.3,2
+"Sunset Hill","cuban","Cuban",2,105,9,41290,87.39,3
+"Sunset Hill","rafting","Rafting/Kayaking",2,105,12,41290,65.54,4
+"Sunset Hill","boating","Boating",4,105,45,41290,34.95,5
+"University District","collegeuniv","Colleges & Universities",27,1322,86,41290,9.81,1
+"University District","medcenters","Medical Centers",14,1322,188,41290,2.33,2
+"University District","theater","Performing Arts",20,1322,295,41290,2.12,3
+"University District","pizza","Pizza",15,1322,237,41290,1.98,4
+"University District","coffee","Coffee & Tea",29,1322,526,41290,1.72,5
+"Uptown","festivals","Festivals",24,785,99,41290,12.75,1
+"Uptown","accountants","Accountants",9,785,139,41290,3.41,2
+"Uptown","theater","Performing Arts",19,785,295,41290,3.39,3
+"Uptown","taxservices","Tax Services",10,785,165,41290,3.19,4
+"Uptown","personal_injury","Personal Injury Law",15,785,313,41290,2.52,5
+"Victory Heights","cabinetry","Cabinetry",5,367,26,41290,21.64,1
+"Victory Heights","car_dealers","Car Dealers",8,367,96,41290,9.38,2
+"Victory Heights","chiropractors","Chiropractors",14,367,284,41290,5.55,3
+"Victory Heights","djs","DJs",4,367,83,41290,5.42,4
+"Victory Heights","photographers","Photographers",12,367,303,41290,4.46,5
+"View Ridge","clowns","Clowns",1,41,4,41290,251.77,1
+"View Ridge","billingservices","Billing Services",1,41,6,41290,167.85,2
+"View Ridge","candy","Candy Stores",1,41,16,41290,62.94,3
+"View Ridge","specialed","Special Education",1,41,20,41290,50.35,4
+"View Ridge","cookingschools","Cooking Schools",1,41,26,41290,38.73,5
+"Wallingford","naturopathic","Naturopathic/Holistic",13,983,207,41290,2.64,1
+"Wallingford","realestatesvcs","Real Estate Services",21,983,339,41290,2.6,2
+"Wallingford","physicaltherapy","Physical Therapy",13,983,220,41290,2.48,3
+"Wallingford","hairstylists","Hair Stylists",11,983,186,41290,2.48,4
+"Wallingford","acupuncture","Acupuncture",21,983,403,41290,2.19,5
+"Waterfront","ferries","Ferries",5,215,6,41290,160.04,1
+"Waterfront","souvenirs","Souvenir Shops",4,215,13,41290,59.09,2
+"Waterfront","fishnchips","Fish & Chips",3,215,29,41290,19.87,3
+"Waterfront","seafood","Seafood",14,215,189,41290,14.23,4
+"Waterfront","localflavor","Local Flavor",3,215,45,41290,12.8,5
+"Wedgwood","musicians","Musicians",3,223,35,41290,15.87,1
+"Wedgwood","wedding_planning","Wedding Planning",4,223,113,41290,6.55,2
+"Wedgwood","pubs","Pubs",4,223,115,41290,6.44,3
+"Wedgwood","elementaryschools","Elementary Schools",6,223,184,41290,6.04,4
+"Wedgwood","highschools","Middle Schools & High Schools",3,223,95,41290,5.85,5
+"West Queen Anne","laundryservices","Laundry Services",5,404,110,41290,4.65,1
+"West Queen Anne","skincare","Skin Care",9,404,280,41290,3.29,2
+"West Queen Anne","massage_therapy","Massage Therapy",15,404,497,41290,3.08,3
+"West Queen Anne","homedecor","Home Decor",5,404,178,41290,2.87,4
+"West Queen Anne","hairstylists","Hair Stylists",5,404,186,41290,2.75,5
+"West Woodland","breweries","Breweries",7,487,70,41290,8.48,1
+"West Woodland","carpet_cleaning","Carpet Cleaning",7,487,141,41290,4.21,2
+"West Woodland","accountants","Accountants",6,487,139,41290,3.66,3
+"West Woodland","homeappliancerepair","Appliances & Repair",6,487,139,41290,3.66,4
+"West Woodland","copyshops","Printing Services",5,487,128,41290,3.31,5
+"Westlake","boating","Boating",9,597,45,41290,13.83,1
+"Westlake","radiostations","Radio Stations",9,597,64,41290,9.73,2
+"Westlake","mortgagebrokers","Mortgage Brokers",22,597,157,41290,9.69,3
+"Westlake","commercialrealestate","Commercial Real Estate",6,597,91,41290,4.56,4
+"Westlake","realestatesvcs","Real Estate Services",20,597,339,41290,4.08,5
+"Whittier Heights","pediatric_dentists","Pediatric Dentists",3,190,25,41290,26.08,1
+"Whittier Heights","karaoke","Karaoke",3,190,38,41290,17.16,2
+"Whittier Heights","naturopathic","Naturopathic/Holistic",6,190,207,41290,6.3,3
+"Whittier Heights","taxservices","Tax Services",4,190,165,41290,5.27,4
+"Whittier Heights","djs","DJs",2,190,83,41290,5.24,5
+"Windermere","artclasses","Art Classes",1,7,35,41290,168.53,1
+"Windermere","childcare","Child Care & Day Care",1,7,106,41290,55.65,2
+"Windermere","accountants","Accountants",1,7,139,41290,42.44,3
+"Windermere","elementaryschools","Elementary Schools",1,7,184,41290,32.06,4
+"Windermere","preschools","Preschools",1,7,232,41290,25.42,5
+"Woodland","zoos","Zoos",1,49,1,41290,842.65,1
+"Woodland","gardens","Botanical Gardens",2,49,14,41290,120.38,2
+"Woodland","food_court","Food Court",1,49,9,41290,93.63,3
+"Woodland","souvenirs","Souvenir Shops",1,49,13,41290,64.82,4
+"Woodland","comfortfood","Comfort Food",1,49,17,41290,49.57,5
+"Yesler Terrace","disabilitylaw","Disability Law",1,39,3,41290,352.91,1
+"Yesler Terrace","honey","Honey",1,39,3,41290,352.91,2
+"Yesler Terrace","billingservices","Billing Services",1,39,6,41290,176.45,3
+"Yesler Terrace","hookah_bars","Hookah Bars",1,39,11,41290,96.25,4
+"Yesler Terrace","recreation","Recreation Centers",1,39,20,41290,52.94,5
