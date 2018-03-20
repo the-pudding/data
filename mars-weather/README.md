@@ -22,12 +22,12 @@ Below you'll find metadata for each file.
 | `terrestrial_date` | The date on Earth (formatted as `month/day/year` or `m/dd/yy`). | date | 
 | `sol` | The number of elapsed sols (Martian days) since Curiosity landed on Mars. | number | 
 | `ls` | The solar longitude or the Mars-Sun angle, measured from the Northern Hemisphere. In the Northern Hemisphere, the spring equinox is when `ls = 0`. Since Curiosity is in the Southern Hemisphere, the following `ls` values are of importance: <br/>&bull; `ls = 0`: autumnal equinox <br/>&bull; `ls = 90` : winter solstice <br/>&bull; `ls = 180` : spring equinox <br/>&bull; `ls = 270` : summer solstice | number | 
-| `month` | The Martian Month. Similarly to Earth, Martian time can be divided into 12 months. Helpful information can be found [here](http://www-mars.lmd.jussieu.fr/mars/time/solar_longitude.html).| string | 
+| `month` | The Martian Month. Similarly to Earth, Martian time can be divided into 12 months. Helpful information can be found [here](http://www-mars.lmd.jussieu.fr/mars/time/solar_longitude.html).| text | 
 | `min_temp` | The minimum temperature (in °C) observed during a single Martian sol. | number | 
 | `max_temp` | The maximum temperature (in °C) observed during a single Martian sol. | number | 
 | `pressure` | The atmospheric pressure (Pa) in Curiosity's location on Mars.  | number | 
 | `wind_speed` | The average wind speed (m/s) measured in a single sol. *Note:* Wind Speed data has not be transmitted to Earth since Sol 1485. Missing values are coded as `NaN`.  | number |
-| `atmo_opacity` | Description of the overall weather conditions on Mars for a given sol based on atmospheric opacity (e.g., `Sunny`). | string | 
+| `atmo_opacity` | Description of the overall weather conditions on Mars for a given sol based on atmospheric opacity (e.g., `Sunny`). | text | 
 
 ## earthWeather.json
 
@@ -45,8 +45,8 @@ Below you'll find metadata for each file.
 |---|---|---|
 | `latitude` | The latitude of the city in decimal notation (e.g., `24.453884`) | number |
 | `longitude` | The longitude of the city in decimal notation (e.g., `54.3773438`) | number |
-| `City` | The name of the city. | string |
-| `Territory` | The name of the country (for non-US cities) or state (for US-cities) for each city (e.g., for the city `Seattle` the `Territory` is `Washington` but for the city `Paris` the `Territory` is `France`. | string |
+| `City` | The name of the city. | text |
+| `Territory` | The name of the country (for non-US cities) or state (for US-cities) for each city (e.g., for the city `Seattle` the `Territory` is `Washington` but for the city `Paris` the `Territory` is `France`. | text |
 | `dailySlice` | Nested information including 3 days worth of weather conditions for the city. See the below table for descriptions of the variables inside. | nested data |
 
 > *Data inside the `dailySlice` column* 
@@ -54,7 +54,7 @@ Below you'll find metadata for each file.
 | Header | Description | Data Type |
 |---|---|---|
 | `time` | The date (formatted as `year-month-day` or `YYYY-MM-DD`) | date |
-| `summary` | A text-description of the weather conditions for each day (e.g., `Mostly cloudy throughout the day`).  | string |
+| `summary` | A text-description of the weather conditions for each day (e.g., `Mostly cloudy throughout the day`).  | text |
 | `windSpeed` | The average wind-speed (miles per hour) for a given day. | number |
 | `windGust` | The maximum speed of wind gusts (miles per hour) for a given day. | number |
 | `pressure` | The atmospheric pressure in a city (mbar) | number |
