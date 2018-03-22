@@ -23,7 +23,7 @@ Below you'll find metadata for each file.
 | `timeStart` | start time of caption in seconds | number    |
 | `timeStop`  | start time of caption in seconds | number    |
 
-## ali-wong--captions.csv
+## ali-wong--topics.csv
 
 * **What is this?**: Data representing each topic in Ali Wong's routine.
 * **Source(s) & Methods**: Netflix caption files. Manually collected data by watching and entering data.
