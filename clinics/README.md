@@ -13,19 +13,19 @@ Below you'll find metadata for each file.
 * **Observations (Rows)**: Each row represents a single city and the driving duration to the nearest clinic at various stages of pregnancy.
 * **Variables (Columns)**:
 
-| Header                       | Description                                                    | Data Type             |
-| ---------------------------- | -------------------------------------------------------------- | --------------------- |
-| id                           | unique city id                                                 | text                  |
-| city                         | city name                                                      | text                  |
-| state                        | state name                                                     | text                  |
-| population                   | city population (2015)                                         | number                |
-| latitude                     | latitude                                                       | number                |
-| longitude                    | longitude                                                      | number                |
-| gestation_8_duration         | driving time in minutes (max 8 weeks)                          | number                |
-| gestation_8_duration_closed  | driving time in minutes if closest clinic closed (max 8 weeks) | number                |
-| gestation_12_duration        | driving time in minutes (max 12 weeks)                         | number                |
-| gestation_12_duration_closed | driving time in minutes if closest clinic closed               | number (max 12 weeks) |
-| gestation_16_duration        | driving time in minutes (max 16 weeks)                         | number                |
-| gestation_16_duration_closed | driving time in minutes if closest clinic closed               | number (max 16 weeks) |
-| gestation_20_duration        | driving time in minutes (20 weeks+)                            | number                |
-| gestation_20_duration_closed | driving time in minutes if closest clinic closed               | number (20 weeks+)    |
+| Header                       | Description                                                     | Data Type |
+| ---------------------------- | --------------------------------------------------------------- | --------- |
+| id                           | unique city id                                                  | text      |
+| city                         | city name                                                       | text      |
+| state                        | state name                                                      | text      |
+| population                   | city population (2015)                                          | number    |
+| latitude                     | latitude                                                        | number    |
+| longitude                    | longitude                                                       | number    |
+| gestation_8_duration         | driving time in minutes (max 8 weeks)                           | number    |
+| gestation_8_duration_closed  | driving time in minutes if closest clinic closed (max 8 weeks)  | number    |
+| gestation_12_duration        | driving time in minutes (max 12 weeks)                          | number    |
+| gestation_12_duration_closed | driving time in minutes if closest clinic closed (max 12 weeks) | number    |
+| gestation_16_duration        | driving time in minutes (max 16 weeks)                          | number    |
+| gestation_16_duration_closed | driving time in minutes if closest clinic closed (max 16 weeks) | number    |
+| gestation_20_duration        | driving time in minutes (20 weeks+)                             | number    |
+| gestation_20_duration_closed | driving time in minutes if closest clinic closed (20 weeks+)    | number    |
