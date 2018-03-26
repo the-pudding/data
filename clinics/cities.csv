@@ -1,0 +1,750 @@
+id,city,state,population,latitude,longitude,gestation_8_duration,gestation_8_duration_closed,gestation_12_duration,gestation_12_duration_closed,gestation_16_duration,gestation_16_duration_closed,gestation_20_duration,gestation_20_duration_closed
+new-york-new-york,New York,New York,8550405,40.712784,-74.005941,0,0,0,0,0,0,0,0
+los-angeles-california,Los Angeles,California,3971883,34.052234,-118.243685,0,0,0,0,0,0,0,0
+chicago-illinois,Chicago,Illinois,2720546,41.878114,-87.629798,0,0,0,0,0,0,0,0
+houston-texas,Houston,Texas,2296224,29.760427,-95.369803,0,0,0,0,0,0,0,4
+philadelphia-pennsylvania,Philadelphia,Pennsylvania,1567442,39.952584,-75.165222,0,0,0,0,0,0,0,0
+phoenix-arizona,Phoenix,Arizona,1563025,33.448377,-112.074037,0,0,0,0,0,0,0,0
+san-antonio-texas,San Antonio,Texas,1469845,29.424122,-98.493628,0,0,0,0,0,0,0,2
+san-diego-california,San Diego,California,1394928,32.715738,-117.161084,0,0,0,0,0,0,0,0
+dallas-texas,Dallas,Texas,1300092,32.776664,-96.796988,0,0,0,0,0,0,0,5
+san-jose-california,San Jose,California,1026908,37.338208,-121.886329,0,0,0,0,0,0,0,1
+austin-texas,Austin,Texas,931830,30.267153,-97.743061,0,0,0,0,0,0,0,2
+indianapolis-indiana,Indianapolis,Indiana,853173,39.768403,-86.158068,0,0,0,0,0,3,0,4
+jacksonville-florida,Jacksonville,Florida,868031,30.332184,-81.655651,0,0,0,0,0,0,0,0
+san-francisco-california,San Francisco,California,864816,37.774929,-122.419415,0,0,0,0,0,0,0,0
+columbus-ohio,Columbus,Ohio,850106,39.961176,-82.998794,0,0,0,0,0,0,2,4
+charlotte-north-carolina,Charlotte,North Carolina,827097,35.227087,-80.843127,0,0,0,0,0,0,0,2
+fort-worth-texas,Fort Worth,Texas,833319,32.755488,-97.330766,0,0,0,0,0,1,1,5
+detroit-michigan,Detroit,Michigan,677116,42.331427,-83.045754,0,0,0,0,0,0,0,0
+el-paso-texas,El Paso,Texas,681124,31.761878,-106.485022,0,0,0,0,7,7,7,12
+memphis-tennessee,Memphis,Tennessee,655770,35.149534,-90.048980,0,0,0,0,4,5,4,7
+seattle-washington,Seattle,Washington,684451,47.606209,-122.332071,0,0,0,0,0,0,0,0
+denver-colorado,Denver,Colorado,682545,39.739236,-104.990251,0,0,0,0,0,0,0,0
+washington-district-of-columbia,Washington,District of Columbia,672228,38.907192,-77.036871,0,0,0,0,0,0,0,0
+boston-massachusetts,Boston,Massachusetts,667137,42.360082,-71.058880,0,0,0,0,0,0,0,0
+nashville-davidson-tennessee,Nashville,Tennessee,654610,36.162664,-86.781602,0,0,0,0,0,3,3,7
+baltimore-maryland,Baltimore,Maryland,621849,39.290385,-76.612189,0,0,0,0,0,0,0,0
+oklahoma-city-oklahoma,Oklahoma City,Oklahoma,631346,35.467560,-97.516428,0,0,0,0,0,4,0,4
+louisville-jefferson-county-kentucky,Louisville,Kentucky,615366,38.252665,-85.758456,0,3,0,3,0,3,3,4
+portland-oregon,Portland,Oregon,632309,45.523062,-122.676481,0,0,0,0,0,4,0,4
+las-vegas-nevada,Las Vegas,Nevada,623747,36.169941,-115.139830,0,0,0,0,0,0,0,0
+milwaukee-wisconsin,Milwaukee,Wisconsin,600155,43.038902,-87.906474,0,0,0,0,0,0,0,2
+albuquerque-new-mexico,Albuquerque,New Mexico,559121,35.085334,-106.605553,0,0,0,0,0,0,0,12
+tucson-arizona,Tucson,Arizona,531641,32.221743,-110.926479,0,3,3,3,3,3,3,3
+fresno-california,Fresno,California,520052,36.746842,-119.772587,0,0,0,0,0,0,0,3
+sacramento-california,Sacramento,California,490712,38.581572,-121.494400,0,0,0,0,0,0,0,0
+long-beach-california,Long Beach,California,474140,33.770050,-118.193740,0,0,0,0,0,0,0,0
+kansas-city-missouri,Kansas City,Missouri,475378,39.099727,-94.578567,0,0,0,0,0,0,0,0
+mesa-arizona,Mesa,Arizona,471825,33.415184,-111.831472,0,0,0,0,0,0,0,1
+virginia-beach-virginia,Virginia Beach,Virginia,452745,36.852926,-75.977985,0,0,0,0,3,6,6,6
+atlanta-georgia,Atlanta,Georgia,463878,33.748995,-84.387982,0,0,0,0,0,0,0,0
+colorado-springs-colorado,Colorado Springs,Colorado,456568,38.833882,-104.821363,0,1,0,2,0,2,2,2
+omaha-nebraska,Omaha,Nebraska,443885,41.252363,-95.997988,0,0,0,0,0,0,0,5
+raleigh-north-carolina,Raleigh,North Carolina,451066,35.779590,-78.638179,0,0,0,0,0,0,0,1
+miami-florida,Miami,Florida,441003,25.761680,-80.191790,0,0,0,0,0,0,0,0
+oakland-california,Oakland,California,419267,37.804364,-122.271114,0,0,0,0,0,0,0,0
+minneapolis-minnesota,Minneapolis,Minnesota,410939,44.977753,-93.265011,0,0,0,0,0,0,0,0
+tulsa-oklahoma,Tulsa,Oklahoma,403505,36.153982,-95.992775,0,3,0,3,3,5,3,5
+cleveland-ohio,Cleveland,Ohio,388072,41.499320,-81.694361,0,0,0,0,0,1,0,5
+wichita-kansas,Wichita,Kansas,389965,37.687176,-97.330053,0,4,0,4,0,4,0,4
+arlington-texas,Arlington,Texas,388125,32.735687,-97.108066,0,0,0,0,0,1,1,6
+new-orleans-louisiana,New Orleans,Louisiana,389617,29.951066,-90.071532,0,2,0,2,0,2,8,10
+bakersfield-california,Bakersfield,California,373640,35.373292,-119.018713,0,3,0,3,0,3,0,2
+tampa-florida,Tampa,Florida,369075,27.950575,-82.457178,0,0,0,0,0,0,0,0
+aurora-colorado,Aurora,Colorado,359407,39.729432,-104.831919,0,0,0,0,0,0,0,0
+anaheim-california,Anaheim,California,350742,33.836593,-117.914301,0,0,0,0,0,0,0,0
+santa-ana-california,Santa Ana,California,335400,33.745472,-117.867653,0,0,0,0,0,0,0,0
+st--louis-missouri,St. Louis,Missouri,315685,38.627003,-90.199404,0,0,0,0,0,0,0,0
+riverside-california,Riverside,California,322424,33.953349,-117.396156,0,0,0,0,0,0,0,0
+corpus-christi-texas,Corpus Christi,Texas,324074,27.800583,-97.396381,3,4,3,4,3,4,4,6
+lexington-fayette-kentucky,Lexington,Kentucky,314488,38.040584,-84.503716,2,2,2,2,2,2,4,5
+pittsburgh-pennsylvania,Pittsburgh,Pennsylvania,304391,40.440625,-79.995886,0,0,0,0,0,0,4,7
+stockton-california,Stockton,California,305658,37.957702,-121.290780,0,0,0,1,0,1,1,1
+cincinnati-ohio,Cincinnati,Ohio,298550,39.103118,-84.512020,0,0,0,0,0,1,1,3
+st--paul-minnesota,St. Paul,Minnesota,300851,44.953703,-93.089958,0,0,0,0,0,0,0,0
+toledo-ohio,Toledo,Ohio,279789,41.663938,-83.555212,0,1,0,1,1,1,1,2
+greensboro-north-carolina,Greensboro,North Carolina,285342,36.072635,-79.791975,0,1,0,1,0,1,0,1
+newark-new-jersey,Newark,New Jersey,281944,40.735657,-74.172367,0,0,0,1,1,1,1,1
+plano-texas,Plano,Texas,283558,33.019843,-96.698886,0,0,0,0,0,0,0,6
+henderson-nevada,Henderson,Nevada,285667,36.039525,-114.981721,0,0,0,0,0,0,0,0
+lincoln-nebraska,Lincoln,Nebraska,277348,40.825763,-96.685198,0,1,0,1,0,1,2,6
+buffalo-new-york,Buffalo,New York,258071,42.886447,-78.878369,0,0,0,0,0,0,6,7
+jersey-city-new-jersey,Jersey City,New Jersey,264290,40.728157,-74.077642,0,0,0,1,1,1,1,1
+chula-vista-california,Chula Vista,California,265757,32.640054,-117.084196,0,0,0,0,0,0,0,0
+fort-wayne-indiana,Fort Wayne,Indiana,260326,41.079273,-85.139351,3,3,3,3,3,4,3,4
+orlando-florida,Orlando,Florida,270934,28.538335,-81.379237,0,0,0,0,0,0,0,0
+st--petersburg-florida,St. Petersburg,Florida,257083,27.751828,-82.626734,0,0,0,0,0,0,0,0
+chandler-arizona,Chandler,Arizona,260828,33.306160,-111.841250,0,1,0,1,0,1,1,1
+laredo-texas,Laredo,Texas,255473,27.530567,-99.480324,4,4,4,4,4,4,4,6
+norfolk-virginia,Norfolk,Virginia,246393,36.850769,-76.285873,0,0,0,0,3,6,6,6
+durham-north-carolina,Durham,North Carolina,257636,35.994033,-78.898619,0,0,0,0,0,0,0,0
+madison-wisconsin,Madison,Wisconsin,248951,43.073052,-89.401230,0,2,0,2,0,2,2,4
+lubbock-texas,Lubbock,Texas,249042,33.577863,-101.855166,8,9,8,9,8,9,10,10
+irvine-california,Irvine,California,256927,33.684567,-117.826505,0,0,0,0,0,0,0,0
+winston-salem-north-carolina,Winston-Salem,North Carolina,241218,36.099860,-80.244216,0,0,0,0,0,2,0,2
+glendale-arizona,Glendale,Arizona,240126,33.538652,-112.185987,0,0,0,0,0,0,0,1
+garland-texas,Garland,Texas,236897,32.912624,-96.638883,0,0,0,0,0,0,0,6
+hialeah-florida,Hialeah,Florida,237069,25.857596,-80.278106,0,0,0,0,0,0,0,0
+reno-nevada,Reno,Nevada,241445,39.529633,-119.813803,0,3,0,3,0,3,0,3
+chesapeake-virginia,Chesapeake,Virginia,235429,36.768209,-76.287493,0,0,0,0,3,5,5,6
+gilbert-arizona,Gilbert,Arizona,247542,33.352826,-111.789027,0,1,0,1,0,1,1,1
+baton-rouge-louisiana,Baton Rouge,Louisiana,228590,30.449240,-91.185607,0,2,0,2,0,2,7,10
+irving-texas,Irving,Texas,236607,32.814018,-96.948894,0,0,0,0,0,0,0,6
+scottsdale-arizona,Scottsdale,Arizona,236839,33.494170,-111.926052,0,0,0,0,0,0,0,0
+north-las-vegas-nevada,North Las Vegas,Nevada,234807,36.198859,-115.117501,0,0,0,0,0,0,0,0
+fremont-california,Fremont,California,232206,37.548270,-121.988572,0,0,0,0,0,1,1,1
+boise-city-idaho,Boise City,Idaho,218281,43.618710,-116.214607,0,0,0,8,8,10,10,11
+richmond-virginia,Richmond,Virginia,220289,37.540725,-77.436048,0,0,0,0,0,3,3,3
+san-bernardino-california,San Bernardino,California,216108,34.108345,-117.289765,0,0,0,0,0,0,0,0
+birmingham-alabama,Birmingham,Alabama,212461,33.520661,-86.802490,0,1,0,1,1,3,1,3
+spokane-washington,Spokane,Washington,213272,47.658780,-117.426046,0,0,0,4,0,4,6,8
+rochester-new-york,Rochester,New York,209802,43.161030,-77.610922,0,0,0,2,2,2,8,8
+des-moines-iowa,Des Moines,Iowa,210330,41.600545,-93.609106,0,1,0,3,0,3,3,4
+modesto-california,Modesto,California,211266,37.639097,-120.996878,0,0,0,1,0,1,0,2
+fayetteville-north-carolina,Fayetteville,North Carolina,201963,35.052664,-78.878358,0,0,0,0,0,2,0,2
+tacoma-washington,Tacoma,Washington,207948,47.252877,-122.444291,0,0,0,0,0,0,0,1
+oxnard-california,Oxnard,California,207254,34.197505,-119.177052,0,0,0,0,0,0,0,1
+fontana-california,Fontana,California,207460,34.092233,-117.435048,0,0,0,0,0,0,0,0
+columbus-georgia,Columbus,Georgia,200579,32.460976,-84.987709,0,2,0,2,3,3,3,3
+montgomery-alabama,Montgomery,Alabama,200602,32.366805,-86.299969,0,2,0,2,3,4,3,4
+moreno-valley-california,Moreno Valley,California,204198,33.942466,-117.229672,0,0,0,0,0,0,0,0
+shreveport-louisiana,Shreveport,Louisiana,197204,32.525152,-93.750179,0,5,0,5,0,5,5,6
+aurora-illinois,Aurora,Illinois,200661,41.760585,-88.320072,0,0,0,0,0,0,1,1
+yonkers-new-york,Yonkers,New York,201116,40.931210,-73.898747,0,0,0,0,0,0,0,0
+akron-ohio,Akron,Ohio,197542,41.081445,-81.519005,0,0,0,0,0,1,1,6
+huntington-beach-california,Huntington Beach,California,201899,33.659484,-117.998803,0,0,0,0,0,0,0,0
+little-rock-arkansas,Little Rock,Arkansas,197992,34.746481,-92.289595,0,0,0,4,0,6,0,9
+augusta-richmond-county-georgia,Augusta,Georgia,197182,33.473498,-82.010515,0,2,0,2,0,4,4,4
+amarillo-texas,Amarillo,Texas,198645,35.221997,-101.831297,7,7,7,8,7,8,7,8
+glendale-california,Glendale,California,201020,34.142508,-118.255075,0,0,0,0,0,0,0,0
+mobile-alabama,Mobile,Alabama,194288,30.695366,-88.039891,0,1,0,1,4,6,7,9
+grand-rapids-michigan,Grand Rapids,Michigan,195097,42.963360,-85.668086,0,0,0,1,0,1,0,2
+salt-lake-city-utah,Salt Lake City,Utah,192672,40.760779,-111.891047,0,0,0,0,0,11,0,11
+tallahassee-florida,Tallahassee,Florida,189907,30.438256,-84.280733,0,4,0,4,4,5,4,5
+huntsville-alabama,Huntsville,Alabama,190582,34.730369,-86.586104,0,3,0,3,0,3,0,4
+grand-prairie-texas,Grand Prairie,Texas,187809,32.745964,-96.997785,0,0,0,0,0,0,0,6
+knoxville-tennessee,Knoxville,Tennessee,185291,35.960638,-83.920739,0,0,0,3,5,6,6,6
+worcester-massachusetts,Worcester,Massachusetts,184815,42.262593,-71.802293,0,1,0,1,0,1,0,1
+newport-news-virginia,Newport News,Virginia,182385,37.087082,-76.473012,1,1,1,1,2,5,5,5
+brownsville-texas,Brownsville,Texas,183887,25.901747,-97.497484,2,7,2,7,2,7,8,10
+overland-park-kansas,Overland Park,Kansas,186515,38.982228,-94.670792,0,0,0,0,0,0,0,0
+santa-clarita-california,Santa Clarita,California,182371,34.391664,-118.542586,0,0,0,0,0,1,0,1
+providence-rhode-island,Providence,Rhode Island,179207,41.823989,-71.412834,0,0,0,0,0,0,0,0
+garden-grove-california,Garden Grove,California,175393,33.774269,-117.937995,0,0,0,0,0,0,0,0
+chattanooga-tennessee,Chattanooga,Tennessee,176588,35.045630,-85.309680,3,3,3,3,3,3,3,3
+oceanside-california,Oceanside,California,175691,33.195870,-117.379483,0,0,1,1,1,1,1,1
+jackson-mississippi,Jackson,Mississippi,170674,32.298757,-90.184810,0,5,0,5,0,5,5,8
+fort-lauderdale-florida,Fort Lauderdale,Florida,178590,26.122439,-80.137317,0,0,0,0,0,0,0,0
+santa-rosa-california,Santa Rosa,California,174972,38.440429,-122.714055,0,1,0,1,2,2,2,2
+rancho-cucamonga-california,Rancho Cucamonga,California,175236,34.839964,-115.967051,0,0,0,0,0,0,0,1
+port-st--lucie-florida,Port St. Lucie,Florida,179413,27.273049,-80.358226,0,0,0,1,0,1,1,2
+tempe-arizona,Tempe,Arizona,175826,33.425510,-111.940005,0,0,0,0,0,0,0,0
+ontario-california,Ontario,California,171214,34.063344,-117.650888,0,0,0,0,0,0,0,0
+vancouver-washington,Vancouver,Washington,172860,45.631840,-122.671606,0,0,0,0,0,4,0,4
+cape-coral-florida,Cape Coral,Florida,175229,26.562854,-81.949533,0,0,0,0,0,0,0,3
+sioux-falls-south-dakota,Sioux Falls,South Dakota,171544,43.544596,-96.731103,0,5,0,5,5,5,5,7
+springfield-missouri,Springfield,Missouri,166810,37.208957,-93.292299,4,5,5,5,5,5,5,5
+peoria-arizona,Peoria,Arizona,171237,33.580596,-112.237378,0,0,0,0,0,0,0,1
+pembroke-pines-florida,Pembroke Pines,Florida,166611,26.007765,-80.296256,0,0,0,0,0,0,0,0
+elk-grove-california,Elk Grove,California,166913,38.408799,-121.371618,0,0,0,0,0,0,0,1
+salem-oregon,Salem,Oregon,164549,44.942898,-123.035096,0,1,0,1,1,6,1,6
+lancaster-california,Lancaster,California,161103,34.686785,-118.154163,1,1,1,1,1,1,1,2
+corona-california,Corona,California,164226,33.875293,-117.566438,0,0,0,0,0,0,0,0
+eugene-oregon,Eugene,Oregon,163460,44.052069,-123.086754,0,2,0,2,3,7,3,7
+palmdale-california,Palmdale,California,158351,34.579434,-118.116461,1,1,1,1,1,1,1,1
+salinas-california,Salinas,California,157380,36.677737,-121.655501,0,0,0,1,0,1,1,3
+springfield-massachusetts,Springfield,Massachusetts,154341,42.101483,-72.589811,0,0,0,1,0,1,0,1
+pasadena-texas,Pasadena,Texas,153784,29.691063,-95.209101,0,0,0,0,0,0,0,5
+fort-collins-colorado,Fort Collins,Colorado,161175,40.585260,-105.084423,0,1,0,2,0,2,2,2
+hayward-california,Hayward,California,158289,37.668821,-122.080796,0,0,0,0,0,0,0,0
+pomona-california,Pomona,California,153266,34.055103,-117.749991,0,0,0,0,0,0,0,1
+cary-north-carolina,Cary,North Carolina,159769,35.791540,-78.781117,0,0,0,0,0,0,0,1
+rockford-illinois,Rockford,Illinois,148278,42.271131,-89.093995,2,2,2,2,2,2,2,2
+alexandria-virginia,Alexandria,Virginia,153511,38.804836,-77.046921,0,0,0,0,0,0,0,0
+escondido-california,Escondido,California,151451,33.119207,-117.086421,0,0,0,1,0,1,0,1
+mckinney-texas,McKinney,Texas,162898,33.197246,-96.639782,0,0,0,0,0,0,0,6
+kansas-city-kansas,Kansas City,Kansas,151306,39.114053,-94.627464,0,0,0,0,0,0,0,0
+joliet-illinois,Joliet,Illinois,147861,41.525031,-88.081725,0,1,0,1,0,1,1,1
+sunnyvale-california,Sunnyvale,California,151754,37.368830,-122.036350,0,0,0,0,0,0,0,1
+torrance-california,Torrance,California,148475,33.835849,-118.340629,0,0,0,0,0,0,0,0
+bridgeport-connecticut,Bridgeport,Connecticut,147629,41.186548,-73.195177,0,0,0,1,0,1,1,1
+lakewood-colorado,Lakewood,Colorado,152597,39.704709,-105.081373,0,0,0,0,0,0,0,0
+hollywood-florida,Hollywood,Florida,149728,26.011201,-80.149490,0,0,0,0,0,0,0,0
+paterson-new-jersey,Paterson,New Jersey,147754,40.916765,-74.171811,0,0,0,0,0,0,0,0
+naperville-illinois,Naperville,Illinois,147100,41.750839,-88.153535,0,0,0,0,0,0,1,1
+syracuse-new-york,Syracuse,New York,144142,43.048122,-76.147424,0,1,0,1,3,4,6,6
+mesquite-texas,Mesquite,Texas,144788,32.766796,-96.599159,0,0,0,0,0,0,0,6
+dayton-ohio,Dayton,Ohio,140599,39.758948,-84.191607,0,1,0,1,0,1,0,3
+savannah-georgia,Savannah,Georgia,145674,32.083541,-81.099834,0,3,0,3,0,4,4,4
+clarksville-tennessee,Clarksville,Tennessee,149176,36.529771,-87.359453,1,2,1,2,1,5,5,8
+orange-california,Orange,California,140992,33.787914,-117.853101,0,0,0,0,0,0,0,0
+pasadena-california,Pasadena,California,142250,34.147785,-118.144515,0,0,0,0,0,0,0,0
+fullerton-california,Fullerton,California,140847,33.870365,-117.924212,0,0,0,0,0,0,0,0
+killeen-texas,Killeen,Texas,140806,31.117119,-97.727796,1,2,1,2,1,2,2,4
+frisco-texas,Frisco,Texas,154407,33.150674,-96.823612,1,1,1,1,1,1,1,5
+hampton-virginia,Hampton,Virginia,136454,37.029869,-76.345222,0,0,0,1,2,5,5,5
+mcallen-texas,McAllen,Texas,140269,26.203407,-98.230012,0,6,0,6,0,6,7,9
+warren-michigan,Warren,Michigan,135358,42.514457,-83.014653,0,0,0,0,0,0,0,0
+bellevue-washington,Bellevue,Washington,139820,47.610150,-122.201516,0,0,0,0,0,0,0,0
+west-valley-city-utah,West Valley City,Utah,136208,40.691613,-112.001050,0,0,0,0,0,11,0,11
+columbia-south-carolina,Columbia,South Carolina,133803,34.000710,-81.034814,0,2,0,2,2,2,3,4
+olathe-kansas,Olathe,Kansas,134305,38.881396,-94.819128,0,0,0,0,0,0,0,0
+sterling-heights-michigan,Sterling Heights,Michigan,132052,42.580312,-83.030203,0,0,0,0,0,0,0,0
+new-haven-connecticut,New Haven,Connecticut,130322,41.308274,-72.927883,0,0,0,1,0,1,1,2
+miramar-florida,Miramar,Florida,137132,25.986076,-80.303560,0,0,0,0,0,0,0,0
+waco-texas,Waco,Texas,132356,31.549333,-97.146670,0,2,0,2,2,2,3,3
+thousand-oaks-california,Thousand Oaks,California,129339,34.170561,-118.837594,0,0,0,0,0,0,0,0
+cedar-rapids-iowa,Cedar Rapids,Iowa,130405,41.977880,-91.665623,1,1,1,1,1,1,1,7
+charleston-south-carolina,Charleston,South Carolina,132609,32.776475,-79.931051,0,3,0,3,4,5,6,6
+visalia-california,Visalia,California,130104,36.330228,-119.292058,1,1,1,1,1,1,1,2
+topeka-kansas,Topeka,Kansas,127265,39.055824,-95.689018,2,2,2,2,2,2,2,2
+elizabeth-new-jersey,Elizabeth,New Jersey,129007,40.663992,-74.210701,0,0,0,0,0,1,0,1
+gainesville-florida,Gainesville,Florida,130128,29.651634,-82.324826,0,0,0,0,0,1,0,1
+thornton-colorado,Thornton,Colorado,133451,39.868041,-104.971924,0,0,0,0,0,0,0,0
+roseville-california,Roseville,California,130269,38.752124,-121.288006,0,0,0,0,0,0,0,0
+carrollton-texas,Carrollton,Texas,133168,32.975642,-96.889964,0,0,0,0,0,0,0,6
+coral-springs-florida,Coral Springs,Florida,129485,26.271192,-80.270604,0,0,0,1,0,1,0,1
+stamford-connecticut,Stamford,Connecticut,128874,41.053430,-73.538734,0,0,0,0,0,0,0,1
+simi-valley-california,Simi Valley,California,126788,34.269447,-118.781482,0,0,0,0,0,0,0,0
+concord-california,Concord,California,128667,37.977978,-122.031073,0,0,0,0,0,0,0,0
+hartford-connecticut,Hartford,Connecticut,124006,41.763711,-72.685093,0,0,0,0,0,1,0,1
+kent-washington,Kent,Washington,126952,47.380933,-122.234843,0,0,0,0,0,0,0,0
+lafayette-louisiana,Lafayette,Louisiana,127657,30.224090,-92.019843,2,4,2,4,2,4,6,11
+midland-texas,Midland,Texas,132950,31.997346,-102.077915,8,8,8,8,8,9,9,9
+surprise-arizona,Surprise,Arizona,128422,33.629234,-112.367928,1,1,1,1,1,1,1,1
+denton-texas,Denton,Texas,131044,33.214841,-97.133068,1,1,1,1,1,1,1,5
+victorville-california,Victorville,California,122225,34.536218,-117.292764,0,1,1,1,1,1,1,1
+evansville-indiana,Evansville,Indiana,119943,37.971559,-87.571090,3,3,3,3,3,4,5,5
+santa-clara-california,Santa Clara,California,126215,37.354108,-121.955236,0,0,0,0,0,0,0,1
+abilene-texas,Abilene,Texas,121721,32.448736,-99.733144,4,4,4,4,4,5,5,7
+athens-clarke-county-georgia,Athens,Georgia,122604,33.951935,-83.357567,1,2,2,2,2,2,2,2
+vallejo-california,Vallejo,California,121253,38.104086,-122.256637,0,0,0,0,0,0,1,1
+allentown-pennsylvania,Allentown,Pennsylvania,120207,40.608430,-75.490183,0,0,0,0,0,0,0,0
+norman-oklahoma,Norman,Oklahoma,120284,35.222567,-97.439478,0,0,0,0,0,5,0,5
+beaumont-texas,Beaumont,Texas,118129,30.080174,-94.126556,2,2,2,2,2,2,2,7
+independence-missouri,Independence,Missouri,117255,39.091116,-94.415507,0,0,0,0,0,0,0,0
+murfreesboro-tennessee,Murfreesboro,Tennessee,126118,35.845621,-86.390270,1,1,1,1,1,3,3,6
+ann-arbor-michigan,Ann Arbor,Michigan,117070,42.280826,-83.743038,0,1,0,1,0,1,1,1
+springfield-illinois,Springfield,Illinois,116565,39.781721,-89.650148,0,1,0,2,0,2,2,2
+berkeley-california,Berkeley,California,120972,37.871593,-122.272747,0,0,0,0,0,0,0,0
+peoria-illinois,Peoria,Illinois,115070,40.693649,-89.588986,0,2,0,2,2,2,2,4
+provo-utah,Provo,Utah,115264,40.233844,-111.658534,1,1,1,1,1,10,1,10
+el-monte-california,El Monte,California,116732,34.068621,-118.027567,0,0,0,0,0,0,0,0
+columbia-missouri,Columbia,Missouri,119108,38.951705,-92.334072,3,4,3,4,3,4,3,4
+lansing-michigan,Lansing,Michigan,115056,42.732535,-84.555535,0,0,0,1,0,1,0,1
+fargo-north-dakota,Fargo,North Dakota,118523,46.877186,-96.789803,0,6,0,6,0,7,7,7
+downey-california,Downey,California,114219,33.940109,-118.133159,0,0,0,0,0,0,0,0
+costa-mesa-california,Costa Mesa,California,113204,33.641216,-117.918822,0,0,0,0,0,0,0,0
+wilmington-north-carolina,Wilmington,North Carolina,115933,34.225726,-77.944710,0,3,0,3,3,4,3,4
+arvada-colorado,Arvada,Colorado,115368,39.802764,-105.087484,0,0,0,0,0,0,0,0
+inglewood-california,Inglewood,California,111666,33.961680,-118.353131,0,0,0,0,0,0,0,0
+miami-gardens-florida,Miami Gardens,Florida,113187,25.942038,-80.245604,0,0,0,0,0,0,0,0
+carlsbad-california,Carlsbad,California,113453,33.158093,-117.350594,0,0,0,1,0,1,0,1
+westminster-colorado,Westminster,Colorado,113130,39.836653,-105.037205,0,0,0,0,0,0,0,0
+rochester-minnesota,Rochester,Minnesota,112225,44.012122,-92.480199,2,2,2,2,2,2,2,2
+odessa-texas,Odessa,Texas,118968,31.845682,-102.367643,8,8,8,8,8,9,9,10
+manchester-new-hampshire,Manchester,New Hampshire,110229,42.995640,-71.454789,0,0,0,0,1,1,1,1
+elgin-illinois,Elgin,Illinois,112111,42.035408,-88.282567,1,1,1,1,1,1,1,1
+west-jordan-utah,West Jordan,Utah,111946,40.609670,-111.939103,0,0,0,0,0,11,0,11
+round-rock-texas,Round Rock,Texas,115997,30.508255,-97.678896,0,0,0,0,0,0,0,3
+clearwater-florida,Clearwater,Florida,113003,27.965853,-82.800103,0,0,0,0,0,1,0,1
+waterbury-connecticut,Waterbury,Connecticut,108802,41.558152,-73.051496,0,0,1,1,1,1,1,1
+gresham-oregon,Gresham,Oregon,110553,45.500136,-122.430201,0,1,0,1,1,4,1,4
+fairfield-california,Fairfield,California,112970,38.249358,-122.039966,0,0,0,1,0,1,1,1
+billings-montana,Billings,Montana,110263,45.783286,-108.500690,0,0,0,7,0,10,0,15
+lowell-massachusetts,Lowell,Massachusetts,110699,42.633425,-71.316172,1,1,1,1,1,1,1,1
+san-buenaventura--ventura--california,San Buenaventura (Ventura),California,109708,34.274646,-119.229032,0,0,0,0,0,0,0,1
+pueblo-colorado,Pueblo,Colorado,109412,38.254447,-104.609141,1,3,1,3,1,3,3,3
+high-point-north-carolina,High Point,North Carolina,110268,35.955692,-80.005318,0,1,0,1,0,2,0,2
+west-covina-california,West Covina,California,108484,34.068621,-117.938953,0,0,0,0,0,0,0,0
+richmond-california,Richmond,California,109708,37.935758,-122.347749,0,0,0,0,0,0,0,0
+murrieta-california,Murrieta,California,109830,33.553914,-117.213923,0,1,0,1,0,1,0,1
+cambridge-massachusetts,Cambridge,Massachusetts,110402,42.373616,-71.109733,0,0,0,0,0,0,0,0
+antioch-california,Antioch,California,110542,38.004921,-121.805789,0,0,0,0,0,1,1,1
+temecula-california,Temecula,California,112011,33.493639,-117.148365,0,0,0,1,0,1,0,1
+norwalk-california,Norwalk,California,107140,33.902237,-118.081733,0,0,0,0,0,0,0,0
+centennial-colorado,Centennial,Colorado,109741,39.580745,-104.877173,0,0,0,0,0,0,0,0
+everett-washington,Everett,Washington,108010,47.978985,-122.202079,0,0,0,0,0,1,0,1
+palm-bay-florida,Palm Bay,Florida,107888,28.034462,-80.588665,1,2,1,2,1,2,2,2
+wichita-falls-texas,Wichita Falls,Texas,104710,33.913708,-98.493387,3,3,3,3,3,4,4,4
+green-bay-wisconsin,Green Bay,Wisconsin,105207,44.519159,-88.019826,3,3,3,3,3,3,3,8
+daly-city-california,Daly City,California,106562,37.687924,-122.470208,0,0,0,0,0,0,0,0
+burbank-california,Burbank,California,105319,34.180839,-118.308966,0,0,0,0,0,0,0,0
+richardson-texas,Richardson,Texas,110815,32.948333,-96.729852,0,0,0,0,0,0,0,6
+pompano-beach-florida,Pompano Beach,Florida,107762,26.237860,-80.124767,0,0,0,0,0,0,0,0
+north-charleston-south-carolina,North Charleston,South Carolina,108304,32.854620,-79.974810,0,3,0,3,4,5,6,6
+broken-arrow-oklahoma,Broken Arrow,Oklahoma,106563,36.060949,-95.797453,0,3,0,3,3,5,3,5
+boulder-colorado,Boulder,Colorado,107349,40.014986,-105.270546,0,0,0,0,0,1,0,1
+west-palm-beach-florida,West Palm Beach,Florida,106779,26.715342,-80.053375,0,0,0,0,0,1,0,1
+santa-maria-california,Santa Maria,California,105093,34.953034,-120.435719,0,1,1,2,1,2,3,4
+el-cajon-california,El Cajon,California,103679,32.794773,-116.962527,0,0,0,0,0,0,0,0
+davenport-iowa,Davenport,Iowa,102582,41.523644,-90.577637,0,2,2,2,2,2,2,5
+rialto-california,Rialto,California,103132,34.106400,-117.370323,0,0,0,0,0,0,0,0
+las-cruces-new-mexico,Las Cruces,New Mexico,101643,32.319940,-106.763654,1,1,1,1,6,6,6,11
+san-mateo-california,San Mateo,California,103536,37.562992,-122.325525,0,0,0,0,1,1,1,1
+lewisville-texas,Lewisville,Texas,104039,33.046233,-96.994174,0,0,0,0,0,0,0,5
+south-bend-indiana,South Bend,Indiana,101516,41.676355,-86.251990,2,2,2,2,2,3,3,3
+lakeland-florida,Lakeland,Florida,104401,28.039465,-81.949804,0,1,0,1,0,1,0,1
+erie-pennsylvania,Erie,Pennsylvania,99475,42.129224,-80.085059,3,3,3,3,3,3,3,8
+tyler-texas,Tyler,Texas,103700,32.351260,-95.301062,3,3,3,3,3,3,3,6
+pearland-texas,Pearland,Texas,108821,29.563567,-95.286047,0,0,0,0,0,0,0,5
+college-station-texas,College Station,Texas,107889,30.627977,-96.334407,2,2,2,2,3,3,3,3
+kenosha-wisconsin,Kenosha,Wisconsin,99858,42.584742,-87.821185,1,1,1,1,1,1,1,1
+sandy-springs-georgia,Sandy Springs,Georgia,105330,33.930435,-84.373315,0,0,0,0,0,0,0,0
+clovis-california,Clovis,California,104180,36.825228,-119.702919,0,0,0,0,0,0,0,3
+flint-michigan,Flint,Michigan,98310,43.012527,-83.687456,0,0,0,0,0,1,0,1
+roanoke-virginia,Roanoke,Virginia,99897,37.270970,-79.941427,0,3,0,3,4,5,4,5
+albany-new-york,Albany,New York,98469,42.652579,-73.756232,0,0,0,0,0,2,2,3
+jurupa-valley-california,Jurupa Valley,California,100314,33.997197,-117.485480,0,0,0,0,0,0,0,0
+compton-california,Compton,California,98462,33.895849,-118.220071,0,0,0,0,0,0,0,0
+san-angelo-texas,San Angelo,Texas,100450,31.463772,-100.437038,6,6,6,6,6,6,6,6
+hillsboro-oregon,Hillsboro,Oregon,102347,45.522894,-122.989827,0,0,1,1,1,5,1,5
+lawton-oklahoma,Lawton,Oklahoma,96655,34.603567,-98.395929,2,2,2,2,2,5,2,5
+renton-washington,Renton,Washington,100242,47.482878,-122.217066,0,0,0,0,0,0,0,0
+vista-california,Vista,California,100890,33.200037,-117.242536,0,0,1,1,1,1,1,1
+davie-florida,Davie,Florida,100882,26.076478,-80.252116,0,0,0,0,0,0,0,0
+greeley-colorado,Greeley,Colorado,100883,40.423314,-104.709132,0,1,1,2,1,2,2,2
+mission-viejo-california,Mission Viejo,California,97156,33.596891,-117.658156,0,0,0,0,0,0,0,0
+portsmouth-virginia,Portsmouth,Virginia,96201,36.835426,-76.298274,0,0,0,0,3,6,6,6
+dearborn-michigan,Dearborn,Michigan,95171,42.322260,-83.176314,0,0,0,0,0,0,0,0
+south-gate-california,South Gate,California,96401,33.954737,-118.212016,0,0,0,0,0,0,0,0
+tuscaloosa-alabama,Tuscaloosa,Alabama,98332,33.209841,-87.569173,0,1,0,1,0,4,0,4
+livonia-michigan,Livonia,Michigan,94635,42.368370,-83.352710,0,0,0,0,0,0,0,0
+new-bedford-massachusetts,New Bedford,Massachusetts,94958,41.636215,-70.934205,1,1,1,1,1,1,1,1
+vacaville-california,Vacaville,California,96803,38.356577,-121.987744,0,0,0,1,0,1,1,1
+brockton-massachusetts,Brockton,Massachusetts,95314,42.083433,-71.018379,1,1,1,1,1,1,1,1
+roswell-georgia,Roswell,Georgia,94501,34.023243,-84.361555,0,0,0,0,0,0,0,0
+beaverton-oregon,Beaverton,Oregon,96577,45.487062,-122.803710,0,0,0,0,0,4,0,4
+quincy-massachusetts,Quincy,Massachusetts,93618,42.252877,-71.002270,1,1,1,1,1,1,1,1
+sparks-nevada,Sparks,Nevada,96094,39.534911,-119.752689,0,3,0,3,0,3,0,3
+yakima-washington,Yakima,Washington,93701,46.602071,-120.505899,0,2,0,2,0,2,0,4
+lee-s-summit-missouri,Lee's Summit,Missouri,95094,38.910841,-94.382172,0,0,0,0,0,0,0,0
+federal-way-washington,Federal Way,Washington,95171,47.322322,-122.312622,0,0,0,0,0,0,0,0
+carson-california,Carson,California,93281,33.831674,-118.281693,0,0,0,0,0,0,0,0
+santa-monica-california,Santa Monica,California,93220,34.019454,-118.491191,0,0,0,0,0,0,0,0
+hesperia-california,Hesperia,California,93295,34.426389,-117.300878,0,1,1,1,1,1,1,1
+allen-texas,Allen,Texas,98143,33.103174,-96.670550,0,0,0,0,0,0,0,6
+rio-rancho-new-mexico,Rio Rancho,New Mexico,94171,35.232754,-106.663044,0,0,0,0,0,0,0,12
+yuma-arizona,Yuma,Arizona,94139,32.692651,-114.627692,3,5,3,5,3,5,3,5
+westminster-california,Westminster,California,92114,33.759176,-117.989706,0,0,0,0,0,0,0,0
+orem-utah,Orem,Utah,94457,40.296898,-111.694648,1,1,1,1,1,10,1,10
+lynn-massachusetts,Lynn,Massachusetts,92457,42.466763,-70.949494,0,1,0,1,0,1,0,1
+redding-california,Redding,California,91582,40.586540,-122.391675,0,0,0,2,0,2,5,5
+spokane-valley-washington,Spokane Valley,Washington,94919,47.673228,-117.239375,0,0,0,4,0,4,6,8
+miami-beach-florida,Miami Beach,Florida,92312,25.790654,-80.130045,0,0,0,0,0,0,0,0
+league-city-texas,League City,Texas,98312,29.507454,-95.094930,0,0,0,0,0,0,0,5
+lawrence-kansas,Lawrence,Kansas,93917,38.971669,-95.235250,1,1,1,1,1,1,1,1
+santa-barbara-california,Santa Barbara,California,91842,34.420831,-119.698190,0,1,0,1,0,1,1,2
+plantation-florida,Plantation,Florida,92560,26.127586,-80.233104,0,0,0,0,0,0,0,0
+sandy-utah,Sandy,Utah,93613,40.564978,-111.838973,0,1,0,1,1,11,1,11
+sunrise-florida,Sunrise,Florida,92700,26.166971,-80.256595,0,0,0,0,0,0,0,0
+macon-georgia,Macon,Georgia,153515,32.840695,-83.632402,2,2,2,2,2,2,2,3
+longmont-colorado,Longmont,Colorado,92088,40.167207,-105.101928,0,0,0,0,0,1,0,1
+boca-raton-florida,Boca Raton,Florida,93235,26.368306,-80.128932,0,0,0,0,0,0,0,0
+san-marcos-california,San Marcos,California,92931,33.143372,-117.166145,0,0,0,1,0,1,0,1
+greenville-north-carolina,Greenville,North Carolina,90597,35.612661,-77.366354,2,2,2,2,2,2,2,3
+waukegan-illinois,Waukegan,Illinois,88475,42.363633,-87.844794,1,1,1,1,1,1,1,1
+fall-river-massachusetts,Fall River,Massachusetts,88777,41.701491,-71.155045,0,0,0,0,0,0,0,1
+chico-california,Chico,California,90316,39.728494,-121.837478,0,0,0,0,0,0,3,3
+newton-massachusetts,Newton,Massachusetts,88817,42.337041,-71.209221,0,0,0,0,0,0,0,0
+san-leandro-california,San Leandro,California,90712,37.724930,-122.156077,0,0,0,0,0,0,0,0
+reading-pennsylvania,Reading,Pennsylvania,87879,40.335648,-75.926875,0,1,0,1,2,2,2,2
+norwalk-connecticut,Norwalk,Connecticut,88485,41.117744,-73.408158,0,0,0,1,0,1,0,1
+fort-smith-arkansas,Fort Smith,Arkansas,88194,35.385924,-94.398547,2,3,3,4,4,5,4,5
+newport-beach-california,Newport Beach,California,87127,33.618883,-117.929849,0,0,0,0,0,0,0,0
+asheville-north-carolina,Asheville,North Carolina,88512,35.595058,-82.551487,0,2,0,2,4,4,4,5
+nashua-new-hampshire,Nashua,New Hampshire,87970,42.765366,-71.467566,0,0,0,1,1,1,1,1
+edmond-oklahoma,Edmond,Oklahoma,90092,35.652832,-97.478095,0,0,0,1,0,4,0,4
+whittier-california,Whittier,California,87438,33.979179,-118.032844,0,0,0,0,0,0,0,1
+nampa-idaho,Nampa,Idaho,89839,43.540717,-116.563462,0,1,0,8,8,10,10,11
+bloomington-minnesota,Bloomington,Minnesota,86435,44.840798,-93.298280,0,0,0,0,0,0,0,0
+deltona-florida,Deltona,Florida,88474,28.900545,-81.263674,0,0,0,0,0,0,0,0
+hawthorne-california,Hawthorne,California,88451,33.916403,-118.352575,0,0,0,0,0,0,0,0
+duluth-minnesota,Duluth,Minnesota,86110,46.786672,-92.100485,0,4,0,4,4,4,4,4
+carmel-indiana,Carmel,Indiana,88713,39.978371,-86.118043,0,0,0,0,0,3,0,4
+suffolk-virginia,Suffolk,Virginia,88161,36.728205,-76.583562,1,1,1,1,3,5,5,5
+clifton-new-jersey,Clifton,New Jersey,86334,40.858433,-74.163755,0,0,0,0,0,0,0,0
+citrus-heights-california,Citrus Heights,California,87056,38.707125,-121.281061,0,0,0,0,0,0,0,0
+livermore-california,Livermore,California,88126,37.681874,-121.768009,0,0,1,1,1,1,1,1
+tracy-california,Tracy,California,87075,37.739651,-121.425223,0,0,0,1,0,1,1,1
+alhambra-california,Alhambra,California,85551,34.095287,-118.127015,0,0,0,0,0,0,0,0
+kirkland-washington,Kirkland,Washington,87281,47.676893,-122.205983,0,0,0,0,0,0,0,0
+trenton-new-jersey,Trenton,New Jersey,84225,40.217053,-74.742938,0,0,0,0,0,1,1,1
+ogden-utah,Ogden,Utah,85444,41.223000,-111.973830,1,1,1,1,1,13,1,12
+hoover-alabama,Hoover,Alabama,84848,33.405387,-86.811378,0,1,0,1,1,3,1,3
+cicero-illinois,Cicero,Illinois,83886,41.845588,-87.753945,0,0,0,0,0,0,0,0
+fishers-indiana,Fishers,Indiana,88658,39.956755,-86.013350,0,0,0,0,0,3,0,4
+sugar-land-texas,Sugar Land,Texas,88156,29.619679,-95.634946,0,0,0,0,0,0,0,4
+danbury-connecticut,Danbury,Connecticut,84657,41.394817,-73.454011,0,0,1,1,1,1,1,1
+meridian-idaho,Meridian,Idaho,90739,43.612109,-116.391513,0,0,0,8,8,10,10,11
+indio-california,Indio,California,87533,33.720577,-116.215562,0,2,0,2,2,2,2,2
+concord-north-carolina,Concord,North Carolina,87696,35.408752,-80.579511,1,1,1,1,1,1,1,2
+menifee-california,Menifee,California,87174,33.697147,-117.185294,0,0,0,1,0,1,0,1
+champaign-illinois,Champaign,Illinois,86096,40.116420,-88.243383,0,0,0,2,0,2,0,4
+buena-park-california,Buena Park,California,83270,33.867404,-117.998139,0,0,0,0,0,0,0,0
+troy-michigan,Troy,Michigan,83280,42.606409,-83.149775,0,0,0,0,0,0,0,0
+o-fallon-missouri,O'Fallon,Missouri,85040,38.810608,-90.699848,1,1,1,1,1,1,1,1
+johns-creek-georgia,Johns Creek,Georgia,83335,34.028926,-84.198579,0,0,0,1,1,1,1,1
+bellingham-washington,Bellingham,Washington,85146,48.751911,-122.478685,0,1,0,1,2,3,2,3
+westland-michigan,Westland,Michigan,82000,42.324204,-83.400211,0,0,0,0,0,0,0,0
+bloomington-indiana,Bloomington,Indiana,84067,39.165325,-86.526386,0,2,0,2,2,3,2,5
+sioux-city-iowa,Sioux City,Iowa,82821,42.499994,-96.400307,2,2,2,3,3,3,3,8
+warwick-rhode-island,Warwick,Rhode Island,81699,41.700101,-71.416167,0,0,0,0,0,0,0,1
+hemet-california,Hemet,California,83861,33.747520,-116.971968,0,1,1,1,1,1,1,1
+longview-texas,Longview,Texas,82287,32.500704,-94.740489,2,3,2,3,2,3,3,6
+farmington-hills-michigan,Farmington Hills,Michigan,81330,42.498994,-83.367717,0,0,0,0,0,0,0,0
+bend-oregon,Bend,Oregon,87014,44.058173,-121.315310,0,4,0,4,6,8,6,8
+lakewood-california,Lakewood,California,81611,33.853627,-118.133956,0,0,0,0,0,0,0,0
+merced-california,Merced,California,82436,37.302163,-120.482968,1,1,1,1,1,1,1,1
+mission-texas,Mission,Texas,83298,26.215907,-98.325293,0,7,0,7,0,7,7,9
+chino-california,Chino,California,85595,34.012235,-117.688944,0,0,0,0,0,0,0,0
+redwood-city-california,Redwood City,California,85288,37.485215,-122.236355,0,0,0,0,0,1,1,1
+edinburg-texas,Edinburg,Texas,84497,26.301737,-98.163343,0,6,0,6,0,6,7,8
+cranston-rhode-island,Cranston,Rhode Island,81073,41.779823,-71.437280,0,0,0,0,0,0,0,0
+parma-ohio,Parma,Ohio,79937,41.404774,-81.722909,0,0,0,0,0,1,0,5
+lake-forest-california,Lake Forest,California,82492,33.646944,-117.686102,0,0,0,0,0,0,0,0
+napa-california,Napa,California,80434,38.297538,-122.286865,0,0,0,1,0,1,1,1
+hammond-indiana,Hammond,Indiana,77614,41.583369,-87.500041,0,0,0,0,0,0,0,1
+fayetteville-arkansas,Fayetteville,Arkansas,82830,36.082156,-94.171854,0,3,3,5,5,7,5,7
+bloomington-illinois,Bloomington,Illinois,78292,40.484203,-88.993687,1,1,1,1,1,2,1,4
+avondale-arizona,Avondale,Arizona,80684,33.435598,-112.349602,0,0,0,0,0,0,0,1
+somerville-massachusetts,Somerville,Massachusetts,80318,42.387597,-71.099497,0,0,0,0,0,0,0,0
+palm-coast-florida,Palm Coast,Florida,82893,29.584452,-81.207870,1,1,1,1,1,1,1,1
+bryan-texas,Bryan,Texas,82118,30.674364,-96.369963,2,3,2,3,3,3,3,3
+gary-indiana,Gary,Indiana,77156,41.593370,-87.346427,0,1,0,1,1,1,1,1
+largo-florida,Largo,Florida,81000,27.909467,-82.787324,0,0,0,0,0,1,0,1
+brooklyn-park-minnesota,Brooklyn Park,Minnesota,79149,45.094132,-93.356341,0,0,0,0,0,0,0,0
+tustin-california,Tustin,California,80583,33.742001,-117.823639,0,0,0,0,0,0,0,0
+racine-wisconsin,Racine,Wisconsin,77742,42.726131,-87.782852,1,1,1,1,1,1,1,2
+deerfield-beach-florida,Deerfield Beach,Florida,79768,26.318412,-80.099766,0,0,0,0,0,0,0,0
+lynchburg-virginia,Lynchburg,Virginia,79812,37.413754,-79.142246,2,2,2,2,4,4,4,4
+mountain-view-california,Mountain View,California,80435,37.386052,-122.083851,0,0,0,0,0,0,0,1
+medford-oregon,Medford,Oregon,79805,42.326515,-122.875595,0,5,5,5,5,7,8,9
+lawrence-massachusetts,Lawrence,Massachusetts,80231,42.707035,-71.163114,0,1,0,1,0,1,0,1
+bellflower-california,Bellflower,California,78441,33.881682,-118.117012,0,0,0,0,0,0,0,0
+melbourne-florida,Melbourne,Florida,80127,28.083627,-80.608109,2,2,2,2,2,2,2,2
+st--joseph-missouri,St. Joseph,Missouri,76596,39.767458,-94.846681,2,2,2,2,2,2,2,2
+camden-new-jersey,Camden,New Jersey,76119,39.925946,-75.119620,0,0,0,0,0,0,0,0
+st--george-utah,St. George,Utah,80202,37.096528,-113.568416,3,3,3,3,3,3,3,3
+kennewick-washington,Kennewick,Washington,78896,46.211246,-119.137234,0,1,0,3,0,3,3,7
+baldwin-park-california,Baldwin Park,California,77071,34.085287,-117.960898,0,0,0,0,0,0,0,0
+chino-hills-california,Chino Hills,California,78309,33.989819,-117.732585,0,0,0,0,0,0,0,0
+alameda-california,Alameda,California,78630,37.765206,-122.241636,0,0,0,0,0,0,0,0
+albany-georgia,Albany,Georgia,74843,31.578507,-84.155741,3,3,3,3,5,5,5,6
+arlington-heights-illinois,Arlington Heights,Illinois,75926,42.088360,-87.980627,0,0,0,0,0,0,0,0
+scranton-pennsylvania,Scranton,Pennsylvania,77118,41.408969,-75.662412,2,2,2,2,2,2,2,2
+evanston-illinois,Evanston,Illinois,75527,42.045072,-87.687697,0,0,0,0,0,0,0,0
+kalamazoo-michigan,Kalamazoo,Michigan,76041,42.291707,-85.587229,0,1,0,1,0,1,1,2
+baytown-texas,Baytown,Texas,76335,29.735505,-94.977427,0,1,0,1,0,1,0,5
+upland-california,Upland,California,76443,34.097510,-117.648388,0,0,0,0,0,0,0,0
+springdale-arkansas,Springdale,Arkansas,77859,36.186744,-94.128814,0,3,3,5,5,6,5,6
+bethlehem-pennsylvania,Bethlehem,Pennsylvania,74892,40.625932,-75.370458,0,0,0,0,0,0,0,0
+schaumburg-illinois,Schaumburg,Illinois,74693,42.033361,-88.083406,0,0,0,0,0,0,0,0
+mount-pleasant-south-carolina,Mount Pleasant,South Carolina,81317,32.832322,-79.828426,0,3,0,3,4,5,6,6
+auburn-washington,Auburn,Washington,77006,47.307323,-122.228453,0,0,0,0,0,0,0,0
+decatur-illinois,Decatur,Illinois,73254,39.840315,-88.954800,0,1,1,1,1,1,1,4
+san-ramon-california,San Ramon,California,76134,37.779927,-121.978015,0,0,0,0,0,0,0,1
+pleasanton-california,Pleasanton,California,79510,37.662431,-121.874679,0,0,0,0,1,1,1,1
+wyoming-michigan,Wyoming,Michigan,75275,42.913360,-85.705309,0,0,0,1,0,1,0,2
+lake-charles-louisiana,Lake Charles,Louisiana,76070,30.226595,-93.217376,4,4,4,4,4,4,4,9
+plymouth-minnesota,Plymouth,Minnesota,75907,45.010519,-93.455509,0,0,0,0,0,0,0,0
+bolingbrook-illinois,Bolingbrook,Illinois,74306,41.698642,-88.068395,0,0,0,0,0,0,1,1
+pharr-texas,Pharr,Texas,76538,26.194796,-98.183622,0,6,0,6,0,6,7,9
+appleton-wisconsin,Appleton,Wisconsin,74139,44.261931,-88.415385,3,3,3,3,3,3,3,5
+gastonia-north-carolina,Gastonia,North Carolina,74543,35.262082,-81.187300,0,1,0,1,0,1,1,3
+folsom-california,Folsom,California,76375,38.677959,-121.176058,0,0,0,0,0,0,0,0
+southfield-michigan,Southfield,Michigan,73156,42.473369,-83.221873,0,0,0,0,0,0,0,0
+rochester-hills-michigan,Rochester Hills,Michigan,73424,42.658366,-83.149932,0,0,0,0,0,0,0,0
+new-britain-connecticut,New Britain,Connecticut,72808,41.661210,-72.779542,0,0,0,0,0,1,0,1
+goodyear-arizona,Goodyear,Arizona,79003,33.435339,-112.357657,0,0,0,0,0,0,0,1
+canton-ohio,Canton,Ohio,71885,40.798947,-81.378447,0,1,0,1,0,2,2,7
+warner-robins-georgia,Warner Robins,Georgia,73490,32.613001,-83.624201,3,3,3,3,3,3,3,3
+union-city-california,Union City,California,74494,37.593392,-122.043830,0,0,0,0,0,0,0,0
+perris-california,Perris,California,74971,33.782519,-117.228648,0,0,0,0,0,0,0,0
+manteca-california,Manteca,California,75448,37.797427,-121.216053,0,0,0,0,0,0,0,2
+iowa-city-iowa,Iowa City,Iowa,74220,41.661128,-91.530168,0,0,0,0,0,0,0,6
+jonesboro-arkansas,Jonesboro,Arkansas,73907,35.842297,-90.704279,2,2,2,2,4,7,4,7
+wilmington-delaware,Wilmington,Delaware,71948,39.739072,-75.539788,0,0,0,1,1,1,1,1
+lynwood-california,Lynwood,California,71989,33.930293,-118.211460,0,0,0,0,0,0,0,0
+loveland-colorado,Loveland,Colorado,75182,40.397761,-105.074980,0,0,0,1,0,1,1,1
+pawtucket-rhode-island,Pawtucket,Rhode Island,71591,41.878711,-71.382556,0,0,0,0,0,0,0,0
+boynton-beach-florida,Boynton Beach,Florida,73966,26.531787,-80.090547,0,0,0,0,0,0,0,0
+waukesha-wisconsin,Waukesha,Wisconsin,71970,43.011678,-88.231481,0,0,0,0,0,0,0,2
+gulfport-mississippi,Gulfport,Mississippi,71856,30.367420,-89.092816,2,2,2,2,2,4,7,11
+apple-valley-california,Apple Valley,California,72174,34.500831,-117.185876,0,1,1,1,1,1,1,1
+passaic-new-jersey,Passaic,New Jersey,71085,40.856766,-74.128476,0,0,0,0,0,0,0,0
+rapid-city-south-dakota,Rapid City,South Dakota,73569,44.080543,-103.231015,9,10,9,10,10,10,10,11
+layton-utah,Layton,Utah,74143,41.060222,-111.971053,0,1,0,1,1,13,1,12
+lafayette-indiana,Lafayette,Indiana,71111,40.416702,-86.875287,0,1,1,2,2,3,2,3
+turlock-california,Turlock,California,72292,37.494657,-120.846594,0,0,0,1,0,1,0,2
+muncie-indiana,Muncie,Indiana,70087,40.193377,-85.386360,2,2,2,2,2,3,2,3
+temple-texas,Temple,Texas,72277,31.098234,-97.342782,1,1,1,1,1,2,2,4
+missouri-city-texas,Missouri City,Texas,74139,29.618567,-95.537722,0,0,0,0,0,0,0,4
+redlands-california,Redlands,California,71035,34.055569,-117.182538,0,0,0,0,0,0,0,0
+santa-fe-new-mexico,Santa Fe,New Mexico,84099,35.686975,-105.937799,0,2,2,2,2,2,2,11
+lauderhill-florida,Lauderhill,Florida,71579,26.140363,-80.213381,0,0,0,0,0,0,0,0
+milpitas-california,Milpitas,California,77604,37.432334,-121.899574,0,0,0,0,0,0,0,1
+palatine-illinois,Palatine,Illinois,69308,42.110304,-88.034240,0,0,0,0,0,0,0,0
+missoula-montana,Missoula,Montana,71022,46.878718,-113.996586,0,3,0,3,0,6,10,12
+rock-hill-south-carolina,Rock Hill,South Carolina,71548,34.924867,-81.025078,0,1,0,1,0,1,1,3
+jacksonville-north-carolina,Jacksonville,North Carolina,67357,34.754052,-77.430241,2,3,2,3,3,4,3,4
+franklin-tennessee,Franklin,Tennessee,72639,35.925064,-86.868890,0,0,0,0,0,3,3,6
+flagstaff-arizona,Flagstaff,Arizona,70320,35.198284,-111.651302,0,4,4,4,4,4,4,4
+flower-mound-texas,Flower Mound,Texas,71253,33.014567,-97.096955,1,1,1,1,1,1,1,5
+weston-florida,Weston,Florida,69959,26.100365,-80.399775,0,1,0,1,0,1,0,1
+waterloo-iowa,Waterloo,Iowa,68460,42.492786,-92.342577,0,2,2,2,2,2,2,6
+union-city-new-jersey,Union City,New Jersey,69156,40.779545,-74.023751,0,0,0,0,0,0,0,0
+fort-myers-florida,Fort Myers,Florida,74013,26.640628,-81.872308,0,0,0,0,0,0,0,2
+dothan-alabama,Dothan,Alabama,68567,31.223231,-85.390489,3,3,3,3,6,6,6,7
+rancho-cordova-california,Rancho Cordova,California,71017,38.589072,-121.302728,0,0,0,0,0,0,0,0
+redondo-beach-california,Redondo Beach,California,68166,33.849182,-118.388408,0,0,0,0,0,0,0,0
+jackson-tennessee,Jackson,Tennessee,66975,35.614517,-88.813947,2,2,2,2,3,6,6,7
+pasco-washington,Pasco,Washington,69451,46.239579,-119.100566,0,1,0,3,0,3,3,7
+st--charles-missouri,St. Charles,Missouri,68796,38.788106,-90.497436,1,1,1,1,1,1,1,1
+eau-claire-wisconsin,Eau Claire,Wisconsin,67778,44.811349,-91.498494,2,2,2,2,2,2,2,2
+north-richland-hills-texas,North Richland Hills,Texas,69204,32.834295,-97.228903,0,0,0,0,0,1,1,5
+bismarck-north-dakota,Bismarck,North Dakota,71167,46.808327,-100.783739,5,11,5,11,5,11,11,12
+yorba-linda-california,Yorba Linda,California,67973,33.888504,-117.813257,0,0,0,0,0,0,0,0
+kenner-louisiana,Kenner,Louisiana,67091,29.994092,-90.241743,0,2,0,2,0,2,8,10
+walnut-creek-california,Walnut Creek,California,68910,37.910078,-122.065182,0,0,0,0,0,0,0,0
+frederick-maryland,Frederick,Maryland,69479,39.414269,-77.410541,0,1,1,1,1,1,1,1
+oshkosh-wisconsin,Oshkosh,Wisconsin,66555,44.024706,-88.542614,2,2,2,2,2,2,2,4
+pittsburg-california,Pittsburg,California,69424,38.027976,-121.884681,0,0,0,0,0,1,1,1
+palo-alto-california,Palo Alto,California,66853,37.441883,-122.143019,0,0,0,0,0,0,0,1
+bossier-city-louisiana,Bossier City,Louisiana,68094,32.515985,-93.732123,0,5,0,5,0,5,5,6
+portland-maine,Portland,Maine,66881,43.661471,-70.255326,0,1,0,1,0,2,2,3
+st--cloud-minnesota,St. Cloud,Minnesota,67109,45.557945,-94.163240,2,2,2,2,2,2,2,2
+davis-california,Davis,California,67666,38.544907,-121.740517,0,0,0,1,0,1,1,1
+south-san-francisco-california,South San Francisco,California,67271,37.654656,-122.407750,0,0,0,0,0,0,0,0
+camarillo-california,Camarillo,California,67608,34.216394,-119.037602,0,0,0,0,0,0,0,1
+north-little-rock-arkansas,North Little Rock,Arkansas,66504,34.769536,-92.267094,0,0,0,4,0,6,0,9
+schenectady-new-york,Schenectady,New York,65305,42.814243,-73.939569,0,0,0,0,0,3,3,4
+gaithersburg-maryland,Gaithersburg,Maryland,67456,39.143441,-77.201370,0,0,0,0,0,0,0,1
+harlingen-texas,Harlingen,Texas,65774,26.190631,-97.696103,1,7,1,7,1,7,7,9
+woodbury-minnesota,Woodbury,Minnesota,67855,44.923855,-92.959380,0,0,0,0,0,0,0,0
+eagan-minnesota,Eagan,Minnesota,66286,44.804132,-93.166886,0,0,0,0,0,0,0,0
+yuba-city-california,Yuba City,California,66941,39.140448,-121.616911,0,1,1,1,1,1,1,1
+maple-grove-minnesota,Maple Grove,Minnesota,68385,45.072464,-93.455788,0,0,0,0,0,0,0,0
+youngstown-ohio,Youngstown,Ohio,64628,41.099780,-80.649519,1,1,1,1,1,2,2,7
+skokie-illinois,Skokie,Illinois,64821,42.032403,-87.741625,0,0,0,0,0,0,0,0
+kissimmee-florida,Kissimmee,Florida,69152,28.291956,-81.407571,0,1,0,1,0,1,0,1
+johnson-city-tennessee,Johnson City,Tennessee,66027,36.313440,-82.353473,1,2,1,2,6,6,6,6
+victoria-texas,Victoria,Texas,67574,28.805267,-97.003598,3,3,3,3,3,3,4,4
+san-clemente-california,San Clemente,California,65526,33.427352,-117.612600,0,0,1,1,1,1,1,1
+bayonne-new-jersey,Bayonne,New Jersey,66311,40.668714,-74.114309,0,0,0,0,0,0,0,0
+laguna-niguel-california,Laguna Niguel,California,65806,33.523674,-117.714944,0,0,0,1,0,1,0,1
+east-orange-new-jersey,East Orange,New Jersey,64949,40.767323,-74.204868,0,0,0,0,0,1,0,1
+shawnee-kansas,Shawnee,Kansas,65046,39.022848,-94.715187,0,0,0,0,0,0,0,0
+homestead-florida,Homestead,Florida,66498,25.468722,-80.477557,0,1,0,1,0,1,0,1
+rockville-maryland,Rockville,Maryland,66980,39.083997,-77.152758,0,0,0,0,0,0,0,0
+delray-beach-florida,Delray Beach,Florida,66255,26.461462,-80.072820,0,0,0,0,0,0,0,0
+janesville-wisconsin,Janesville,Wisconsin,64123,42.682789,-89.018722,1,2,1,2,1,2,2,3
+conway-arkansas,Conway,Arkansas,64980,35.088696,-92.442101,1,1,1,4,1,7,1,9
+pico-rivera-california,Pico Rivera,California,64218,33.983069,-118.096735,0,0,0,0,0,0,0,0
+lorain-ohio,Lorain,Ohio,63647,41.452819,-82.182375,1,1,1,1,1,2,1,5
+montebello-california,Montebello,California,63921,34.016505,-118.113754,0,0,0,0,0,0,0,0
+lodi-california,Lodi,California,64596,38.134148,-121.272219,0,0,0,1,0,1,1,1
+new-braunfels-texas,New Braunfels,Texas,70543,29.703002,-98.124453,1,1,1,1,1,1,1,1
+marysville-washington,Marysville,Washington,66773,48.051764,-122.177082,0,0,0,1,1,1,1,1
+tamarac-florida,Tamarac,Florida,64681,26.212861,-80.249771,0,0,0,0,0,0,0,0
+madera-california,Madera,California,64208,36.961336,-120.060718,0,0,0,0,0,0,0,2
+conroe-texas,Conroe,Texas,68602,30.311877,-95.456051,0,1,0,1,1,1,1,5
+santa-cruz-california,Santa Cruz,California,64220,36.974117,-122.030796,0,0,0,1,1,1,1,2
+eden-prairie-minnesota,Eden Prairie,Minnesota,63496,44.854686,-93.470786,0,0,0,0,0,0,0,0
+cheyenne-wyoming,Cheyenne,Wyoming,63335,41.139981,-104.820246,1,2,1,3,1,3,3,3
+daytona-beach-florida,Daytona Beach,Florida,64736,29.210815,-81.022833,1,1,1,1,1,1,1,1
+alpharetta-georgia,Alpharetta,Georgia,63693,34.075376,-84.294090,0,0,0,0,0,1,0,1
+hamilton-ohio,Hamilton,Ohio,62407,39.399501,-84.561335,0,1,0,1,1,1,1,3
+waltham-massachusetts,Waltham,Massachusetts,63378,42.376485,-71.235611,0,0,0,0,0,0,0,0
+coon-rapids-minnesota,Coon Rapids,Minnesota,62240,45.173239,-93.303006,0,0,0,0,0,0,0,0
+haverhill-massachusetts,Haverhill,Massachusetts,62765,42.776201,-71.077280,0,1,0,1,0,1,0,1
+council-bluffs-iowa,Council Bluffs,Iowa,62597,41.261944,-95.860833,0,0,0,0,0,0,0,5
+taylor-michigan,Taylor,Michigan,61568,42.240872,-83.269651,0,0,0,0,0,0,0,0
+utica-new-york,Utica,New York,61100,43.100903,-75.232664,0,1,0,1,2,5,5,6
+ames-iowa,Ames,Iowa,65060,42.030781,-93.631913,0,1,1,4,1,4,4,5
+la-habra-california,La Habra,California,62131,33.931859,-117.946137,0,0,0,0,0,0,0,0
+encinitas-california,Encinitas,California,62930,33.036987,-117.291982,0,0,0,0,0,0,0,0
+bowling-green-kentucky,Bowling Green,Kentucky,63616,36.968522,-86.480804,2,2,2,2,2,3,5,7
+burnsville-minnesota,Burnsville,Minnesota,61481,44.767742,-93.277723,0,0,0,0,0,0,0,0
+greenville-south-carolina,Greenville,South Carolina,64579,34.852618,-82.394010,0,2,0,2,3,3,3,4
+west-des-moines-iowa,West Des Moines,Iowa,64113,41.577211,-93.711332,0,1,0,3,0,3,3,4
+cedar-park-texas,Cedar Park,Texas,65945,30.505198,-97.820289,0,0,0,0,0,0,0,3
+tulare-california,Tulare,California,62315,36.207729,-119.347338,1,1,1,1,1,1,1,2
+monterey-park-california,Monterey Park,California,61468,34.062511,-118.122848,0,0,0,0,0,0,0,0
+vineland-new-jersey,Vineland,New Jersey,60818,39.486377,-75.025964,1,1,1,1,1,1,1,1
+terre-haute-indiana,Terre Haute,Indiana,60825,39.466703,-87.413909,2,2,2,2,2,3,2,3
+north-miami-florida,North Miami,Florida,62435,25.890095,-80.186714,0,0,0,0,0,0,0,0
+mansfield-texas,Mansfield,Texas,64274,32.563192,-97.141677,0,0,0,0,1,1,1,5
+west-allis-wisconsin,West Allis,Wisconsin,60620,43.016681,-88.007031,0,0,0,0,0,0,0,2
+bristol-connecticut,Bristol,Connecticut,60452,41.671765,-72.949270,0,0,0,0,0,1,0,1
+taylorsville-utah,Taylorsville,Utah,60514,40.667725,-111.938826,0,0,0,0,0,11,0,11
+malden-massachusetts,Malden,Massachusetts,61068,42.425096,-71.066163,0,0,0,0,0,0,0,0
+meriden-connecticut,Meriden,Connecticut,59988,41.538153,-72.807043,0,0,0,0,0,0,0,1
+blaine-minnesota,Blaine,Minnesota,62124,45.160799,-93.234949,0,0,0,0,0,0,0,0
+wellington-florida,Wellington,Florida,62560,26.661763,-80.268357,0,0,0,0,0,1,0,1
+cupertino-california,Cupertino,California,60572,37.322998,-122.032182,0,0,0,0,0,0,0,1
+springfield-oregon,Springfield,Oregon,60870,44.046236,-123.022029,0,2,0,2,3,7,3,7
+rogers-arkansas,Rogers,Arkansas,63159,36.332020,-94.118537,1,4,4,6,6,6,6,6
+st--clair-shores-michigan,St. Clair Shores,Michigan,59903,42.497408,-82.896360,0,0,0,0,0,0,0,0
+gardena-california,Gardena,California,60447,33.888349,-118.308962,0,0,0,0,0,0,0,0
+pontiac-michigan,Pontiac,Michigan,59917,42.638922,-83.291047,0,0,0,0,0,0,0,0
+national-city-california,National City,California,61060,32.678109,-117.099197,0,0,0,0,0,0,0,0
+grand-junction-colorado,Grand Junction,Colorado,60358,39.063871,-108.550649,2,6,7,8,7,7,7,8
+rocklin-california,Rocklin,California,61213,38.790734,-121.235783,0,0,0,0,0,0,0,0
+chapel-hill-north-carolina,Chapel Hill,North Carolina,59568,35.913200,-79.055845,0,0,0,0,0,0,0,1
+casper-wyoming,Casper,Wyoming,60285,42.866632,-106.313081,6,6,6,7,6,7,7,7
+broomfield-colorado,Broomfield,Colorado,65065,39.920541,-105.086650,0,0,0,0,0,0,0,0
+petaluma-california,Petaluma,California,60438,38.232417,-122.636652,0,0,0,0,1,1,1,1
+south-jordan-utah,South Jordan,Utah,66648,40.562170,-111.929658,0,0,0,0,0,11,0,11
+springfield-ohio,Springfield,Ohio,59680,39.924227,-83.808817,1,2,1,2,1,2,1,3
+great-falls-montana,Great Falls,Montana,59638,47.494184,-111.283345,2,5,2,5,5,6,6,16
+lancaster-pennsylvania,Lancaster,Pennsylvania,59339,40.037875,-76.305514,1,1,1,1,2,2,2,2
+north-port-florida,North Port,Florida,62345,27.044224,-82.235925,0,1,0,1,0,1,1,1
+lakewood-washington,Lakewood,Washington,59829,47.171765,-122.518458,0,0,0,0,0,0,0,1
+marietta-georgia,Marietta,Georgia,59067,33.952602,-84.549933,0,0,0,0,0,0,0,0
+san-rafael-california,San Rafael,California,59162,37.973535,-122.531087,0,0,0,0,0,1,0,1
+royal-oak-michigan,Royal Oak,Michigan,59008,42.489480,-83.144649,0,0,0,0,0,0,0,0
+des-plaines-illinois,Des Plaines,Illinois,58677,42.033362,-87.883399,0,0,0,0,0,0,0,0
+huntington-park-california,Huntington Park,California,59430,33.981681,-118.225072,0,0,0,0,0,0,0,0
+la-mesa-california,La Mesa,California,60089,32.767829,-117.023084,0,0,0,0,0,0,0,0
+orland-park-illinois,Orland Park,Illinois,58619,41.630310,-87.853943,0,1,0,1,0,1,1,1
+auburn-alabama,Auburn,Alabama,62059,32.609857,-85.480782,1,1,1,1,3,3,3,3
+lakeville-minnesota,Lakeville,Minnesota,60633,44.649687,-93.242720,1,1,1,1,1,1,1,1
+owensboro-kentucky,Owensboro,Kentucky,59042,37.771907,-87.111168,3,4,3,4,3,4,6,6
+moore-oklahoma,Moore,Oklahoma,60451,35.339508,-97.486703,0,0,0,0,0,4,0,4
+jupiter-florida,Jupiter,Florida,62707,26.934225,-80.094209,0,1,0,1,0,1,0,1
+idaho-falls-idaho,Idaho Falls,Idaho,59184,43.491651,-112.033964,3,4,3,6,6,8,6,11
+dubuque-iowa,Dubuque,Iowa,58799,42.500558,-90.664572,2,3,3,3,3,3,3,5
+bartlett-tennessee,Bartlett,Tennessee,58579,35.204533,-89.873975,0,0,0,0,4,5,4,7
+rowlett-texas,Rowlett,Texas,60236,32.902902,-96.563880,0,0,0,0,0,0,0,6
+novi-michigan,Novi,Michigan,58723,42.480590,-83.475491,0,0,0,0,0,0,0,0
+white-plains-new-york,White Plains,New York,58459,41.033986,-73.762910,0,0,0,0,0,0,0,0
+arcadia-california,Arcadia,California,58408,34.139729,-118.035345,0,0,0,0,0,0,0,0
+redmond-washington,Redmond,Washington,60598,47.673988,-122.121512,0,0,0,0,0,0,0,0
+lake-elsinore-california,Lake Elsinore,California,61981,33.668077,-117.327262,0,0,0,0,0,0,0,0
+tinley-park-illinois,Tinley Park,Illinois,57143,41.573144,-87.793294,0,0,0,0,0,0,1,1
+port-orange-florida,Port Orange,Florida,59866,29.138316,-80.995610,1,1,1,1,1,1,1,1
+medford-massachusetts,Medford,Massachusetts,57403,42.418430,-71.106164,0,0,0,0,0,0,0,0
+oak-lawn-illinois,Oak Lawn,Illinois,56781,41.719978,-87.747953,0,0,0,0,0,0,1,1
+rocky-mount-north-carolina,Rocky Mount,North Carolina,55806,35.938210,-77.790534,1,2,1,2,1,2,1,2
+kokomo-indiana,Kokomo,Indiana,57995,40.486427,-86.133603,1,1,1,2,2,5,2,5
+coconut-creek-florida,Coconut Creek,Florida,59302,26.251748,-80.178935,0,0,0,0,0,0,0,0
+bowie-maryland,Bowie,Maryland,58025,39.006777,-76.779136,0,0,0,0,0,0,0,0
+berwyn-illinois,Berwyn,Illinois,56368,41.850587,-87.793668,0,0,0,0,0,0,0,1
+midwest-city-oklahoma,Midwest City,Oklahoma,57249,35.449506,-97.396702,0,0,0,1,0,4,0,4
+fountain-valley-california,Fountain Valley,California,56987,33.709021,-117.954407,0,0,0,0,0,0,0,0
+buckeye-arizona,Buckeye,Arizona,62138,33.370320,-112.583777,1,1,1,1,1,1,1,1
+dearborn-heights-michigan,Dearborn Heights,Michigan,56145,42.336982,-83.273263,0,0,0,0,0,0,0,0
+woodland-california,Woodland,California,58567,38.678516,-121.773297,0,0,1,1,1,1,1,1
+noblesville-indiana,Noblesville,Indiana,59093,40.045592,-86.008595,1,1,1,1,1,4,1,4
+valdosta-georgia,Valdosta,Georgia,55724,30.832702,-83.278485,3,3,3,3,3,3,3,3
+diamond-bar-california,Diamond Bar,California,56897,34.028623,-117.810337,0,0,0,0,0,0,0,0
+manhattan-kansas,Manhattan,Kansas,56308,39.183608,-96.571669,3,3,3,3,3,3,3,3
+santee-california,Santee,California,57787,32.838383,-116.973917,0,0,0,0,0,0,0,0
+taunton-massachusetts,Taunton,Massachusetts,56789,41.900101,-71.089767,0,1,0,1,0,1,0,1
+sanford-florida,Sanford,Florida,58111,28.802861,-81.269453,0,0,0,0,0,0,0,0
+kettering-ohio,Kettering,Ohio,55525,39.689504,-84.168827,0,1,0,1,0,1,0,3
+new-brunswick-new-jersey,New Brunswick,New Jersey,57035,40.486216,-74.451819,0,0,0,1,0,1,0,1
+decatur-alabama,Decatur,Alabama,55437,34.605925,-86.983342,1,2,1,2,1,3,1,4
+chicopee-massachusetts,Chicopee,Massachusetts,56741,42.148704,-72.607867,0,0,0,1,0,1,0,1
+anderson-indiana,Anderson,Indiana,55305,40.105320,-85.680254,1,1,1,1,1,4,1,4
+margate-florida,Margate,Florida,57234,26.244526,-80.206436,0,0,0,0,0,0,0,0
+weymouth-town-massachusetts,Weymouth,Massachusetts,55957,42.218072,-70.941036,1,1,1,1,1,1,1,1
+hempstead-new-york,Hempstead,New York,55547,40.706213,-73.618740,0,0,0,0,0,0,0,0
+corvallis-oregon,Corvallis,Oregon,55780,44.564566,-123.262044,1,1,1,1,3,7,3,7
+eastvale-california,Eastvale,California,59039,33.952463,-117.584802,0,0,0,0,0,0,0,0
+porterville-california,Porterville,California,56058,36.065230,-119.016768,1,2,1,2,1,2,1,2
+west-haven-connecticut,West Haven,Connecticut,54927,41.270548,-72.946971,0,0,0,1,0,1,1,1
+brentwood-california,Brentwood,California,58968,37.931868,-121.695786,0,0,1,1,1,1,1,1
+paramount-california,Paramount,California,55412,33.889460,-118.159791,0,0,0,0,0,0,0,0
+grand-forks-north-dakota,Grand Forks,North Dakota,57011,47.925257,-97.032855,2,9,2,9,2,9,9,9
+georgetown-texas,Georgetown,Texas,63716,30.633262,-97.677984,0,1,0,1,0,1,1,3
+st--peters-missouri,St. Peters,Missouri,56971,38.787470,-90.629892,1,1,1,1,1,1,1,1
+shoreline-washington,Shoreline,Washington,55439,47.755966,-122.345697,0,0,0,0,0,0,0,0
+mount-prospect-illinois,Mount Prospect,Illinois,54747,42.066417,-87.937291,0,0,0,0,0,0,0,0
+hanford-california,Hanford,California,55659,36.327450,-119.645684,1,1,1,1,1,1,1,2
+normal-illinois,Normal,Illinois,54373,40.514203,-88.990631,1,1,1,2,2,2,2,4
+rosemead-california,Rosemead,California,54908,34.080565,-118.072846,0,0,0,0,0,0,0,0
+lehi-utah,Lehi,Utah,58486,40.391617,-111.850766,1,1,1,1,1,10,1,10
+pocatello-idaho,Pocatello,Idaho,54441,42.871303,-112.445534,3,4,4,4,4,10,4,12
+highland-california,Highland,California,54854,34.128344,-117.208651,0,0,0,0,0,0,0,0
+novato-california,Novato,California,55530,38.107420,-122.569703,0,1,0,1,1,1,1,1
+port-arthur-texas,Port Arthur,Texas,55340,29.884950,-93.939947,2,2,2,2,2,2,2,7
+carson-city-nevada,Carson City,Nevada,54521,39.163798,-119.767403,1,4,1,4,1,4,1,4
+san-marcos-texas,San Marcos,Texas,60684,29.883275,-97.941394,0,1,0,1,0,1,1,1
+hendersonville-tennessee,Hendersonville,Tennessee,56018,36.304774,-86.619996,0,1,0,1,0,4,4,7
+elyria-ohio,Elyria,Ohio,53775,41.368380,-82.107649,1,1,1,1,1,1,1,5
+revere-massachusetts,Revere,Massachusetts,53422,42.408430,-71.011995,0,0,0,0,0,0,0,0
+pflugerville-texas,Pflugerville,Texas,57122,30.454845,-97.622266,0,0,0,0,0,0,0,3
+greenwood-indiana,Greenwood,Indiana,55586,39.613658,-86.106653,0,0,0,0,0,3,0,4
+bellevue-nebraska,Bellevue,Nebraska,55510,41.154362,-95.914557,0,0,0,0,0,0,0,5
+wheaton-illinois,Wheaton,Illinois,53715,41.866140,-88.107013,0,0,0,0,0,0,1,1
+smyrna-georgia,Smyrna,Georgia,56146,33.883993,-84.514376,0,0,0,0,0,0,0,0
+sarasota-florida,Sarasota,Florida,55118,27.336435,-82.530653,0,0,0,0,0,1,0,1
+blue-springs-missouri,Blue Springs,Missouri,54148,39.016951,-94.281615,0,0,0,0,0,0,0,0
+colton-california,Colton,California,54621,34.073902,-117.313655,0,0,0,0,0,0,0,0
+euless-texas,Euless,Texas,54219,32.837073,-97.081954,0,0,0,0,0,0,0,6
+castle-rock-colorado,Castle Rock,Colorado,55591,39.372212,-104.856090,0,0,0,1,0,1,0,1
+cathedral-city-california,Cathedral City,California,53826,33.780539,-116.466804,0,2,0,2,2,2,2,2
+kingsport-tennessee,Kingsport,Tennessee,53014,36.548434,-82.561819,1,2,1,2,6,6,6,6
+lake-havasu-city-arizona,Lake Havasu City,Arizona,53553,34.483901,-114.322455,4,4,4,5,4,5,5,5
+pensacola-florida,Pensacola,Florida,53193,30.421309,-87.216915,0,2,0,2,5,8,8,9
+hoboken-new-jersey,Hoboken,New Jersey,53635,40.743991,-74.032363,0,0,0,0,0,0,0,0
+yucaipa-california,Yucaipa,California,53328,34.033625,-117.043087,0,0,0,0,0,0,0,0
+watsonville-california,Watsonville,California,53628,36.910231,-121.756895,0,0,0,1,1,1,1,3
+richland-washington,Richland,Washington,54248,46.285691,-119.284462,0,2,0,2,0,2,2,6
+delano-california,Delano,California,52733,35.768842,-119.247054,1,2,1,2,1,2,1,2
+hoffman-estates-illinois,Hoffman Estates,Illinois,52138,42.062992,-88.122720,0,0,0,0,0,0,0,0
+florissant-missouri,Florissant,Missouri,52268,38.789217,-90.322614,0,0,0,0,0,0,0,0
+placentia-california,Placentia,California,52495,33.871073,-117.862755,0,0,0,0,0,0,0,0
+west-new-york-new-jersey,West New York,New Jersey,53366,40.787879,-74.014306,0,0,0,0,0,0,0,0
+dublin-california,Dublin,California,57721,37.702152,-121.935792,0,0,0,0,0,0,0,0
+oak-park-illinois,Oak Park,Illinois,52287,41.885032,-87.784503,0,0,0,0,0,0,0,0
+peabody-massachusetts,Peabody,Massachusetts,52504,42.527873,-70.928661,0,1,0,1,0,1,0,1
+perth-amboy-new-jersey,Perth Amboy,New Jersey,52682,40.506772,-74.265423,0,0,0,0,0,1,0,1
+battle-creek-michigan,Battle Creek,Michigan,51589,42.321152,-85.179714,1,1,1,1,1,1,1,2
+bradenton-florida,Bradenton,Florida,54437,27.498928,-82.574819,0,1,0,1,1,1,1,1
+gilroy-california,Gilroy,California,53231,37.005782,-121.568275,0,0,1,1,1,1,1,2
+milford-connecticut,Milford,Connecticut,52087,41.222320,-73.056500,0,0,0,1,0,1,1,1
+albany-oregon,Albany,Oregon,52175,44.636511,-123.105928,1,1,1,1,2,6,2,6
+ankeny-iowa,Ankeny,Iowa,56764,41.731788,-93.600128,0,0,0,3,0,3,3,4
+la-crosse-wisconsin,La Crosse,Wisconsin,52306,43.801356,-91.239581,4,4,4,4,4,4,4,4
+burlington-north-carolina,Burlington,North Carolina,52472,36.095692,-79.437799,0,1,0,1,0,1,0,1
+desoto-texas,DeSoto,Texas,52486,32.589700,-96.857074,0,1,0,1,1,1,1,5
+harrisonburg-virginia,Harrisonburg,Virginia,52538,38.449569,-78.868915,2,3,2,3,3,3,4,4
+minnetonka-minnesota,Minnetonka,Minnesota,51669,44.921184,-93.468749,0,0,0,0,0,0,0,0
+elkhart-indiana,Elkhart,Indiana,52348,41.681993,-85.976667,2,3,2,3,2,3,3,3
+lakewood-ohio,Lakewood,Ohio,50656,41.481993,-81.798191,0,0,0,0,0,1,0,5
+glendora-california,Glendora,California,52009,34.136119,-117.865339,0,0,0,0,0,0,0,1
+southaven-mississippi,Southaven,Mississippi,52589,34.991859,-90.002296,0,0,0,0,4,5,4,7
+joplin-missouri,Joplin,Missouri,51818,37.084227,-94.513281,3,3,3,4,4,4,4,4
+enid-oklahoma,Enid,Oklahoma,51776,36.395589,-97.878391,2,3,3,3,3,3,3,3
+palm-beach-gardens-florida,Palm Beach Gardens,Florida,52923,26.823395,-80.138655,0,0,0,0,0,1,0,1
+brookhaven-georgia,Brookhaven,Georgia,51910,33.865103,-84.336592,0,0,0,0,0,0,0,0
+plainfield-new-jersey,Plainfield,New Jersey,51217,40.633714,-74.407374,0,0,0,0,0,1,0,1
+grand-island-nebraska,Grand Island,Nebraska,51440,40.926396,-98.342012,3,4,3,4,3,4,4,8
+palm-desert-california,Palm Desert,California,51869,33.722245,-116.374456,0,2,0,2,2,2,2,2
+huntersville-north-carolina,Huntersville,North Carolina,52704,35.410694,-80.842850,0,0,0,0,0,0,0,2
+tigard-oregon,Tigard,Oregon,51253,45.431229,-122.771486,0,0,0,0,0,4,0,4
+lenexa-kansas,Lenexa,Kansas,52490,38.953617,-94.733571,0,0,0,0,0,0,0,0
+kentwood-michigan,Kentwood,Michigan,51357,42.869473,-85.644749,0,0,0,1,0,1,0,2
+doral-florida,Doral,Florida,56035,25.819542,-80.355330,0,0,0,0,0,0,0,0
+apple-valley-minnesota,Apple Valley,Minnesota,51221,44.731909,-93.217720,0,0,0,0,0,0,0,0
+grapevine-texas,Grapevine,Texas,51404,32.934292,-97.078065,0,0,0,0,0,0,0,5
+aliso-viejo-california,Aliso Viejo,California,50195,33.568461,-117.726298,0,0,0,0,0,0,0,0
+sammamish-washington,Sammamish,Washington,52253,47.616268,-122.035574,0,1,0,1,1,1,1,1
+casa-grande-arizona,Casa Grande,Arizona,51460,32.911003,-111.773390,1,1,1,1,1,1,1,2
+pinellas-park-florida,Pinellas Park,Florida,51617,27.842803,-82.699544,0,0,0,0,0,0,0,0
+west-sacramento-california,West Sacramento,California,52721,38.580461,-121.530234,0,0,0,0,0,0,0,0
+burien-washington,Burien,Washington,50467,47.466838,-122.340530,0,0,0,0,0,0,0,0
+commerce-city-colorado,Commerce City,Colorado,53696,39.808320,-104.933868,0,0,0,0,0,0,0,0
+coral-gables-florida,Coral Gables,Florida,51117,25.721490,-80.268384,0,0,0,0,0,0,0,0
+poway-california,Poway,California,50157,32.962823,-117.035865,0,0,0,1,0,0,0,0
+edina-minnesota,Edina,Minnesota,50138,44.889687,-93.349949,0,0,0,0,0,0,0,0
+caldwell-idaho,Caldwell,Idaho,51686,43.662938,-116.687360,0,1,0,8,8,10,10,10
+logan-utah,Logan,Utah,50371,41.736980,-111.833836,2,2,2,2,2,13,2,14
+galveston-texas,Galveston,Texas,50180,29.301348,-94.797696,1,1,1,1,1,1,1,6
+olympia-washington,Olympia,Washington,50302,47.037874,-122.900695,0,0,0,1,1,1,1,1
+leesburg-virginia,Leesburg,Virginia,51209,39.115662,-77.563601,1,1,1,1,1,1,1,1
+bonita-springs-florida,Bonita Springs,Florida,51704,26.339806,-81.778697,0,1,0,1,1,1,1,3
