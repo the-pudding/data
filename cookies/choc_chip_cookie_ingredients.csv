@@ -1,0 +1,1991 @@
+,Ingredient,Text,Recipe_Index,Rating,Quantity,Unit
+1,all purpose flour,3.0 cups all purpose flour,AR_1,0.920724583,3,cup
+2,all purpose flour,2.8000000000000003 cups all purpose flour,AR_10,0.905162048,2.8,cup
+3,all purpose flour,1.1076923076923078 cups all purpose flour,AR_101,0.6,1.107692308,cup
+4,all purpose flour,3.333333333333333 cups sifted all purpose flour,AR_102,0.9375,3.333333333,cup
+5,all purpose flour,2.0 cups all purpose flour,AR_103,0.88125,2,cup
+6,all purpose flour,9.0 cups unbleached all purpose flour,AR_107,0.927272701,9,cup
+7,all purpose flour,0.8571428571428571 cups all purpose flour,AR_108,0.867741966,0.857142857,cup
+8,all purpose flour,2.6666666666666665 cups all purpose flour,AR_109,0.871794891,2.666666667,cup
+9,all purpose flour,3.333333333333333 cups all purpose flour,AR_11,0.902891922,3.333333333,cup
+10,all purpose flour,4.0 cups all purpose flour,AR_110,0.868292713,4,cup
+11,all purpose flour,5.0 cups all purpose flour or more as needed,AR_111,1,5,cup
+12,all purpose flour,1.125 cups all purpose flour,AR_116,0.847999954,1.125,cup
+13,all purpose flour,2.0 cups all purpose flour,AR_118,0.830769253,2,cup
+14,all purpose flour,3.5 cups all purpose flour,AR_119,0.845714283,3.5,cup
+15,all purpose flour,2.5 cups flour,AR_12,0.873469353,2.5,cup
+16,all purpose flour,4.5 cups all purpose flour,AR_128,0.714285707,4.5,cup
+17,all purpose flour,4.5 cups all purpose flour,AR_13,0.909016418,4.5,cup
+18,all purpose flour,1.3333333333333333 cups all purpose flour,AR_14,0.90666666,1.333333333,cup
+19,all purpose flour,3.111111111111111 cups all purpose flour,AR_140,0.584615374,3.111111111,cup
+20,all purpose flour,3.333333333333333 cups sifted all purpose flour,AR_141,0.784615374,3.333333333,cup
+21,all purpose flour,3.0 cups all purpose flour,AR_142,0.671428585,3,cup
+22,all purpose flour,2.0 cup sifted all purpose flour,AR_144,0.442857122,2,cup
+23,all purpose flour,2.25 cups all purpose flour,AR_15,0.924302769,2.25,cup
+24,all purpose flour,3.0 cups all purpose flour,AR_155,0.931135178,3,cup
+25,all purpose flour,8.0 cups all purpose flour,AR_156,0.924294472,8,cup
+26,all purpose flour,2.2857142857142856 cups all purpose flour,AR_16,0.85882349,2.285714286,cup
+27,all purpose flour,2.25 cups all purpose flour,AR_164,0.917012405,2.25,cup
+28,all purpose flour,3.5555555555555554 cups all purpose flour,AR_169,0.873728848,3.555555556,cup
+29,all purpose flour,2.6666666666666665 cups all purpose flour,AR_19,0.880000019,2.666666667,cup
+30,all purpose flour,6.0 cups all purpose flour,AR_195,0.585714293,6,cup
+31,all purpose flour,3.0 cups all purpose flour,AR_196,0.785929632,3,cup
+32,all purpose flour,4.0 cup all purpose flour,AR_197,0.706521749,4,cup
+33,all purpose flour,1.3333333333333333 cup all purpose flour,AR_2,0.937981987,1.333333333,cup
+34,all purpose flour,4.666666666666666 cups all purpose flour,AR_21,0.881944466,4.666666667,cup
+35,all purpose flour,2.6666666666666665 cups all purpose flour,AR_218,0.877419376,2.666666667,cup
+36,all purpose flour,7.0 cups all purpose flour,AR_256,0.870253181,7,cup
+37,all purpose flour,2.5 cups all purpose flour,AR_26,0.9,2.5,cup
+38,all purpose flour,4.333333333333333 cups all purpose flour,AR_27,0.876923084,4.333333333,cup
+39,all purpose flour,4.5 cups all purpose flour,AR_28,0.873333359,4.5,cup
+40,all purpose flour,1.5 cups all purpose flour,AR_280,NA,1.5,cup
+41,all purpose flour,2.25 cups all purpose flour,AR_3,0.917986774,2.25,cup
+42,all purpose flour,1.125 cups all purpose flour,AR_30,0.859829044,1.125,cup
+43,all purpose flour,3.6 cups all purpose flour,AR_32,0.830769253,3.6,cup
+44,all purpose flour,3.333333333333333 cups all purpose flour,AR_33,0.826666641,3.333333333,cup
+45,all purpose flour,4.0 cup all purpose flour,AR_35,0.843636322,4,cup
+46,all purpose flour,5.333333333333333 cups all purpose flour,AR_37,0.8,5.333333333,cup
+47,all purpose flour,2.0 cups all purpose flour,AR_39,0.6,2,cup
+48,all purpose flour,2.5 cups all purpose flour,AR_4,0.922985077,2.5,cup
+49,all purpose flour,5.0 cups all purpose flour,AR_43,0.828866005,5,cup
+50,all purpose flour,2.75 cups all purpose flour,AR_45,0.821052647,2.75,cup
+51,all purpose flour,8.0 cups all purpose flour,AR_47,0.7125,8,cup
+52,all purpose flour,5.0 cups all purpose flour,AR_48,0.677777767,5,cup
+53,all purpose flour,2.333333333333333 cups all purpose flour,AR_49,0.592592573,2.333333333,cup
+54,all purpose flour,2.25 cups all purpose flour,AR_5,0.937341785,2.25,cup
+55,all purpose flour,6.0 cups all purpose flour,AR_50,0.66500001,6,cup
+56,all purpose flour,4.0 cups all purpose flour,AR_53,0.692473125,4,cup
+57,all purpose flour,2.0 cup all purpose flour,AR_54,0.723741007,2,cup
+58,all purpose flour,3.5 cups all purpose flour,AR_55,0.385714293,3.5,cup
+59,all purpose flour,2.0 cups all purpose flour,AR_57,0.595505619,2,cup
+60,all purpose flour,4.5 cups all purpose flour,AR_66,0.902002907,4.5,cup
+61,all purpose flour,3.375 cups all purpose flour,AR_67,0.939130402,3.375,cup
+62,all purpose flour,3.375 cups all purpose flour,AR_69,0.920792103,3.375,cup
+63,all purpose flour,2.2222222222222223 cups all purpose flour,AR_7,0.896335125,2.222222222,cup
+64,all purpose flour,1.6 cups all purpose flour,AR_70,0.91003809,1.6,cup
+65,all purpose flour,2.5 cups all purpose flour,AR_78,0.915186214,2.5,cup
+66,all purpose flour,5.0 cups all purpose flour,AR_79,0.633333349,5,cup
+67,all purpose flour,4.5 cups all purpose flour,AR_8,0.942446041,4.5,cup
+68,all purpose flour,7.0 cups all purpose flour,AR_84,0.905737686,7,cup
+69,all purpose flour,2.5 cups all purpose flour,AR_88,0.955555534,2.5,cup
+70,all purpose flour,1.8 cups all purpose flour,AR_89,0.909890079,1.8,cup
+71,all purpose flour,5.0 cups all purpose flour,AR_90,0.902608681,5,cup
+72,all purpose flour,4.0 cups all purpose flour,AR_91,0.928301907,4,cup
+73,all purpose flour,4.0 cups all purpose flour,AR_95,0.844067764,4,cup
+74,all purpose flour,2.333333333333333 cups all purpose flour,AR_96,0.818181801,2.333333333,cup
+75,all purpose flour,1.8 cups all purpose flour,AR_97,0.933333302,1.8,cup
+76,all purpose flour,5.8133333333333335 cups all purpose flour,AR_98,0.90666666,5.813333333,cup
+77,all purpose flour,1.0 cup plus 2 tablespoons all purpose flour,E_133,0.75,1,cup
+78,all purpose flour,192.0 tablespoons plain all purpose flour,E_169,0.5,12,cup
+79,all purpose flour,2.4 cup plus 2 tablespoons all purpose flour,E_21,0.75,2.4,cup
+80,all purpose flour,3.0 cups all purpose flour,E_215,0.875,3,cup
+81,all purpose flour,2.0 cups all purpose flour,E_220,0.75,2,cup
+82,all purpose flour,5.14285714286 cups all purpose flour,E_230,0.875,5.142857143,cup
+83,all purpose flour,3.5 cups all purpose flour,E_258,0.75,3.5,cup
+84,all purpose flour,5.4 cups all purpose flour,E_26,0.875,5.4,cup
+85,all purpose flour,2.0 cups all purpose flour,E_362,0.625,2,cup
+86,all purpose flour,3.42857142857 cups all purpose flour,E_375,0.75,3.428571429,cup
+87,all purpose flour,4.36363636364 cups plain all purpose flour,E_399,1,4.363636364,cup
+88,all purpose flour,0.32 cup all purpose flour,E_509,0.75,0.32,cup
+89,all purpose flour,2.4 cups all purpose flour,E_79,0.75,2.4,cup
+90,all purpose flour,2.88 cups all purpose flour,E_87,0.75,2.88,cup
+91,all purpose flour,16.0 cups all purpose flour,E_88,0.375,16,cup
+92,all purpose flour,2.5 cups all purpose flour,E_89,0.875,2.5,cup
+93,all purpose flour,1.8 cups all purpose flour,E_91,1,1.8,cup
+94,all purpose flour,3.6 cups all purpose flour,Misc_10,NA,3.6,cup
+95,all purpose flour,6.0 cups of all purpose flour,Misc_101,NA,6,cup
+96,all purpose flour,7.0 cup 210 g flour,Misc_102,NA,7,cup
+97,all purpose flour,3.33333333333 ⁄2 cups all purpose flour,Misc_103,NA,3.333333333,cup
+98,all purpose flour,2.0 cups 6 1/2 oz./200 g unbleached all purpose flour,Misc_104,NA,2,cup
+99,all purpose flour,8.0 cup plus 2 tbs. all purpose flour,Misc_105,NA,8,cup
+100,all purpose flour,3.0 cups all purpose flour,Misc_106,NA,3,cup
+101,all purpose flour,2.0 cups 6 1/2 oz./200 g unbleached all purpose flour,Misc_107,NA,2,cup
+102,all purpose flour,2.5 cups all purpose flour,Misc_108,NA,2.5,cup
+103,all purpose flour,4.0 cups flour,Misc_109,NA,4,cup
+104,all purpose flour,1.8 cups all purpose flour,Misc_11,NA,1.8,cup
+105,all purpose flour,"18.75 ounces all purpose flour, such as gold medal",Misc_110,NA,2.34375,cup
+106,all purpose flour,2.93333333333 cups all purpose flour 350g,Misc_111,NA,2.933333333,cup
+107,all purpose flour,5.33333333333 cups plus 3 tablespoons all purpose flour,Misc_112,NA,5.333333333,cup
+108,all purpose flour,2.85714285714 cups all purpose flour do not sift,Misc_113,NA,2.857142857,cup
+109,all purpose flour,3.6 cups all purpose flour,Misc_114,NA,3.6,cup
+110,all purpose flour,3.0 cups all purpose flour see notes below,Misc_12,NA,3,cup
+111,all purpose flour,3.0 cups all purpose flour,Misc_13,NA,3,cup
+112,all purpose flour,5.53846153846 cups 380 grams all purpose flour,Misc_14,NA,5.538461538,cup
+113,all purpose flour,2.93333333333 cups all purpose flour 350g,Misc_15,NA,2.933333333,cup
+114,all purpose flour,2.83333333333 cups all purpose flour,Misc_16,NA,2.833333333,cup
+115,all purpose flour,4.25 cups all purpose flour,Misc_17,NA,4.25,cup
+116,all purpose flour,2.66666666667 cups king arthur unbleached all purpose flour,Misc_18,NA,2.666666667,cup
+117,all purpose flour,4.875 cups all purpose flour 415g,Misc_19,NA,4.875,cup
+118,all purpose flour,1.5 cups all purpose flour 1.5 cups,Misc_2,NA,1.5,cup
+119,all purpose flour,5.0 cups all purpose flour,Misc_20,NA,5,cup
+120,all purpose flour,2.33333333333 cups plus 1 tablespoon all purpose flour,Misc_22,NA,2.333333333,cup
+121,all purpose flour,4.0 cups plus 3 tablespoons all purpose flour,Misc_23,NA,4,cup
+122,all purpose flour,2.0 cups all purpose flour,Misc_24,NA,2,cup
+123,all purpose flour,5.33333333333 cups all purpose flour,Misc_26,NA,5.333333333,cup
+124,all purpose flour,5.0 cups 325 grams all purpose flour,Misc_27,NA,5,cup
+125,all purpose flour,5.0 cups all purpose flour,Misc_28,NA,5,cup
+126,all purpose flour,2.66666666667 cups plus 2.66666666667 tablespoons flour,Misc_29,NA,2.666666667,cup
+127,all purpose flour,0.0 cup/50.0 grams all purpose flour,Misc_3,NA,0,cup
+128,all purpose flour,5.4 cups all purpose flour,Misc_30,NA,5.4,cup
+129,all purpose flour,2.0 cups all purpose flour,Misc_31,NA,2,cup
+130,all purpose flour,6.0 cups flour,Misc_32,NA,6,cup
+131,all purpose flour,2.64 cup all purpose flour,Misc_33,NA,2.64,cup
+132,all purpose flour,8.57142857143 cups 12 1/2oz/375g all purpose flour/plain flour,Misc_34,NA,8.571428571,cup
+133,all purpose flour,2.46153846154 cups all purpose flour,Misc_35,NA,2.461538462,cup
+134,all purpose flour,5.25 cups flour,Misc_36,NA,5.25,cup
+135,all purpose flour,4.0 cups all purpose flour,Misc_37,NA,4,cup
+136,all purpose flour,5.2 cups flour,Misc_38,NA,5.2,cup
+137,all purpose flour,1.6  1/4 cups all purpose flour,Misc_39,NA,1.6,cup
+138,all purpose flour,9.6 cups/256 grams all purpose flour,Misc_4,NA,9.6,cup
+139,all purpose flour,2.25 cups 295 grams all purpose flour,Misc_40,NA,2.25,cup
+140,all purpose flour,2.7 cups all purpose flour,Misc_41,NA,2.7,cup
+141,all purpose flour,4.8 cups flour,Misc_42,NA,4.8,cup
+142,all purpose flour,2.52631578947 and  3/4 cups 345 grams all purpose flour spooned & leveled,Misc_43,NA,2.526315789,cup
+143,all purpose flour,4.0 cups plus 4.0 tbsp all purpose flour,Misc_44,NA,4,cup
+144,all purpose flour,2.66666666667 cups baker’s corner all purpose flour,Misc_45,NA,2.666666667,cup
+145,all purpose flour,3.5 cup all purpose flour,Misc_46,NA,3.5,cup
+146,all purpose flour,1.42857142857 cups unsifted all purpose flour,Misc_47,NA,1.428571429,cup
+147,all purpose flour,2.66666666667 cups king arthur unbleached all purpose flour,Misc_48,NA,2.666666667,cup
+148,all purpose flour,2.90909090909 cups all purpose flour,Misc_5,NA,2.909090909,cup
+149,all purpose flour,"4.25 	cups all purpose flour",Misc_50,NA,4.25,cup
+150,all purpose flour,"2.13333333333 	cups all purpose flour",Misc_51,NA,2.133333333,cup
+151,all purpose flour,"1.68 	cups 238 grams all purpose flour",Misc_52,NA,1.68,cup
+152,all purpose flour,"5.25 	cups unbleached all purpose flour",Misc_53,NA,5.25,cup
+153,all purpose flour,2.66666666667 cups pillsbury best™ all purpose flour,Misc_54,NA,2.666666667,cup
+154,all purpose flour,2.85714285714 cups unbleached all purpose flour,Misc_55,NA,2.857142857,cup
+155,all purpose flour,4.0 cups 250g all purpose flour spoon & leveled,Misc_56,NA,4,cup
+156,all purpose flour,3.5 cups all purpose flour,Misc_6,NA,3.5,cup
+157,all purpose flour,4.0 cups all purpose flour,Misc_60,NA,4,cup
+158,all purpose flour,2.25 cups unsifted flour,Misc_61,NA,2.25,cup
+159,all purpose flour,3.0 cup all purpose flour,Misc_62,NA,3,cup
+160,all purpose flour,4.0 cups flour,Misc_63,NA,4,cup
+161,all purpose flour,"2.4 cups unbleached, all purpose flour",Misc_64,NA,2.4,cup
+162,all purpose flour,2.25 cups all purpose flour,Misc_65,NA,2.25,cup
+163,all purpose flour,2.0 cup flour,Misc_67,NA,2,cup
+164,all purpose flour,3.5 cups 210 g all purpose flour*,Misc_68,NA,3.5,cup
+165,all purpose flour,6.0 cups all purpose flour more as needed – see video,Misc_69,NA,6,cup
+166,all purpose flour,4.0 cups all purpose flour,Misc_7,NA,4,cup
+167,all purpose flour,3.33333333333 cups all purpose flour see note,Misc_70,NA,3.333333333,cup
+168,all purpose flour,9.6 cups 284 g all purpose flour,Misc_72,NA,9.6,cup
+169,all purpose flour,"3.0 ¹⁄₃ cups unbleached, all purpose flour",Misc_73,NA,3,cup
+170,all purpose flour,4.0 cups flour,Misc_74,NA,4,cup
+171,all purpose flour,5.92592592593 cups all purpose flour,Misc_75,NA,5.925925926,cup
+172,all purpose flour,7.0 cups all purpose flour,Misc_76,NA,7,cup
+173,all purpose flour,4.57142857143 cups all purpose flour,Misc_77,NA,4.571428571,cup
+174,all purpose flour,4.0 cup | 200g all purpose flour,Misc_78,NA,4,cup
+175,all purpose flour,6.85714285714 cups all purpose flour,Misc_79,NA,6.857142857,cup
+176,all purpose flour,1.74545454545 cups flour,Misc_8,NA,1.745454545,cup
+177,all purpose flour,6.0 cups all purpose flour use the spoon and level method,Misc_80,NA,6,cup
+178,all purpose flour,5.33333333333 cups all purpose flour,Misc_81,NA,5.333333333,cup
+179,all purpose flour,5.14285714286  1 2/3 cup all purpose flour use more if needed see post for details,Misc_82,NA,5.142857143,cup
+180,all purpose flour,6.46153846154 cups all purpose flour,Misc_84,NA,6.461538462,cup
+181,all purpose flour,2.66666666667 cups king arthur unbleached all purpose flour,Misc_85,NA,2.666666667,cup
+182,all purpose flour,6.0 cup all purpose flour,Misc_86,NA,6,cup
+183,all purpose flour,8.0 cups all purpose flour,Misc_87,NA,8,cup
+184,all purpose flour,5.14285714286 cups all purpose flour,Misc_89,NA,5.142857143,cup
+185,all purpose flour,2.25 cups gold medal™ all purpose flour,Misc_9,NA,2.25,cup
+186,all purpose flour,12.0 ⁄4 cups flour,Misc_90,NA,12,cup
+187,all purpose flour,"2.0  1/4 cups all purpose flour, spooned and leveled",Misc_91,NA,2,cup
+188,all purpose flour,4.66666666667 cups all purpose flour,Misc_92,NA,4.666666667,cup
+189,all purpose flour,4.0 cups flour,Misc_93,NA,4,cup
+190,all purpose flour,4.2 cup 220 g all purpose flour,Misc_96,NA,4.2,cup
+191,all purpose flour,5.14285714286 cup unbleached all purpose flour,Misc_97,NA,5.142857143,cup
+192,all purpose flour,4.5 cup all purpose flour,Misc_98,NA,4.5,cup
+193,all purpose flour,7.33333333333 cups all purpose flour* plus a tablespoon or two if needed,Misc_99,NA,7.333333333,cup
+194,almond extract,2.0 teaspoon almond extract,AR_43,0.828866005,2,teaspoon
+195,almond extract,"0.333333333333 teaspoon almond extract, optional",Misc_18,NA,0.333333333,teaspoon
+196,almond extract,"0.333333333333 teaspoon almond extract, optional",Misc_48,NA,0.333333333,teaspoon
+197,almond extract,0.333333333333 teaspoon almond extract,Misc_85,NA,0.333333333,teaspoon
+198,almonds,0.3333333333333333 cup chopped almonds,AR_4,0.922985077,0.333333333,cup
+199,almonds,2.0 cup sliced almonds,AR_99,0.858333302,2,cup
+200,applesauce,0.5 cup applesauce,AR_54,0.723741007,0.5,cup
+201,baking powder,0.7384615384615385 teaspoons baking powder,AR_101,0.6,0.738461538,teaspoon
+202,baking powder,1.0 teaspoon baking powder,AR_119,0.845714283,1,teaspoon
+203,baking powder,0.6666666666666666 teaspoon baking powder,AR_14,0.90666666,0.666666667,teaspoon
+204,baking powder,1.1428571428571428 teaspoons baking powder,AR_16,0.85882349,1.142857143,teaspoon
+205,baking powder,1.3333333333333333 teaspoon baking powder,AR_169,0.873728848,1.333333333,teaspoon
+206,baking powder,2.0 teaspoon baking powder,AR_256,0.870253181,2,teaspoon
+207,baking powder,0.5 teaspoon baking powder,AR_26,0.9,0.5,teaspoon
+208,baking powder,2.6666666666666665 teaspoons baking powder,AR_27,0.876923084,2.666666667,teaspoon
+209,baking powder,0.25 teaspoon baking powder,AR_280,NA,0.25,teaspoon
+210,baking powder,0.8 teaspoon baking powder,AR_32,0.830769253,0.8,teaspoon
+211,baking powder,1.0 teaspoon baking powder,AR_39,0.6,1,teaspoon
+212,baking powder,1.0 teaspoon baking powder,AR_4,0.922985077,1,teaspoon
+213,baking powder,2.0 teaspoon baking powder,AR_47,0.7125,2,teaspoon
+214,baking powder,2.0 teaspoon baking powder,AR_48,0.677777767,2,teaspoon
+215,baking powder,2.0 teaspoons baking powder,AR_50,0.66500001,2,teaspoon
+216,baking powder,1.0 teaspoon baking powder,AR_57,0.595505619,1,teaspoon
+217,baking powder,1.0 teaspoon baking powder,AR_7,0.896335125,1,teaspoon
+218,baking powder,0.8 teaspoon baking powder,AR_70,0.91003809,0.8,teaspoon
+219,baking powder,0.5 teaspoon baking powder,AR_78,0.915186214,0.5,teaspoon
+220,baking powder,2.0 teaspoon baking powder,AR_79,0.633333349,2,teaspoon
+221,baking powder,2.0 teaspoon baking powder,AR_84,0.905737686,2,teaspoon
+222,baking powder,1.6 teaspoon baking powder,AR_95,0.844067764,1.6,teaspoon
+223,baking powder,1.2 teaspoon baking powder,E_21,0.75,1.2,teaspoon
+224,baking powder,2.0 teaspoon baking powder,E_215,0.875,2,teaspoon
+225,baking powder,1.33333333333 teaspoon baking powder,E_362,0.625,1.333333333,teaspoon
+226,baking powder,0.545454545455 teaspoon baking powder,E_399,1,0.545454545,teaspoon
+227,baking powder,6.0 teaspoons baking powder,Misc_1,NA,6,teaspoon
+228,baking powder,4.0 teaspoons baking powder,Misc_100,NA,4,teaspoon
+229,baking powder,4.0 teaspoons baking powder,Misc_109,NA,4,teaspoon
+230,baking powder,0.75 teaspoon baking powder,Misc_110,NA,0.75,teaspoon
+231,baking powder,1.0 teaspoon baking powder,Misc_17,NA,1,teaspoon
+232,baking powder,1.5 teaspoon baking powder,Misc_19,NA,1.5,teaspoon
+233,baking powder,2.0 teaspoon baking powder,Misc_20,NA,2,teaspoon
+234,baking powder,2.0 teaspoon baking powder,Misc_32,NA,2,teaspoon
+235,baking powder,2.25 tsp baking powder,Misc_36,NA,2.25,teaspoon
+236,baking powder,"2.4 	teaspoons baking powder",Misc_49,NA,2.4,teaspoon
+237,baking powder,0.571428571429 teaspoon baking powder,Misc_55,NA,0.571428571,teaspoon
+238,baking powder,2.0 tsp baking powder,Misc_60,NA,2,teaspoon
+239,baking powder,2.0 teaspoon baking powder,Misc_62,NA,2,teaspoon
+240,baking powder,1.77777777778 teaspoon baking powder,Misc_63,NA,1.777777778,teaspoon
+241,baking powder,1.6 teaspoon baking powder,Misc_7,NA,1.6,teaspoon
+242,baking powder,0.666666666667 teaspoon baking powder,Misc_70,NA,0.666666667,teaspoon
+243,baking powder,3.69230769231 teaspoon baking powder,Misc_71,NA,3.692307692,teaspoon
+244,baking powder,1.0 tsp baking powder,Misc_73,NA,1,teaspoon
+245,baking powder,1.33333333333 tsp. baking powder,Misc_74,NA,1.333333333,teaspoon
+246,baking powder,2.66666666667 teaspoons baking powder,Misc_75,NA,2.666666667,teaspoon
+247,baking powder,2.0 teaspoon baking powder,Misc_76,NA,2,teaspoon
+248,baking powder,1.14285714286 teaspoon baking powder,Misc_77,NA,1.142857143,teaspoon
+249,baking powder,0.872727272727 teaspoon baking powder,Misc_8,NA,0.872727273,teaspoon
+250,baking powder,2.0 teaspoons baking powder,Misc_94,NA,2,teaspoon
+251,baking soda,1.0 teaspoon baking soda,AR_1,0.920724583,1,teaspoon
+252,baking soda,0.8 teaspoon baking soda,AR_10,0.905162048,0.8,teaspoon
+253,baking soda,0.7384615384615385 teaspoons baking soda,AR_101,0.6,0.738461538,teaspoon
+254,baking soda,1.3333333333333333 teaspoon baking soda,AR_102,0.9375,1.333333333,teaspoon
+255,baking soda,0.9 teaspoons baking soda,AR_103,0.88125,0.9,teaspoon
+256,baking soda,4.0 teaspoon baking soda,AR_107,0.927272701,4,teaspoon
+257,baking soda,0.5714285714285714 teaspoon baking soda,AR_108,0.867741966,0.571428571,teaspoon
+258,baking soda,1.3333333333333333 teaspoons baking soda,AR_109,0.871794891,1.333333333,teaspoon
+259,baking soda,1.3333333333333333 teaspoon baking soda,AR_11,0.902891922,1.333333333,teaspoon
+260,baking soda,1.0 teaspoon baking soda,AR_110,0.868292713,1,teaspoon
+261,baking soda,1.0 teaspoon baking soda,AR_111,1,1,teaspoon
+262,baking soda,0.25 teaspoon baking soda,AR_116,0.847999954,0.25,teaspoon
+263,baking soda,0.8 teaspoon baking soda,AR_118,0.830769253,0.8,teaspoon
+264,baking soda,1.0 teaspoon baking soda,AR_119,0.845714283,1,teaspoon
+265,baking soda,1.0 teaspoon baking soda,AR_12,0.873469353,1,teaspoon
+266,baking soda,2.0 teaspoon baking soda,AR_128,0.714285707,2,teaspoon
+267,baking soda,2.0 teaspoon baking soda,AR_13,0.909016418,2,teaspoon
+268,baking soda,0.6666666666666666 teaspoon baking soda,AR_14,0.90666666,0.666666667,teaspoon
+269,baking soda,1.3333333333333333 teaspoon baking soda,AR_140,0.584615374,1.333333333,teaspoon
+270,baking soda,1.3333333333333333 teaspoon baking soda,AR_141,0.784615374,1.333333333,teaspoon
+271,baking soda,2.0 teaspoon baking soda,AR_142,0.671428585,2,teaspoon
+272,baking soda,1.0 teaspoon baking soda,AR_144,0.442857122,1,teaspoon
+273,baking soda,1.0 teaspoon baking soda,AR_15,0.924302769,1,teaspoon
+274,baking soda,1.3333333333333333 teaspoons baking soda,AR_155,0.931135178,1.333333333,teaspoon
+275,baking soda,2.0 teaspoon baking soda,AR_156,0.924294472,2,teaspoon
+276,baking soda,1.1428571428571428 teaspoons baking soda,AR_16,0.85882349,1.142857143,teaspoon
+277,baking soda,1.0 teaspoon baking soda,AR_164,0.917012405,1,teaspoon
+278,baking soda,1.3333333333333333 teaspoon baking soda,AR_169,0.873728848,1.333333333,teaspoon
+279,baking soda,1.3333333333333333 teaspoon baking soda,AR_19,0.880000019,1.333333333,teaspoon
+280,baking soda,1.3333333333333333 teaspoon baking soda,AR_196,0.785929632,1.333333333,teaspoon
+281,baking soda,2.0 teaspoon baking soda,AR_197,0.706521749,2,teaspoon
+282,baking soda,1.3333333333333333 teaspoon baking soda,AR_2,0.937981987,1.333333333,teaspoon
+283,baking soda,2.0 teaspoons baking soda,AR_21,0.881944466,2,teaspoon
+284,baking soda,1.3333333333333333 teaspoon baking soda,AR_218,0.877419376,1.333333333,teaspoon
+285,baking soda,2.0 teaspoon baking soda,AR_256,0.870253181,2,teaspoon
+286,baking soda,0.5 teaspoon baking soda,AR_26,0.9,0.5,teaspoon
+287,baking soda,2.0 teaspoons baking soda,AR_28,0.873333359,2,teaspoon
+288,baking soda,0.75 teaspoon baking soda,AR_280,NA,0.75,teaspoon
+289,baking soda,1.0 teaspoon baking soda,AR_3,0.917986774,1,teaspoon
+290,baking soda,0.5 teaspoon baking soda,AR_30,0.859829044,0.5,teaspoon
+291,baking soda,0.8 teaspoon baking soda,AR_32,0.830769253,0.8,teaspoon
+292,baking soda,1.3333333333333333 teaspoon baking soda,AR_33,0.826666641,1.333333333,teaspoon
+293,baking soda,2.0 teaspoon baking soda,AR_35,0.843636322,2,teaspoon
+294,baking soda,2.6666666666666665 teaspoons baking soda,AR_37,0.8,2.666666667,teaspoon
+295,baking soda,1.0 teaspoon baking soda,AR_39,0.6,1,teaspoon
+296,baking soda,1.0 teaspoon baking soda,AR_4,0.922985077,1,teaspoon
+297,baking soda,2.0 teaspoon baking soda,AR_43,0.828866005,2,teaspoon
+298,baking soda,1.0 teaspoon baking soda,AR_45,0.821052647,1,teaspoon
+299,baking soda,1.3333333333333333 teaspoon baking soda,AR_49,0.592592573,1.333333333,teaspoon
+300,baking soda,1.0 teaspoon baking soda,AR_5,0.937341785,1,teaspoon
+301,baking soda,2.0 teaspoons baking soda,AR_50,0.66500001,2,teaspoon
+302,baking soda,2.0 teaspoon baking soda,AR_53,0.692473125,2,teaspoon
+303,baking soda,1.0 teaspoon baking soda,AR_54,0.723741007,1,teaspoon
+304,baking soda,2.0 teaspoon baking soda,AR_55,0.385714293,2,teaspoon
+305,baking soda,1.0 teaspoon baking soda,AR_57,0.595505619,1,teaspoon
+306,baking soda,2.0 teaspoon baking soda,AR_66,0.902002907,2,teaspoon
+307,baking soda,1.5 teaspoon baking soda,AR_67,0.939130402,1.5,teaspoon
+308,baking soda,1.5 teaspoon baking soda,AR_69,0.920792103,1.5,teaspoon
+309,baking soda,0.6666666666666666 teaspoon baking soda,AR_7,0.896335125,0.666666667,teaspoon
+310,baking soda,0.8 teaspoon baking soda,AR_70,0.91003809,0.8,teaspoon
+311,baking soda,1.0 teaspoon baking soda,AR_78,0.915186214,1,teaspoon
+312,baking soda,2.0 teaspoon baking soda,AR_8,0.942446041,2,teaspoon
+313,baking soda,2.0 teaspoon baking soda,AR_84,0.905737686,2,teaspoon
+314,baking soda,1.0 teaspoon baking soda,AR_88,0.955555534,1,teaspoon
+315,baking soda,0.8 teaspoon baking soda,AR_89,0.909890079,0.8,teaspoon
+316,baking soda,2.0 teaspoon baking soda,AR_90,0.902608681,2,teaspoon
+317,baking soda,2.0 teaspoon baking soda,AR_91,0.928301907,2,teaspoon
+318,baking soda,1.6 teaspoon baking soda,AR_95,0.844067764,1.6,teaspoon
+319,baking soda,1.3333333333333333 teaspoon baking soda,AR_96,0.818181801,1.333333333,teaspoon
+320,baking soda,0.8 teaspoon baking soda,AR_97,0.933333302,0.8,teaspoon
+321,baking soda,0.04 cup baking soda,AR_98,0.90666666,1.920003072,teaspoon
+322,baking soda,0.5 teaspoon baking soda,E_133,0.75,0.5,teaspoon
+323,baking soda,0.0888888888889 teaspoon baking soda,E_146,0.5,0.088888889,teaspoon
+324,baking soda,1.0 teaspoons baking soda,E_197,0.875,1,teaspoon
+325,baking soda,0.5 teaspoon baking soda,E_215,0.875,0.5,teaspoon
+326,baking soda,1.33333333333 teaspoon baking soda,E_220,0.75,1.333333333,teaspoon
+327,baking soda,2.57142857143 teaspoons baking soda,E_230,0.875,2.571428571,teaspoon
+328,baking soda,2.0 teaspoon baking soda,E_258,0.75,2,teaspoon
+329,baking soda,2.4 teaspoon baking soda,E_26,0.875,2.4,teaspoon
+330,baking soda,0.333333333333 teaspoon baking soda,E_362,0.625,0.333333333,teaspoon
+331,baking soda,1.14285714286 teaspoon baking soda,E_375,0.75,1.142857143,teaspoon
+332,baking soda,0.545454545455 teaspoon baking soda,E_399,1,0.545454545,teaspoon
+333,baking soda,0.16 teaspoon baking soda,E_509,0.75,0.16,teaspoon
+334,baking soda,1.6 teaspoon baking soda,E_79,0.75,1.6,teaspoon
+335,baking soda,0.48 teaspoon baking soda,E_87,0.75,0.48,teaspoon
+336,baking soda,4.0 teaspoon baking soda,E_88,0.375,4,teaspoon
+337,baking soda,1.0 teaspoon baking soda,E_89,0.875,1,teaspoon
+338,baking soda,0.8 teaspoon baking soda,E_91,1,0.8,teaspoon
+339,baking soda,5.0 teaspoons baking soda,Misc_1,NA,5,teaspoon
+340,baking soda,1.2 teaspoon baking soda,Misc_10,NA,1.2,teaspoon
+341,baking soda,3.33333333333 teaspoons baking soda,Misc_100,NA,3.333333333,teaspoon
+342,baking soda,1.5 teaspoon of baking soda,Misc_101,NA,1.5,teaspoon
+343,baking soda,4.0 tsp 5 ml baking soda,Misc_102,NA,4,teaspoon
+344,baking soda,1.33333333333 teaspoons baking soda,Misc_103,NA,1.333333333,teaspoon
+345,baking soda,1.6 tsp. baking soda,Misc_104,NA,1.6,teaspoon
+346,baking soda,4.0 tsp. baking soda,Misc_105,NA,4,teaspoon
+347,baking soda,1.33333333333 tsp. baking soda,Misc_106,NA,1.333333333,teaspoon
+348,baking soda,1.6 tsp. baking soda,Misc_107,NA,1.6,teaspoon
+349,baking soda,2.0 teaspoon baking soda,Misc_108,NA,2,teaspoon
+350,baking soda,4.0 teaspoons baking soda,Misc_109,NA,4,teaspoon
+351,baking soda,0.8 teaspoon baking soda,Misc_11,NA,0.8,teaspoon
+352,baking soda,1.5 teaspoon baking soda,Misc_110,NA,1.5,teaspoon
+353,baking soda,1.06666666667 teaspoon baking soda,Misc_111,NA,1.066666667,teaspoon
+354,baking soda,2.0 teaspoon baking soda,Misc_112,NA,2,teaspoon
+355,baking soda,1.14285714286 teaspoon baking soda,Misc_113,NA,1.142857143,teaspoon
+356,baking soda,1.6 teaspoon baking soda,Misc_114,NA,1.6,teaspoon
+357,baking soda,2.0 teaspoon baking soda,Misc_12,NA,2,teaspoon
+358,baking soda,0.666666666667 teaspoon baking soda,Misc_13,NA,0.666666667,teaspoon
+359,baking soda,1.84615384615 teaspoon baking soda,Misc_14,NA,1.846153846,teaspoon
+360,baking soda,1.06666666667 teaspoon baking soda,Misc_15,NA,1.066666667,teaspoon
+361,baking soda,1.33333333333 teaspoons baking soda,Misc_16,NA,1.333333333,teaspoon
+362,baking soda,1.0 teaspoon baking soda,Misc_17,NA,1,teaspoon
+363,baking soda,1.33333333333 teaspoon baking soda,Misc_18,NA,1.333333333,teaspoon
+364,baking soda,1.5 teaspoon baking soda,Misc_19,NA,1.5,teaspoon
+365,baking soda,0.5 teaspoon baking soda 0.5 teaspoon,Misc_2,NA,0.5,teaspoon
+366,baking soda,2.0 teaspoon baking soda,Misc_20,NA,2,teaspoon
+367,baking soda,2.0 teaspoon baking soda,Misc_21,NA,2,teaspoon
+368,baking soda,0.75 teaspoon baking soda,Misc_22,NA,0.75,teaspoon
+369,baking soda,1.5 teaspoon baking soda,Misc_23,NA,1.5,teaspoon
+370,baking soda,2.0 ⁄4 teaspoon baking soda,Misc_24,NA,2,teaspoon
+371,baking soda,2.0 tsp. baking soda,Misc_25,NA,2,teaspoon
+372,baking soda,2.5 teaspoons baking soda,Misc_26,NA,2.5,teaspoon
+373,baking soda,2.5 teaspoons baking soda,Misc_27,NA,2.5,teaspoon
+374,baking soda,2.5 teaspoons baking soda,Misc_28,NA,2.5,teaspoon
+375,baking soda,0.666666666667 teaspoon baking soda,Misc_29,NA,0.666666667,teaspoon
+376,baking soda,2.4 teaspoon baking soda,Misc_30,NA,2.4,teaspoon
+377,baking soda,0.4 teaspoon baking soda,Misc_31,NA,0.4,teaspoon
+378,baking soda,2.0 teaspoon baking soda,Misc_32,NA,2,teaspoon
+379,baking soda,0.96 tsp baking soda,Misc_33,NA,0.96,teaspoon
+380,baking soda,3.42857142857 teaspoon baking soda,Misc_34,NA,3.428571429,teaspoon
+381,baking soda,0.923076923077 teaspoon baking soda,Misc_35,NA,0.923076923,teaspoon
+382,baking soda,1.875 tsp baking soda,Misc_36,NA,1.875,teaspoon
+383,baking soda,1.33333333333 teaspoon baking soda,Misc_37,NA,1.333333333,teaspoon
+384,baking soda,1.6 teaspoon baking soda,Misc_38,NA,1.6,teaspoon
+385,baking soda,0.8 teaspoon baking soda,Misc_39,NA,0.8,teaspoon
+386,baking soda,1.0 teaspoon baking soda,Misc_40,NA,1,teaspoon
+387,baking soda,1.2 teaspoon baking soda,Misc_41,NA,1.2,teaspoon
+388,baking soda,1.6 teaspoon baking soda,Misc_42,NA,1.6,teaspoon
+389,baking soda,1.26315789474 teaspoon baking soda,Misc_43,NA,1.263157895,teaspoon
+390,baking soda,1.0 teaspoon baking soda,Misc_44,NA,1,teaspoon
+391,baking soda,1.33333333333 teaspoon baker’s corner baking soda,Misc_45,NA,1.333333333,teaspoon
+392,baking soda,2.0 teaspoon baking soda,Misc_46,NA,2,teaspoon
+393,baking soda,0.571428571429 teaspoon baking soda,Misc_47,NA,0.571428571,teaspoon
+394,baking soda,1.33333333333 teaspoon baking soda,Misc_48,NA,1.333333333,teaspoon
+395,baking soda,"2.0 	teaspoons baking soda",Misc_49,NA,2,teaspoon
+396,baking soda,1.81818181818 teaspoons baking soda,Misc_5,NA,1.818181818,teaspoon
+397,baking soda,"2.0 	teaspoon baking soda",Misc_50,NA,2,teaspoon
+398,baking soda,"0.8 	teaspoon baking soda",Misc_51,NA,0.8,teaspoon
+399,baking soda,"0.72 	teaspoon baking soda",Misc_52,NA,0.72,teaspoon
+400,baking soda,1.0 teaspoon baking soda,Misc_54,NA,1,teaspoon
+401,baking soda,0.571428571429 teaspoon baking soda,Misc_55,NA,0.571428571,teaspoon
+402,baking soda,2.0 teaspoon baking soda,Misc_56,NA,2,teaspoon
+403,baking soda,1.0 teaspoon baking soda,Misc_61,NA,1,teaspoon
+404,baking soda,2.0 teaspoon baking soda,Misc_62,NA,2,teaspoon
+405,baking soda,0.888888888889 teaspoon baking soda,Misc_63,NA,0.888888889,teaspoon
+406,baking soda,1.2 teaspoon baking soda,Misc_64,NA,1.2,teaspoon
+407,baking soda,1.0 teaspoon baking soda,Misc_65,NA,1,teaspoon
+408,baking soda,1.0 tsp. baking soda,Misc_67,NA,1,teaspoon
+409,baking soda,1.0 teaspoon baking soda,Misc_68,NA,1,teaspoon
+410,baking soda,2.0 teaspoon baking soda,Misc_69,NA,2,teaspoon
+411,baking soda,1.6 teaspoon baking soda,Misc_7,NA,1.6,teaspoon
+412,baking soda,1.33333333333 teaspoon baking soda,Misc_70,NA,1.333333333,teaspoon
+413,baking soda,1.0 tsp baking soda,Misc_73,NA,1,teaspoon
+414,baking soda,1.33333333333 tsp. baking soda,Misc_74,NA,1.333333333,teaspoon
+415,baking soda,2.66666666667 teaspoons baking soda,Misc_75,NA,2.666666667,teaspoon
+416,baking soda,2.0 teaspoon baking soda,Misc_76,NA,2,teaspoon
+417,baking soda,1.14285714286 teaspoon baking soda,Misc_77,NA,1.142857143,teaspoon
+418,baking soda,2.4 teaspoon | 5g baking soda,Misc_78,NA,2.4,teaspoon
+419,baking soda,3.42857142857 teaspoon baking soda,Misc_79,NA,3.428571429,teaspoon
+420,baking soda,0.872727272727 teaspoon baking soda,Misc_8,NA,0.872727273,teaspoon
+421,baking soda,2.0 teaspoon baking soda,Misc_80,NA,2,teaspoon
+422,baking soda,1.33333333333 teaspoon baking soda,Misc_81,NA,1.333333333,teaspoon
+423,baking soda,1.71428571429 teaspoon baking soda,Misc_82,NA,1.714285714,teaspoon
+424,baking soda,1.0 tsp baking soda,Misc_83,NA,1,teaspoon
+425,baking soda,1.33333333333 teaspoon baking soda,Misc_85,NA,1.333333333,teaspoon
+426,baking soda,4.0 teaspoon baking soda,Misc_86,NA,4,teaspoon
+427,baking soda,4.0 tsp baking soda,Misc_87,NA,4,teaspoon
+428,baking soda,1.71428571429 tsp baking soda,Misc_89,NA,1.714285714,teaspoon
+429,baking soda,1.0 teaspoon baking soda,Misc_9,NA,1,teaspoon
+430,baking soda,4.8 tsp. baking soda,Misc_90,NA,4.8,teaspoon
+431,baking soda,1.0 tsp baking soda,Misc_91,NA,1,teaspoon
+432,baking soda,1.66666666667 teaspoons baking soda,Misc_94,NA,1.666666667,teaspoon
+433,baking soda,1.66666666667 tsp. baking soda,Misc_95,NA,1.666666667,teaspoon
+434,baking soda,1.8 tsp baking soda,Misc_96,NA,1.8,teaspoon
+435,baking soda,1.37142857143 tsp. baking soda,Misc_97,NA,1.371428571,teaspoon
+436,baking soda,2.0 teaspoon baking soda,Misc_98,NA,2,teaspoon
+437,baking soda,2.66666666667 teaspoon baking soda,Misc_99,NA,2.666666667,teaspoon
+438,bourbon,4.0 tablespoons kentucky bourbon,AR_97,0.933333302,4,tablespoon
+439,bread flour,0.177777777778 cups unbleached bread flour,E_146,0.5,0.177777778,cup
+440,bread flour,6.66666666667 cups bread flour,Misc_1,NA,6.666666667,cup
+441,bread flour,4.44426666667 cups bread flour,Misc_100,NA,4.444266667,cup
+442,bread flour,24.0 ounces bread flour,Misc_21,NA,3,cup
+443,bread flour,1.33333333333 cup/150 grams bread flour,Misc_3,NA,1.333333333,cup
+444,bread flour,"2.66666666667 	cups bread flour",Misc_49,NA,2.666666667,cup
+445,bread flour,2.22222222222 cupsbread flour,Misc_94,NA,2.222222222,cup
+446,brown rice flour,1.33333333333 cups brown rice flour mix,E_197,0.875,1.333333333,cup
+636,butter,1.0 cup butter softened,AR_1,0.920724583,1,cup
+637,butter,0.5333333333333333 cup butter softened,AR_10,0.905162048,0.533333333,cup
+638,butter,0.6666666666666666 cup butter softened,AR_102,0.9375,0.666666667,cup
+639,butter,0.8 cup butter softened,AR_103,0.88125,0.8,cup
+640,butter,1.3333333333333333 cup butter,AR_11,0.902891922,1.333333333,cup
+641,butter,1.0 cup butter,AR_110,0.868292713,1,cup
+642,butter,1.0 cup butter softened,AR_111,1,1,cup
+643,butter,1.5 cups butter softened,AR_119,0.845714283,1.5,cup
+644,butter,1.0 cup butter softened,AR_12,0.873469353,1,cup
+645,butter,2.0 cup butter melted,AR_128,0.714285707,2,cup
+646,butter,0.6666666666666666 cup unsalted butter,AR_14,0.90666666,0.666666667,cup
+647,butter,1.3333333333333333 cup butter,AR_140,0.584615374,1.333333333,cup
+648,butter,16.0 tablespoons butter,AR_142,0.671428585,1,cup
+649,butter,1.0 cup butter softened,AR_144,0.442857122,1,cup
+650,butter,1.3333333333333333 cups butter softened,AR_155,0.931135178,1.333333333,cup
+651,butter,3.0 cup unsalted butter melted,AR_156,0.924294472,3,cup
+652,butter,1.1428571428571428 cups butter,AR_16,0.85882349,1.142857143,cup
+653,butter,1.0 cup butter softened,AR_164,0.917012405,1,cup
+654,butter,1.3333333333333333 cup butter melted,AR_169,0.873728848,1.333333333,cup
+655,butter,2.0 cup butter softened,AR_195,0.585714293,2,cup
+656,butter,1.3333333333333333 cup unsalted butter softened,AR_196,0.785929632,1.333333333,cup
+657,butter,2.0 cup butter,AR_197,0.706521749,2,cup
+658,butter,0.6666666666666666 cup butter,AR_2,0.937981987,0.666666667,cup
+659,butter,0.5 cup butter softened,AR_23,0.869999981,0.5,cup
+660,butter,2.0 cup butter softened,AR_256,0.870253181,2,cup
+661,butter,1.0 cup butter,AR_26,0.9,1,cup
+662,butter,1.0 cup butter softened,AR_27,0.876923084,1,cup
+663,butter,1.0 cup butter softened,AR_3,0.917986774,1,cup
+664,butter,0.5 cup butter softened,AR_30,0.859829044,0.5,cup
+665,butter,0.6666666666666666 cup butter,AR_33,0.826666641,0.666666667,cup
+666,butter,2.0 cup butter softened,AR_35,0.843636322,2,cup
+667,butter,2.0 cups butter softened,AR_37,0.8,2,cup
+668,butter,0.5 cup butter softened,AR_39,0.6,0.5,cup
+669,butter,0.5 cup unsalted butter,AR_39,0.6,0.5,cup
+670,butter,1.0 cup butter,AR_4,0.922985077,1,cup
+671,butter,1.5 cup butter,AR_48,0.677777767,1.5,cup
+672,butter,1.6666666666666665 cups unsalted butter,AR_49,0.592592573,1.666666667,cup
+673,butter,1.0 cup butter softened,AR_5,0.937341785,1,cup
+674,butter,0.6666666666666666 cup butter melted,AR_52,0.476190472,0.666666667,cup
+675,butter,1.0 cup butter softened,AR_55,0.385714293,1,cup
+676,butter,1.0 cup butter,AR_57,0.595505619,1,cup
+677,butter,1.5 cup unsalted butter very soft,AR_67,0.939130402,1.5,cup
+678,butter,1.5 cup unsalted butter,AR_69,0.920792103,1.5,cup
+679,butter,1.0 cup butter softened,AR_7,0.896335125,1,cup
+680,butter,0.8 cup butter softened,AR_70,0.91003809,0.8,cup
+681,butter,1.0 cup butter,AR_78,0.915186214,1,cup
+682,butter,2.0 cup butter,AR_79,0.633333349,2,cup
+683,butter,2.0 cup butter softened,AR_8,0.942446041,2,cup
+684,butter,2.0 cup unsalted butter,AR_84,0.905737686,2,cup
+685,butter,2.0 cup butter chilled,AR_90,0.902608681,2,cup
+686,butter,1.0 cup butter softened,AR_91,0.928301907,1,cup
+687,butter,1.6 cup butter softened,AR_95,0.844067764,1.6,cup
+688,butter,0.6666666666666666 cup butter softened,AR_96,0.818181801,0.666666667,cup
+689,butter,0.8 cup butter softened,AR_97,0.933333302,0.8,cup
+690,butter,1.3333333333333335 cups butter,AR_98,0.90666666,1.333333333,cup
+691,butter,1.0 cup butter,AR_99,0.858333302,1,cup
+692,butter,8 ounces unsalted butter room temperature,E_146,0.5,1,cup
+693,butter,48.0 rounded tablespoon vegan butter,E_169,0.5,3,cup
+694,butter,2.75 cups unsalted butter room temperature,E_21,0.75,2.75,cup
+695,butter,1.0 cup 1 stick unsalted butter room temperature,E_215,0.875,1,cup
+696,butter,1 cup unsalted butter softened,E_220,0.75,1,cup
+697,butter,1.71 cups unsalted butter melted and cooled slightly,E_230,0.875,1.71,cup
+698,butter,1.0 cup 1 stick butter room temperature,E_258,0.75,1,cup
+699,butter,1.2 cup 1 stick unsalted butter room temperature,E_26,0.875,1.2,cup
+700,butter,13.3333333333 tablespoons unsalted butter room temperature,E_362,0.625,0.833333333,cup
+701,butter,0.571428571429 cup 1 stick unsalted butter room temperature,E_375,0.75,0.571428571,cup
+702,butter,30.5454545455 tablespoons cold unsalted butter chopped,E_399,1,1.909090909,cup
+703,butter,0.2 cups unsalted butter softened,E_509,0.75,0.2,cup
+704,butter,3.2 sticks 1 cup unsalted butter softened,E_79,0.75,3.2,cup
+705,butter,9.6 ounces unsalted butter at room temperature,E_87,0.75,1.2,cup
+706,butter,8.0 cup unsalted butter at room temperature,E_88,0.375,8,cup
+707,butter,1.0 cup 2 sticks unsalted butter cut into small cubes at room temperature,E_89,0.875,1,cup
+708,butter,0.8 cup 2 sticks butter softened,E_91,1,0.8,cup
+709,butter,5.0 cups unsalted butter,Misc_1,NA,5,cup
+710,butter,0.8 cup 1 stick unsalted butter,Misc_10,NA,0.8,cup
+711,butter,2.66666666667  2.66666666667 /4 cups unsalted butter,Misc_100,NA,2.666666667,cup
+712,butter,"39.0 tablespoons of butter, melted and cooled",Misc_101,NA,2.4375,cup
+713,butter,4.0 cup 240 g of unsalted butter,Misc_102,NA,4,cup
+714,butter,"1.33333333333 cups butter, softened",Misc_103,NA,1.333333333,cup
+715,butter,"0.8 cup 1 stick/4 oz./125 g unsalted butter, at room temperature",Misc_104,NA,0.8,cup
+716,butter,"1.33333333333 cup 2 sticks unsalted butter, at room temperature",Misc_106,NA,1.333333333,cup
+717,butter,"1.0 cup unsalted butter, at room temperature",Misc_108,NA,1,cup
+718,butter,2.0 cups butter,Misc_109,NA,2,cup
+719,butter,"0.8 cup 2 sticks butter, softened",Misc_11,NA,0.8,cup
+720,butter,"12.0 ounces unsalted butter, soft but cool, about 65°f 18°c",Misc_110,NA,1.5,cup
+721,butter,"1.06666666667 cup unsalted butter , melted and cooled at least 10 minutes 226g",Misc_111,NA,1.066666667,cup
+722,butter,1.14285714286 cup salted butter/softened at room temperature,Misc_113,NA,1.142857143,cup
+723,butter,"2.4 sticks 12 tablespoons unsalted butter, at room temperature",Misc_114,NA,0.15,cup
+724,butter,"1.0 cup unsalted butter see notes below, room temperature",Misc_12,NA,1,cup
+725,butter,"1.33333333333 cup 2 sticks unsalted butter, room temperature",Misc_13,NA,1.333333333,cup
+726,butter,"1.06666666667 cup unsalted butter , melted and cooled at least 10 minutes 226g",Misc_15,NA,1.066666667,cup
+727,butter,1.5 cups land o lakes® butter softened,Misc_17,NA,1.5,cup
+728,butter,"0.666666666667 cup unsalted butter, right from the fridge, or at room temperature",Misc_18,NA,0.666666667,cup
+729,butter,1.5 cup unsalted butter melted and then cooled for at least 5 minutes* 226g,Misc_19,NA,1.5,cup
+730,butter,4.0 ounces butter 4.0 ounces/1 stick,Misc_2,NA,0.5,cup
+731,butter,"4.0 sticks 1 cup unsalted butter, softened",Misc_20,NA,4,cup
+732,butter,16.0 ounces unsalted butter,Misc_21,NA,2,cup
+733,butter,"0.5 pound 2 sticks cold unsalted butter, cut into small pieces",Misc_22,NA,0.00390625,cup
+734,butter,"0.666666666667 cup butter, softened",Misc_24,NA,0.666666667,cup
+735,butter,"2.0 cup butter, softened",Misc_26,NA,2,cup
+736,butter,"32.0 tablespoons 230 grams unsalted butter, at room temperature 2 sticks",Misc_27,NA,2,cup
+737,butter,"32.0 tablespoons 230 grams unsalted butter, at room temperature 2 sticks",Misc_28,NA,2,cup
+738,butter,"16.0 tablespoons 1 1/2 sticks butter, melted and cooled for 5 minutes",Misc_29,NA,1,cup
+739,butter,"14.6666666667 tablespoons/150 grams unsalted butter, melted",Misc_3,NA,0.916666667,cup
+740,butter,"2.4 cup unsalted butter, melted",Misc_30,NA,2.4,cup
+741,butter,0.4 cup butter,Misc_31,NA,0.4,cup
+742,butter,"2.0 cup butter 1/2 cup melted,  1/2 cup softened",Misc_32,NA,2,cup
+743,butter,"0.96 cup butter unsalted, melted",Misc_33,NA,0.96,cup
+744,butter,3.42857142857 cup 8 oz/240g butter,Misc_34,NA,3.428571429,cup
+745,butter,"0.923076923077 cup 1 stick salted butter, softened",Misc_35,NA,0.923076923,cup
+746,butter,1.875 cups real unsalted butter,Misc_36,NA,1.875,cup
+747,butter,"2.13333333333 cups butter, softened",Misc_38,NA,2.133333333,cup
+748,butter,"0.8 cup butter 2 sticks , softened",Misc_39,NA,0.8,cup
+749,butter,"1.0 cup 2 sticks 226 grams unsalted butter, room temperature",Misc_40,NA,1,cup
+750,butter,"0.6 cup 1 stick salted butter, very soft",Misc_41,NA,0.6,cup
+751,butter,"1.6 cup butter, softened",Misc_42,NA,1.6,cup
+752,butter,"1.26315789474 cup 230 grams unsalted butter, softened to room temperature",Misc_43,NA,1.263157895,cup
+753,butter,24.0 tablespoons butter 1 1/2 sticks melted and cooled until warm,Misc_44,NA,1.5,cup
+754,butter,1.33333333333 cup countryside creamery unsalted butter softened,Misc_45,NA,1.333333333,cup
+755,butter,0.666666666667 cup butter softened,Misc_46,NA,0.666666667,cup
+756,butter,"0.571428571429 cup butter, softened",Misc_47,NA,0.571428571,cup
+757,butter,"0.666666666667 cup unsalted butter, right from the fridge, or at room temperature",Misc_48,NA,0.666666667,cup
+758,butter,"2.0 	cups 2 1/2 sticks butter, at room temperature",Misc_49,NA,2,cup
+759,butter,"11.6363636364 ounces butter, softened",Misc_5,NA,1.454545455,cup
+760,butter,"2.0 	cup 2 sticks unsalted butter, room temperature",Misc_50,NA,2,cup
+761,butter,"8.53333333333 	ounces unsalted butter, at room temperature",Misc_51,NA,1.066666667,cup
+762,butter,"1.92 	sticks 8 ounces; 1.92 1.92 6 grams unsalted butter, cut into chunks, at room temperature",Misc_52,NA,0.24,cup
+763,butter,"42.0 	tablespoons unsalted butter 1 3/4 sticks",Misc_53,NA,2.625,cup
+764,butter,"1.14285714286 cup unsalted butter, room temperature",Misc_55,NA,1.142857143,cup
+765,butter,"28.0 tablespoons butter, melted",Misc_6,NA,1.75,cup
+766,butter,2.0 cup butter softened,Misc_62,NA,2,cup
+767,butter,"1.77777777778 cup 2 sticks unsalted butter, softened",Misc_63,NA,1.777777778,cup
+768,butter,"1.2 cup 2 sticks lightly salted butter, at room temperature",Misc_64,NA,1.2,cup
+769,butter,1.0 cup softened butter,Misc_65,NA,1,cup
+770,butter,1.0 cup 113 g butter,Misc_68,NA,1,cup
+771,butter,"12.8 ounces butter, softened",Misc_7,NA,1.6,cup
+772,butter,"1.33333333333 cup butter, softened to cool room temperature not overly warm or melty",Misc_70,NA,1.333333333,cup
+773,butter,1.0 cup room temperature unsalted butter,Misc_73,NA,1,cup
+774,butter,"1.77777777778 cup unsalted butter, melted and cooled slightly",Misc_75,NA,1.777777778,cup
+775,butter,"2.0 cup unsalted butter, cold",Misc_76,NA,2,cup
+776,butter,10.2857142857 ounces butter,Misc_77,NA,1.285714286,cup
+777,butter,"2.57142857143 cup unsalted butter, softened 1 1/2 sticks",Misc_79,NA,2.571428571,cup
+778,butter,0.872727272727 cup butter,Misc_8,NA,0.872727273,cup
+779,butter,"2.0 cup 1 1/2 sticks unsalted butter, melted",Misc_81,NA,2,cup
+780,butter,1.71428571429 cup butter melted,Misc_82,NA,1.714285714,cup
+781,butter,0.75 cup butter softened,Misc_83,NA,0.75,cup
+782,butter,44.3076923077 tbsp unsalted butter,Misc_84,NA,2.769230769,cup
+783,butter,0.666666666667 cup unsalted butter at room temperature,Misc_85,NA,0.666666667,cup
+784,butter,"2.0 cup butter, softened to room temperature",Misc_86,NA,2,cup
+785,butter,"1.71428571429 cup, 1 stick, butter",Misc_89,NA,1.714285714,cup
+786,butter,"4.8 ⁄2 cups unsalted butter, softened",Misc_90,NA,4.8,cup
+787,butter,"1.0 cup 2 sticks unsalted butter, melted and cooled",Misc_91,NA,1,cup
+788,butter,1.33333333333 cup butter,Misc_93,NA,1.333333333,cup
+789,butter,1.66666666667 cups 284g unsalted butter,Misc_94,NA,1.666666667,cup
+790,butter,"1.2 cup 115 g unsalted butter, softened at room temperature",Misc_96,NA,1.2,cup
+791,butter,1.82856685714 cup unsalted butter,Misc_97,NA,1.828566857,cup
+792,butter,4.0 sticks 1 cup unsalted butter,Misc_98,NA,4,cup
+793,butter,"2.66666666667 cup 2 sticks unsalted butter, softened *see notes",Misc_99,NA,2.666666667,cup
+794,cake flour,1.0 cup cake flour,AR_119,0.845714283,1,cup
+795,cake flour,0.133333333333 cups unbleached cake flour,E_146,0.5,0.133333333,cup
+796,cake flour,8.0 cups minus 2 tablespoons cake flour,Misc_1,NA,8,cup
+797,cake flour,2.33333333333 cups cake flour,Misc_100,NA,2.333333333,cup
+798,cake flour,"3.2 	cups minus 3.2  tablespoons cake flour",Misc_49,NA,3.2,cup
+799,cake flour,2.5 cups cake flour,Misc_94,NA,2.5,cup
+800,cake mix,24.333 ounce package yellow cake mix,AR_113,0.8,24.333,ounce
+801,cake mix,18.25 ounce yellow cake mix,AR_23,0.869999981,18.25,ounce
+802,cake mix,36.5 ounce moist yellow cake mix,AR_99,0.858333302,36.5,ounce
+1015,cinnamon,0.5 teaspoon ground cinnamon optional,AR_12,0.873469353,0.5,teaspoon
+1016,cinnamon,1.3333333333333333 teaspoon ground cinnamon,AR_140,0.584615374,1.333333333,teaspoon
+1017,cinnamon,2.6666666666666665 teaspoons ground cinnamon,AR_27,0.876923084,2.666666667,teaspoon
+1018,cinnamon,0.6666666666666666 teaspoon ground cinnamon,AR_96,0.818181801,0.666666667,teaspoon
+1019,cinnamon,0.6 teaspoon ground cinnamon,Misc_30,NA,0.6,teaspoon
+1020,coconut,0.3333333333333333 cup flaked coconut,AR_140,0.584615374,0.333333333,cup
+1021,coconut,1.0 cup flaked coconut,AR_28,0.873333359,1,cup
+1022,coconut extract,4.0 teaspoon coconut extract,AR_107,0.927272701,4,teaspoon
+1023,cookie mix,2.6666666666666665 cups basic cookie mix,AR_52,0.476190472,2.666666667,cup
+1024,coriander,"0.24 	teaspoon ground coriander",Misc_52,NA,0.24,teaspoon
+1025,corn syrup,0.5 cup karo® light or dark corn syrup,AR_88,0.955555534,8,tablespoon
+1026,corn syrup,4.0 tablespoons light corn syrup,Misc_6,NA,4,tablespoon
+1027,cornstarch,2.13333333333 teaspoons cornstarch,Misc_111,NA,2.133333333,teaspoon
+1028,cornstarch,2.13333333333 teaspoons cornstarch,Misc_15,NA,2.133333333,teaspoon
+1029,cornstarch,3.0 teaspoon cornstarch,Misc_19,NA,3,teaspoon
+1030,cornstarch,4.0 teaspoons cornstarch,Misc_56,NA,4,teaspoon
+1031,cornstarch,8.0 teaspoons cornstarch,Misc_86,NA,8,teaspoon
+1032,cornstarch,8.0 tsp cornstarch,Misc_87,NA,8,teaspoon
+1033,cornstarch,1.33333333333 tsp. cornstarch,Misc_95,NA,1.333333333,teaspoon
+1034,cream,1.3333333333333333 teaspoon cream,AR_96,0.818181801,1.333333333,teaspoon
+1035,crispy rice,0.8 cup crispy rice cereal,AR_118,0.830769253,0.8,cup
+1036,crispy rice,0.6666666666666666 cup crispy rice cereal,AR_19,0.880000019,0.666666667,cup
+1037,crispy rice,0.5 cup crispy rice cereal,AR_280,NA,0.5,cup
+1038,egg,2.0 eggs,AR_1,0.920724583,2,egg
+1039,egg,1.6 eggs,AR_10,0.905162048,1.6,egg
+1040,egg,1.476923076923077 eggs,AR_101,0.6,1.476923077,egg
+1041,egg,2.6666666666666665 eggs,AR_102,0.9375,2.666666667,egg
+1042,egg,1.6 eggs,AR_103,0.88125,1.6,egg
+1043,egg,8.0 eggs,AR_107,0.927272701,8,egg
+1044,egg,1.1428571428571428 eggs,AR_108,0.867741966,1.142857143,egg
+1045,egg,1.3333333333333333 eggs,AR_109,0.871794891,1.333333333,egg
+1046,egg,2.6666666666666665 eggs,AR_11,0.902891922,2.666666667,egg
+1047,egg,1.0 egg,AR_110,0.868292713,1,egg
+1048,egg,4.0 eggs,AR_111,1,4,egg
+1049,egg,2.6666666666666665 eggs,AR_113,0.8,2.666666667,egg
+1050,egg,1.0 egg,AR_116,0.847999954,1,egg
+1051,egg,1.6 eggs,AR_118,0.830769253,1.6,egg
+1052,egg,2.0 eggs,AR_119,0.845714283,2,egg
+1053,egg,2.0 eggs,AR_12,0.873469353,2,egg
+1054,egg,4.0 eggs,AR_128,0.714285707,4,egg
+1055,egg,4.0 egg,AR_13,0.909016418,4,egg
+1056,egg,1.3333333333333333 eggs,AR_14,0.90666666,1.333333333,egg
+1057,egg,2.6666666666666665 eggs,AR_140,0.584615374,2.666666667,egg
+1058,egg,2.6666666666666665 eggs,AR_141,0.784615374,2.666666667,egg
+1059,egg,4.0 eggs,AR_142,0.671428585,4,egg
+1060,egg,2.0 egg,AR_144,0.442857122,2,egg
+1061,egg,2.0 eggs,AR_15,0.924302769,2,egg
+1062,egg,2.6666666666666665 eggs,AR_155,0.931135178,2.666666667,egg
+1063,egg,4.0 egg,AR_156,0.924294472,4,egg
+1064,egg,4.0 egg yolk,AR_156,0.924294472,4,egg
+1065,egg,2.2857142857142856 eggs,AR_16,0.85882349,2.285714286,egg
+1066,egg,2.0 large eggs,AR_164,0.917012405,2,egg
+1067,egg,2.6666666666666665 eggs,AR_169,0.873728848,2.666666667,egg
+1068,egg,2.6666666666666665 eggs,AR_19,0.880000019,2.666666667,egg
+1069,egg,4.0 eggs,AR_195,0.585714293,4,egg
+1070,egg,2.6666666666666665 eggs,AR_196,0.785929632,2.666666667,egg
+1071,egg,4.0 egg,AR_197,0.706521749,4,egg
+1072,egg,1.3333333333333333 egg,AR_2,0.937981987,1.333333333,egg
+1073,egg,2.6666666666666665 eggs,AR_21,0.881944466,2.666666667,egg
+1074,egg,1.3333333333333333 egg,AR_218,0.877419376,1.333333333,egg
+1075,egg,2.0 eggs,AR_23,0.869999981,2,egg
+1076,egg,4.0 eggs,AR_256,0.870253181,4,egg
+1077,egg,2.0 eggs,AR_26,0.9,2,egg
+1078,egg,1.3333333333333333 egg,AR_27,0.876923084,1.333333333,egg
+1079,egg,4.0 eggs,AR_28,0.873333359,4,egg
+1080,egg,2.0 eggs,AR_3,0.917986774,2,egg
+1081,egg,1.0 egg,AR_30,0.859829044,1,egg
+1082,egg,3.2 eggs,AR_32,0.830769253,3.2,egg
+1083,egg,2.6666666666666665 eggs,AR_33,0.826666641,2.666666667,egg
+1084,egg,4.0 egg,AR_35,0.843636322,4,egg
+1085,egg,2.6666666666666665 eggs,AR_37,0.8,2.666666667,egg
+1086,egg,2.0 eggs,AR_39,0.6,2,egg
+1087,egg,2.0 eggs,AR_4,0.922985077,2,egg
+1088,egg,4.0 eggs,AR_43,0.828866005,4,egg
+1089,egg,2.0 eggs,AR_45,0.821052647,2,egg
+1090,egg,8.0 eggs,AR_47,0.7125,8,egg
+1091,egg,4.0 eggs,AR_48,0.677777767,4,egg
+1092,egg,2.6666666666666665 eggs,AR_49,0.592592573,2.666666667,egg
+1093,egg,2.0 eggs,AR_5,0.937341785,2,egg
+1094,egg,4.0 eggs,AR_50,0.66500001,4,egg
+1095,egg,1.3333333333333333 egg,AR_52,0.476190472,1.333333333,egg
+1096,egg,4.0 eggs,AR_53,0.692473125,4,egg
+1097,egg,4.0 egg white,AR_54,0.723741007,4,egg
+1098,egg,4.0 eggs,AR_55,0.385714293,4,egg
+1099,egg,2.0 eggs,AR_57,0.595505619,2,egg
+1100,egg,4.0 eggs,AR_66,0.902002907,4,egg
+1101,egg,1.5 large egg,AR_67,0.939130402,1.5,egg
+1102,egg,3.0 large egg,AR_69,0.920792103,3,egg
+1103,egg,1.3333333333333333 egg,AR_7,0.896335125,1.333333333,egg
+1104,egg,1.6 eggs,AR_70,0.91003809,1.6,egg
+1105,egg,2.0 eggs,AR_78,0.915186214,2,egg
+1106,egg,4.0 eggs,AR_79,0.633333349,4,egg
+1107,egg,4.0 eggs,AR_8,0.942446041,4,egg
+1108,egg,4.0 egg,AR_84,0.905737686,4,egg
+1109,egg,1.0 egg,AR_88,0.955555534,1,egg
+1110,egg,1.6 eggs,AR_89,0.909890079,1.6,egg
+1111,egg,4.0 eggs,AR_90,0.902608681,4,egg
+1112,egg,4.0 eggs,AR_91,0.928301907,4,egg
+1113,egg,3.2 eggs,AR_95,0.844067764,3.2,egg
+1114,egg,2.6666666666666665 eggs,AR_96,0.818181801,2.666666667,egg
+1115,egg,1.6 eggs,AR_97,0.933333302,1.6,egg
+1116,egg,4.0 eggs,AR_98,0.90666666,4,egg
+1117,egg,2.0 egg,AR_99,0.858333302,2,egg
+1118,egg,1.0 egg,E_133,0.75,1,egg
+1119,egg,0.266666666667 large eggs,E_146,0.5,0.266666667,egg
+1120,egg,1.33333333333 large eggs,E_197,0.875,1.333333333,egg
+1121,egg,2.4 large egg room temperature,E_21,0.75,2.4,egg
+1122,egg,4.0 large egg yolks,E_215,0.875,4,egg
+1123,egg,2.0 large egg,E_215,0.875,2,egg
+1124,egg,1.33333333333 large egg,E_220,0.75,1.333333333,egg
+1125,egg,5.14285714286 large eggs,E_230,0.875,5.142857143,egg
+1126,egg,4.0 large eggs,E_258,0.75,4,egg
+1127,egg,4.8 large eggs,E_26,0.875,4.8,egg
+1128,egg,2.66666666667 large eggs,E_362,0.625,2.666666667,egg
+1129,egg,2.28571428571 large eggs,E_375,0.75,2.285714286,egg
+1130,egg,2.18181818182 egg,E_399,1,2.181818182,egg
+1131,egg,0.32 large egg,E_509,0.75,0.32,egg
+1132,egg,3.2 large eggs,E_79,0.75,3.2,egg
+1133,egg,1.92 large eggs,E_87,0.75,1.92,egg
+1134,egg,16.0 eggs,E_88,0.375,16,egg
+1135,egg,2.0 large eggs at room temperature,E_89,0.875,2,egg
+1136,egg,1.6 large eggs,E_91,1,1.6,egg
+1137,egg,8.0 large eggs,Misc_1,NA,8,egg
+1138,egg,3.2 large eggs,Misc_10,NA,3.2,egg
+1139,egg,5.33333333333 large eggs,Misc_100,NA,5.333333333,egg
+1140,egg,3.0 large egg,Misc_101,NA,3,egg
+1141,egg,3.0 large egg yolk,Misc_101,NA,3,egg
+1142,egg,8.0 eggs,Misc_102,NA,8,egg
+1143,egg,2.66666666667 eggs,Misc_103,NA,2.666666667,egg
+1144,egg,1.6 large egg,Misc_104,NA,1.6,egg
+1145,egg,8.0 egg,Misc_105,NA,8,egg
+1146,egg,"1.33333333333 whole egg, plus 1.33333333333 yolk",Misc_106,NA,1.333333333,egg
+1147,egg,1.6 large egg,Misc_107,NA,1.6,egg
+1148,egg,2.0 large egg,Misc_108,NA,2,egg
+1149,egg,4.0 large eggs,Misc_109,NA,4,egg
+1150,egg,1.6 large eggs,Misc_11,NA,1.6,egg
+1151,egg,"1.5 large egg, straight from the fridge",Misc_110,NA,1.5,egg
+1152,egg,1.06666666667 large egg + 1.06666666667 yolks room temperature preferred*,Misc_111,NA,1.066666667,egg
+1153,egg,5.33333333333 large eggs,Misc_112,NA,5.333333333,egg
+1154,egg,2.28571428571 large eggs,Misc_113,NA,2.285714286,egg
+1155,egg,3.2 large eggs,Misc_114,NA,3.2,egg
+1156,egg,2.0 large egg,Misc_12,NA,2,egg
+1157,egg,2.66666666667 large eggs,Misc_13,NA,2.666666667,egg
+1158,egg,"3.69230769231 large eggs, at room temperature",Misc_14,NA,3.692307692,egg
+1159,egg,1.06666666667 large egg + 1.06666666667 yolks room temperature preferred*,Misc_15,NA,1.066666667,egg
+1160,egg,2.0 eggs,Misc_16,NA,2,egg
+1161,egg,2.0 large land o lakes® eggs,Misc_17,NA,2,egg
+1162,egg,1.33333333333 large egg,Misc_18,NA,1.333333333,egg
+1163,egg,3.0 eggs room temperature preferred,Misc_19,NA,3,egg
+1164,egg,1.0 egg,Misc_2,NA,1,egg
+1165,egg,4.0 large eggs,Misc_20,NA,4,egg
+1166,egg,2.0 large egg,Misc_21,NA,2,egg
+1167,egg,2.0 large egg yolk,Misc_21,NA,2,egg
+1168,egg,2.0 large eggs,Misc_22,NA,2,egg
+1169,egg,4.0 large eggs,Misc_23,NA,4,egg
+1170,egg,"1.33333333333 large eggs, slightly beaten",Misc_24,NA,1.333333333,egg
+1171,egg,4.0 extra large eggs,Misc_25,NA,4,egg
+1172,egg,4.0 large eggs,Misc_26,NA,4,egg
+1173,egg,"4.0 large eggs, at room temperature",Misc_27,NA,4,egg
+1174,egg,"4.0 large eggs, at room temperature",Misc_28,NA,4,egg
+1175,egg,1.33333333333 large egg,Misc_29,NA,1.333333333,egg
+1176,egg,1.33333333333 egg yolk when i double the recipe i do 3 eggs instead of 2 eggs and 2 yolks… it’s up to you,Misc_29,NA,1.333333333,egg
+1177,egg,1.33333333333 egg plus 1 yolk,Misc_3,NA,1.333333333,egg
+1178,egg,4.8 large eggs,Misc_30,NA,4.8,egg
+1179,egg,1.6 eggs,Misc_31,NA,1.6,egg
+1180,egg,4.0 eggs,Misc_32,NA,4,egg
+1181,egg,1.92 eggs,Misc_33,NA,1.92,egg
+1182,egg,6.85714285714 large eggs*,Misc_34,NA,6.857142857,egg
+1183,egg,1.84615384615 large egg,Misc_35,NA,1.846153846,egg
+1184,egg,3.0 large eggs,Misc_36,NA,3,egg
+1185,egg,2.66666666667 large eggs room temperature,Misc_37,NA,2.666666667,egg
+1186,egg,3.2 eggs,Misc_38,NA,3.2,egg
+1187,egg,1.6 eggs,Misc_39,NA,1.6,egg
+1188,egg,4.8 egg,Misc_4,NA,4.8,egg
+1189,egg,2.0 large eggs,Misc_40,NA,2,egg
+1190,egg,2.4 large eggs,Misc_41,NA,2.4,egg
+1191,egg,3.2 eggs,Misc_42,NA,3.2,egg
+1192,egg,"2.52631578947 large eggs, room temperature",Misc_43,NA,2.526315789,egg
+1193,egg,2.0 large egg + 2.0 egg yolk,Misc_44,NA,2,egg
+1194,egg,2.66666666667 goldhen large eggs,Misc_45,NA,2.666666667,egg
+1195,egg,2.0 egg,Misc_46,NA,2,egg
+1196,egg,1.14285714286 large eggs,Misc_47,NA,1.142857143,egg
+1197,egg,1.33333333333 large egg,Misc_48,NA,1.333333333,egg
+1198,egg,"3.2 	large eggs",Misc_49,NA,3.2,egg
+1199,egg,2.90909090909 eggs,Misc_5,NA,2.909090909,egg
+1200,egg,"4.0 	eggs",Misc_50,NA,4,egg
+1201,egg,"2.13333333333 	large eggs",Misc_51,NA,2.133333333,egg
+1202,egg,"1.92 	large eggs, at room temperature",Misc_52,NA,1.92,egg
+1203,egg,"3.0 	large egg",Misc_53,NA,3,egg
+1204,egg,"3.0 	large egg yolk",Misc_53,NA,3,egg
+1205,egg,1.33333333333 egg,Misc_54,NA,1.333333333,egg
+1206,egg,"2.28571428571 extra large eggs, room temperature",Misc_55,NA,2.285714286,egg
+1207,egg,"2.0 large egg, at room temperature",Misc_56,NA,2,egg
+1208,egg,"4.0 eggs, whole",Misc_60,NA,4,egg
+1209,egg,2.0 large eggs,Misc_61,NA,2,egg
+1210,egg,4.0 eggs,Misc_62,NA,4,egg
+1211,egg,"1.77777777778 large egg, cracked into a small cup or saucer",Misc_63,NA,1.777777778,egg
+1212,egg,"2.4 large eggs, beaten",Misc_64,NA,2.4,egg
+1213,egg,1.0 egg,Misc_65,NA,1,egg
+1214,egg,2.0 egg,Misc_67,NA,2,egg
+1215,egg,2.0 large egg,Misc_68,NA,2,egg
+1216,egg,4.0 egg,Misc_69,NA,4,egg
+1217,egg,4.8 eggs,Misc_7,NA,4.8,egg
+1218,egg,1.33333333333 large egg,Misc_70,NA,1.333333333,egg
+1219,egg,4.8 large egg,Misc_72,NA,4.8,egg
+1220,egg,2.0 eggs,Misc_73,NA,2,egg
+1221,egg,2.66666666667 eggs,Misc_74,NA,2.666666667,egg
+1222,egg,3.55555555556 large eggs,Misc_75,NA,3.555555556,egg
+1223,egg,"4.0 large or extra large eggs, room temperature",Misc_76,NA,4,egg
+1224,egg,3.42857142857 each eggs,Misc_77,NA,3.428571429,egg
+1225,egg,2.4 egg,Misc_78,NA,2.4,egg
+1226,egg,3.42857142857 large egg,Misc_79,NA,3.428571429,egg
+1227,egg,1.74545454545 eggs,Misc_8,NA,1.745454545,egg
+1228,egg,4.0 egg,Misc_80,NA,4,egg
+1229,egg,2.66666666667 large egg,Misc_81,NA,2.666666667,egg
+1230,egg,2.66666666667 additional egg yolk,Misc_81,NA,2.666666667,egg
+1231,egg,3.42857142857 egg,Misc_82,NA,3.428571429,egg
+1232,egg,2.0 eggs,Misc_83,NA,2,egg
+1233,egg,3.69230769231 egg,Misc_84,NA,3.692307692,egg
+1234,egg,3.69230769231 egg yolk,Misc_84,NA,3.692307692,egg
+1235,egg,1.33333333333 large egg,Misc_85,NA,1.333333333,egg
+1236,egg,4.0 egg,Misc_86,NA,4,egg
+1237,egg,4.0 egg + 4.0 egg yolk,Misc_87,NA,4,egg
+1238,egg,3.42857142857 large egg,Misc_89,NA,3.428571429,egg
+1239,egg,1.0 egg,Misc_9,NA,1,egg
+1240,egg,7.2 eggs,Misc_90,NA,7.2,egg
+1241,egg,"1.0 egg + 1.0 yolk, room temperature",Misc_91,NA,1,egg
+1242,egg,2.66666666667 egg,Misc_92,NA,2.666666667,egg
+1243,egg,2.66666666667 eggs,Misc_93,NA,2.666666667,egg
+1244,egg,"2.66666666667 large eggs, room temperature",Misc_94,NA,2.666666667,egg
+1245,egg,2.66666666667 eggs,Misc_95,NA,2.666666667,egg
+1246,egg,2.4 large egg,Misc_96,NA,2.4,egg
+1247,egg,2.74285714286 large eggs,Misc_97,NA,2.742857143,egg
+1248,egg,2.0 large egg plus 2.0 egg yolk,Misc_98,NA,2,egg
+1249,egg,"5.33333333333 large eggs, cold",Misc_99,NA,5.333333333,egg
+1250,espresso,4.0 tsp instant espresso powder,Misc_87,NA,4,teaspoon
+1251,flour,2.25 cup flour,Misc_83,NA,2.25,cup
+1252,graham cracker,0.36923076923076925 cup finely ground graham cracker crumbs,AR_101,0.6,0.369230769,cup
+1253,honey,0.6666666666666666 cup honey,AR_19,0.880000019,0.666666667,cup
+1254,honey,2.6666666666666665 teaspoons honey,AR_33,0.826666641,0.05555,cup
+1255,instant coffee,6.0 teaspoons instant espresso coffee powder,AR_84,0.905737686,6,teaspoon
+1256,lemon juice,1.2 teaspoon lemon juice,Misc_30,NA,1.2,teaspoon
+1257,liquer,2.0 teaspoon coffee flavored liqueur,AR_128,0.714285707,2,teaspoon
+1258,liquer,2.0 tablespoon coffee flavored liqueur,AR_91,0.928301907,18,teaspoon
+1259,macadmia,1.0 cup chopped macadamia nuts,AR_28,0.873333359,1,cup
+1260,maple,0.7384615384615385 tablespoons real maple syrup,AR_101,0.6,0.738461538,tablespoon
+1261,maple,0.375 cup maple syrup 60ml,Misc_19,NA,6.086,tablespoon
+1262,margarine,0.36923076923076925 cup margarine,AR_101,0.6,0.369230769,cup
+1263,margarine,0.6666666666666666 cup margarine softened,AR_102,0.9375,0.666666667,cup
+1264,margarine,1.0 cup margarine softened,AR_15,0.924302769,1,cup
+1265,margarine,0.6000000000000001 cup margarine,AR_32,0.830769253,0.6,cup
+1266,margarine,1.0 cup butter or margarine,AR_45,0.821052647,1,cup
+1267,margarine,2.0 cup margarine,AR_53,0.692473125,2,cup
+1268,margarine,0.75 cup butter or margarine softened,AR_88,0.955555534,0.75,cup
+1269,margarine,"1.0 cups butter or margarine, softened save $",Misc_16,NA,1,cup
+1270,margarine,"1.0 cup butter or margarine, softened",Misc_61,NA,1,cup
+1271,margarine,"1.0 cup butter or margarine, softened",Misc_67,NA,1,cup
+1272,margarine,"1.0 cup butter or margarine, softened",Misc_9,NA,1,cup
+1273,marshmallows,2.0 cups miniature marshmallows,AR_140,0.584615374,2,cup
+1274,milk,8.0 tablespoons milk,AR_107,0.927272701,8,tablespoon
+1275,milk,1.0 tablespoon milk,AR_110,0.868292713,1,tablespoon
+1276,milk,1.3333333333333333 tablespoons milk,AR_14,0.90666666,1.333333333,tablespoon
+1277,milk,5.333333333333333 tablespoons milk,AR_21,0.881944466,5.333333333,tablespoon
+1278,milk,2.0 tablespoons milk,AR_39,0.6,2,tablespoon
+1279,milk,2.0 cups milk,AR_50,0.66500001,32,tablespoon
+1280,milk,2.0 cup milk,AR_53,0.692473125,32,tablespoon
+1281,milk,2.0 tablespoons milk,AR_57,0.595505619,2,tablespoon
+1282,milk,3.0 tablespoons milk,AR_67,0.939130402,3,tablespoon
+1283,milk,0.3333333333333333 cup milk,AR_96,0.818181801,5.333,tablespoon
+1284,milk,4.36363636364 tablespoons milk,E_399,1,4.363636364,tablespoon
+1286,chocolate raisin,4.0 cup 150 g milk chocolate covered raisins,Misc_102,NA,4,cup
+1290,milk,4.0 tablespoons whole milk,Misc_21,NA,4,tablespoon
+1296,milk,2.66666666667 tablespoons milk,Misc_54,NA,2.666666667,tablespoon
+1297,milk,4.0 tablespoons milk,Misc_6,NA,4,tablespoon
+1302,milk,5.33333333333 tablespoons nonfat milk powder,Misc_92,NA,5.333333333,tablespoon
+1303,molasses,1.0 tbsp unsulphured molasses,Misc_73,NA,1,tablespoon
+1304,nestle,0.4 cup nestle's quik powder,E_79,0.75,0.4,cup
+1305,nutmeg,0.1875 teaspoon grated nutmeg,Misc_110,NA,0.1875,teaspoon
+1306,nutmeg,"0.24 	teaspoon freshly grated nutmeg",Misc_52,NA,0.24,teaspoon
+1307,nuts,1.0 cup coarsely chopped nuts,AR_12,0.873469353,1,cup
+1308,nuts,1.0 cup chopped nuts,AR_164,0.917012405,1,cup
+1309,nuts,0.8 cup chopped nuts,E_91,1,0.8,cup
+1310,nuts,"3.0 cups nuts, any kind of nuts optional",Misc_109,NA,3,cup
+1311,nuts,0.8 cup chopped nuts,Misc_11,NA,0.8,cup
+1312,nuts,0.8 cup nuts chopped optional,Misc_39,NA,0.8,cup
+1313,nuts,1.30909090909 cups chopped nuts,Misc_8,NA,1.309090909,cup
+1314,nuts,1.0 cup coarsely chopped nuts,Misc_9,NA,1,cup
+1315,nuts,"1.8 cup 100 g chopped nuts or any other add ins, optional",Misc_96,NA,1.8,cup
+1316,oat,1.8461538461538463 cups rolled oats,AR_101,0.6,1.846153846,cup
+1317,oat,1.1428571428571428 cups rolled oats,AR_108,0.867741966,1.142857143,cup
+1318,oat,1.6666666666666665 cups rolled oats,AR_14,0.90666666,1.666666667,cup
+1319,oat,2.8571428571428568 cups rolled oats,AR_16,0.85882349,2.857142857,cup
+1320,oat,0.6666666666666666 cup rolled oats,AR_19,0.880000019,0.666666667,cup
+1321,oat,0.6666666666666666 cup rolled oats,AR_2,0.937981987,0.666666667,cup
+1322,oat,0.5 cup rolled oats,AR_280,NA,0.5,cup
+1323,oat,2.0 cups quick cooking oats,AR_39,0.6,2,cup
+1324,oat,6.0 cups rolled oats,AR_53,0.692473125,6,cup
+1325,oat,2.0 cups rolled oats,AR_70,0.91003809,2,cup
+1326,oat,4.0 cups rolled oats,AR_91,0.928301907,4,cup
+1327,oat,3.333333333333333 cups rolled oats,AR_96,0.818181801,3.333333333,cup
+1328,oat,4.0 cups old fashioned rolled oats,E_220,0.75,4,cup
+1329,oat,4.0 cups old fashioned rolled oats,E_258,0.75,4,cup
+1330,oat,2.4 cups old fashioned rolled oats,E_79,0.75,2.4,cup
+1331,oat,5.0 cups oatmeal put in blender and make into flour,Misc_109,NA,5,cup
+1332,oat,1.2 cup old fashioned oats,Misc_30,NA,1.2,cup
+1333,oat,2.0 cup quick cooking oats,Misc_67,NA,2,cup
+1334,oat,2.18181818182 cups oatmeal,Misc_8,NA,2.181818182,cup
+1335,peanut butter,0.6666666666666666 cup peanut butter,AR_2,0.937981987,0.666666667,cup
+1336,peanut butter,0.6666666666666666 cup crunchy peanut butter,AR_96,0.818181801,0.666666667,cup
+1337,peanut butter chips,0.4444444444444444 cup peanut butter chips,AR_33,0.826666641,0.444444444,cup
+1338,pecan,0.8 cup chopped pecans optional,AR_10,0.905162048,0.8,cup
+1339,pecan,0.3333333333333333 cup chopped pecans,AR_4,0.922985077,0.333333333,cup
+1340,pecan,1.2000000000000002 cups chopped pecans,AR_97,0.933333302,1.2,cup
+1341,pecan,1.0 cup chopped pecans,AR_99,0.858333302,1,cup
+1342,pecan,48.0 tablespoon pecan nuts lightly chopped or crumbled by hand,E_169,0.5,3,cup
+1343,pecan,"1.2 cups chopped walnuts, pecans, or hazelnuts optional",Misc_31,NA,1.2,cup
+1344,pecan,"1.0 cup 100 grams walnuts or pecans, coarsely chopped optional",Misc_40,NA,1,cup
+1345,pecan,"1.06666666667 	cup finely chopped walnuts or pecans",Misc_51,NA,1.066666667,cup
+1346,pecan,1.33333333333 cup coarsely chopped pecans,Misc_54,NA,1.333333333,cup
+1347,pecan,"1.0 cup walnuts or pecans, chopped optional",Misc_61,NA,1,cup
+1348,pecan,1.0 cup chopped planters pecans,Misc_67,NA,1,cup
+1349,pudding mix,1.3333333333333333 3.5 ounce package instant vanilla pudding mix,AR_102,0.9375,1.333333333,ounce
+1350,pudding mix,1.0 3.5 ounce package instant vanilla pudding mix,AR_15,0.924302769,1,ounce
+1351,pudding mix,1.3333333333333333 3.4 ounce packages instant vanilla pudding mix,AR_155,0.931135178,1.333333333,ounce
+1352,pudding mix,1.0 3.5 ounce package instant vanilla pudding mix,AR_3,0.917986774,1,ounce
+1353,pudding mix,2.0 3.3 ounce package instant white chocolate pudding mix,AR_8,0.942446041,2,ounce
+1354,pudding mix,1.33333333333 3 1/1.33333333333 ounce packages vanilla instant pudding mix,Misc_103,NA,1.333333333,ounce
+1355,raisins,1.33333333333 cup golden raisins,E_220,0.75,1.333333333,cup
+1356,salt,0.5 teaspoon salt,AR_1,0.920724583,0.5,teaspoon
+1357,salt,0.8 teaspoon salt,AR_10,0.905162048,0.8,teaspoon
+1358,salt,0.27692307692307694 teaspoon salt,AR_101,0.6,0.276923077,teaspoon
+1359,salt,0.8 teaspoon salt,AR_103,0.88125,0.8,teaspoon
+1360,salt,2.0 teaspoon salt,AR_107,0.927272701,2,teaspoon
+1361,salt,0.5714285714285714 teaspoon salt,AR_108,0.867741966,0.571428571,teaspoon
+1362,salt,0.6666666666666666 teaspoon salt,AR_109,0.871794891,0.666666667,teaspoon
+1363,salt,1.3333333333333333 teaspoon salt,AR_11,0.902891922,1.333333333,teaspoon
+1364,salt,1.0 teaspoon salt,AR_110,0.868292713,1,teaspoon
+1365,salt,0.25 teaspoon salt,AR_116,0.847999954,0.25,teaspoon
+1366,salt,0.8 teaspoon salt,AR_118,0.830769253,0.8,teaspoon
+1367,salt,1.0 teaspoon salt,AR_12,0.873469353,1,teaspoon
+1368,salt,2.0 teaspoon salt,AR_128,0.714285707,2,teaspoon
+1369,salt,2.0 teaspoon salt,AR_13,0.909016418,2,teaspoon
+1370,salt,0.6666666666666666 teaspoon salt,AR_14,0.90666666,0.666666667,teaspoon
+1371,salt,1.3333333333333333 teaspoon salt,AR_141,0.784615374,1.333333333,teaspoon
+1372,salt,1.0 teaspoon salt,AR_142,0.671428585,1,teaspoon
+1373,salt,1.0 teaspoon salt,AR_144,0.442857122,1,teaspoon
+1374,salt,2.0 teaspoon salt,AR_156,0.924294472,2,teaspoon
+1375,salt,1.0 teaspoon salt,AR_164,0.917012405,1,teaspoon
+1376,salt,1.3333333333333333 teaspoon salt,AR_19,0.880000019,1.333333333,teaspoon
+1377,salt,0.6666666666666666 teaspoon salt,AR_196,0.785929632,0.666666667,teaspoon
+1378,salt,0.3333333333333333 teaspoon salt,AR_2,0.937981987,0.333333333,teaspoon
+1379,salt,2.6666666666666665 teaspoons salt,AR_21,0.881944466,2.666666667,teaspoon
+1380,salt,0.6666666666666666 teaspoon salt,AR_218,0.877419376,0.666666667,teaspoon
+1381,salt,2.0 teaspoon salt,AR_256,0.870253181,2,teaspoon
+1382,salt,0.6666666666666666 teaspoon salt,AR_27,0.876923084,0.666666667,teaspoon
+1383,salt,1.0 teaspoon salt,AR_28,0.873333359,1,teaspoon
+1384,salt,0.5 teaspoon salt,AR_30,0.859829044,0.5,teaspoon
+1385,salt,0.3333333333333333 teaspoon salt,AR_33,0.826666641,0.333333333,teaspoon
+1386,salt,1.3333333333333333 teaspoon salt,AR_37,0.8,1.333333333,teaspoon
+1387,salt,1.0 teaspoon salt,AR_39,0.6,1,teaspoon
+1388,salt,0.5 teaspoon salt,AR_4,0.922985077,0.5,teaspoon
+1389,salt,1.0 teaspoon salt,AR_43,0.828866005,1,teaspoon
+1390,salt,4.0 teaspoon salt,AR_47,0.7125,4,teaspoon
+1391,salt,1.3333333333333333 teaspoon salt,AR_49,0.592592573,1.333333333,teaspoon
+1392,salt,1.0 teaspoon salt,AR_5,0.937341785,1,teaspoon
+1393,salt,2.0 teaspoon salt,AR_53,0.692473125,2,teaspoon
+1394,salt,0.5 teaspoon salt,AR_54,0.723741007,0.5,teaspoon
+1395,salt,1.0 teaspoon salt,AR_55,0.385714293,1,teaspoon
+1396,salt,0.5 teaspoon salt,AR_57,0.595505619,0.5,teaspoon
+1397,salt,2.0 teaspoon salt,AR_66,0.902002907,2,teaspoon
+1398,salt,1.875 teaspoons kosher salt,AR_67,0.939130402,1.875,teaspoon
+1399,salt,1.5 teaspoon salt,AR_69,0.920792103,1.5,teaspoon
+1400,salt,0.6666666666666666 teaspoon salt,AR_7,0.896335125,0.666666667,teaspoon
+1401,salt,0.4 teaspoon salt,AR_70,0.91003809,0.4,teaspoon
+1402,salt,1.0 teaspoon salt,AR_78,0.915186214,1,teaspoon
+1403,salt,4.0 teaspoons salt,AR_79,0.633333349,4,teaspoon
+1404,salt,2.0 teaspoon salt,AR_8,0.942446041,2,teaspoon
+1405,salt,2.0 teaspoon salt,AR_84,0.905737686,2,teaspoon
+1406,salt,0.25 teaspoon salt,AR_88,0.955555534,0.25,teaspoon
+1407,salt,0.2 teaspoon salt,AR_89,0.909890079,0.2,teaspoon
+1408,salt,1.0 teaspoon salt,AR_90,0.902608681,1,teaspoon
+1409,salt,2.0 teaspoon salt,AR_91,0.928301907,2,teaspoon
+1410,salt,1.2000000000000002 teaspoon salt,AR_95,0.844067764,1.2,teaspoon
+1411,salt,1.3333333333333333 teaspoon salt,AR_96,0.818181801,1.333333333,teaspoon
+1412,salt,0.4 teaspoon salt,AR_97,0.933333302,0.4,teaspoon
+1413,salt,0.24 tablespoons salt,AR_98,0.90666666,0.72,teaspoon
+1414,salt,0.333333333333 teaspoon salt,E_197,0.875,0.333333333,teaspoon
+1415,salt,1.8 teaspoon kosher salt,E_21,0.75,1.8,teaspoon
+1416,salt,1.0 teaspoon kosher salt,E_215,0.875,1,teaspoon
+1417,salt,0.666666666667 teaspoon salt,E_220,0.75,0.666666667,teaspoon
+1418,salt,2.57142857143 teaspoons salt,E_230,0.875,2.571428571,teaspoon
+1419,salt,1.0 teaspoon salt,E_258,0.75,1,teaspoon
+1420,salt,2.4 teaspoon salt,E_26,0.875,2.4,teaspoon
+1421,salt,0.666666666667 teaspoon kosher salt,E_362,0.625,0.666666667,teaspoon
+1422,salt,1.14285714286 teaspoon salt,E_375,0.75,1.142857143,teaspoon
+1423,salt,0.545454545455 teaspoon table salt,E_399,1,0.545454545,teaspoon
+1424,salt,0.24 teaspoon salt,E_509,0.75,0.24,teaspoon
+1425,salt,0.8 teaspoon salt,E_79,0.75,0.8,teaspoon
+1426,salt,2.0 teaspoon salt,E_88,0.375,2,teaspoon
+1427,salt,1.0 teaspoon salt,E_89,0.875,1,teaspoon
+1428,salt,0.8 teaspoon salt,E_91,1,0.8,teaspoon
+1429,salt,6.0 teaspoons coarse salt,Misc_1,NA,6,teaspoon
+1430,salt,1.6 teaspoon fine salt,Misc_10,NA,1.6,teaspoon
+1431,salt,4.0 teaspoons coarse salt,Misc_100,NA,4,teaspoon
+1432,salt,3.0 teaspoon of kosher salt,Misc_101,NA,3,teaspoon
+1433,salt,4.0 tsp 5 ml salt,Misc_102,NA,4,teaspoon
+1434,salt,0.8 tsp. salt,Misc_104,NA,0.8,teaspoon
+1435,salt,2.0 tsp. salt,Misc_105,NA,2,teaspoon
+1436,salt,1.33333333333 tsp. kosher salt,Misc_106,NA,1.333333333,teaspoon
+1437,salt,1.0 teaspoon salt,Misc_108,NA,1,teaspoon
+1438,salt,1.0 teaspoon salt,Misc_109,NA,1,teaspoon
+1439,salt,0.8 teaspoon salt,Misc_11,NA,0.8,teaspoon
+1440,salt,"3.0 teaspoons diamond crystal kosher salt, plus more for sprinkling; for table salt, use about half as much by volume or the same weight",Misc_110,NA,3,teaspoon
+1441,salt,0.8 teaspoon salt,Misc_111,NA,0.8,teaspoon
+1442,salt,2.0 teaspoon salt,Misc_112,NA,2,teaspoon
+1443,salt,1.14285714286 teaspoon salt,Misc_113,NA,1.142857143,teaspoon
+1444,salt,1.0 teaspoon salt,Misc_12,NA,1,teaspoon
+1445,salt,1.33333333333 teaspoon salt,Misc_13,NA,1.333333333,teaspoon
+1446,salt,1.84615384615 teaspoon fine sea salt,Misc_14,NA,1.846153846,teaspoon
+1447,salt,0.8 teaspoon salt,Misc_15,NA,0.8,teaspoon
+1448,salt,0.333333333333 teaspoon salt,Misc_16,NA,0.333333333,teaspoon
+1449,salt,1.0 teaspoon salt,Misc_17,NA,1,teaspoon
+1450,salt,1.0 teaspoon salt use 1/2 teaspoon salt if you use salted butter,Misc_18,NA,1,teaspoon
+1451,salt,1.5 teaspoon salt,Misc_19,NA,1.5,teaspoon
+1452,salt,0.25 teaspoon salt 0.25 teaspoon,Misc_2,NA,0.25,teaspoon
+1453,salt,1.5 teaspoon salt,Misc_20,NA,1.5,teaspoon
+1454,salt,2.0 teaspoon kosher salt,Misc_21,NA,2,teaspoon
+1455,salt,1.0 teaspoon kosher salt,Misc_22,NA,1,teaspoon
+1456,salt,1.5 teaspoon kosher salt,Misc_23,NA,1.5,teaspoon
+1457,salt,2.0 ⁄4 teaspoon salt,Misc_24,NA,2,teaspoon
+1458,salt,2.0 tsp. kosher salt,Misc_25,NA,2,teaspoon
+1459,salt,2.0 teaspoon salt,Misc_26,NA,2,teaspoon
+1460,salt,2.0 teaspoon kosher salt,Misc_27,NA,2,teaspoon
+1461,salt,2.0 teaspoon kosher salt,Misc_28,NA,2,teaspoon
+1462,salt,0.666666666667 teaspoon salt,Misc_29,NA,0.666666667,teaspoon
+1463,salt,1.33333333333 teaspoon/4 grams salt,Misc_3,NA,1.333333333,teaspoon
+1464,salt,2.4 teaspoon salt,Misc_30,NA,2.4,teaspoon
+1465,salt,0.24 tsp salt,Misc_33,NA,0.24,teaspoon
+1466,salt,5.14285714286 teaspoon salt,Misc_34,NA,5.142857143,teaspoon
+1467,salt,0.923076923077 teaspoon salt,Misc_35,NA,0.923076923,teaspoon
+1468,salt,1.125 tsp salt,Misc_36,NA,1.125,teaspoon
+1469,salt,1.33333333333 teaspoon salt,Misc_37,NA,1.333333333,teaspoon
+1470,salt,1.2 teaspoon salt,Misc_38,NA,1.2,teaspoon
+1471,salt,0.4 teaspoon salt,Misc_39,NA,0.4,teaspoon
+1472,salt,0.5 teaspoon salt,Misc_40,NA,0.5,teaspoon
+1473,salt,1.2 teaspoon table salt,Misc_41,NA,1.2,teaspoon
+1474,salt,1.6 teaspoon salt,Misc_42,NA,1.6,teaspoon
+1475,salt,1.26315789474 teaspoon salt,Misc_43,NA,1.263157895,teaspoon
+1476,salt,1.0 teaspoon salt,Misc_44,NA,1,teaspoon
+1477,salt,1.33333333333 teaspoon stonemill essentials iodized salt,Misc_45,NA,1.333333333,teaspoon
+1478,salt,1.5 teaspoon salt,Misc_46,NA,1.5,teaspoon
+1479,salt,0.571428571429 teaspoon salt,Misc_47,NA,0.571428571,teaspoon
+1480,salt,1.0 teaspoon salt use 1/2 teaspoon salt if you use salted butter,Misc_48,NA,1,teaspoon
+1481,salt,"2.4 	teaspoons coarse salt",Misc_49,NA,2.4,teaspoon
+1482,salt,1.45454545455 tablespoon kosher salt,Misc_5,NA,4.36,teaspoon
+1483,salt,"2.0 	teaspoon kosher salt",Misc_50,NA,2,teaspoon
+1484,salt,"1.06666666667 	teaspoon salt 1.06666666667  1.06666666667 /4 teaspoons if you really like salt",Misc_51,NA,1.066666667,teaspoon
+1485,salt,"1.2 	teaspoons fine sea salt",Misc_52,NA,1.2,teaspoon
+1486,salt,"3.0 	teaspoon table salt",Misc_53,NA,3,teaspoon
+1487,salt,1.33333333333 teaspoon salt,Misc_54,NA,1.333333333,teaspoon
+1488,salt,1.14285714286 teaspoon kosher salt,Misc_55,NA,1.142857143,teaspoon
+1489,salt,1.14285714286 teaspoon flaky sea salt such as maldon or cypriot,Misc_55,NA,1.142857143,teaspoon
+1490,salt,1.0 teaspoon salt,Misc_56,NA,1,teaspoon
+1491,salt,2.0 tablespoon kosher salt,Misc_6,NA,6,teaspoon
+1492,salt,2.0 tsp salt,Misc_60,NA,2,teaspoon
+1493,salt,0.5 teaspoon salt,Misc_61,NA,0.5,teaspoon
+1494,salt,0.888888888889 teaspoon salt,Misc_63,NA,0.888888889,teaspoon
+1495,salt,1.2 teaspoon salt,Misc_64,NA,1.2,teaspoon
+1496,salt,0.5 teaspoon salt,Misc_65,NA,0.5,teaspoon
+1497,salt,1.0 teaspoon kosher salt,Misc_68,NA,1,teaspoon
+1498,butter,32.0 tablespoons of salted butter,Misc_69,NA,2,cup
+1499,salt,1.0 teaspoon salt but i always add a little extra,Misc_69,NA,1,teaspoon
+1500,salt,3.2 teaspoons kosher salt,Misc_7,NA,3.2,teaspoon
+1501,salt,1.0 teaspoon salt,Misc_70,NA,1,teaspoon
+1502,salt,1.5 tsp kosher salt,Misc_73,NA,1.5,teaspoon
+1503,salt,1.33333333333 tsp. salt,Misc_74,NA,1.333333333,teaspoon
+1504,salt,0.888888888889 teaspoon salt,Misc_75,NA,0.888888889,teaspoon
+1505,salt,2.0 teaspoon salt,Misc_76,NA,2,teaspoon
+1506,salt,1.14285714286 teaspoon salt,Misc_77,NA,1.142857143,teaspoon
+1507,butter,2.0 cup salted butter,Misc_80,NA,2,cup
+1508,salt,1.0 teaspoon salt,Misc_80,NA,1,teaspoon
+1509,salt,1.33333333333 teaspoon salt,Misc_81,NA,1.333333333,teaspoon
+1510,salt,0.857142857143   1/2 teaspoon salt,Misc_82,NA,0.857142857,teaspoon
+1511,salt,0.5 tsp salt,Misc_83,NA,0.5,teaspoon
+1512,salt,3.69230769231 tsp salt,Misc_84,NA,3.692307692,teaspoon
+1513,salt,0.666666666667 teaspoon salt,Misc_85,NA,0.666666667,teaspoon
+1514,salt,1.0 teaspoon salt,Misc_86,NA,1,teaspoon
+1515,salt,0.857142857143 tsp salt,Misc_89,NA,0.857142857,teaspoon
+1516,salt,0.5 teaspoon salt,Misc_9,NA,0.5,teaspoon
+1517,salt,2.4 tsp. kosher salt,Misc_90,NA,2.4,teaspoon
+1518,salt,1.0 tsp salt,Misc_91,NA,1,teaspoon
+1519,salt,3.33333333333 teaspoons kosher salt,Misc_92,NA,3.333333333,teaspoon
+1520,salt,1.33333333333 teaspoon kosher salt,Misc_93,NA,1.333333333,teaspoon
+1521,salt,2.0 teaspoons coarse salt,Misc_94,NA,2,teaspoon
+1522,salt,1.66666666667 tsp. salt,Misc_95,NA,1.666666667,teaspoon
+1523,salt,1.2 tsp salt,Misc_96,NA,1.2,teaspoon
+1524,salt,2.05714285714 tsp table salt,Misc_97,NA,2.057142857,teaspoon
+1525,salt,2.66666666667 teaspoon salt  i prefer coarse sea salt,Misc_99,NA,2.666666667,teaspoon
+1526,shortening,0.5333333333333333 cup butter flavored shortening,AR_10,0.905162048,0.533333333,cup
+1527,shortening,2.0 cup shortening,AR_107,0.927272701,2,cup
+1528,shortening,0.5714285714285714 cup shortening,AR_108,0.867741966,0.571428571,cup
+1529,shortening,0.6666666666666666 cup shortening,AR_109,0.871794891,0.666666667,cup
+1530,shortening,1.0 cup shortening,AR_111,1,1,cup
+1531,shortening,0.5 cup shortening,AR_116,0.847999954,0.5,cup
+1532,shortening,0.8 cup shortening,AR_118,0.830769253,0.8,cup
+1533,shortening,2.0 cup shortening,AR_13,0.909016418,2,cup
+1534,shortening,1.3333333333333333 cup shortening,AR_141,0.784615374,1.333333333,cup
+1535,shortening,1.0 cup butter flavored shortening,AR_144,0.442857122,1,cup
+1536,shortening,1.3333333333333333 cup shortening,AR_19,0.880000019,1.333333333,cup
+1537,shortening,2.0 cups butter flavored shortening,AR_21,0.881944466,2,cup
+1538,shortening,1.3333333333333333 cup shortening,AR_218,0.877419376,1.333333333,cup
+1539,shortening,2.0 cups butter flavored shortening,AR_28,0.873333359,2,cup
+1540,shortening,1.0 cups shortening,AR_32,0.830769253,1,cup
+1541,shortening,4.0 cup butter flavored shortening,AR_47,0.7125,4,cup
+1542,shortening,1.0 cup shortening,AR_50,0.66500001,1,cup
+1543,shortening,2.0 cup butter flavored shortening,AR_66,0.902002907,2,cup
+1544,shortening,0.8 cup butter flavored shortening,AR_89,0.909890079,0.8,cup
+1545,shortening,1.0 cup shortening,AR_91,0.928301907,1,cup
+1546,shortening,0.666666666667 cup vegetable shortening preferably trans fat free plus additional for greasing baking sheets,E_197,0.875,0.666666667,cup
+1547,shortening,1.2 cup solid vegetable shortening,E_26,0.875,1.2,cup
+1548,shortening,0.571428571429 cup solid vegetable shortening room temperature,E_375,0.75,0.571428571,cup
+1549,shortening,0.666666666667 cup vegetable shortening,Misc_18,NA,0.666666667,cup
+1550,shortening,0.4 cup shortening,Misc_31,NA,0.4,cup
+1551,shortening,0.666666666667 cup shortening,Misc_46,NA,0.666666667,cup
+1552,shortening,0.666666666667 cup vegetable shortening,Misc_48,NA,0.666666667,cup
+1553,shortening,1.0 cup crisco® butter flavor all vegetable shortening,Misc_54,NA,1,cup
+1554,shortening,0.666666666667 cup vegetable shortening,Misc_85,NA,0.666666667,cup
+1555,sour cream,1.0 cup sour cream,AR_48,0.677777767,16,tablespoon
+1556,sour cream,2.4 tablespoon sour cream,E_26,0.875,2.4,tablespoon
+1557,sugar,1.0 cup white sugar,AR_1,0.920724583,1,cup
+1558,sugar,0.8 cup white sugar,AR_10,0.905162048,0.8,cup
+1559,sugar,0.7384615384615385 cups white sugar,AR_101,0.6,0.738461538,cup
+1560,sugar,0.3333333333333333 cup white sugar,AR_102,0.9375,0.333333333,cup
+1561,sugar,0.4 cup white sugar,AR_103,0.88125,0.4,cup
+1562,sugar,3.0 cup white sugar,AR_107,0.927272701,3,cup
+1563,sugar,0.2857142857142857 cup white sugar,AR_108,0.867741966,0.285714286,cup
+1564,sugar,0.6666666666666666 cup white sugar,AR_109,0.871794891,0.666666667,cup
+1565,sugar,0.6666666666666666 cup white sugar,AR_11,0.902891922,0.666666667,cup
+1566,sugar,1.0 cup white sugar,AR_110,0.868292713,1,cup
+1567,sugar,1.0 cup white sugar,AR_111,1,1,cup
+1568,sugar,0.5 cup white sugar,AR_116,0.847999954,0.5,cup
+1569,sugar,0.8 cup white sugar,AR_118,0.830769253,0.8,cup
+1570,sugar,1.25 cups white sugar,AR_119,0.845714283,1.25,cup
+1571,sugar,0.5 cup granulated sugar,AR_12,0.873469353,0.5,cup
+1572,sugar,1.5 cup white sugar,AR_128,0.714285707,1.5,cup
+1573,sugar,1.0 cup white sugar,AR_13,0.909016418,1,cup
+1574,sugar,0.6666666666666666 cup white sugar,AR_14,0.90666666,0.666666667,cup
+1575,sugar,1.0 cup white sugar,AR_140,0.584615374,1,cup
+1576,sugar,1.5 cup white sugar,AR_142,0.671428585,1.5,cup
+1577,sugar,1.0 cup white sugar,AR_144,0.442857122,1,cup
+1578,sugar,0.25 cup white sugar,AR_15,0.924302769,0.25,cup
+1579,sugar,0.3333333333333333 cup white sugar,AR_155,0.931135178,0.333333333,cup
+1580,sugar,2.0 cup white sugar,AR_156,0.924294472,2,cup
+1581,sugar,1.1428571428571428 cups white sugar,AR_16,0.85882349,1.142857143,cup
+1582,sugar,0.75 cup granulated sugar,AR_164,0.917012405,0.75,cup
+1583,sugar,1.3333333333333333 cup white sugar,AR_19,0.880000019,1.333333333,cup
+1584,sugar,1.0 cup white sugar,AR_196,0.785929632,1,cup
+1585,sugar,2.0 cup white sugar,AR_197,0.706521749,2,cup
+1586,sugar,0.6666666666666666 cup white sugar,AR_2,0.937981987,0.666666667,cup
+1587,sugar,0.6666666666666666 cup white sugar,AR_218,0.877419376,0.666666667,cup
+1588,sugar,12.0 tablespoons white sugar,AR_256,0.870253181,0.73,cup
+1589,sugar,0.75 cup white sugar,AR_26,0.9,0.75,cup
+1590,sugar,2.0 cups white sugar,AR_27,0.876923084,2,cup
+1591,sugar,1.5 cups white sugar,AR_28,0.873333359,1.5,cup
+1592,sugar,0.5 cup white sugar,AR_280,NA,0.5,cup
+1593,sugar,0.25 cup white sugar,AR_3,0.917986774,0.25,cup
+1594,sugar,0.5 cup white sugar,AR_30,0.859829044,0.5,cup
+1595,sugar,0.8 cup white sugar,AR_32,0.830769253,0.8,cup
+1596,sugar,0.6666666666666666 cup white sugar,AR_33,0.826666641,0.666666667,cup
+1597,sugar,1.0 cup white sugar,AR_35,0.843636322,1,cup
+1598,sugar,1.6666666666666665 cups white sugar,AR_37,0.8,1.666666667,cup
+1599,sugar,1.0 cup white sugar,AR_39,0.6,1,cup
+1600,sugar,1.0 cup white sugar,AR_4,0.922985077,1,cup
+1601,sugar,1.0 cup white sugar,AR_43,0.828866005,1,cup
+1602,sugar,0.75 cup white sugar,AR_45,0.821052647,0.75,cup
+1603,sugar,3.0 cup white sugar,AR_47,0.7125,3,cup
+1604,sugar,1.5 cup white sugar,AR_48,0.677777767,1.5,cup
+1605,sugar,1.0 cup white sugar,AR_49,0.592592573,1,cup
+1606,sugar,0.75 cup white sugar,AR_5,0.937341785,0.75,cup
+1607,sugar,2.0 cups white sugar,AR_50,0.66500001,2,cup
+1608,sugar,1.0 cup white sugar,AR_53,0.692473125,1,cup
+1609,sugar,1.0 cup white sugar,AR_54,0.723741007,1,cup
+1610,sugar,1.5 cup white sugar,AR_55,0.385714293,1.5,cup
+1611,sugar,1.0 cup white sugar,AR_57,0.595505619,1,cup
+1612,sugar,1.5 cup white sugar,AR_66,0.902002907,1.5,cup
+1613,sugar,1.5 cup white sugar,AR_67,0.939130402,1.5,cup
+1614,sugar,1.5 cup white sugar,AR_69,0.920792103,1.5,cup
+1615,sugar,0.4444444444444444 cup white sugar,AR_7,0.896335125,0.444444444,cup
+1616,sugar,0.8 cup white sugar,AR_70,0.91003809,0.8,cup
+1617,sugar,0.75 cup white sugar,AR_78,0.915186214,0.75,cup
+1618,sugar,2.0 cup white sugar,AR_79,0.633333349,2,cup
+1619,sugar,2.0 cup white sugar,AR_8,0.942446041,2,cup
+1620,sugar,12.0 tablespoons white sugar,AR_84,0.905737686,0.73,cup
+1621,sugar,0.6000000000000001 cup white sugar,AR_89,0.909890079,0.6,cup
+1622,sugar,1.5 cup white sugar,AR_90,0.902608681,1.5,cup
+1623,sugar,1.5 cup white sugar,AR_91,0.928301907,1.5,cup
+1624,sugar,0.8 cup white sugar,AR_95,0.844067764,0.8,cup
+1625,sugar,1.3333333333333333 cup white sugar,AR_96,0.818181801,1.333333333,cup
+1626,sugar,0.4 cup white sugar,AR_97,0.933333302,0.4,cup
+1627,sugar,2.0 cups white sugar,AR_98,0.90666666,2,cup
+1628,sugar,6.0 tablespoons granulated sugar,E_133,0.75,0.375,cup
+1629,sugar,0.0888888888889 cup granulated sugar,E_146,0.5,0.088888889,cup
+1630,sugar,0.666666666667 cup granulated sugar,E_197,0.875,0.666666667,cup
+1631,sugar,0.6 cup sugar,E_21,0.75,0.6,cup
+1632,sugar,1.0 cup sugar,E_215,0.875,1,cup
+1633,sugar,0.5 cup powdered sugar,E_215,0.875,0.5,cup
+1634,sugar,0.666666666667 cup granulated sugar,E_220,0.75,0.666666667,cup
+1635,sugar,1.71428571429 cup granulated sugar,E_230,0.875,1.714285714,cup
+1636,sugar,1.0 cup sugar,E_258,0.75,1,cup
+1637,sugar,1.8 cup sugar,E_26,0.875,1.8,cup
+1638,sugar,1.0 cup granulated sugar,E_362,0.625,1,cup
+1639,sugar,0.571428571429 cup sugar,E_375,0.75,0.571428571,cup
+1640,sugar,1.63636363636 cup white granulated sugar,E_399,1,1.636363636,cup
+1641,sugar,1.2 cup granulated sugar,E_79,0.75,1.2,cup
+1642,sugar,0.96 cup vanilla sugar,E_87,0.75,0.96,cup
+1643,sugar,4.0 cup granulated sugar,E_88,0.375,4,cup
+1644,sugar,1.0 cup sugar,E_89,0.875,1,cup
+1645,sugar,0.6 cup granulated sugar,E_91,1,0.6,cup
+1646,sugar,4.0 cup plus 2 tablespoons  granulated sugar,Misc_1,NA,4,cup
+1647,sugar,1.2 cup sugar,Misc_10,NA,1.2,cup
+1648,sugar,3.0 cups granulated sugar,Misc_100,NA,3,cup
+1649,sugar,1.5 cup of granulated white sugar,Misc_101,NA,1.5,cup
+1650,sugar,0.666666666667 ⁄2 cup white sugar,Misc_103,NA,0.666666667,cup
+1651,sugar,2.66666666667 cup granulated sugar,Misc_105,NA,2.666666667,cup
+1652,sugar,0.888888888889 cup granulated sugar,Misc_106,NA,0.888888889,cup
+1653,sugar,12.0 tablespoons granulated sugar,Misc_108,NA,0.75,cup
+1654,sugar,2.0 cups sugar,Misc_109,NA,2,cup
+1655,sugar,0.6 cup granulated sugar,Misc_11,NA,0.6,cup
+1656,sugar,10.875 ounces white sugar,Misc_110,NA,1.359375,cup
+1657,sugar,0.533333333333 cup sugar 100g,Misc_111,NA,0.533333333,cup
+1658,sugar,2.66666666667 cup granulated sugar,Misc_112,NA,2.666666667,cup
+1659,sugar,0.857142857143 cup granulated sugar,Misc_113,NA,0.857142857,cup
+1660,sugar,1.06666666667 cup granulated sugar,Misc_114,NA,1.066666667,cup
+1661,sugar,12.0 tablespoons granulated sugar,Misc_12,NA,0.75,cup
+1662,sugar,0.666666666667 cup granulated sugar,Misc_13,NA,0.666666667,cup
+1663,sugar,0.923076923077 cup 100 grams granulated sugar,Misc_14,NA,0.923076923,cup
+1664,sugar,0.533333333333 cup sugar 100g,Misc_15,NA,0.533333333,cup
+1665,sugar,0.833333333333 cups granulated sugar save $,Misc_16,NA,0.833333333,cup
+1666,sugar,1.25 cups sugar,Misc_17,NA,1.25,cup
+1667,sugar,0.888888888889 cup granulated sugar,Misc_18,NA,0.888888889,cup
+1668,sugar,0.75 cup granulated sugar 100g,Misc_19,NA,0.75,cup
+1669,sugar,0.5 cup sugar 0.5 cup,Misc_2,NA,0.5,cup
+1670,sugar,0.666666666667 cup granulated sugar,Misc_20,NA,0.666666667,cup
+1671,sugar,4.0 ounces granulated sugar,Misc_21,NA,0.5,cup
+1672,sugar,0.75 cup granulated sugar,Misc_22,NA,0.75,cup
+1673,sugar,2.0 cup granulated sugar,Misc_23,NA,2,cup
+1674,sugar,2.0 ⁄4 cup white sugar,Misc_24,NA,2,cup
+1675,sugar,1.5 cup sugar,Misc_26,NA,1.5,cup
+1676,sugar,2.0 cup 200 grams granulated sugar,Misc_27,NA,2,cup
+1677,sugar,2.0 cup 200 grams granulated sugar,Misc_28,NA,2,cup
+1678,sugar,0.666666666667 cup granulated sugar,Misc_29,NA,0.666666667,cup
+1679,sugar,1.8 cup granulated sugar,Misc_30,NA,1.8,cup
+1680,sugar,0.4 cup granulated sugar,Misc_31,NA,0.4,cup
+1681,sugar,0.72 cup sugar,Misc_33,NA,0.72,cup
+1682,sugar,0.461538461538 cup plus 2 tablespoons granulated sugar,Misc_35,NA,0.461538462,cup
+1683,sugar,1.5 cup plus 2 tbsp sugar,Misc_36,NA,1.5,cup
+1684,sugar,1.33333333333 cup granulated sugar,Misc_37,NA,1.333333333,cup
+1685,sugar,2.0 cups granulated sugar,Misc_38,NA,2,cup
+1686,sugar,0.6 cup granulated sugar,Misc_39,NA,0.6,cup
+1687,sugar,7.2 cups/302 grams granulated sugar,Misc_4,NA,7.2,cup
+1688,sugar,0.75 cup 150 grams granulated white sugar,Misc_40,NA,0.75,cup
+1689,sugar,0.9 cup granulated sugar,Misc_41,NA,0.9,cup
+1690,sugar,1.0 cup granulated sugar,Misc_44,NA,1,cup
+1691,sugar,0.666666666667 cup baker’s corner granulated sugar,Misc_45,NA,0.666666667,cup
+1692,sugar,1.0 cup granulated sugar,Misc_46,NA,1,cup
+1693,sugar,0.428571428571 cup granulated sugar,Misc_47,NA,0.428571429,cup
+1694,sugar,0.888888888889 cup granulated sugar,Misc_48,NA,0.888888889,cup
+1695,sugar,"1.6 	cup plus 2 tablespoons granulated sugar",Misc_49,NA,1.6,cup
+1696,sugar,"1.0 	cup white sugar",Misc_50,NA,1,cup
+1697,sugar,"1.06666666667 	cup sugar",Misc_51,NA,1.066666667,cup
+1698,sugar,"0.96 	cup 200 grams sugar",Misc_52,NA,0.96,cup
+1699,sugar,1.14285714286 cup sugar,Misc_55,NA,1.142857143,cup
+1700,sugar,0.5 cup 50g granulated sugar,Misc_56,NA,0.5,cup
+1701,sugar,0.75 cup sugar,Misc_61,NA,0.75,cup
+1702,sugar,2.0 cup sugar,Misc_62,NA,2,cup
+1703,sugar,1.33333333333 cup granulated sugar,Misc_63,NA,1.333333333,cup
+1704,sugar,0.9 cup granulated sugar,Misc_64,NA,0.9,cup
+1705,sugar,0.75 cup granulated sugar,Misc_65,NA,0.75,cup
+1706,sugar,1.0 cup granulated sugar,Misc_67,NA,1,cup
+1707,sugar,1.0 cup 99 g granulated sugar,Misc_68,NA,1,cup
+1708,sugar,2.0 cup white sugar i like to use raw cane sugar with a coarser texture,Misc_69,NA,2,cup
+1709,sugar,1.33333333333 cup granulated sugar,Misc_70,NA,1.333333333,cup
+1710,sugar,7.2 cups 297 g granulated sugar,Misc_72,NA,7.2,cup
+1711,sugar,1.75 cups granulated sugar,Misc_73,NA,1.75,cup
+1712,sugar,1.33333333333 cup sugar,Misc_74,NA,1.333333333,cup
+1713,sugar,0.888888888889 cup granulated sugar,Misc_75,NA,0.888888889,cup
+1714,sugar,2.0 cup granulated sugar,Misc_76,NA,2,cup
+1715,sugar,0.857142857143 cup granulated sugar,Misc_79,NA,0.857142857,cup
+1716,sugar,0.872727272727 cup granulated sugar,Misc_8,NA,0.872727273,cup
+1717,sugar,2.0 cup granulated sugar,Misc_80,NA,2,cup
+1718,sugar,1.33333333333 cup granulated sugar,Misc_81,NA,1.333333333,cup
+1719,sugar,1.14285714286 cup white sugar,Misc_82,NA,1.142857143,cup
+1720,sugar,0.75 cup sugar,Misc_83,NA,0.75,cup
+1721,sugar,0.888888888889 cup granulated sugar,Misc_85,NA,0.888888889,cup
+1722,sugar,1.33333333333 cup granulated sugar,Misc_86,NA,1.333333333,cup
+1723,sugar,1.71428571429 cup sugar,Misc_89,NA,1.714285714,cup
+1724,sugar,0.75 cup granulated sugar,Misc_9,NA,0.75,cup
+1725,sugar,4.8 ⁄4 cups granulated sugar,Misc_90,NA,4.8,cup
+1726,sugar,0.5 cup white sugar,Misc_91,NA,0.5,cup
+1727,sugar,1.33333333333 cup sugar,Misc_93,NA,1.333333333,cup
+1728,sugar,1.5 cups granulated sugar,Misc_94,NA,1.5,cup
+1729,sugar,"0.6 cup 50 g raw sugar i use demerara, substitute with granulated sugar if you'd like",Misc_96,NA,0.6,cup
+1730,sugar,1.37142857143 cup granulated sugar,Misc_97,NA,1.371428571,cup
+1731,sugar,2.0 cup granulated sugar,Misc_99,NA,2,cup
+1732,tartar,2.6666666666666665 teaspoons cream of tartar,AR_109,0.871794891,2.666666667,teaspoon
+1733,tartar,1.0 teaspoon cream of tartar,AR_110,0.868292713,1,teaspoon
+1734,tartar,2.0 teaspoons cream of tartar,AR_50,0.66500001,2,teaspoon
+1735,toffee,4.800000000000001 1.4 ounce bars chocolate covered english toffee chopped,AR_103,0.88125,0.6,cup
+1736,toffee,4.0 cup 150 g of toffee bits,Misc_102,NA,4,cup
+1737,vanilla,2.0 teaspoons vanilla extract,AR_1,0.920724583,2,teaspoon
+1738,vanilla,0.8 tablespoon vanilla extract,AR_10,0.905162048,2.4,teaspoon
+1739,vanilla,1.1076923076923078 teaspoons vanilla extract,AR_101,0.6,1.107692308,teaspoon
+1740,vanilla,1.3333333333333333 teaspoon vanilla extract,AR_102,0.9375,1.333333333,teaspoon
+1741,vanilla,0.8 tablespoon vanilla extract,AR_103,0.88125,2.4,teaspoon
+1742,vanilla,0.5714285714285714 teaspoon vanilla extract,AR_108,0.867741966,0.571428571,teaspoon
+1743,vanilla,1.3333333333333333 teaspoons vanilla extract,AR_109,0.871794891,1.333333333,teaspoon
+1744,vanilla,1.3333333333333333 teaspoon vanilla extract,AR_11,0.902891922,1.333333333,teaspoon
+1745,vanilla,1.0 teaspoon vanilla extract,AR_110,0.868292713,1,teaspoon
+1746,vanilla,2.0 teaspoon vanilla extract,AR_111,1,2,teaspoon
+1747,vanilla,1.0 teaspoon vanilla extract,AR_116,0.847999954,1,teaspoon
+1748,vanilla,1.6 teaspoons vanilla extract,AR_118,0.830769253,1.6,teaspoon
+1749,vanilla,1.0 tablespoon vanilla extract,AR_119,0.845714283,3,teaspoon
+1750,vanilla,2.0 teaspoons vanilla extract,AR_12,0.873469353,2,teaspoon
+1751,vanilla,2.0 teaspoon vanilla extract,AR_128,0.714285707,2,teaspoon
+1752,vanilla,2.0 teaspoon vanilla extract,AR_13,0.909016418,2,teaspoon
+1753,vanilla,1.3333333333333333 teaspoons vanilla extract,AR_14,0.90666666,1.333333333,teaspoon
+1754,vanilla,1.3333333333333333 teaspoon vanilla extract,AR_140,0.584615374,1.333333333,teaspoon
+1755,vanilla,1.3333333333333333 teaspoon vanilla extract,AR_141,0.784615374,1.333333333,teaspoon
+1756,vanilla,3.0 teaspoons vanilla extract,AR_142,0.671428585,3,teaspoon
+1757,vanilla,2.0 teaspoon vanilla extract,AR_144,0.442857122,2,teaspoon
+1758,vanilla,1.0 teaspoon vanilla extract,AR_15,0.924302769,1,teaspoon
+1759,vanilla,1.3333333333333333 teaspoons vanilla extract,AR_155,0.931135178,1.333333333,teaspoon
+1760,vanilla,4.0 tablespoon vanilla extract,AR_156,0.924294472,12,teaspoon
+1761,vanilla,0.5714285714285714 teaspoon vanilla extract,AR_16,0.85882349,0.571428571,teaspoon
+1762,vanilla,1.0 teaspoon vanilla extract,AR_164,0.917012405,1,teaspoon
+1763,vanilla,1.3333333333333333 teaspoon vanilla extract,AR_19,0.880000019,1.333333333,teaspoon
+1764,vanilla,2.6666666666666665 teaspoons vanilla extract,AR_196,0.785929632,2.666666667,teaspoon
+1765,vanilla,2.0 teaspoon vanilla extract,AR_197,0.706521749,2,teaspoon
+1766,vanilla,0.6666666666666666 teaspoon vanilla extract,AR_2,0.937981987,0.666666667,teaspoon
+1767,vanilla,2.6666666666666665 tablespoons vanilla extract,AR_21,0.881944466,8,teaspoon
+1768,vanilla,3.333333333333333 teaspoons vanilla extract,AR_218,0.877419376,3.333333333,teaspoon
+1769,vanilla,1.0 teaspoon vanilla extract,AR_23,0.869999981,1,teaspoon
+1770,vanilla,8.0 teaspoons vanilla extract,AR_256,0.870253181,8,teaspoon
+1771,vanilla,1.0 tablespoon vanilla extract,AR_26,0.9,3,teaspoon
+1772,vanilla,2.0 teaspoons vanilla extract,AR_27,0.876923084,2,teaspoon
+1773,vanilla,4.0 teaspoons vanilla extract,AR_28,0.873333359,4,teaspoon
+1774,vanilla,1.0 teaspoon vanilla extract,AR_3,0.917986774,1,teaspoon
+1775,vanilla,1.0 teaspoon vanilla extract,AR_30,0.859829044,1,teaspoon
+1776,vanilla,1.6 teaspoons vanilla extract,AR_32,0.830769253,1.6,teaspoon
+1777,vanilla,2.6666666666666665 teaspoons vanilla extract,AR_33,0.826666641,2.666666667,teaspoon
+1778,vanilla,2.0 teaspoon vanilla extract,AR_35,0.843636322,2,teaspoon
+1779,vanilla,1.3333333333333333 tablespoon vanilla extract,AR_37,0.8,4,teaspoon
+1780,vanilla,2.0 teaspoons vanilla extract,AR_39,0.6,2,teaspoon
+1781,vanilla,1.0 teaspoon vanilla extract,AR_4,0.922985077,1,teaspoon
+1782,vanilla,2.0 teaspoon vanilla extract,AR_43,0.828866005,2,teaspoon
+1783,vanilla,1.0 teaspoon vanilla extract,AR_45,0.821052647,1,teaspoon
+1784,vanilla,4.0 teaspoon vanilla extract,AR_47,0.7125,4,teaspoon
+1785,vanilla,2.0 teaspoon vanilla extract,AR_48,0.677777767,2,teaspoon
+1786,vanilla,1.3333333333333333 teaspoon vanilla extract,AR_49,0.592592573,1.333333333,teaspoon
+1787,vanilla,1.0 teaspoon vanilla extract,AR_5,0.937341785,1,teaspoon
+1788,vanilla,2.0 teaspoons vanilla extract,AR_50,0.66500001,2,teaspoon
+1789,vanilla,1.3333333333333333 teaspoon vanilla extract,AR_52,0.476190472,1.333333333,teaspoon
+1790,vanilla,2.0 teaspoon vanilla extract,AR_53,0.692473125,2,teaspoon
+1791,vanilla,2.0 teaspoon vanilla extract,AR_54,0.723741007,2,teaspoon
+1792,vanilla,2.0 teaspoons vanilla extract,AR_57,0.595505619,2,teaspoon
+1793,vanilla,4.0 teaspoons mexican vanilla extract,AR_66,0.902002907,4,teaspoon
+1794,vanilla,1.875 teaspoons vanilla extract,AR_67,0.939130402,1.875,teaspoon
+1795,vanilla,1.5 teaspoon vanilla extract,AR_69,0.920792103,1.5,teaspoon
+1796,vanilla,1.3333333333333333 teaspoon vanilla extract,AR_7,0.896335125,1.333333333,teaspoon
+1797,vanilla,0.8 teaspoon vanilla extract,AR_70,0.91003809,0.8,teaspoon
+1798,vanilla,1.0 teaspoon vanilla extract,AR_78,0.915186214,1,teaspoon
+1799,vanilla,4.0 teaspoons vanilla extract,AR_79,0.633333349,4,teaspoon
+1800,vanilla,4.0 teaspoons vanilla extract,AR_8,0.942446041,4,teaspoon
+1801,vanilla,8.0 teaspoons vanilla extract,AR_84,0.905737686,8,teaspoon
+1802,vanilla,2.0 teaspoons spice islands® pure vanilla extract,AR_88,0.955555534,2,teaspoon
+1803,vanilla,0.8 teaspoon vanilla extract,AR_89,0.909890079,0.8,teaspoon
+1804,vanilla,2.0 teaspoon vanilla extract,AR_90,0.902608681,2,teaspoon
+1805,vanilla,2.0 teaspoon vanilla extract,AR_91,0.928301907,2,teaspoon
+1806,vanilla,1.6 tablespoon vanilla extract,AR_95,0.844067764,4.8,teaspoon
+1807,vanilla,1.3333333333333333 teaspoon vanilla extract,AR_96,0.818181801,1.333333333,teaspoon
+1808,vanilla,0.05333333333333333 cup vanilla extract,AR_98,0.90666666,2.56,teaspoon
+1809,vanilla,0.5 teaspoon vanilla extract,E_133,0.75,0.5,teaspoon
+1810,vanilla,0.0888888888889 tablespoon vanilla extract,E_146,0.5,0.266666667,teaspoon
+1811,vanilla,48.0 teaspoon vanilla extract,E_169,0.5,48,teaspoon
+1812,vanilla,0.666666666667 tablespoon vanilla,E_197,0.875,2,teaspoon
+1813,vanilla,1.2 teaspoon vanilla extract,E_21,0.75,1.2,teaspoon
+1814,vanilla,2.0 teaspoon vanilla extract,E_215,0.875,2,teaspoon
+1815,vanilla,1.33333333333 teaspoon vanilla,E_220,0.75,1.333333333,teaspoon
+1816,vanilla,2.57142857143 teaspoons vanilla,E_230,0.875,2.571428571,teaspoon
+1817,vanilla,2.0 teaspoon vanilla extract,E_258,0.75,2,teaspoon
+1818,vanilla,3.6 teaspoons vanilla extract,E_26,0.875,3.6,teaspoon
+1819,vanilla,1.33333333333 teaspoon vanilla extract,E_362,0.625,1.333333333,teaspoon
+1820,vanilla,1.14285714286 teaspoon vanilla extract,E_375,0.75,1.142857143,teaspoon
+1821,vanilla,2.18181818182 teaspoon vanilla extract,E_399,1,2.181818182,teaspoon
+1822,vanilla,0.16 teaspoon vanilla,E_509,0.75,0.16,teaspoon
+1823,vanilla,1.6 teaspoon vanilla,E_79,0.75,1.6,teaspoon
+1824,vanilla,0.96 teaspoon vanilla extract,E_87,0.75,0.96,teaspoon
+1825,vanilla,8.0 tablespoon pure vanilla extract,E_88,0.375,24,teaspoon
+1826,vanilla,1.0 teaspoon pure vanilla extract,E_89,0.875,1,teaspoon
+1827,vanilla,0.8 teaspoon vanilla extract,E_91,1,0.8,teaspoon
+1828,vanilla,8.0 teaspoons natural vanilla extract,Misc_1,NA,8,teaspoon
+1829,vanilla,1.6 teaspoon pure vanilla extract,Misc_10,NA,1.6,teaspoon
+1830,vanilla,5.33333333333 teaspoons natural vanilla extract,Misc_100,NA,5.333333333,teaspoon
+1831,vanilla,6.0 teaspoon of pure vanilla extract,Misc_101,NA,6,teaspoon
+1832,vanilla,4.0 tbsp 7.5ml vanilla,Misc_102,NA,12,teaspoon
+1833,vanilla,1.33333333333 teaspoons vanilla extract,Misc_103,NA,1.333333333,teaspoon
+1834,vanilla,1.6 tsp. vanilla extract,Misc_104,NA,1.6,teaspoon
+1835,vanilla,8.0 tsp. vanilla extract,Misc_105,NA,8,teaspoon
+1836,vanilla,2.66666666667 tsp. pure vanilla extract,Misc_106,NA,2.666666667,teaspoon
+1837,vanilla,1.6 tsp. vanilla extract,Misc_107,NA,1.6,teaspoon
+1838,vanilla,2.0 teaspoon vanilla extract,Misc_108,NA,2,teaspoon
+1839,vanilla,2.0 tablespoons vanilla,Misc_109,NA,6,teaspoon
+1840,vanilla,0.8 teaspoon vanilla extract,Misc_11,NA,0.8,teaspoon
+1841,vanilla,0.75 ounce vanilla extract,Misc_110,NA,4.5,teaspoon
+1842,vanilla,1.6 teaspoon vanilla extract,Misc_111,NA,1.6,teaspoon
+1843,vanilla,4.0 teaspoons vanilla extract,Misc_112,NA,4,teaspoon
+1844,vanilla,1.14285714286 teaspoon pure vanilla extract,Misc_113,NA,1.142857143,teaspoon
+1845,vanilla,1.6 teaspoon pure vanilla extract,Misc_114,NA,1.6,teaspoon
+1846,vanilla,2.0 teaspoon vanilla extract,Misc_12,NA,2,teaspoon
+1847,vanilla,2.66666666667 teaspoons pure vanilla extract,Misc_13,NA,2.666666667,teaspoon
+1848,vanilla,3.69230769231 teaspoons vanilla,Misc_14,NA,3.692307692,teaspoon
+1849,vanilla,1.6 teaspoon vanilla extract,Misc_15,NA,1.6,teaspoon
+1850,vanilla,1.33333333333 teaspoons vanilla,Misc_16,NA,1.333333333,teaspoon
+1851,vanilla,1.0 tablespoon vanilla,Misc_17,NA,3,teaspoon
+1852,vanilla,2.66666666667 teaspoons vanilla extract,Misc_18,NA,2.666666667,teaspoon
+1853,vanilla,1.5 teaspoon vanilla extract,Misc_19,NA,1.5,teaspoon
+1854,vanilla,1.0 teaspoon vanilla 1.0 teaspoon,Misc_2,NA,1,teaspoon
+1855,vanilla,4.0 teaspoons vanilla extract,Misc_20,NA,4,teaspoon
+1856,vanilla,3.0 teaspoons vanilla extract,Misc_21,NA,3,teaspoon
+1857,vanilla,3.0 teaspoons pure vanilla extract,Misc_23,NA,3,teaspoon
+1858,vanilla,0.666666666667 tablespoon vanilla,Misc_24,NA,2,teaspoon
+1859,vanilla,2.0 tsp. pure vanilla extract,Misc_25,NA,2,teaspoon
+1860,vanilla,3.0 teaspoons vanilla extract,Misc_26,NA,3,teaspoon
+1861,vanilla,3.0 teaspoons vanilla extract,Misc_27,NA,3,teaspoon
+1862,vanilla,3.0 teaspoons vanilla extract,Misc_28,NA,3,teaspoon
+1863,vanilla,2.66666666667 teaspoons vanilla,Misc_29,NA,2.666666667,teaspoon
+1864,vanilla,2.4 tablespoon vanilla extract,Misc_30,NA,7.2,teaspoon
+1865,vanilla,0.8 teaspoon vanilla,Misc_31,NA,0.8,teaspoon
+1866,vanilla,2.0 tablespoon vanilla extract,Misc_32,NA,6,teaspoon
+1867,vanilla,0.96 tsp vanilla extract,Misc_33,NA,0.96,teaspoon
+1868,vanilla,"6.85714285714 teaspoon vanilla extract, optional",Misc_34,NA,6.857142857,teaspoon
+1869,vanilla,0.923076923077 teaspoon vanilla extract,Misc_35,NA,0.923076923,teaspoon
+1870,vanilla,3.0 tsp vanilla extract,Misc_36,NA,3,teaspoon
+1871,vanilla,1.33333333333 tablespoon pure vanilla extract,Misc_37,NA,4,teaspoon
+1872,vanilla,6.4 teaspoons mccormick® pure vanilla extract,Misc_38,NA,6.4,teaspoon
+1873,vanilla,0.8 teaspoon vanilla extract,Misc_39,NA,0.8,teaspoon
+1874,vanilla,7.2 teaspoons pure vanilla extract,Misc_4,NA,7.2,teaspoon
+1875,vanilla,1.5 teaspoons pure vanilla extract,Misc_40,NA,1.5,teaspoon
+1876,vanilla,1.2 teaspoon vanilla extract,Misc_41,NA,1.2,teaspoon
+1877,vanilla,3.2 teaspoons vanilla,Misc_42,NA,3.2,teaspoon
+1878,vanilla,2.52631578947 teaspoons pure vanilla extract,Misc_43,NA,2.526315789,teaspoon
+1879,vanilla,4.0 teaspoons vanilla extract,Misc_44,NA,4,teaspoon
+1880,vanilla,1.33333333333 teaspoon stonemill essentials pure vanilla extract,Misc_45,NA,1.333333333,teaspoon
+1881,vanilla,2.0 teaspoon vanilla,Misc_46,NA,2,teaspoon
+1882,vanilla,0.571428571429 teaspoon vanilla,Misc_47,NA,0.571428571,teaspoon
+1883,vanilla,2.66666666667 teaspoons vanilla extract,Misc_48,NA,2.666666667,teaspoon
+1884,vanilla,"3.2 	teaspoons vanilla extract",Misc_49,NA,3.2,teaspoon
+1885,vanilla,1.45454545455 tablespoon vanilla extract,Misc_5,NA,4.363636364,teaspoon
+1886,vanilla,"4.0 	teaspoons vanilla extract",Misc_50,NA,4,teaspoon
+1887,vanilla,"2.13333333333 	teaspoons pure vanilla extract",Misc_51,NA,2.133333333,teaspoon
+1888,vanilla,"1.92 	teaspoons pure vanilla extract",Misc_52,NA,1.92,teaspoon
+1889,vanilla,"6.0 	teaspoons vanilla extract",Misc_53,NA,6,teaspoon
+1890,vanilla,1.33333333333 tablespoon vanilla extract,Misc_54,NA,4,teaspoon
+1891,vanilla,2.28571428571 teaspoons pure vanilla extract,Misc_55,NA,2.285714286,teaspoon
+1892,vanilla,4.0 teaspoons pure vanilla extract,Misc_56,NA,4,teaspoon
+1893,vanilla,2.0 tablespoon vanilla extract,Misc_6,NA,6,teaspoon
+1894,vanilla,2.0 tsp vanilla extract,Misc_60,NA,2,teaspoon
+1895,vanilla,2.0 teaspoons vanilla,Misc_61,NA,2,teaspoon
+1896,vanilla,2.0 teaspoon vanilla,Misc_62,NA,2,teaspoon
+1897,vanilla,1.77777777778 teaspoon vanilla extract,Misc_63,NA,1.777777778,teaspoon
+1898,vanilla,1.2 teaspoon pure vanilla extract,Misc_64,NA,1.2,teaspoon
+1899,vanilla,1.0 teaspoon pure vanilla extract,Misc_65,NA,1,teaspoon
+1900,vanilla,2.0 tsp. vanilla,Misc_67,NA,2,teaspoon
+1901,vanilla,4.0 teaspoons vanilla extract,Misc_68,NA,4,teaspoon
+1902,vanilla,4.0 teaspoon vanilla,Misc_69,NA,4,teaspoon
+1903,vanilla,1.6 tablespoon vanilla extract,Misc_7,NA,4.8,teaspoon
+1904,vanilla,2.66666666667 teaspoons vanilla extract,Misc_70,NA,2.666666667,teaspoon
+1905,vanilla,7.2 teaspoons pure vanilla extract,Misc_72,NA,7.2,teaspoon
+1906,vanilla,2.0 tsp vanilla extract,Misc_73,NA,2,teaspoon
+1907,vanilla,1.33333333333 tsp. vanilla,Misc_74,NA,1.333333333,teaspoon
+1908,vanilla,3.55555555556 teaspoons vanilla extract,Misc_75,NA,3.555555556,teaspoon
+1909,vanilla,2.0 teaspoon vanilla,Misc_76,NA,2,teaspoon
+1910,vanilla,1.14285714286 tablespoon vanilla extract,Misc_77,NA,3.428571429,teaspoon
+1911,vanilla,2.4 teaspoon vanilla extract,Misc_78,NA,2.4,teaspoon
+1912,vanilla,3.42857142857 teaspoon vanilla extract,Misc_79,NA,3.428571429,teaspoon
+1913,vanilla,4.0 generous teaspoon vanilla,Misc_80,NA,4,teaspoon
+1914,vanilla,2.66666666667 tablespoon vanilla extract,Misc_81,NA,8,teaspoon
+1915,vanilla,1.71428571429 tablespoon vanilla,Misc_82,NA,5.142857143,teaspoon
+1916,vanilla,2.0 tsp vanilla,Misc_83,NA,2,teaspoon
+1917,vanilla,7.38461538462 tsp vanilla extract,Misc_84,NA,7.384615385,teaspoon
+1918,vanilla,2.66666666667 teaspoons vanilla extract,Misc_85,NA,2.666666667,teaspoon
+1919,vanilla,"8.0 teaspoons vanilla extract, store bought or homemade",Misc_86,NA,8,teaspoon
+1920,vanilla,4.0 tbsp vanilla extract,Misc_87,NA,12,teaspoon
+1921,vanilla,3.42857142857 tsp vanilla extract,Misc_89,NA,3.428571429,teaspoon
+1922,vanilla,1.0 teaspoon vanilla,Misc_9,NA,1,teaspoon
+1923,vanilla,4.8 tsp. vanilla extract,Misc_90,NA,4.8,teaspoon
+1924,vanilla,1.0 tbsp vanilla extract,Misc_91,NA,3,teaspoon
+1925,vanilla,5.33333333333 teaspoons vanilla extract,Misc_92,NA,5.333333333,teaspoon
+1926,vanilla,1.33333333333 tablespoon vanilla,Misc_93,NA,4,teaspoon
+1927,vanilla,2.66666666667 teaspoons mccormick vanilla extract,Misc_94,NA,2.666666667,teaspoon
+1928,vanilla,2.66666666667 tsp. vanilla extract,Misc_95,NA,2.666666667,teaspoon
+1929,vanilla,2.4 tsp vanilla extract,Misc_96,NA,2.4,teaspoon
+1930,vanilla,4.0 teaspoons vanilla extract,Misc_98,NA,4,teaspoon
+1931,vanilla,2.66666666667 tablespoon vanilla extract,Misc_99,NA,8,teaspoon
+1932,vanilla,0.872727272727 teaspoon vanilla,Misc_8,NA,0.872727273,teaspoon
+1933,vegetable oil,0.36923076923076925 cup vegetable oil,AR_101,0.6,0.369230769,cup
+1934,vegetable oil,0.6666666666666666 cup vegetable oil,AR_109,0.871794891,0.666666667,cup
+1935,vegetable oil,1.0 cup vegetable oil,AR_110,0.868292713,1,cup
+1936,vegetable oil,2.6666666666666665 tablespoons vegetable oil,AR_113,0.8,0.16666,cup
+1937,vegetable oil,2.0 cup vegetable oil,AR_43,0.828866005,2,cup
+1938,vinegar,"1.33333333333 teaspoon vinegar, cider or white",Misc_18,NA,1.333333333,teaspoon
+1939,vinegar,"1.33333333333 teaspoon vinegar, cider or white",Misc_48,NA,1.333333333,teaspoon
+1940,vinegar,"1.33333333333 teaspoon vinegar, cider or white",Misc_85,NA,1.333333333,teaspoon
+1941,walnut,1.0 cup chopped walnuts,AR_1,0.920724583,1,cup
+1942,walnut,1.1076923076923078 cups chopped walnuts,AR_101,0.6,1.107692308,cup
+1943,walnut,0.5 cup chopped walnuts,AR_110,0.868292713,0.5,cup
+1944,walnut,1.0 cup chopped walnuts optional,AR_119,0.845714283,1,cup
+1945,walnut,2.0 cup chopped walnuts,AR_13,0.909016418,2,cup
+1946,walnut,1.0 cups chopped walnuts,AR_14,0.90666666,1,cup
+1947,walnut,0.6666666666666666 cup chopped walnuts,AR_141,0.784615374,0.666666667,cup
+1948,walnut,1.0 cup chopped walnuts,AR_144,0.442857122,1,cup
+1949,walnut,1.3333333333333333 cups chopped walnuts optional,AR_155,0.931135178,1.333333333,cup
+1950,walnut,2.0 cups chopped walnuts,AR_196,0.785929632,2,cup
+1951,walnut,1.3333333333333333 cup chopped walnuts,AR_21,0.881944466,1.333333333,cup
+1952,walnut,1.3333333333333333 cup chopped walnuts,AR_218,0.877419376,1.333333333,cup
+1953,walnut,1.0 cup chopped walnuts,AR_26,0.9,1,cup
+1954,walnut,0.6666666666666666 cup chopped walnuts,AR_27,0.876923084,0.666666667,cup
+1955,walnut,0.5 cup chopped walnuts,AR_30,0.859829044,0.5,cup
+1956,walnut,0.3333333333333333 cup chopped walnuts,AR_33,0.826666641,0.333333333,cup
+1957,walnut,2.0 cup coarsely chopped walnuts,AR_35,0.843636322,2,cup
+1958,walnut,1.0 cup coarsely chopped walnuts,AR_39,0.6,1,cup
+1959,walnut,0.3333333333333333 cup chopped walnuts,AR_4,0.922985077,0.333333333,cup
+1960,walnut,1.3333333333333333 cup chopped walnuts,AR_49,0.592592573,1.333333333,cup
+1961,walnut,1.0 cup chopped walnuts,AR_5,0.937341785,1,cup
+1962,walnut,1.2000000000000002 cups chopped walnuts,AR_70,0.91003809,1.2,cup
+1963,walnut,2.0 cup chopped walnuts,AR_91,0.928301907,2,cup
+1964,walnut,0.666666666667 cup finely chopped walnuts optional,E_197,0.875,0.666666667,cup
+1965,walnut,2.0 cup chopped walnuts,E_258,0.75,2,cup
+1966,walnut,8.0 cup coarsely chopped walnuts,E_88,0.375,8,cup
+1967,walnut,4.0 cup 150 g candied walnuts,Misc_102,NA,4,cup
+1968,walnut,1.33333333333 cups walnuts optional,Misc_103,NA,1.333333333,cup
+1969,walnut,1.33333333333 cup walnut pieces,Misc_106,NA,1.333333333,cup
+1970,walnut,"0.666666666667 cup walnuts, chopped or 0.666666666667 cup pecans",Misc_24,NA,0.666666667,cup
+1971,walnut,"4.0 cups coarsely chopped walnuts, toasted",Misc_26,NA,4,cup
+1972,walnut,3.6 cups chopped walnuts,Misc_30,NA,3.6,cup
+1973,walnut,1.6 cup chopped walnuts,Misc_38,NA,1.6,cup
+1974,walnut,0.571428571429 cup chopped walnuts optional,Misc_47,NA,0.571428571,cup
+1975,walnut,2.90909090909 cups chopped toasted walnuts optional,Misc_5,NA,2.909090909,cup
+1976,walnut,"3.0 	cups walnuts, finely chopped",Misc_50,NA,3,cup
+1977,walnut,4.0 cups chopped toasted walnuts optional,Misc_6,NA,4,cup
+1978,walnut,"1.77777777778 cup chopped, toasted walnut pieces, optional",Misc_63,NA,1.777777778,cup
+1979,walnut,3.2 cups chopped walnuts optional,Misc_7,NA,3.2,cup
+1980,water,2.0 teaspoons hot water,AR_1,0.920724583,0.041,cup
+1981,water,1.5 cup water,AR_55,0.385714293,1.5,cup
+1982,water,1.2 teaspoon water,Misc_64,NA,0.025,cup
+1983,water,9.6 tablespoons water,Misc_72,NA,0.6,cup
+1984,wheat,0.4 cup wheat germ,AR_118,0.830769253,0.4,cup
+1985,wheat flour,"0.64 	cup 91 grams whole wheat flour",Misc_52,NA,0.64,cup
+1986,wheat flour,2.0 cup whole wheat flour,Misc_62,NA,2,cup
+1987,wheat flour,7.38461538462 cups white whole wheat flour or regular whole wheat flour,Misc_71,NA,7.384615385,cup
+1988,white pepper,1.0 teaspoon ground white pepper,AR_26,0.9,1,teaspoon
+1989,xanthan gum,0.666666666667 teaspoon xanthan gum,E_197,0.875,0.666666667,teaspoon
+1990,zucchini,2.0 cups finely chopped zucchini,AR_27,0.876923084,2,cup
+447,light brown sugar,1.0 cup packed brown sugar,AR_1,0.920724583,1,cup
+448,light brown sugar,0.8 cup packed light brown sugar,AR_10,0.905162048,0.8,cup
+449,light brown sugar,0.7384615384615385 cups packed brown sugar,AR_101,0.6,0.738461538,cup
+450,light brown sugar,1.0 cup brown sugar,AR_102,0.9375,1,cup
+451,light brown sugar,0.4 cup packed brown sugar,AR_103,0.88125,0.4,cup
+452,light brown sugar,3.0 cup packed brown sugar,AR_107,0.927272701,3,cup
+453,light brown sugar,0.5714285714285714 cup packed brown sugar,AR_108,0.867741966,0.571428571,cup
+454,light brown sugar,0.6666666666666666 cup packed brown sugar,AR_109,0.871794891,0.666666667,cup
+455,light brown sugar,1.3333333333333333 cup packed brown sugar,AR_11,0.902891922,1.333333333,cup
+456,light brown sugar,1.0 cup packed light brown sugar,AR_110,0.868292713,1,cup
+457,light brown sugar,2.0 cup packed brown sugar,AR_111,1,2,cup
+458,light brown sugar,0.25 cup packed brown sugar,AR_116,0.847999954,0.25,cup
+459,light brown sugar,0.4 cup packed brown sugar,AR_118,0.830769253,0.4,cup
+460,light brown sugar,1.25 cups packed brown sugar,AR_119,0.845714283,1.25,cup
+461,light brown sugar,1.0 cup packed brown sugar,AR_12,0.873469353,1,cup
+462,light brown sugar,1.5 cup brown sugar,AR_128,0.714285707,1.5,cup
+463,light brown sugar,2.0 cup packed brown sugar,AR_13,0.909016418,2,cup
+464,light brown sugar,0.6666666666666666 cup packed brown sugar,AR_14,0.90666666,0.666666667,cup
+465,light brown sugar,1.0 cup packed brown sugar,AR_140,0.584615374,1,cup
+466,light brown sugar,1.3333333333333333 cup packed brown sugar,AR_141,0.784615374,1.333333333,cup
+467,light brown sugar,1.5 cup packed brown sugar,AR_142,0.671428585,1.5,cup
+468,light brown sugar,1.0 cup packed brown sugar,AR_144,0.442857122,1,cup
+469,light brown sugar,0.75 cup packed light brown sugar,AR_15,0.924302769,0.75,cup
+470,light brown sugar,1.0 cups packed brown sugar,AR_155,0.931135178,1,cup
+471,light brown sugar,4.0 cup packed brown sugar,AR_156,0.924294472,4,cup
+472,light brown sugar,1.1428571428571428 cups packed brown sugar,AR_16,0.85882349,1.142857143,cup
+473,light brown sugar,0.75 cup packed brown sugar,AR_164,0.917012405,0.75,cup
+474,light brown sugar,2.6666666666666665 cups brown sugar,AR_169,0.873728848,2.666666667,cup
+475,light brown sugar,0.6666666666666666 cup brown sugar,AR_19,0.880000019,0.666666667,cup
+476,light brown sugar,1.5 cup brown sugar,AR_195,0.585714293,1.5,cup
+477,light brown sugar,1.0 cup packed brown sugar,AR_197,0.706521749,1,cup
+478,light brown sugar,0.4444444444444444 cup packed brown sugar,AR_2,0.937981987,0.444444444,cup
+479,light brown sugar,3.333333333333333 cups packed brown sugar,AR_21,0.881944466,3.333333333,cup
+480,light brown sugar,1.0 cup packed brown sugar,AR_218,0.877419376,1,cup
+481,light brown sugar,4.0 cups brown sugar,AR_256,0.870253181,4,cup
+482,light brown sugar,1.0 cup packed brown sugar,AR_26,0.9,1,cup
+483,light brown sugar,1.5 cups packed brown sugar,AR_28,0.873333359,1.5,cup
+484,light brown sugar,0.5 cup packed brown sugar,AR_280,NA,0.5,cup
+485,light brown sugar,0.75 cup packed brown sugar,AR_3,0.917986774,0.75,cup
+486,light brown sugar,0.25 cup light brown sugar,AR_30,0.859829044,0.25,cup
+487,light brown sugar,1.6 cups brown sugar,AR_32,0.830769253,1.6,cup
+488,light brown sugar,1.3333333333333333 cup packed brown sugar,AR_33,0.826666641,1.333333333,cup
+489,light brown sugar,1.3333333333333333 cup brown sugar,AR_35,0.843636322,1.333333333,cup
+490,light brown sugar,2.0 cups packed brown sugar,AR_37,0.8,2,cup
+491,light brown sugar,1.0 cup packed brown sugar,AR_39,0.6,1,cup
+492,light brown sugar,1.0 cup brown sugar,AR_4,0.922985077,1,cup
+493,light brown sugar,2.0 cup packed brown sugar,AR_43,0.828866005,2,cup
+494,light brown sugar,0.75 cup packed brown sugar,AR_45,0.821052647,0.75,cup
+495,light brown sugar,3.0 cup brown sugar,AR_47,0.7125,3,cup
+496,light brown sugar,1.5 cup packed brown sugar,AR_48,0.677777767,1.5,cup
+497,light brown sugar,1.0 cup packed brown sugar,AR_49,0.592592573,1,cup
+498,light brown sugar,0.75 cup packed brown sugar,AR_5,0.937341785,0.75,cup
+499,light brown sugar,2.0 cup packed brown sugar,AR_53,0.692473125,2,cup
+500,light brown sugar,0.5 cup brown sugar,AR_54,0.723741007,0.5,cup
+501,light brown sugar,1.5 cup packed brown sugar,AR_55,0.385714293,1.5,cup
+502,light brown sugar,1.0 cup packed brown sugar,AR_57,0.595505619,1,cup
+503,light brown sugar,1.5 cup brown sugar,AR_66,0.902002907,1.5,cup
+504,light brown sugar,0.75 cup light brown sugar,AR_67,0.939130402,0.75,cup
+505,light brown sugar,0.75 cup packed light brown sugar,AR_69,0.920792103,0.75,cup
+506,light brown sugar,1.0 cup packed brown sugar,AR_7,0.896335125,1,cup
+507,light brown sugar,0.8 cup packed brown sugar,AR_70,0.91003809,0.8,cup
+508,light brown sugar,0.75 cup packed brown sugar,AR_78,0.915186214,0.75,cup
+509,light brown sugar,1.0 cup brown sugar,AR_79,0.633333349,1,cup
+510,light brown sugar,1.5 cup brown sugar,AR_8,0.942446041,1.5,cup
+511,light brown sugar,4.0 cup packed brown sugar,AR_84,0.905737686,4,cup
+512,light brown sugar,0.75 cup brown sugar,AR_88,0.955555534,0.75,cup
+513,light brown sugar,0.6000000000000001 cup packed brown sugar,AR_89,0.909890079,0.6,cup
+514,light brown sugar,1.5 cup packed brown sugar,AR_90,0.902608681,1.5,cup
+515,light brown sugar,1.5 cup packed brown sugar,AR_91,0.928301907,1.5,cup
+516,light brown sugar,2.4000000000000004 cups packed brown sugar,AR_95,0.844067764,2.4,cup
+517,light brown sugar,1.3333333333333333 cup brown sugar,AR_96,0.818181801,1.333333333,cup
+518,light brown sugar,0.8 cup packed brown sugar,AR_97,0.933333302,0.8,cup
+519,light brown sugar,2.0 cups packed brown sugar,AR_98,0.90666666,2,cup
+520,light brown sugar,6.0 tablespoons brown sugar,E_133,0.75,0.375,cup
+521,light brown sugar,0.0888888888889 cup light brown sugar,E_146,0.5,0.088888889,cup
+522,light brown sugar,96.0 tablespoons soft brown sugar,E_169,0.5,6,cup
+523,light brown sugar,0.333333333333 cup packed brown sugar,E_197,0.875,0.333333333,cup
+524,light brown sugar,1.8 cup packed light brown sugar,E_21,0.75,1.8,cup
+525,light brown sugar,1.5 cup packed light brown sugar,E_215,0.875,1.5,cup
+526,light brown sugar,1.0 cup firmly packed light brown sugar,E_220,0.75,1,cup
+527,light brown sugar,2.57142857143 cups packed light brown sugar,E_230,0.875,2.571428571,cup
+528,light brown sugar,2.0 cup packed golden brown sugar,E_258,0.75,2,cup
+529,light brown sugar,1.8 cup packed golden brown sugar,E_26,0.875,1.8,cup
+530,light brown sugar,1.0 cup packed light brown sugar,E_362,0.625,1,cup
+531,light brown sugar,1.14285714286 cup packed golden brown sugar,E_375,0.75,1.142857143,cup
+532,light brown sugar,2.18181818182 cup  brown sugar,E_399,1,2.181818182,cup
+533,light brown sugar,0.213333333333 cup packed light brown sugar,E_509,0.75,0.213333333,cup
+534,light brown sugar,0.8 cup firmly packed light brown sugar,E_79,0.75,0.8,cup
+535,light brown sugar,4.0 cup firmly packed brown sugar,E_88,0.375,4,cup
+536,light brown sugar,0.75 cup packed light brown sugar,E_89,0.875,0.75,cup
+537,light brown sugar,0.6 cup packed brown sugar,E_91,1,0.6,cup
+538,light brown sugar,5.0 cups light brown sugar,Misc_1,NA,5,cup
+539,dark brown sugar,1.2 cup packed dark brown sugar,Misc_10,NA,1.2,cup
+540,light brown sugar,3.33333333333 cups light brown sugar,Misc_100,NA,3.333333333,cup
+541,light brown sugar,2.25 cup of firmly packed golden brown sugar,Misc_101,NA,2.25,cup
+542,light brown sugar,"1.33333333333 ⁄2 cups brown sugar, packed",Misc_103,NA,1.333333333,cup
+543,light brown sugar,0.8 cup 3 0.8 oz./105 g firmly packed light brown sugar,Misc_104,NA,0.8,cup
+544,dark brown sugar,4.0 cup firmly packed dark brown sugar,Misc_105,NA,4,cup
+545,light brown sugar,0.888888888889 cup firmly packed light brown sugar,Misc_106,NA,0.888888889,cup
+546,light brown sugar,"1.0 cup brown sugar, packed",Misc_108,NA,1,cup
+547,light brown sugar,2.0 cups packed brown sugar,Misc_109,NA,2,cup
+548,light brown sugar,0.6 cup packed brown sugar,Misc_11,NA,0.6,cup
+549,light brown sugar,12.0 ounces light brown sugar,Misc_110,NA,1.5,cup
+550,light brown sugar,1.33333333333 cup brown sugar tightly packed 250g,Misc_111,NA,1.333333333,cup
+551,dark brown sugar,0.888888888889 cup dark brown sugar,Misc_112,NA,0.888888889,cup
+552,light brown sugar,0.888888888889 cup light brown sugar,Misc_112,NA,0.888888889,cup
+553,light brown sugar,0.857142857143 cup light brown sugar – press brown sugar down when measuring,Misc_113,NA,0.857142857,cup
+554,light brown sugar,1.2 cup packed light brown sugar,Misc_114,NA,1.2,cup
+555,light brown sugar,1.0 cup firmly packed light brown sugar,Misc_12,NA,1,cup
+556,light brown sugar,1.33333333333 cup packed light brown sugar,Misc_13,NA,1.333333333,cup
+557,light brown sugar,2.30769230769 cups 247 grams lightly packed brown sugar,Misc_14,NA,2.307692308,cup
+558,light brown sugar,1.33333333333 cup brown sugar tightly packed 250g,Misc_15,NA,1.333333333,cup
+559,light brown sugar,0.833333333333 cups packed brown sugar,Misc_16,NA,0.833333333,cup
+560,light brown sugar,1.25 cups firmly packed brown sugar,Misc_17,NA,1.25,cup
+561,light brown sugar,"0.888888888889 cup light brown sugar, firmly packed",Misc_18,NA,0.888888889,cup
+562,light brown sugar,2.25 cups light brown sugar packed 300g,Misc_19,NA,2.25,cup
+563,light brown sugar,0.5 cup light brown sugar 0.5 cup packed,Misc_2,NA,0.5,cup
+564,light brown sugar,2.0 cup light brown sugar,Misc_20,NA,2,cup
+565,light brown sugar,16.0 ounces light brown sugar,Misc_21,NA,2,cup
+566,dark brown sugar,"1.0 cup packed dark brown sugar, preferably molasses sugar",Misc_22,NA,1,cup
+567,dark brown sugar,0.666666666667 cup dark brown muscavado sugar,Misc_23,NA,0.666666667,cup
+568,light brown sugar,0.666666666667 cup brown sugar,Misc_24,NA,0.666666667,cup
+569,light brown sugar,2.0 cup packed brown sugar,Misc_26,NA,2,cup
+570,light brown sugar,2.0 cup 200 grams packed brown sugar,Misc_27,NA,2,cup
+571,light brown sugar,2.0 cup 200 grams packed brown sugar,Misc_28,NA,2,cup
+572,light brown sugar,1.33333333333 cup brown sugar,Misc_29,NA,1.333333333,cup
+573,light brown sugar,"1.8 cup brown sugar, packed",Misc_30,NA,1.8,cup
+574,light brown sugar,0.8 cup packed brown sugar,Misc_31,NA,0.8,cup
+575,light brown sugar,2.5 cup brown sugar,Misc_32,NA,2.5,cup
+576,light brown sugar,0.72 cup brown sugar packed,Misc_33,NA,0.72,cup
+577,light brown sugar,4.28571428571 cups 7 1/2oz/225g light brown sugar,Misc_34,NA,4.285714286,cup
+578,light brown sugar,0.461538461538 cup plus 2 tablespoons packed brown sugar,Misc_35,NA,0.461538462,cup
+579,dark brown sugar,1.875 cups dark brown sugar,Misc_36,NA,1.875,cup
+580,dark brown sugar,0.666666666667 cup dark brown sugar,Misc_37,NA,0.666666667,cup
+581,light brown sugar,0.666666666667 cup light brown sugar,Misc_37,NA,0.666666667,cup
+582,light brown sugar,1.6 cup firmly packed light brown sugar,Misc_38,NA,1.6,cup
+583,light brown sugar,0.6 cup light brown sugar packed,Misc_39,NA,0.6,cup
+584,light brown sugar,0.75 cup 160 grams firmly packed light brown sugar,Misc_40,NA,0.75,cup
+585,dark brown sugar,"0.9 cup packed brown sugar light or dark, but we prefer dark!",Misc_41,NA,0.9,cup
+586,light brown sugar,1.6 cup brown sugar,Misc_42,NA,1.6,cup
+587,light brown sugar,1.26315789474 cup 200 grams brown sugar,Misc_43,NA,1.263157895,cup
+588,light brown sugar,2.0 cup brown sugar,Misc_44,NA,2,cup
+589,light brown sugar,0.666666666667 cup packed baker’s corner brown sugar,Misc_45,NA,0.666666667,cup
+590,dark brown sugar,1.0 cup packed brown sugar i always use dark,Misc_46,NA,1,cup
+591,light brown sugar,0.428571428571 cup firmly packed brown sugar,Misc_47,NA,0.428571429,cup
+592,light brown sugar,"0.888888888889 cup light brown sugar, firmly packed",Misc_48,NA,0.888888889,cup
+593,light brown sugar,"2.0 	cups packed brown sugar",Misc_49,NA,2,cup
+594,light brown sugar,2.18181818182 cups packed light brown sugar,Misc_5,NA,2.181818182,cup
+595,dark brown sugar,"2.0 	cup light or dark brown sugar, tightly packed",Misc_50,NA,2,cup
+596,light brown sugar,"0.711111111111 	cup packed light brown sugar",Misc_51,NA,0.711111111,cup
+597,light brown sugar,"0.72 	cup 150 grams packed light brown sugar",Misc_52,NA,0.72,cup
+598,light brown sugar,1.66666666667 cups firmly packed light brown sugar,Misc_54,NA,1.666666667,cup
+599,dark brown sugar,1.14285714286 cup firmly packed light muscavado sugar or dark brown sugar,Misc_55,NA,1.142857143,cup
+600,dark brown sugar,1.5 cup 150g packed dark brown sugar,Misc_56,NA,1.5,cup
+601,light brown sugar,3.0 cups brown sugar,Misc_60,NA,3,cup
+602,light brown sugar,"0.75 cup brown sugar, packed",Misc_61,NA,0.75,cup
+603,light brown sugar,2.0 cup brown sugar,Misc_62,NA,2,cup
+604,light brown sugar,1.33333333333 cup light brown sugar,Misc_63,NA,1.333333333,cup
+605,dark brown sugar,"0.9 cup dark brown sugar, firmly packed",Misc_64,NA,0.9,cup
+606,light brown sugar,0.75 cup packed light brown sugar,Misc_65,NA,0.75,cup
+607,light brown sugar,1.0 cup packed brown sugar,Misc_67,NA,1,cup
+608,light brown sugar,0.5 cup 54 g brown sugar packed,Misc_68,NA,0.5,cup
+609,light brown sugar,1.0 cup packed light brown sugar,Misc_69,NA,1,cup
+610,light brown sugar,2.4 cups packed light brown sugar,Misc_7,NA,2.4,cup
+611,dark brown sugar,"1.33333333333 cup brown sugar, light or dark",Misc_70,NA,1.333333333,cup
+612,light brown sugar,1.0 cup tightly packed light brown sugar,Misc_73,NA,1,cup
+613,light brown sugar,1.33333333333 cup brown sugar,Misc_74,NA,1.333333333,cup
+614,light brown sugar,2.66666666667 cups firmly packed brown sugar,Misc_75,NA,2.666666667,cup
+615,light brown sugar,"2.0 cup brown sugar, packed",Misc_76,NA,2,cup
+616,light brown sugar,2.66285714286 cups light brown sugar,Misc_77,NA,2.662857143,cup
+617,light brown sugar,"2.57142857143 cup light brown sugar, packed",Misc_79,NA,2.571428571,cup
+618,dark brown sugar,"0.872727272727 cup dark brown sugar, packed",Misc_8,NA,0.872727273,cup
+619,dark brown sugar,1.0 cup light brown sugar dark brown is fine too,Misc_80,NA,1,cup
+620,light brown sugar,2.66666666667 cup light brown sugar,Misc_81,NA,2.666666667,cup
+621,dark brown sugar,1.71428571429 cup packed brown sugar light or dark,Misc_82,NA,1.714285714,cup
+622,light brown sugar,0.75 cup brown sugar,Misc_83,NA,0.75,cup
+623,light brown sugar,"0.888888888889 cup light brown sugar, firmly packed",Misc_85,NA,0.888888889,cup
+624,light brown sugar,"2.0 cup brown sugar, packed",Misc_86,NA,2,cup
+625,light brown sugar,4.0 cup brown sugar,Misc_87,NA,4,cup
+626,light brown sugar,0.857142857143 cup packed brown sugar,Misc_89,NA,0.857142857,cup
+627,light brown sugar,0.75 cup packed brown sugar,Misc_9,NA,0.75,cup
+628,light brown sugar,4.8 ⁄4 cups packed light brown sugar,Misc_90,NA,4.8,cup
+629,dark brown sugar,1.0 cup packed dark brown sugar,Misc_91,NA,1,cup
+630,light brown sugar,"1.33333333333 cup brown sugar, packed",Misc_93,NA,1.333333333,cup
+631,light brown sugar,1.66666666667 cups packed light brown sugar,Misc_94,NA,1.666666667,cup
+632,light brown sugar,1.8 cup 150 g packed light brown sugar,Misc_96,NA,1.8,cup
+633,light brown sugar,2.13332571429 cup light brown sugar,Misc_97,NA,2.133325714,cup
+634,dark brown sugar,2.5 cup packed dark brown sugar,Misc_98,NA,2.5,cup
+635,light brown sugar,2.0 cup packed light brown sugar,Misc_99,NA,2,cup
+803,bittersweet chocolate chip,"3.3333 pounds bittersweet chocolate disks or fèves, at least 60 percent cacao content see note",Misc_1,NA,12,cup
+804,bittersweet chocolate chip,"3.33333333333 pounds bittersweet chocolate disks or féves, at least 60 percent cacao content see note",Misc_100,NA,12,cup
+805,semisweet chocolate chip,1.6 cups 12 oz. pkg. nestlé® toll house® semi sweet chocolate morsels,Misc_11,NA,1.6,cup
+806,semisweet chocolate chip,"2.66666666667 5 ounce block high quality semisweet chocolate, chopped",Misc_112,NA,1.6429,cup
+807,bittersweet chocolate chip,"8.0 ounces bittersweet chocolate 8.0 ounces, cut in 1 inch pieces or use coins",Misc_2,NA,1,cup
+808,semisweet chocolate chip,"2.0 5 ounce block semisweet chocolate, chopped into chunks recommended: callebaut",Misc_23,NA,0.25,cup
+809,semisweet chocolate chip,1.6 cups semisweet chocolate pieces,Misc_31,NA,1.6,cup
+810,bittersweet chocolate chip,6.85714285714 cups 12oz/360g bittersweet chocolate chunks,Misc_34,NA,6.857142857,cup
+811,semisweet chocolate chip,"1.84615384615 cup high quality chocolate, like guittard",Misc_35,NA,1.846153846,cup
+812,bittersweet chocolate chip,"28.8 ounces/170 grams bittersweet chocolate about 60 percent cacao solids, chopped into coarse pieces, bits and shards",Misc_4,NA,3.5488,cup
+813,bittersweet chocolate chip,"2.13333333333 	pounds bittersweet chocolate discs",Misc_49,NA,4.205,cup
+814,bittersweet chocolate chip,2.90909090909 cups chopped bittersweet chocolate chunks and shavings,Misc_5,NA,2.909090909,cup
+815,semisweet chocolate chip,2.28571428571 cups chocolate discs 53% to 64% cacao*,Misc_55,NA,2.285714286,cup
+816,bittersweet chocolate chip,3.0 cups chopped bittersweet chocolate peasize pieces and shavings,Misc_6,NA,3,cup
+817,bittersweet chocolate chip,4.8 cups chopped bittersweet chocolate chunks and shavings,Misc_7,NA,4.8,cup
+818,bittersweet chocolate chip,28.8 ounces 170 g bittersweet chocolate,Misc_72,NA,3.45,cup
+819,dark chocolate chip,21.3333333333 ounces dark chocolate chunks,Misc_75,NA,2.628,cup
+820,semisweet chocolate chip,"9.14285714286 ounce bars chocolate, chopped",Misc_77,NA,1.1266,cup
+821,semisweet chocolate chip,2.0 cups semisweet chocolate chips,AR_1,0.920724583,2,cup
+822,semisweet chocolate chip,1.6 cups semisweet chocolate chips,AR_10,0.905162048,1.6,cup
+823,semisweet chocolate chip,7.92 ounce packages semisweet chocolate chips,AR_101,0.6,0.99,cup
+824,milk chocolate chip,2.6 ounce bar milk chocolate candy bar such as hershey's® cut into pieces,AR_101,0.6,0.325,cup
+825,semisweet chocolate chip,16 ounce bag chocolate chips,AR_102,0.9375,2,cup
+826,semisweet chocolate chip,9.600000000000001 ounces semisweet chocolate chips,AR_103,0.88125,1.2,cup
+827,semisweet chocolate chip,12.0 cups semisweet chocolate chips,AR_107,0.927272701,12,cup
+828,semisweet chocolate chip,1.1428571428571428 cups semisweet chocolate chips,AR_108,0.867741966,1.142857143,cup
+829,semisweet chocolate chip,1.3333333333333333 cups semisweet chocolate chips,AR_109,0.871794891,1.333333333,cup
+830,semisweet chocolate chip,2.6666666666666665 cups semisweet chocolate chips,AR_11,0.902891922,2.666666667,cup
+831,semisweet chocolate chip,2.0 cups semisweet chocolate chips,AR_110,0.868292713,2,cup
+832,semisweet chocolate chip,24 ounce package semisweet chocolate chips,AR_111,1,3,cup
+833,semisweet chocolate chip,15.11 ounce package semisweet chocolate chips,AR_113,0.8,1.88875,cup
+834,semisweet chocolate chip,1.25 cups semisweet chocolate chips,AR_116,0.847999954,1.25,cup
+835,semisweet chocolate chip,1.2000000000000002 cups semisweet chocolate chips,AR_118,0.830769253,1.2,cup
+836,semisweet chocolate chip,2.0 cups semisweet chocolate chips,AR_119,0.845714283,2,cup
+837,semisweet chocolate chip,12 ounce bag semi sweet chocolate chips,AR_12,0.873469353,1.5,cup
+838,semisweet chocolate chip,4.0 cups semisweet chocolate chips,AR_128,0.714285707,4,cup
+839,semisweet chocolate chip,4.0 cup semisweet chocolate chips,AR_13,0.909016418,4,cup
+840,semisweet chocolate chip,2.0 cups semisweet chocolate chips,AR_14,0.90666666,2,cup
+841,semisweet chocolate chip,2.6666666666666665 cups semisweet chocolate chips,AR_140,0.584615374,2.666666667,cup
+842,semisweet chocolate chip,2.6666666666666665 cups semisweet chocolate chips,AR_141,0.784615374,2.666666667,cup
+843,semisweet chocolate chip,24.0 ounces semisweet chocolate chips,AR_142,0.671428585,3,cup
+844,semisweet chocolate chip,2.0 cup semisweet chocolate chips,AR_144,0.442857122,2,cup
+845,semisweet chocolate chip,2.0 cups semisweet chocolate chips,AR_15,0.924302769,2,cup
+846,semisweet chocolate chip,2.6666666666666665 cups semisweet chocolate chips,AR_155,0.931135178,2.666666667,cup
+847,semisweet chocolate chip,8.0 cups semisweet chocolate chips,AR_156,0.924294472,8,cup
+848,semisweet chocolate chip,6.857142857142857 ounce squares german sweet chocolate chopped,AR_16,0.85882349,0.857142857,cup
+849,dark chocolate chip,1.7142857142857142 cups dark chocolate chips,AR_16,0.85882349,1.714285714,cup
+850,milk chocolate chip,0.5714285714285714 cup milk chocolate chips,AR_16,0.85882349,0.571428571,cup
+851,semisweet chocolate chip,2.0 cups nestle® toll house® semi sweet chocolate morsels,AR_164,0.917012405,2,cup
+852,semisweet chocolate chip,2.6666666666666665 cups semisweet chocolate chips,AR_169,0.873728848,2.666666667,cup
+853,semisweet chocolate chip,1.3333333333333333 cup jumbo semisweet chocolate chips,AR_19,0.880000019,1.333333333,cup
+854,milk chocolate chip,1.3333333333333333 cup milk chocolate chips,AR_19,0.880000019,1.333333333,cup
+855,semisweet chocolate chip,2.0 cup semi sweet chocolate chips,AR_195,0.585714293,2,cup
+856,semisweet chocolate chip,2.6666666666666665 cups jumbo semisweet chocolate chips,AR_196,0.785929632,2.666666667,cup
+857,white chocolate chip,1.3333333333333333 cup white chocolate chips,AR_196,0.785929632,1.333333333,cup
+858,semisweet chocolate chip,1.0 cup semisweet chocolate chips,AR_197,0.706521749,1,cup
+859,semisweet chocolate chip,1.3333333333333333 cup semisweet chocolate chips,AR_2,0.937981987,1.333333333,cup
+860,semisweet chocolate chip,2.6666666666666665 cups semisweet chocolate chips,AR_21,0.881944466,2.666666667,cup
+861,semisweet chocolate chip,1.7777777777777777 cups semisweet chocolate chips,AR_218,0.877419376,1.777777778,cup
+862,semisweet chocolate chip,2.0 cups semisweet chocolate chips,AR_23,0.869999981,2,cup
+863,semisweet chocolate chip,24 ounce bag chocolate chips,AR_256,0.870253181,3,cup
+864,semisweet chocolate chip,3.0 cups semisweet chocolate chips,AR_26,0.9,3,cup
+865,semisweet chocolate chip,1.0 cup miniature semisweet chocolate chips,AR_27,0.876923084,1,cup
+866,semisweet chocolate chip,2.0 cups semisweet chocolate chips,AR_28,0.873333359,2,cup
+867,white chocolate chip,0.5 cup white chocolate chips,AR_280,NA,0.5,cup
+868,semisweet chocolate chip,0.5 cup semisweet chocolate chips,AR_280,NA,0.5,cup
+869,semisweet chocolate chip,2.0 cups semisweet chocolate chips,AR_3,0.917986774,2,cup
+870,semisweet chocolate chip,1.0 cup semisweet chocolate chips,AR_30,0.859829044,1,cup
+871,semisweet chocolate chip,3.2 cups semisweet chocolate chips,AR_32,0.830769253,3.2,cup
+872,semisweet chocolate chip,0.4444444444444444 cup candy coated chocolate pieces,AR_33,0.826666641,0.444444444,cup
+873,semisweet chocolate chip,0.6666666666666666 cup semisweet chocolate chips,AR_33,0.826666641,0.666666667,cup
+874,semisweet chocolate chip,4.0 cup semisweet chocolate chips,AR_35,0.843636322,4,cup
+875,semisweet chocolate chip,32 ounce semisweet chocolate chips,AR_37,0.8,4,cup
+876,semisweet chocolate chip,2.0 cups semisweet chocolate chips,AR_39,0.6,2,cup
+877,white chocolate chip,0.6666666666666666 cup white chocolate chips,AR_4,0.922985077,0.666666667,cup
+878,semisweet chocolate chip,0.6666666666666666 cup semisweet chocolate chips,AR_4,0.922985077,0.666666667,cup
+879,milk chocolate chip,0.6666666666666666 cup milk chocolate chips,AR_4,0.922985077,0.666666667,cup
+880,semisweet chocolate chip,2.0 cup semisweet chocolate chips,AR_43,0.828866005,2,cup
+881,semisweet chocolate chip,2.0 cups semisweet chocolate chips,AR_45,0.821052647,2,cup
+882,semisweet chocolate chip,8.0 cups semisweet chocolate chips,AR_47,0.7125,8,cup
+883,semisweet chocolate chip,4.0 cups semisweet chocolate chips,AR_48,0.677777767,4,cup
+884,white chocolate chip,2.0 cups white chocolate chips,AR_49,0.592592573,2,cup
+885,semisweet chocolate chip,2.0 cups semi sweet chocolate chips,AR_49,0.592592573,2,cup
+886,milk chocolate chip,2.0 cups milk chocolate chips,AR_49,0.592592573,2,cup
+887,semisweet chocolate chip,2.0 cups semisweet chocolate chips,AR_5,0.937341785,2,cup
+888,semisweet chocolate chip,2.0 cups semisweet chocolate chips,AR_50,0.66500001,2,cup
+889,semisweet chocolate chip,0.6666666666666666 cup semisweet chocolate chips,AR_52,0.476190472,0.666666667,cup
+890,semisweet chocolate chip,2.0 cup semisweet chocolate chips,AR_53,0.692473125,2,cup
+891,semisweet chocolate chip,1.0 cup semisweet chocolate chips,AR_54,0.723741007,1,cup
+892,semisweet chocolate chip,2.0 cup semisweet chocolate chips,AR_55,0.385714293,2,cup
+893,semisweet chocolate chip,1.0 cup semisweet chocolate chips,AR_57,0.595505619,1,cup
+894,milk chocolate chip,4.0 cups milk chocolate chips,AR_66,0.902002907,4,cup
+895,semisweet chocolate chip,3.0 cups semisweet chocolate chips,AR_67,0.939130402,3,cup
+896,semisweet chocolate chip,1.0 cup semi sweet chocolate chips,AR_69,0.920792103,1,cup
+897,white chocolate chip,1.0 cup white chocolate chips,AR_69,0.920792103,1,cup
+898,milk chocolate chip,1.0 cup milk chocolate chips,AR_69,0.920792103,1,cup
+899,milk chocolate chip,2.6666666666666665 cups milk chocolate chips,AR_7,0.896335125,2.666666667,cup
+900,semisweet chocolate chip,1.6 cups semisweet chocolate chips,AR_70,0.91003809,1.6,cup
+901,milk chocolate chip,3.2 ounces milk chocolate grated,AR_70,0.91003809,0.4,cup
+902,semisweet chocolate chip,2.0 cups semisweet chocolate chips,AR_78,0.915186214,2,cup
+903,milk chocolate chip,4.0 cups milk chocolate chips,AR_79,0.633333349,4,cup
+904,semisweet chocolate chip,4.0 cups semisweet chocolate chips,AR_8,0.942446041,4,cup
+905,semisweet chocolate chip,6.0 cups semisweet chocolate chips,AR_84,0.905737686,6,cup
+906,semisweet chocolate chip,12 ounce package semi sweet chocolate chips,AR_88,0.955555534,1.5,cup
+907,semisweet chocolate chip,0.8 cup semisweet chocolate chips,AR_89,0.909890079,0.8,cup
+908,white chocolate chip,0.8 cup white chocolate chips,AR_89,0.909890079,0.8,cup
+909,semisweet chocolate chip,2.0 cup semisweet chocolate chips,AR_90,0.902608681,2,cup
+910,semisweet chocolate chip,4.0 cups semisweet chocolate chips,AR_91,0.928301907,4,cup
+911,milk chocolate chip,3.2 cups milk chocolate chips,AR_95,0.844067764,3.2,cup
+912,milk chocolate chip,0.6666666666666666 cup milk chocolate chips,AR_96,0.818181801,0.666666667,cup
+913,semisweet chocolate chip,1.2000000000000002 cups semisweet chocolate chips,AR_97,0.933333302,1.2,cup
+914,semisweet chocolate chip,1.4933333333333334 pounds semisweet chocolate chips,AR_98,0.90666666,0.011666667,cup
+915,semisweet chocolate chip,2.0 cup semisweet chocolate chips,AR_99,0.858333302,2,cup
+916,semisweet chocolate chip,1.0 cup semi sweet morsels,E_133,0.75,1,cup
+917,bittersweet chocolate chip,0.0888888888889 cup bittersweet chocolate chunks ideally about 72% cacao,E_146,0.5,0.088888889,cup
+918,milk chocolate chip,0.0444444444444 cup valrhona chocolate pearls available at valrhona chocolate.com or chopped malted milk balls,E_146,0.5,0.044444444,cup
+919,dark chocolate chip,48.0 tablespoon dark chocolate chips,E_169,0.5,3,cup
+920,semisweet chocolate chip,8.0 ounces semisweet chocolate chips,E_197,0.875,1,cup
+921,bittersweet chocolate chip,2.4 cup semi sweet or bittersweet chocolate chips,E_21,0.75,2.4,cup
+922,bittersweet chocolate chip,16.0 ounces semisweet or bittersweet chocolate do not exceed 72% cacao coarsely chopped,E_215,0.875,2,cup
+923,semisweet chocolate chip,1.33333333333 cup semisweet chocolate chips,E_220,0.75,1.333333333,cup
+924,semisweet chocolate chip,4.28571428571 cups semisweet chocolate chips ,E_230,0.875,4.285714286,cup
+925,milk chocolate chip,25.0  ounce  milk chocolate chips,E_258,0.75,3.125,cup
+926,semisweet chocolate chip,2.4 pound cups semisweet chocolate chips,E_26,0.875,2.4,cup
+927,semisweet chocolate chip,10.6666666667 ounces chopped high quality semisweet chocolate or chocolate chips ,E_362,0.625,1.333333333,cup
+928,semisweet chocolate chip,14.8571428571  ounce package semisweet chocolate chips,E_375,0.75,1.857142857,cup
+929,dark chocolate chip,3.70909090909 cup dark chocolate chopped,E_399,1,3.709090909,cup
+930,semisweet chocolate chip,0.4 cups semisweet chocolate chips ,E_509,0.75,0.4,cup
+931,semisweet chocolate chip,19.2 ounces miniature semisweet chocolate chips,E_79,0.75,2.4,cup
+932,semisweet chocolate chip,11.52 ounces bitter chocolate chips or bitter chocolate cut in very small pieces,E_87,0.75,1.44,cup
+933,semisweet chocolate chip,8.0 cup semisweet chocolate chips,E_88,0.375,8,cup
+934,bittersweet chocolate chip,2.0 cups bittersweet chocolate chunks or chips,E_89,0.875,2,cup
+935,semisweet chocolate chip,1.6 cups nestl� toll house semi sweet chocolate morsels,E_91,1,1.6,cup
+936,semisweet chocolate chip,"1.6 12 ounce bag semisweet chocolate chips, or chunks",Misc_10,NA,0.2,cup
+937,semisweet chocolate chip,3.0 cup of semisweet chocolate chips,Misc_101,NA,3,cup
+938,semisweet chocolate chip,4.0 cup 150 g semi sweet chocolate chips,Misc_102,NA,4,cup
+939,semisweet chocolate chip,2.66666666667 cups semi sweet chocolate chips,Misc_103,NA,2.666666667,cup
+940,semisweet chocolate chip,4.0 cups 15 oz./470 g semisweet chocolate chips,Misc_104,NA,4,cup
+941,semisweet chocolate chip,8.0 cup semisweet chocolate chips,Misc_105,NA,8,cup
+942,semisweet chocolate chip,4.0 cups 15 oz./470 g semisweet chocolate chips,Misc_107,NA,4,cup
+943,semisweet chocolate chip,2.0 cup semi sweet chocolate chips,Misc_108,NA,2,cup
+944,white chocolate chip,"1.0 cup white chocolate chips original recipe calls for 3/4 cup, but i thought it was too much and reduced to 1.0 cup",Misc_108,NA,1,cup
+945,semisweet chocolate chip,2.0 12.0 ounce bags chocolate chips,Misc_109,NA,0.25,cup
+946,semisweet chocolate chip,"8.0 ounces hershey bars, grated",Misc_109,NA,1,cup
+947,milk chocolate chip,"21.0 ounces assorted dark, milk, or white chocolate not commercial chips, roughly chopped",Misc_110,NA,2.587,cup
+948,semisweet chocolate chip,"1.86666666667 cup semisweet chocolate chips plus additional for tops, optional 300g + additional",Misc_111,NA,1.866666667,cup
+949,milk chocolate chip,"2.66666666667 5 ounce block high quality milk chocolate, chopped",Misc_112,NA,0.3285,cup
+950,semisweet chocolate chip,4.5 cups semisweet chocolate chips i used ghiradelli semi sweet,Misc_12,NA,4.5,cup
+951,semisweet chocolate chip,3.69230769231 cups 340 grams semi sweet chocolate chips,Misc_14,NA,3.692307692,cup
+952,semisweet chocolate chip,"1.86666666667 cup semisweet chocolate chips plus additional for tops, optional 300g + additional",Misc_15,NA,1.866666667,cup
+953,semisweet chocolate chip,0.666666666667 to 2 bags 12 oz each semisweet chocolate chips 2 to 4 cups,Misc_16,NA,0.666666667,cup
+954,semisweet chocolate chip,1.0 12 ounce package 2 cups semi sweet chocolate chips,Misc_17,NA,1,cup
+955,semisweet chocolate chip,2.66666666667 cups semisweet chocolate chips,Misc_18,NA,2.666666667,cup
+956,semisweet chocolate chip,3.0 cups chocolate chips i used half regular semisweet chips and half mini semisweet chips,Misc_19,NA,3,cup
+957,semisweet chocolate chip,24.0 ounces semisweet chocolate chips,Misc_21,NA,3,cup
+958,semisweet chocolate chip,"5.0 ounces 55.0 percent chocolate, cut into chip sized pieces about 1 1/4 cups",Misc_22,NA,5,cup
+959,semisweet chocolate chip,"5.0 ounces 70 to 72 percent chocolate, cut into chip sized pieces about 1 1/4 cups",Misc_22,NA,5,cup
+960,semisweet chocolate chip,2.0 cups semi sweet chocolate chips,Misc_24,NA,2,cup
+961,semisweet chocolate chip,2.0 package 12 ounces semisweet chocolate chips,Misc_26,NA,0.25,cup
+962,semisweet chocolate chip,4.0 cups 340 grams or 14.0 ounces chocolate chips,Misc_27,NA,4,cup
+963,semisweet chocolate chip,4.0 cups chocolate chips,Misc_28,NA,4,cup
+964,semisweet chocolate chip,2.0 cups semisweet chocolate chips,Misc_29,NA,2,cup
+965,semisweet chocolate chip,7.2 cups chocolate chips use your favorite kind,Misc_30,NA,7.2,cup
+966,semisweet chocolate chip,3.0 cups semisweet chocolate chips,Misc_32,NA,3,cup
+967,semisweet chocolate chip,1.92 cups chocolate chips semi sweet,Misc_33,NA,1.92,cup
+968,semisweet chocolate chip,1.33333333333 cup semisweet chocolate chips,Misc_37,NA,1.333333333,cup
+969,semisweet chocolate chip,1.6 package 12 ounces semi sweet chocolate chips,Misc_38,NA,0.2,cup
+970,semisweet chocolate chip,1.5 cups 270 grams semisweet chocolate chips,Misc_40,NA,1.5,cup
+971,semisweet chocolate chip,2.4 cups semi sweet chocolate chips,Misc_41,NA,2.4,cup
+972,semisweet chocolate chip,3.2 cups semi sweet chocolate chips,Misc_42,NA,3.2,cup
+973,semisweet chocolate chip,1.26315789474 12 ounce package 2 cups semi sweet chocolate chips,Misc_43,NA,1.263157895,cup
+974,semisweet chocolate chip,2.0 cups baker’s corner semi sweet chocolate chips,Misc_45,NA,2,cup
+975,semisweet chocolate chip,1.14285714286 cups guittard real semisweet chocolate chips,Misc_47,NA,1.142857143,cup
+976,semisweet chocolate chip,2.66666666667 cups semisweet chocolate chips,Misc_48,NA,2.666666667,cup
+977,semisweet chocolate chip,"3.0 	cups regular semisweet chocolate chips",Misc_50,NA,3,cup
+978,bittersweet chocolate chip,"2.0 	cup large bittersweet chocolate chips",Misc_50,NA,2,cup
+979,bittersweet chocolate chip,"2.13333333333 	cups bittersweet chocolate, chopped into chips, or store bought chocolate chips or chunks",Misc_51,NA,2.133333333,cup
+980,bittersweet chocolate chip,"9.6 	ounces 283 grams semisweet or bittersweet chocolate, coarsely chopped or 1 2/3 cups chocolate chips",Misc_52,NA,9.6,cup
+981,semisweet chocolate chip,"3.75 	cups semisweet chocolate chips or chunks see note",Misc_53,NA,3.75,cup
+982,semisweet chocolate chip,1.33333333333 6 oz. package semi sweet chocolate chips 1.33333333333 cup,Misc_54,NA,1.333333333,cup
+983,semisweet chocolate chip,2.0 and 1/4 cup 225g semi sweet chocolate chips,Misc_56,NA,2,cup
+984,semisweet chocolate chip,3.0 cups chocolate chips,Misc_60,NA,3,cup
+985,milk chocolate chip,11.5 ounces semi sweet chocolate baking chips contains milk,Misc_61,NA,1.417,cup
+986,dark chocolate chip,3.5 cups dark chocolate chips,Misc_62,NA,3.5,cup
+987,semisweet chocolate chip,0.888888888889 cup semisweet chocolate chips,Misc_63,NA,0.888888889,cup
+988,white chocolate chip,0.888888888889 cup white chocolate chips,Misc_63,NA,0.888888889,cup
+989,semisweet chocolate chip,2.4 cups semisweet chocolate chips nestlé can’t really be beat,Misc_64,NA,2.4,cup
+990,semisweet chocolate chip,13.0 ounce package of chocolate chips,Misc_65,NA,1.625,cup
+991,dark chocolate chip,"2.4 sticks unsalted butter, at room temperature 1 cup packed dark brown sugar 1/2.4 cup granulated sugar 1 teaspoon vanilla extract 1 large egg 2.4 3/4 cups all purpose flour kosher salt 1 1/4 teaspoons baking soda 12.4 ounces semisweet chocolate chips",Misc_66,NA,2.4,cup
+992,semisweet chocolate chip,2.0 cup 170 g semisweet chocolate chips,Misc_68,NA,2,cup
+993,semisweet chocolate chip,3.0 cup chocolate chips i use a combination of chocolate chips and chocolate chunks,Misc_69,NA,3,cup
+994,semisweet chocolate chip,4.61538461538 cups chocolate chips*,Misc_71,NA,4.615384615,cup
+995,dark chocolate chip,2.5 cups 60 percent dark chocolate chips,Misc_73,NA,2.5,cup
+996,dark chocolate chip,4.0 cups semi sweet or dark chocolate chips,Misc_76,NA,4,cup
+997,semisweet chocolate chip,2.4 cup | 200g chocolate chips,Misc_78,NA,2.4,cup
+998,milk chocolate chip,4.36363636364  ounce milk chocolate bar,Misc_8,NA,0.537,cup
+999,semisweet chocolate chip,10.4727272727 ounces chocolate chips,Misc_8,NA,1.309090909,cup
+1000,semisweet chocolate chip,2.0  3/4 cup semi sweet chocolate chips,Misc_80,NA,2,cup
+1001,semisweet chocolate chip,2.66666666667 cup semisweet chocolate chips,Misc_81,NA,2.666666667,cup
+1002,semisweet chocolate chip,2.28571428571 cup chocolate chips,Misc_82,NA,2.285714286,cup
+1003,semisweet chocolate chip,4.61538461538 cups chocolate chips,Misc_84,NA,4.615384615,cup
+1004,semisweet chocolate chip,2.66666666667 cups semi sweet chocolate chips,Misc_85,NA,2.666666667,cup
+1005,semisweet chocolate chip,4.0 cup semisweet chocolate chips,Misc_86,NA,4,cup
+1006,semisweet chocolate chip,3.42857142857 cup chocolate chips,Misc_89,NA,3.428571429,cup
+1007,semisweet chocolate chip,1.0 package 12 ounces semisweet chocolate chips 2 cups,Misc_9,NA,1,cup
+1008,semisweet chocolate chip,4.8 12 ounce bags semi sweet chocolate chips,Misc_90,NA,0.6,cup
+1009,white chocolate chip,"2.0  3 cups mini or regular semisweet chocolate chips or 1 cup each semisweet, peanut butter, and white chocolate chips",Misc_91,NA,2,cup
+1010,semisweet chocolate chip,32.0 ounces semisweet chocolate chips,Misc_92,NA,4,cup
+1011,semisweet chocolate chip,2.0 cups chocolate chips,Misc_93,NA,2,cup
+1012,dark chocolate chip,1.66666666667 pounds chocolate chips or chunks original recipe calls for chopped dark chocolate,Misc_94,NA,0.013020833,cup
+1013,semisweet chocolate chip,2.0 cup semi sweet chocolate chips or chunks,Misc_98,NA,2,cup
+1014,semisweet chocolate chip,5.33333333333 cups or 1 12 oz. pkg. chocolate chips,Misc_99,NA,5.333333333,cup
+1285,milk chocolate chip,"3.0 cup of milk chocolate chips, plus more chocolate chips for topping cookies",Misc_101,NA,3,cup
+1287,milk chocolate chip,1.5 cup milk chocolate chips,Misc_108,NA,1.5,cup
+1288,milk chocolate chip,2.66666666667 cups about 12.66666666667 ounces semisweet and/or milk chocolate chips,Misc_13,NA,2.6666,cup
+1289,milk chocolate chip,4.0 cups milk chocolate chips,Misc_20,NA,4,cup
+1291,milk chocolate chip,2.0 cup milk chocolate chips,Misc_32,NA,2,cup
+1292,milk chocolate chip,1.33333333333 cup milk chocolate chips,Misc_37,NA,1.3333,cup
+1293,milk chocolate chip,1.6 cups hershey's milk chocolate chips 11.5 oz. pkg.,Misc_39,NA,1.6,cup
+1294,milk chocolate chip,3.0 cups semi sweet chocolate chips or milk chocolate,Misc_44,NA,3,cup
+1295,milk chocolate chip,4.0 cups semi sweet or milk chocolate chips,Misc_46,NA,4,cup
+1298,milk chocolate chip,0.888888888889 cup milk chocolate chips,Misc_63,NA,0.8888,cup
+1299,milk chocolate chip,2.66666666667 cups semisweet or milk chocolate chips or chocolate chunks,Misc_70,NA,2.6666,cup
+1300,milk chocolate chip,2.66666666667 cups milk chocolate chips,Misc_74,NA,2.6666,cup
+1301,milk chocolate chip,2.66666666667 cup milk chocolate chips,Misc_81,NA,2.6666,cup
