@@ -1,0 +1,385 @@
+source,value,company
+Classic Rock,53,411
+Electronic,92,411
+Hip Hop,223,411
+Indie/Alternative,201,411
+Jazz/Soul,78,411
+Metal,92,411
+Other,75,411
+Punk,90,411
+Classic Rock,100,917
+Electronic,0,917
+Hip Hop,0,917
+Indie/Alternative,300,917
+Jazz/Soul,0,917
+Metal,202,917
+Other,100,917
+Punk,300,917
+Classic Rock,87,adidas
+Electronic,116,adidas
+Hip Hop,130,adidas
+Indie/Alternative,362,adidas
+Jazz/Soul,101,adidas
+Metal,72,adidas
+Other,72,adidas
+Punk,58,adidas
+Classic Rock,80,aws
+Electronic,40,aws
+Hip Hop,160,aws
+Indie/Alternative,520,aws
+Jazz/Soul,140,aws
+Metal,0,aws
+Other,4,aws
+Punk,60,aws
+Classic Rock,118,almost
+Electronic,59,almost
+Hip Hop,59,almost
+Indie/Alternative,471,almost
+Jazz/Soul,59,almost
+Metal,61,almost
+Other,118,almost
+Punk,59,almost
+Classic Rock,0,antihero
+Electronic,0,antihero
+Hip Hop,45,antihero
+Indie/Alternative,318,antihero
+Jazz/Soul,0,antihero
+Metal,184,antihero
+Other,45,antihero
+Punk,409,antihero
+Classic Rock,196,bacon
+Electronic,20,bacon
+Hip Hop,59,bacon
+Indie/Alternative,157,bacon
+Jazz/Soul,59,bacon
+Metal,314,bacon
+Other,59,bacon
+Punk,137,bacon
+Classic Rock,192,baker
+Electronic,38,baker
+Hip Hop,327,baker
+Indie/Alternative,135,baker
+Jazz/Soul,58,baker
+Metal,134,baker
+Other,19,baker
+Punk,96,baker
+Classic Rock,122,birdhouse
+Electronic,102,birdhouse
+Hip Hop,82,birdhouse
+Indie/Alternative,306,birdhouse
+Jazz/Soul,61,birdhouse
+Metal,224,birdhouse
+Other,41,birdhouse
+Punk,61,birdhouse
+Classic Rock,159,blacklabel
+Electronic,14,blacklabel
+Hip Hop,14,blacklabel
+Indie/Alternative,130,blacklabel
+Jazz/Soul,72,blacklabel
+Metal,188,blacklabel
+Other,43,blacklabel
+Punk,377,blacklabel
+Classic Rock,145,blind
+Electronic,0,blind
+Hip Hop,127,blind
+Indie/Alternative,255,blind
+Jazz/Soul,236,blind
+Metal,109,blind
+Other,73,blind
+Punk,55,blind
+Classic Rock,125,bloodwizard
+Electronic,0,bloodwizard
+Hip Hop,125,bloodwizard
+Indie/Alternative,250,bloodwizard
+Jazz/Soul,0,bloodwizard
+Metal,375,bloodwizard
+Other,0,bloodwizard
+Punk,125,bloodwizard
+Classic Rock,250,blueprint
+Electronic,67,blueprint
+Hip Hop,100,blueprint
+Indie/Alternative,433,blueprint
+Jazz/Soul,50,blueprint
+Metal,34,blueprint
+Other,67,blueprint
+Punk,0,blueprint
+Classic Rock,132,chocolate
+Electronic,113,chocolate
+Hip Hop,264,chocolate
+Indie/Alternative,245,chocolate
+Jazz/Soul,208,chocolate
+Metal,0,chocolate
+Other,38,chocolate
+Punk,0,chocolate
+Classic Rock,121,cliche
+Electronic,131,cliche
+Hip Hop,51,cliche
+Indie/Alternative,394,cliche
+Jazz/Soul,121,cliche
+Metal,40,cliche
+Other,101,cliche
+Punk,40,cliche
+Classic Rock,114,consolidated
+Electronic,23,consolidated
+Hip Hop,68,consolidated
+Indie/Alternative,273,consolidated
+Jazz/Soul,114,consolidated
+Metal,205,consolidated
+Other,91,consolidated
+Punk,114,consolidated
+Classic Rock,71,creature
+Electronic,29,creature
+Hip Hop,43,creature
+Indie/Alternative,57,creature
+Jazz/Soul,2,creature
+Metal,514,creature
+Other,71,creature
+Punk,214,creature
+Classic Rock,96,dc
+Electronic,174,dc
+Hip Hop,235,dc
+Indie/Alternative,157,dc
+Jazz/Soul,52,dc
+Metal,104,dc
+Other,113,dc
+Punk,70,dc
+Classic Rock,125,deathwish
+Electronic,62,deathwish
+Hip Hop,62,deathwish
+Indie/Alternative,188,deathwish
+Jazz/Soul,0,deathwish
+Metal,313,deathwish
+Other,0,deathwish
+Punk,250,deathwish
+Classic Rock,40,dgk
+Electronic,0,dgk
+Hip Hop,920,dgk
+Indie/Alternative,40,dgk
+Jazz/Soul,0,dgk
+Metal,4,dgk
+Other,0,dgk
+Punk,0,dgk
+Classic Rock,51,dvs
+Electronic,77,dvs
+Hip Hop,0,dvs
+Indie/Alternative,615,dvs
+Jazz/Soul,103,dvs
+Metal,105,dvs
+Other,26,dvs
+Punk,26,dvs
+Classic Rock,118,element
+Electronic,213,element
+Hip Hop,118,element
+Indie/Alternative,276,element
+Jazz/Soul,24,element
+Metal,149,element
+Other,39,element
+Punk,63,element
+Classic Rock,88,emerica
+Electronic,15,emerica
+Hip Hop,29,emerica
+Indie/Alternative,368,emerica
+Jazz/Soul,29,emerica
+Metal,309,emerica
+Other,44,emerica
+Punk,118,emerica
+Classic Rock,194,enjoi
+Electronic,32,enjoi
+Hip Hop,97,enjoi
+Indie/Alternative,548,enjoi
+Jazz/Soul,32,enjoi
+Metal,67,enjoi
+Other,32,enjoi
+Punk,0,enjoi
+Classic Rock,147,flip
+Electronic,15,flip
+Hip Hop,221,flip
+Indie/Alternative,118,flip
+Jazz/Soul,88,flip
+Metal,147,flip
+Other,118,flip
+Punk,147,flip
+Classic Rock,135,foundation
+Electronic,0,foundation
+Hip Hop,11,foundation
+Indie/Alternative,404,foundation
+Jazz/Soul,34,foundation
+Metal,202,foundation
+Other,45,foundation
+Punk,169,foundation
+Classic Rock,114,girl
+Electronic,129,girl
+Hip Hop,229,girl
+Indie/Alternative,157,girl
+Jazz/Soul,200,girl
+Metal,43,girl
+Other,129,girl
+Punk,0,girl
+Classic Rock,188,habitat
+Electronic,29,habitat
+Hip Hop,29,habitat
+Indie/Alternative,493,habitat
+Jazz/Soul,87,habitat
+Metal,43,habitat
+Other,116,habitat
+Punk,14,habitat
+Classic Rock,83,krooked
+Electronic,0,krooked
+Hip Hop,0,krooked
+Indie/Alternative,333,krooked
+Jazz/Soul,333,krooked
+Metal,44,krooked
+Other,167,krooked
+Punk,42,krooked
+Classic Rock,61,lakai
+Electronic,122,lakai
+Hip Hop,171,lakai
+Indie/Alternative,402,lakai
+Jazz/Soul,61,lakai
+Metal,146,lakai
+Other,12,lakai
+Punk,24,lakai
+Classic Rock,353,lurkville
+Electronic,0,lurkville
+Hip Hop,118,lurkville
+Indie/Alternative,59,lurkville
+Jazz/Soul,59,lurkville
+Metal,235,lurkville
+Other,59,lurkville
+Punk,118,lurkville
+Classic Rock,171,osiris
+Electronic,53,osiris
+Hip Hop,197,osiris
+Indie/Alternative,211,osiris
+Jazz/Soul,66,osiris
+Metal,106,osiris
+Other,79,osiris
+Punk,118,osiris
+Classic Rock,273,planb
+Electronic,11,planb
+Hip Hop,159,planb
+Indie/Alternative,170,planb
+Jazz/Soul,102,planb
+Metal,125,planb
+Other,11,planb
+Punk,148,planb
+Classic Rock,36,polar
+Electronic,250,polar
+Hip Hop,107,polar
+Indie/Alternative,357,polar
+Jazz/Soul,2,polar
+Metal,72,polar
+Other,36,polar
+Punk,143,polar
+Classic Rock,151,pyramidcountry
+Electronic,132,pyramidcountry
+Hip Hop,151,pyramidcountry
+Indie/Alternative,151,pyramidcountry
+Jazz/Soul,57,pyramidcountry
+Metal,96,pyramidcountry
+Other,245,pyramidcountry
+Punk,19,pyramidcountry
+Classic Rock,111,sk8mafia
+Electronic,40,sk8mafia
+Hip Hop,644,sk8mafia
+Indie/Alternative,36,sk8mafia
+Jazz/Soul,134,sk8mafia
+Metal,16,sk8mafia
+Other,20,sk8mafia
+Punk,2,sk8mafia
+Classic Rock,100,pig
+Electronic,0,pig
+Hip Hop,100,pig
+Indie/Alternative,200,pig
+Jazz/Soul,0,pig
+Metal,400,pig
+Other,0,pig
+Punk,200,pig
+Classic Rock,182,slave
+Electronic,0,slave
+Hip Hop,91,slave
+Indie/Alternative,182,slave
+Jazz/Soul,91,slave
+Metal,273,slave
+Other,0,slave
+Punk,182,slave
+Classic Rock,62,stereo
+Electronic,0,stereo
+Hip Hop,125,stereo
+Indie/Alternative,219,stereo
+Jazz/Soul,312,stereo
+Metal,33,stereo
+Other,219,stereo
+Punk,31,stereo
+Classic Rock,0,supreme
+Electronic,0,supreme
+Hip Hop,333,supreme
+Indie/Alternative,417,supreme
+Jazz/Soul,167,supreme
+Metal,4,supreme
+Other,2,supreme
+Punk,83,supreme
+Classic Rock,69,thrasher
+Electronic,13,thrasher
+Hip Hop,75,thrasher
+Indie/Alternative,224,thrasher
+Jazz/Soul,16,thrasher
+Metal,286,thrasher
+Other,43,thrasher
+Punk,275,thrasher
+Classic Rock,183,toymachine
+Electronic,12,toymachine
+Hip Hop,12,toymachine
+Indie/Alternative,366,toymachine,toymachine
+Jazz/Soul,37,toymachine
+Metal,158,toymachine
+Other,12,toymachine
+Punk,220,toymachine
+Classic Rock,84,transworld
+Electronic,101,transworld
+Hip Hop,180,transworld
+Indie/Alternative,299,transworld
+Jazz/Soul,71,transworld
+Metal,101,transworld
+Other,63,transworld
+Punk,101,transworld
+Classic Rock,71,vans
+Electronic,48,vans
+Hip Hop,24,vans
+Indie/Alternative,333,vans
+Jazz/Soul,48,vans
+Metal,192,vans
+Other,71,vans
+Punk,214,vans
+Classic Rock,113,volcom
+Electronic,28,volcom
+Hip Hop,42,volcom
+Indie/Alternative,282,volcom
+Jazz/Soul,42,volcom
+Metal,380,volcom
+Other,56,volcom
+Punk,56,volcom
+Classic Rock,263,vox
+Electronic,26,vox
+Hip Hop,53,vox
+Indie/Alternative,79,vox
+Jazz/Soul,53,vox
+Metal,263,vox
+Other,0,vox
+Punk,263,vox
+Classic Rock,307,zero
+Electronic,10,zero
+Hip Hop,20,zero
+Indie/Alternative,89,zero
+Jazz/Soul,20,zero
+Metal,267,zero
+Other,40,zero
+Punk,248,zero
+Classic Rock,71,zooyork
+Electronic,89,zooyork
+Hip Hop,411,zooyork
+Indie/Alternative,18,zooyork
+Jazz/Soul,143,zooyork
+Metal,107,zooyork
+Other,89,zooyork
+Punk,71,zooyork

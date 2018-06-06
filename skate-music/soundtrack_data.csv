@@ -1,0 +1,569 @@
+artist,tote,group,genre_fake,year,genre,id
+The Beatles,46,high,rap,2008,Classic Rock,1
+Fugazi,43,high,rap,2008,Punk,2
+The Rolling Stones,40,high,rap,2008,Classic Rock,3
+David Bowie,39,high,rap,2008,Classic Rock,4
+Black Sabbath,36,high,rap,2008,Metal,5
+Sol,35,high,rap,2008,Electronic,6
+Jimi Hendrix,33,high,rap,2008,Classic Rock,7
+Devo,30,high,rap,2008,Punk,8
+CKY,29,high,rap,2008,Metal,9
+Gang Starr,28,high,rap,2008,Hip Hop,10
+The Black Keys,28,high,rap,2008,Indie/Alternative,11
+The Doors,28,high,rap,2008,Classic Rock,12
+Odd Nosdam,26,high,rap,2008,Electronic,13
+Pink Floyd,26,high,rap,2008,Classic Rock,14
+AC/DC,24,medium,rock,2009,Classic Rock,15
+Joy Division,24,medium,rock,2009,Punk,16
+The Kinks,24,medium,rock,2009,Classic Rock,17
+Iron Maiden,22,medium,rock,2009,Metal,18
+Sonic Youth,22,medium,rock,2009,Punk,19
+Led Zeppelin,21,medium,rock,2009,Classic Rock,20
+Metallica,21,medium,rock,2009,Metal,21
+Slayer,21,medium,rock,2009,Metal,22
+Tommy Guerrero,21,medium,rock,2009,Jazz/Soul,23
+Baron,20,medium,rock,2009,Electronic,24
+Arcade Fire,19,medium,rock,2009,Indie/Alternative,25
+Bad Religion,19,medium,rock,2009,Punk,26
+DJ Krush,19,medium,rock,2009,Hip Hop,27
+Mobb Deep,19,medium,rock,2009,Hip Hop,28
+Bad Brains,18,medium,rock,2009,Punk,29
+Bad Shit,18,medium,rock,2009,Metal,30
+Beastie Boys,18,medium,rock,2009,Indie/Alternative,31
+Creedence Clearwater Revival,18,medium,rock,2009,Classic Rock,32
+Curtis Mayfield,18,medium,rock,2009,Jazz/Soul,33
+Mr. E,18,medium,rock,2009,Hip Hop,34
+Nina Simone,18,medium,rock,2009,Jazz/Soul,35
+Dinosaur Jr.,17,medium,rock,2009,Punk,36
+Minor Threat,17,medium,rock,2009,Punk,37
+Nas,16,medium,rock,2009,Hip Hop,38
+Public Enemy,16,medium,rock,2009,Hip Hop,39
+?,15,medium,rock,2009,Other,40
+Andre Nickatina,15,medium,rock,2009,Hip Hop,41
+Bob Dylan,15,medium,rock,2009,Classic Rock,42
+Misfits,15,medium,rock,2009,Punk,43
+New Order,15,medium,rock,2009,Indie/Alternative,44
+Spoon,15,medium,rock,2009,Indie/Alternative,45
+Vast,15,medium,rock,2009,Metal,46
+Electric Light Orchestra,14,medium,rock,2009,Classic Rock,47
+M83,14,medium,rock,2009,Electronic,48
+Modest Mouse,14,medium,rock,2009,Indie/Alternative,49
+Notorious B.I.G.,14,medium,rock,2009,Hip Hop,50
+Radiohead,14,medium,rock,2009,Indie/Alternative,51
+Ramones,14,medium,rock,2009,Punk,52
+The Animals,14,medium,rock,2009,Classic Rock,53
+DJ Shadow,13,medium,rock,2009,Hip Hop,54
+Enoch,13,medium,rock,2009,Electronic,55
+Iggy Pop,13,medium,rock,2009,Punk,56
+Jon Kennedy,13,medium,rock,2009,Jazz/Soul,57
+Motorhead,13,medium,rock,2009,Metal,58
+Mr. Dibbs,13,medium,rock,2009,Hip Hop,59
+Pixies,13,medium,rock,2009,Indie/Alternative,60
+RJD2,13,medium,rock,2009,Hip Hop,61
+The Brian Jonestown Massacre,13,medium,rock,2009,Indie/Alternative,62
+The Cure,13,medium,rock,2009,Indie/Alternative,63
+Yeah Yeah Yeahs,13,medium,rock,2009,Indie/Alternative,64
+Atiba,12,medium,rock,2009,Hip Hop,65
+Blondie,12,medium,rock,2009,Classic Rock,66
+Guru,12,medium,rock,2009,Hip Hop,67
+Judas Priest,12,medium,rock,2009,Metal,68
+Marvin Gaye,12,medium,rock,2009,Jazz/Soul,69
+Ozzy Osbourne,12,medium,rock,2009,Metal,70
+Ray Barbee,12,medium,rock,2009,Jazz/Soul,71
+Stevie Wonder,12,medium,rock,2009,Jazz/Soul,72
+The Budos Band,12,medium,rock,2009,Jazz/Soul,73
+The Shins,12,medium,rock,2009,Indie/Alternative,74
+Trans Am,12,medium,rock,2009,Indie/Alternative,75
+Van Morrison,12,medium,rock,2009,Classic Rock,76
+Wolfmother,12,medium,rock,2009,Indie/Alternative,77
+Adeodat Warfield,11,medium,rock,2009,Electronic,78
+Beck,11,medium,rock,2009,Indie/Alternative,79
+Belle & Sebastian,11,medium,rock,2009,Indie/Alternative,80
+Big L,11,medium,rock,2009,Hip Hop,81
+Bob Marley,11,medium,rock,2009,Jazz/Soul,82
+Bonobo,11,medium,rock,2009,Jazz/Soul,83
+De La Soul,11,medium,rock,2009,Hip Hop,84
+Janis Joplin,11,medium,rock,2009,Classic Rock,85
+John Maus,11,medium,rock,2009,Electronic,86
+SRKP,11,medium,rock,2009,Other,87
+The Pharcyde,11,medium,rock,2009,Hip Hop,88
+TV On The Radio,11,medium,rock,2009,Indie/Alternative,89
+Al Green,10,medium,rock,2009,Jazz/Soul,90
+Black Flag,10,medium,rock,2009,Punk,91
+Brian Jonestown Massacre,10,medium,rock,2009,Classic Rock,92
+Butthole Surfers,10,medium,rock,2009,Punk,93
+Cymande,10,medium,rock,2009,Jazz/Soul,94
+Donovan,10,medium,rock,2009,Classic Rock,95
+Dr. Dog,10,medium,rock,2009,Indie/Alternative,96
+Euphone,10,medium,rock,2009,Jazz/Soul,97
+James Brown,10,medium,rock,2009,Classic Rock,98
+Johnny Cash,10,medium,rock,2009,Classic Rock,99
+Lynyrd Skynyrd,10,medium,rock,2009,Classic Rock,100
+Money Mark,10,medium,rock,2009,Hip Hop,101
+Mophono,10,medium,rock,2009,Electronic,102
+Neil Young,10,medium,rock,2009,Classic Rock,103
+Nirvana,10,medium,rock,2009,Indie/Alternative,104
+Smashing Pumpkins,10,medium,rock,2009,Metal,105
+The Clash,10,medium,rock,2009,Punk,106
+The Who,10,medium,rock,2009,Classic Rock,107
+Unkle,10,medium,rock,2009,Electronic,108
+Animal Collective,9,medium,rock,2009,Indie/Alternative,109
+Ben Harper,9,medium,rock,2009,Jazz/Soul,110
+Bloc Party,9,medium,rock,2009,Indie/Alternative,111
+Caural,9,medium,rock,2009,Jazz/Soul,112
+Crystal Castles,9,medium,rock,2009,Electronic,113
+Danzig,9,medium,rock,2009,Punk,114
+Eternal Summers,9,medium,rock,2009,Indie/Alternative,115
+Guns N' Roses,9,medium,rock,2009,Classic Rock,116
+Hightower,9,medium,rock,2009,Metal,117
+Interpol,9,medium,rock,2009,Indie/Alternative,118
+Jefferson Airplane,9,medium,rock,2009,Classic Rock,119
+John Lennon,9,medium,rock,2009,Classic Rock,120
+Michael Jackson,9,medium,rock,2009,Jazz/Soul,121
+Moby,9,medium,rock,2009,Electronic,122
+Morrissey,9,medium,rock,2009,Indie/Alternative,123
+Paul Simon,9,medium,rock,2009,Classic Rock,124
+Pentagram,9,medium,rock,2009,Metal,125
+Primus,9,medium,rock,2009,Metal,126
+Queen,9,medium,rock,2009,Classic Rock,127
+Shocking Blue,9,medium,rock,2009,Classic Rock,128
+Snoop Dogg,9,medium,rock,2009,Hip Hop,129
+Squarepusher,9,medium,rock,2009,Electronic,130
+Stereolab,9,medium,rock,2009,Indie/Alternative,131
+Talking Heads,9,medium,rock,2009,Punk,132
+The Damned,9,medium,rock,2009,Punk,133
+The Flaming Lips,9,medium,rock,2009,Indie/Alternative,134
+The Promise Ring,9,medium,rock,2009,Indie/Alternative,135
+The Spits,9,medium,rock,2009,Punk,136
+Yann Tiersen,9,medium,rock,2009,Other,137
+A Tribe Called Quest,8,low,country,2010,Hip Hop,138
+Buffalo Tom,8,low,country,2010,Indie/Alternative,139
+Built To Spill,8,low,country,2010,Indie/Alternative,140
+Cat Stevens,8,low,country,2010,Classic Rock,141
+Common,8,low,country,2010,Hip Hop,142
+Death In Vegas,8,low,country,2010,Electronic,143
+Deep Purple,8,low,country,2010,Metal,144
+DJ Egadz,8,low,country,2010,Electronic,145
+DJ Mutt,8,low,country,2010,Electronic,146
+Elliot Smith,8,low,country,2010,Indie/Alternative,147
+Explosions In The Sky,8,low,country,2010,Indie/Alternative,148
+GG Allin,8,low,country,2010,Punk,149
+Grandaddy,8,low,country,2010,Indie/Alternative,150
+Ice Cube,8,low,country,2010,Hip Hop,151
+Jamiroquai,8,low,country,2010,Electronic,152
+Jets To Brazil,8,low,country,2010,Indie/Alternative,153
+Kiss,8,low,country,2010,Metal,154
+Lou Reed,8,low,country,2010,Classic Rock,155
+Love,8,low,country,2010,Classic Rock,156
+Matt Costa,8,low,country,2010,Indie/Alternative,157
+Mogwai,8,low,country,2010,Indie/Alternative,158
+NOFX,8,low,country,2010,Punk,159
+Patchworks,8,low,country,2010,Jazz/Soul,160
+Pedro The Lion,8,low,country,2010,Indie/Alternative,161
+Pegboy,8,low,country,2010,Metal,162
+Santana,8,low,country,2010,Classic Rock,163
+Souls of Mischief,8,low,country,2010,Hip Hop,164
+Sweet Apple,8,low,country,2010,Metal,165
+The Smiths,8,low,country,2010,Indie/Alternative,166
+The Velvet Underground,8,low,country,2010,Classic Rock,167
+The White Stripes,8,low,country,2010,Indie/Alternative,168
+Tom Waits,8,low,country,2010,Classic Rock,169
+Tortoise,8,low,country,2010,Indie/Alternative,170
+Ty Segall,8,low,country,2010,Indie/Alternative,171
+UGK,8,low,country,2010,Hip Hop,172
+Weird War,8,low,country,2010,Indie/Alternative,173
+YOka,8,low,country,2010,Other,174
+2Pac,7,low,country,2010,Hip Hop,175
+7 Seconds,7,low,country,2010,Punk,176
+Air,7,low,country,2010,Electronic,177
+Ariel Pink's Haunted Graffiti,7,low,country,2010,Indie/Alternative,178
+Bracket,7,low,country,2010,Hip Hop,179
+Broken Social Scene,7,low,country,2010,Indie/Alternative,180
+Cam'ron,7,low,country,2010,Hip Hop,181
+Casual,7,low,country,2010,Hip Hop,182
+Chad Muska,7,low,country,2010,Hip Hop,183
+Cream,7,low,country,2010,Classic Rock,184
+Dead Kennedys,7,low,country,2010,Punk,185
+Del Tha Funkee Homosapien,7,low,country,2010,Hip Hop,186
+EPMD,7,low,country,2010,Hip Hop,187
+Gang of Four,7,low,country,2010,Punk,188
+Graveyard,7,low,country,2010,Metal,189
+Hurakan,7,low,country,2010,Hip Hop,190
+Kanye West,7,low,country,2010,Hip Hop,191
+Kelley Stoltz,7,low,country,2010,Indie/Alternative,192
+MGMT,7,low,country,2010,Indie/Alternative,193
+Mos Def,7,low,country,2010,Hip Hop,194
+Murs,7,low,country,2010,Hip Hop,195
+Otis Redding,7,low,country,2010,Classic Rock,196
+OutKast,7,low,country,2010,Hip Hop,197
+Pinback,7,low,country,2010,Indie/Alternative,198
+Portishead,7,low,country,2010,Indie/Alternative,199
+Queens Of The Stone Age,7,low,country,2010,Metal,200
+Red Octopus,7,low,country,2010,Classic Rock,201
+Roxy Music,7,low,country,2010,Classic Rock,202
+Sacred Hoop,7,low,country,2010,Hip Hop,203
+Sayvinyl,7,low,country,2010,Other,204
+Shawn Lee's Ping Pong Orchestra,7,low,country,2010,Jazz/Soul,205
+Shed,7,low,country,2010,Electronic,206
+South,7,low,country,2010,Hip Hop,207
+Steve Miller Band,7,low,country,2010,Classic Rock,208
+Suicidal Tendencies,7,low,country,2010,Punk,209
+Swollen Members,7,low,country,2010,Hip Hop,210
+T. Rex,7,low,country,2010,Punk,211
+The Adolescents,7,low,country,2010,Punk,212
+The Faction,7,low,country,2010,Punk,213
+The Faint,7,low,country,2010,Indie/Alternative,214
+The Greenhornes,7,low,country,2010,Indie/Alternative,215
+The Grouch,7,low,country,2010,Hip Hop,216
+The Odd Numbers,7,low,country,2010,Punk,217
+The People Under The Stairs,7,low,country,2010,Hip Hop,218
+The Specials,7,low,country,2010,Punk,219
+Turbonegro,7,low,country,2010,Punk,220
+Ugly Duckling,7,low,country,2010,Hip Hop,221
+Ululation,7,low,country,2010,Other,222
+Uriah Heep,7,low,country,2010,Metal,223
+Wolf Parade,7,low,country,2010,Indie/Alternative,224
+Youth Brigade,7,low,country,2010,Punk,225
+((sounder)),6,low,country,2010,Electronic,226
+707 Team,6,low,country,2010,Other,227
+Autechre,6,low,country,2010,Indie/Alternative,228
+Bad Strip,6,low,country,2010,Punk,229
+Black Mountain,6,low,country,2010,Metal,230
+Black Sheep,6,low,country,2010,Hip Hop,231
+Blonde Redhead,6,low,country,2010,Indie/Alternative,232
+Bruce Springsteen,6,low,country,2010,Classic Rock,233
+Busy P,6,low,country,2010,Electronic,234
+Cass McCombs,6,low,country,2010,Indie/Alternative,235
+Chicago,6,low,country,2010,Hip Hop,236
+Dead Moon,6,low,country,2010,Punk,237
+Division Of Laura Lee,6,low,country,2010,Other,238
+Down By Law,6,low,country,2010,Punk,239
+Duane Pitre,6,low,country,2010,Jazz/Soul,240
+Earthless,6,low,country,2010,Metal,241
+El Michels Affair,6,low,country,2010,Hip Hop,242
+Ennio Morricone,6,low,country,2010,Other,243
+Eternal Summers,6,low,country,2010,Indie/Alternative,244
+Four Tet,6,low,country,2010,Jazz/Soul,245
+Future Islands,6,low,country,2010,Indie/Alternative,246
+Godspeed You! Black Emperor,6,low,country,2010,Indie/Alternative,247
+Grateful Dead,6,low,country,2010,Classic Rock,248
+Jedi Mind Tricks,6,low,country,2010,Hip Hop,249
+Jel,6,low,country,2010,Electronic,250
+Jethro Tull,6,low,country,2010,Classic Rock,251
+Kabanjak,6,low,country,2010,Jazz/Soul,252
+Ladytron,6,low,country,2010,Electronic,253
+Lil Wayne,6,low,country,2010,Hip Hop,254
+Midlake,6,low,country,2010,Indie/Alternative,255
+Motley Crue,6,low,country,2010,Metal,256
+Nihilist,6,low,country,2010,Metal,257
+Nobody,6,low,country,2010,Electronic,258
+Ol' Dirty Bastard,6,low,country,2010,Hip Hop,259
+Orchestra Di Rockford Kabine,6,low,country,2010,Other,260
+Patti Smith,6,low,country,2010,Punk,261
+Procol Harum,6,low,country,2010,Classic Rock,262
+Project Pat,6,low,country,2010,Hip Hop,263
+Quantic,6,low,country,2010,Jazz/Soul,264
+Radio Birdman,6,low,country,2010,Punk,265
+Rancid,6,low,country,2010,Punk,266
+Ray Charles,6,low,country,2010,Jazz/Soul,267
+Rick Ross,6,low,country,2010,Hip Hop,268
+Rod Stewart,6,low,country,2010,Classic Rock,269
+Rodrigo & Gabriela,6,low,country,2010,Jazz/Soul,270
+Sebadoh,6,low,country,2010,Indie/Alternative,271
+Sizzla,6,low,country,2010,Jazz/Soul,272
+Starfucker,6,low,country,2010,Indie/Alternative,273
+Status Quo,6,low,country,2010,Classic Rock,274
+Sub Society,6,low,country,2010,Punk,275
+Surfer Blood,6,low,country,2010,Indie/Alternative,276
+Talib Kweli,6,low,country,2010,Hip Hop,277
+The Amazing Phillips Sisters,6,low,country,2010,Other,278
+The Jam,6,low,country,2010,Punk,279
+The LSDemons,6,low,country,2010,Metal,280
+The Offspring,6,low,country,2010,Punk,281
+The Organ,6,low,country,2010,Indie/Alternative,282
+The Sounds,6,low,country,2010,Indie/Alternative,283
+The Stranglers,6,low,country,2010,Punk,284
+The Yardbirds,6,low,country,2010,Classic Rock,285
+Thin Lizzy,6,low,country,2010,Metal,286
+Three 6 Mafia,6,low,country,2010,Hip Hop,287
+Three Dog Night,6,low,country,2010,Classic Rock,288
+Whitey,6,low,country,2010,Indie/Alternative,289
+Witch,6,low,country,2010,Metal,290
+Youth Lagoon,6,low,country,2010,Indie/Alternative,291
+456 Productions,5,low,country,2010,Other,292
+A Band of Bees,5,low,country,2010,Indie/Alternative,293
+Aim,5,low,country,2010,Electronic,294
+Archers of Loaf,5,low,country,2010,Indie/Alternative,295
+ASG,5,low,country,2010,Metal,296
+Atmosphere,5,low,country,2010,Hip Hop,297
+Beirut,5,low,country,2010,Indie/Alternative,298
+Birds of Avalon,5,low,country,2010,Indie/Alternative,299
+Bjork,5,low,country,2010,Electronic,300
+Bobby Womack,5,low,country,2010,Jazz/Soul,301
+Brooklyn Funk Essentials,5,low,country,2010,Jazz/Soul,302
+Brotha Lynch Hung,5,low,country,2010,Hip Hop,303
+Calexico,5,low,country,2010,Electronic,304
+Canned Heat,5,low,country,2010,Classic Rock,305
+Captain Beefheart,5,low,country,2010,Classic Rock,306
+Chemical Brothers,5,low,country,2010,Electronic,307
+Coolio,5,low,country,2010,Hip Hop,308
+Cypress Hill,5,low,country,2010,Hip Hop,309
+Dance Hall Crashers,5,low,country,2010,Punk,310
+David Holmes,5,low,country,2010,Electronic,311
+Deela,5,low,country,2010,Other,312
+Devendra Banhart,5,low,country,2010,Electronic,313
+Dick Dale,5,low,country,2010,Classic Rock,314
+Digable Planets,5,low,country,2010,Hip Hop,315
+DJ Frane,5,low,country,2010,Electronic,316
+DJ Vadim,5,low,country,2010,Jazz/Soul,317
+DMX,5,low,country,2010,Hip Hop,318
+Doves,5,low,country,2010,Indie/Alternative,319
+Drunk Injuns,5,low,country,2010,Punk,320
+Dutch Dub,5,low,country,2010,Electronic,321
+Eagles Of Death Metal,5,low,country,2010,Metal,322
+Elvis Presley,5,low,country,2010,Indie/Alternative,323
+Extra Prolific,5,low,country,2010,Hip Hop,324
+Fatboy Slim,5,low,country,2010,Electronic,325
+Frank Zappa,5,low,country,2010,Classic Rock,326
+Fretblanket,5,low,country,2010,Metal,327
+Greyboy,5,low,country,2010,Jazz/Soul,328
+Grindline The Band,5,low,country,2010,Metal,329
+Hawkwind,5,low,country,2010,Classic Rock,330
+Heart,5,low,country,2010,Classic Rock,331
+HIM,5,low,country,2010,Metal,332
+Hip Hop For Respect,5,low,country,2010,Hip Hop,333
+Hum,5,low,country,2010,Metal,334
+INXS,5,low,country,2010,Indie/Alternative,335
+Jet Black Crayon,5,low,country,2010,Jazz/Soul,336
+Jurassic 5,5,low,country,2010,Hip Hop,337
+Justice,5,low,country,2010,Electronic,338
+Le Tigre,5,low,country,2010,Electronic,339
+Les Savy Fav,5,low,country,2010,Indie/Alternative,340
+Luscious Jackson,5,low,country,2010,Indie/Alternative,341
+Madonna,5,low,country,2010,Indie/Alternative,342
+Marginal Man,5,low,country,2010,Punk,343
+Mudhoney,5,low,country,2010,Punk,344
+N.W.A.,5,low,country,2010,Hip Hop,345
+NAS,5,low,country,2010,Hip Hop,346
+Nevermore,5,low,country,2010,Metal,347
+Old Canes,5,low,country,2010,Indie/Alternative,348
+Pantera,5,low,country,2010,Metal,349
+Pennywise,5,low,country,2010,Punk,350
+Pepper Rabbit,5,low,country,2010,Indie/Alternative,351
+Phoenix,5,low,country,2010,Indie/Alternative,352
+Placebo,5,low,country,2010,Indie/Alternative,353
+Prince,5,low,country,2010,Jazz/Soul,354
+Reflection Eternal,5,low,country,2010,Hip Hop,355
+Rick James,5,low,country,2010,Jazz/Soul,356
+Rudimentary Peni,5,low,country,2010,Punk,357
+Rush,5,low,country,2010,Metal,358
+Slippers,5,low,country,2010,Hip Hop,359
+Sly & The Family Stone,5,low,country,2010,Electronic,360
+Storytellers,5,low,country,2010,Other,361
+Ted Nugent,5,low,country,2010,Metal,362
+The Beach Boys,5,low,country,2010,Classic Rock,363
+The Chemical Brothers,5,low,country,2010,Electronic,364
+The Commodores,5,low,country,2010,Jazz/Soul,365
+The Cramps,5,low,country,2010,Punk,366
+The Go! Team,5,low,country,2010,Indie/Alternative,367
+The Heartaches,5,low,country,2010,Punk,368
+The Helio Sequence,5,low,country,2010,Indie/Alternative,369
+The Killers,5,low,country,2010,Indie/Alternative,370
+The Notorious B.I.G.,5,low,country,2010,Hip Hop,371
+The Roots,5,low,country,2010,Hip Hop,372
+The Seeds,5,low,country,2010,Indie/Alternative,373
+The Stone Roses,5,low,country,2010,Indie/Alternative,374
+The Sword,5,low,country,2010,Metal,375
+The Temptations,5,low,country,2010,Jazz/Soul,376
+Thee Oh Sees,5,low,country,2010,Indie/Alternative,377
+Too $hort,5,low,country,2010,Hip Hop,378
+Tool,5,low,country,2010,Metal,379
+Turing Machine,5,low,country,2010,Indie/Alternative,380
+U2,5,low,country,2010,Indie/Alternative,381
+William Orbit,5,low,country,2010,Electronic,382
+13th Floor Elevators,4,low,country,2010,Classic Rock,383
+Action Bronson,4,low,country,2010,Hip Hop,384
+Agent Orange,4,low,country,2010,Punk,385
+Agnostic Front,4,low,country,2010,Punk,386
+Alyasha,4,low,country,2010,Other,387
+Andy Caldwell,4,low,country,2010,Electronic,388
+Beach Fossils,4,low,country,2010,Indie/Alternative,389
+Beach House,4,low,country,2010,Indie/Alternative,390
+Beanie Sigel,4,low,country,2010,Hip Hop,391
+Big Daddy Kane,4,low,country,2010,Hip Hop,392
+Big Tymers,4,low,country,2010,Hip Hop,393
+Billy Idol,4,low,country,2010,Classic Rock,394
+Black Lips,4,low,country,2010,Indie/Alternative,395
+Black Moon,4,low,country,2010,Hip Hop,396
+Black Moth Super Rainbow,4,low,country,2010,Electronic,397
+Blue States,4,low,country,2010,Jazz/Soul,398
+Blur,4,low,country,2010,Classic Rock,399
+Boac,4,low,country,2010,Other,400
+Bob James,4,low,country,2010,Jazz/Soul,401
+Broken Spindles,4,low,country,2010,Electronic,402
+Budgie,4,low,country,2010,Hip Hop,403
+Bully,4,low,country,2010,Other,404
+Chad VanGaalen,4,low,country,2010,Indie/Alternative,405
+Charles Bradley,4,low,country,2010,Jazz/Soul,406
+Clap Your Hands Say Yeah,4,low,country,2010,Indie/Alternative,407
+Coconut Records,4,low,country,2010,Indie/Alternative,408
+Colin Potter,4,low,country,2010,Other,409
+Combine,4,low,country,2010,Other,410
+Consortium,4,low,country,2010,Indie/Alternative,411
+Cornelius,4,low,country,2010,Indie/Alternative,412
+Craig Fox,4,low,country,2010,Other,413
+Daft Punk,4,low,country,2010,Electronic,414
+Dead Meadow,4,low,country,2010,Metal,415
+Dead Prez,4,low,country,2010,Hip Hop,416
+Deadxbeat,4,low,country,2010,Other,417
+Depeche Mode,4,low,country,2010,Indie/Alternative,418
+Dire Straits,4,low,country,2010,Classic Rock,419
+DJ Greyboy,4,low,country,2010,Indie/Alternative,420
+DJ Kechup,4,low,country,2010,Electronic,421
+DJ Sureshot,4,low,country,2010,Electronic,422
+Dr Octagon,4,low,country,2010,Hip Hop,423
+Dr. Dre,4,low,country,2010,Hip Hop,424
+Dwarves,4,low,country,2010,Punk,425
+Early Man,4,low,country,2010,Other,426
+Echo & The Bunnymen,4,low,country,2010,Punk,427
+Editors,4,low,country,2010,Indie/Alternative,428
+Edward Sharpe & The Magnetic Zeros,4,low,country,2010,Indie/Alternative,429
+Eels,4,low,country,2010,Indie/Alternative,430
+Eighty Mile Beach,4,low,country,2010,Electronic,431
+EKP,4,low,country,2010,Other,432
+El Stew,4,low,country,2010,Other,433
+Electrelane,4,low,country,2010,Electronic,434
+Elliot,4,low,country,2010,Other,435
+Elton John,4,low,country,2010,Classic Rock,436
+Eric Burdon & The Animals,4,low,country,2010,Classic Rock,437
+Explosions in the Sky,4,low,country,2010,Indie/Alternative,438
+Face To Face,4,low,country,2010,Punk,439
+Fela Kuti,4,low,country,2010,Jazz/Soul,440
+Fischerspooner,4,low,country,2010,Electronic,441
+Fleet Foxes,4,low,country,2010,Indie/Alternative,442
+Flogging Molly,4,low,country,2010,Punk,443
+Fluf,4,low,country,2010,Other,444
+Frank Sinatra,4,low,country,2010,Jazz/Soul,445
+Free The Robots,4,low,country,2010,Jazz/Soul,446
+Fu Manchu,4,low,country,2010,Metal,447
+Funkadelic,4,low,country,2010,Jazz/Soul,448
+Gas Huffer,4,low,country,2010,Other,449
+Geto Boys,4,low,country,2010,Hip Hop,450
+Ghostface Killah,4,low,country,2010,Hip Hop,451
+Girlschool,4,low,country,2010,Metal,452
+Gloritone,4,low,country,2010,Other,453
+Goat,4,low,country,2010,Other,454
+GOD,4,low,country,2010,Other,455
+Gorillaz,4,low,country,2010,Hip Hop,456
+Green Day,4,low,country,2010,Punk,457
+Growing,4,low,country,2010,Other,458
+Guttermouth,4,low,country,2010,Punk,459
+Hall & Oates,4,low,country,2010,Classic Rock,460
+Happy Go Licky,4,low,country,2010,Other,461
+Helmet,4,low,country,2010,Metal,462
+High On Fire,4,low,country,2010,Metal,463
+Hive,4,low,country,2010,Other,464
+Hole,4,low,country,2010,Indie/Alternative,465
+House Of Pain,4,low,country,2010,Hip Hop,466
+Ian Brown,4,low,country,2010,Indie/Alternative,467
+J Mascis and the Fog,4,low,country,2010,Metal,468
+J.F.A.,4,low,country,2010,Punk,469
+Jets to Brazil,4,low,country,2010,Indie/Alternative,470
+John Coltrane,4,low,country,2010,Jazz/Soul,471
+Johnny Thunders,4,low,country,2010,Punk,472
+Juelz Santana,4,low,country,2010,Hip Hop,473
+Kenny Loggins,4,low,country,2010,Indie/Alternative,474
+Kingpin Skinny Pimp,4,low,country,2010,Hip Hop,475
+Lard,4,low,country,2010,Metal,476
+Le Mix Tape Delux,4,low,country,2010,Other,477
+Liam the Younger,4,low,country,2010,Other,478
+Living Keys Music,4,low,country,2010,Other,479
+Lords Of The Underground,4,low,country,2010,Hip Hop,480
+Los Olvidados,4,low,country,2010,Punk,481
+Mac Dre,4,low,country,2010,Hip Hop,482
+Mazzy Star,4,low,country,2010,Indie/Alternative,483
+MF Doom,4,low,country,2010,Hip Hop,484
+Miles Davis,4,low,country,2010,Jazz/Soul,485
+Mother Earth,4,low,country,2010,Jazz/Soul,486
+Motörhead,4,low,country,2010,Metal,487
+Mum,4,low,country,2010,Indie/Alternative,488
+Muse,4,low,country,2010,Indie/Alternative,489
+N.W.A,4,low,country,2010,Hip Hop,490
+Neil Diamond,4,low,country,2010,Classic Rock,491
+Norman Greenbaum,4,low,country,2010,Classic Rock,492
+Oasis,4,low,country,2010,Indie/Alternative,493
+Outkast,4,low,country,2010,Hip Hop,494
+Pagan Altar,4,low,country,2010,Metal,495
+Pete Rock,4,low,country,2010,Hip Hop,496
+Peter Bjorn and John,4,low,country,2010,Indie/Alternative,497
+Phillip Drummond,4,low,country,2010,Other,498
+Prefuse 73,4,low,country,2010,Electronic,499
+Prodigy,4,low,country,2010,Electronic,500
+Propellerheads,4,low,country,2010,Electronic,501
+Protassov,4,low,country,2010,Jazz/Soul,502
+Puffball,4,low,country,2010,Other,503
+Rakim,4,low,country,2010,Hip Hop,504
+Ratatat,4,low,country,2010,Electronic,505
+Renee Renee,4,low,country,2010,Other,506
+Roky Erickson,4,low,country,2010,Metal,507
+Seafood,4,low,country,2010,Indie/Alternative,508
+Sebastien Daurel,4,low,country,2010,Other,509
+Semisonic,4,low,country,2010,Indie/Alternative,510
+Sex Pistols,4,low,country,2010,Punk,511
+Sharon Jones & The Dap Kings,4,low,country,2010,Jazz/Soul,512
+Shitkickers,4,low,country,2010,Punk,513
+Sixtoo,4,low,country,2010,Electronic,514
+Smut Peddlers,4,low,country,2010,Punk,515
+Spindrift,4,low,country,2010,Indie/Alternative,516
+Spiritualized,4,low,country,2010,Indie/Alternative,517
+Steely Dan,4,low,country,2010,Classic Rock,518
+Strung Out,4,low,country,2010,Punk,519
+Styles Of Beyond,4,low,country,2010,Other,520
+Sufjan Stevens,4,low,country,2010,Indie/Alternative,521
+Sunset Rubdown,4,low,country,2010,Indie/Alternative,522
+Tanner,4,low,country,2010,Other,523
+The Album Leaf,4,low,country,2010,Indie/Alternative,524
+The Black Lips,4,low,country,2010,Indie/Alternative,525
+The Breeders,4,low,country,2010,Punk,526
+The Buzzcocks,4,low,country,2010,Punk,527
+The Charlatans,4,low,country,2010,Indie/Alternative,528
+The Coral,4,low,country,2010,Indie/Alternative,529
+The Cry,4,low,country,2010,Indie/Alternative,530
+The Dandy Warhols,4,low,country,2010,Indie/Alternative,531
+The Four Tops,4,low,country,2010,Other,532
+The Get Up Kids,4,low,country,2010,Punk,533
+The Goat & The Occasional Others,4,low,country,2010,Other,534
+The Knife,4,low,country,2010,Electronic,535
+The Needles,4,low,country,2010,Punk,536
+The Police,4,low,country,2010,Classic Rock,537
+The Raconteurs,4,low,country,2010,Indie/Alternative,538
+The Raveonettes,4,low,country,2010,Indie/Alternative,539
+The Sadies,4,low,country,2010,Metal,540
+The Saints,4,low,country,2010,Punk,541
+The Sea and Cake,4,low,country,2010,Indie/Alternative,542
+The Small Faces,4,low,country,2010,Classic Rock,543
+The Sonics,4,low,country,2010,Punk,544
+The Stooges,4,low,country,2010,Punk,545
+The Strokes,4,low,country,2010,Indie/Alternative,546
+The Teenagers,4,low,country,2010,Indie/Alternative,547
+The Veebees,4,low,country,2010,Punk,548
+The Walkmen,4,low,country,2010,Indie/Alternative,549
+The Whitest Boy Alive,4,low,country,2010,Indie/Alternative,550
+The Zombies,4,low,country,2010,Classic Rock,551
+The Zoo,4,low,country,2010,Indie/Alternative,552
+Tom Petty & The Heartbreakers,4,low,country,2010,Classic Rock,553
+U.S. Bombs,4,low,country,2010,Punk,554
+Valient Thorr,4,low,country,2010,Metal,555
+Van Halen,4,low,country,2010,Metal,556
+Vangelis,4,low,country,2010,Electronic,557
+Viking Skull,4,low,country,2010,Metal,558
+Vito Y Coco,4,low,country,2010,Electronic,559
+War,4,low,country,2010,Indie/Alternative,560
+Whodini,4,low,country,2010,Hip Hop,561
+Wonderful Broken Thing,4,low,country,2010,Indie/Alternative,562
+X,4,low,country,2010,Other,563
+Xzibit,4,low,country,2010,Hip Hop,564
+Young Jeezy,4,low,country,2010,Hip Hop,565
+Zigitros,4,low,country,2010,Other,566
+Zoeangel,4,low,country,2010,Other,567
+ZZ Top,4,low,country,2010,Classic Rock,568
