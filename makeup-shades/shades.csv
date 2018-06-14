@@ -1,0 +1,626 @@
+"brand","brand_short","product","product_short","hex","H","S","V","L","group"
+"Maybelline","mb","Fit Me","fmf","f3cfb3",26,0.26,0.95,86,2
+"Maybelline","mb","Fit Me","fmf","ffe3c2",32,0.24,1,92,2
+"Maybelline","mb","Fit Me","fmf","ffe0cd",23,0.2,1,91,2
+"Maybelline","mb","Fit Me","fmf","ffd3be",19,0.25,1,88,2
+"Maybelline","mb","Fit Me","fmf","bd9584",18,0.3,0.74,65,2
+"Maybelline","mb","Fit Me","fmf","eabda6",20,0.29,0.92,80,2
+"Maybelline","mb","Fit Me","fmf","fbd2ad",28,0.31,0.98,87,2
+"Maybelline","mb","Fit Me","fmf","e2b597",24,0.33,0.89,77,2
+"Maybelline","mb","Fit Me","fmf","e4b38e",26,0.38,0.89,77,2
+"Maybelline","mb","Fit Me","fmf","b2856f",20,0.38,0.7,60,2
+"Maybelline","mb","Fit Me","fmf","e8ba8c",30,0.4,0.91,79,2
+"Maybelline","mb","Fit Me","fmf","f3b584",26,0.46,0.95,79,2
+"Maybelline","mb","Fit Me","fmf","f0b996",23,0.37,0.94,80,2
+"Maybelline","mb","Fit Me","fmf","e3b082",28,0.43,0.89,76,2
+"Maybelline","mb","Fit Me","fmf","eab181",27,0.45,0.92,77,2
+"Maybelline","mb","Fit Me","fmf","9d7359",23,0.43,0.62,52,2
+"Maybelline","mb","Fit Me","fmf","e2aa7b",27,0.46,0.89,74,2
+"Maybelline","mb","Fit Me","fmf","d99358",27,0.59,0.85,67,2
+"Maybelline","mb","Fit Me","fmf","9c744f",29,0.49,0.61,52,2
+"Maybelline","mb","Fit Me","fmf","b18b65",30,0.43,0.69,61,2
+"Maybelline","mb","Fit Me","fmf","84583f",22,0.52,0.52,42,2
+"Maybelline","mb","Fit Me","fmf","7d5631",29,0.61,0.49,40,2
+"Maybelline","mb","Fit Me","fmf","c07746",24,0.64,0.75,57,2
+"Maybelline","mb","Fit Me","fmf","643c27",21,0.61,0.39,30,2
+"Maybelline","mb","Fit Me","fmf","edcfb9",25,0.22,0.93,85,2
+"Maybelline","mb","Fit Me","fmf","e1bba7",21,0.26,0.88,79,2
+"Maybelline","mb","Fit Me","fmf","c1a07e",30,0.35,0.76,68,2
+"Maybelline","mb","Fit Me","fmf","d09e7c",24,0.4,0.82,69,2
+"Maybelline","mb","Fit Me","fmf","c7967d",20,0.37,0.78,66,2
+"Maybelline","mb","Fit Me","fmf","c09578",24,0.38,0.75,65,2
+"Maybelline","mb","Fit Me","fmf","9d6f48",28,0.54,0.62,51,2
+"Maybelline","mb","Fit Me","fmf","a86d40",26,0.62,0.66,52,2
+"Maybelline","mb","Fit Me","fmf","7f5c3b",29,0.54,0.5,42,2
+"Maybelline","mb","Fit Me","fmf","735642",24,0.43,0.45,39,2
+"Maybelline","mb","Fit Me","fmf","6b5041",21,0.39,0.42,37,2
+"Maybelline","mb","Fit Me","fmf","7d5c4d",19,0.38,0.49,42,2
+"Maybelline","mb","Fit Me","fmf","5c4433",25,0.45,0.36,31,2
+"Maybelline","mb","Fit Me","fmf","5e3a23",23,0.63,0.37,28,2
+"Maybelline","mb","Fit Me","fmf","5e4638",22,0.4,0.37,32,2
+"Maybelline","mb","Fit Me","fmf","3f2018",12,0.62,0.25,16,2
+"bareMinerals","bm","barePRO","pro","edceb2",28,0.25,0.93,85,2
+"bareMinerals","bm","barePRO","pro","f0cba1",32,0.33,0.94,84,2
+"bareMinerals","bm","barePRO","pro","ebc99c",34,0.34,0.92,83,2
+"bareMinerals","bm","barePRO","pro","e6bc94",29,0.36,0.9,79,2
+"bareMinerals","bm","barePRO","pro","dcb79a",26,0.3,0.86,77,2
+"bareMinerals","bm","barePRO","pro","eac8a3",31,0.3,0.92,83,2
+"bareMinerals","bm","barePRO","pro","e9c89e",34,0.32,0.91,83,2
+"bareMinerals","bm","barePRO","pro","d4ad8a",28,0.35,0.83,74,2
+"bareMinerals","bm","barePRO","pro","cfa786",27,0.35,0.81,72,2
+"bareMinerals","bm","barePRO","pro","d8b08c",28,0.35,0.85,75,2
+"bareMinerals","bm","barePRO","pro","d4a97f",30,0.4,0.83,72,2
+"bareMinerals","bm","barePRO","pro","deb58b",30,0.37,0.87,77,2
+"bareMinerals","bm","barePRO","pro","dbae85",29,0.39,0.86,75,2
+"bareMinerals","bm","barePRO","pro","d5a275",28,0.45,0.84,71,2
+"bareMinerals","bm","barePRO","pro","d1a67e",29,0.4,0.82,71,2
+"bareMinerals","bm","barePRO","pro","e0ab81",27,0.42,0.88,74,2
+"bareMinerals","bm","barePRO","pro","ca9f75",30,0.42,0.79,69,2
+"bareMinerals","bm","barePRO","pro","c69c6c",32,0.45,0.78,68,2
+"bareMinerals","bm","barePRO","pro","bd9359",35,0.53,0.74,64,2
+"bareMinerals","bm","barePRO","pro","b38355",29,0.53,0.7,59,2
+"bareMinerals","bm","barePRO","pro","ab7945",31,0.6,0.67,55,2
+"bareMinerals","bm","barePRO","pro","ab7944",31,0.6,0.67,55,2
+"bareMinerals","bm","barePRO","pro","ad7d59",26,0.49,0.68,57,2
+"bareMinerals","bm","barePRO","pro","a16c38",30,0.65,0.63,51,2
+"bareMinerals","bm","barePRO","pro","976236",27,0.64,0.59,47,2
+"bareMinerals","bm","barePRO","pro","8a5833",26,0.63,0.54,43,2
+"bareMinerals","bm","barePRO","pro","8d5c31",28,0.65,0.55,44,2
+"bareMinerals","bm","barePRO","pro","775436",28,0.55,0.47,39,2
+"bareMinerals","bm","barePRO","pro","6e4b2f",27,0.57,0.43,35,2
+"Estée Lauder","el","Double Wear","dw","ffd6ba",24,0.27,1,89,2
+"Estée Lauder","el","Double Wear","dw","d0a26e",32,0.47,0.82,70,2
+"Estée Lauder","el","Double Wear","dw","c48f56",31,0.56,0.77,64,2
+"Estée Lauder","el","Double Wear","dw","bb8046",30,0.63,0.73,59,2
+"Estée Lauder","el","Double Wear","dw","ffc8a3",24,0.36,1,85,2
+"Estée Lauder","el","Double Wear","dw","d8bba3",27,0.25,0.85,78,2
+"Estée Lauder","el","Double Wear","dw","fac7a7",23,0.33,0.98,84,2
+"Estée Lauder","el","Double Wear","dw","ffcba6",25,0.35,1,86,2
+"Estée Lauder","el","Double Wear","dw","e5b593",25,0.36,0.9,77,2
+"Estée Lauder","el","Double Wear","dw","dea365",31,0.55,0.87,72,2
+"Estée Lauder","el","Double Wear","dw","d8a46d",31,0.5,0.85,71,2
+"Estée Lauder","el","Double Wear","dw","f2bb96",24,0.38,0.95,80,2
+"Estée Lauder","el","Double Wear","dw","d4a066",32,0.52,0.83,70,2
+"Estée Lauder","el","Double Wear","dw","f2bf91",28,0.4,0.95,81,2
+"Estée Lauder","el","Double Wear","dw","edbe98",27,0.36,0.93,81,2
+"Estée Lauder","el","Double Wear","dw","e7b79c",22,0.32,0.91,78,2
+"Estée Lauder","el","Double Wear","dw","ebad81",25,0.45,0.92,76,2
+"Estée Lauder","el","Double Wear","dw","ddb491",28,0.34,0.87,76,2
+"Estée Lauder","el","Double Wear","dw","e5ad8a",23,0.4,0.9,75,2
+"Estée Lauder","el","Double Wear","dw","d59a71",25,0.47,0.84,69,2
+"Estée Lauder","el","Double Wear","dw","cf905d",27,0.55,0.81,65,2
+"Estée Lauder","el","Double Wear","dw","d69060",24,0.55,0.84,66,2
+"Estée Lauder","el","Double Wear","dw","be8058",24,0.54,0.75,59,2
+"Estée Lauder","el","Double Wear","dw","d7986d",24,0.49,0.84,68,2
+"Estée Lauder","el","Double Wear","dw","ad7247",25,0.59,0.68,54,2
+"Estée Lauder","el","Double Wear","dw","c27440",24,0.67,0.76,57,2
+"Estée Lauder","el","Double Wear","dw","c0976b",31,0.44,0.75,66,2
+"Estée Lauder","el","Double Wear","dw","99562c",23,0.71,0.6,44,2
+"Estée Lauder","el","Double Wear","dw","da926b",21,0.51,0.85,67,2
+"Estée Lauder","el","Double Wear","dw","a35829",23,0.75,0.64,46,2
+"Estée Lauder","el","Double Wear","dw","b56e38",26,0.69,0.71,54,2
+"Estée Lauder","el","Double Wear","dw","a85f2a",25,0.75,0.66,48,2
+"Estée Lauder","el","Double Wear","dw","8f4d2b",20,0.7,0.56,41,2
+"Estée Lauder","el","Double Wear","dw","864f26",26,0.72,0.53,40,2
+"Estée Lauder","el","Double Wear","dw","8f5c35",26,0.63,0.56,44,2
+"Estée Lauder","el","Double Wear","dw","895c26",33,0.72,0.54,43,2
+"Estée Lauder","el","Double Wear","dw","aa6533",25,0.7,0.67,59,2
+"Estée Lauder","el","Double Wear","dw","925b2d",27,0.69,0.57,44,2
+"Estée Lauder","el","Double Wear","dw","77421e",24,0.75,0.47,34,2
+"Estée Lauder","el","Double Wear","dw","724727",26,0.66,0.45,35,2
+"Estée Lauder","el","Double Wear","dw","7e512d",27,0.64,0.49,39,2
+"Estée Lauder","el","Double Wear","dw","5e3617",26,0.76,0.37,27,2
+"Revlon","rv","ColorStay","cs","f9caac",23,0.31,0.98,85,2
+"Revlon","rv","ColorStay","cs","f8c7a1",26,0.35,0.97,84,2
+"Revlon","rv","ColorStay","cs","f1bc96",25,0.38,0.95,80,2
+"Revlon","rv","ColorStay","cs","f1b496",20,0.38,0.95,79,2
+"Revlon","rv","ColorStay","cs","e8b29c",17,0.33,0.91,77,2
+"Revlon","rv","ColorStay","cs","e2ae8e",23,0.37,0.89,75,2
+"Revlon","rv","ColorStay","cs","dfa48c",17,0.37,0.87,73,2
+"Revlon","rv","ColorStay","cs","e4a87f",24,0.44,0.89,74,2
+"Revlon","rv","ColorStay","cs","e1a681",23,0.43,0.88,73,2
+"Revlon","rv","ColorStay","cs","d5a187",20,0.37,0.84,71,2
+"Revlon","rv","ColorStay","cs","dba787",23,0.38,0.86,73,2
+"Revlon","rv","ColorStay","cs","d79f86",19,0.38,0.84,70,2
+"Revlon","rv","ColorStay","cs","d5a187",20,0.37,0.84,71,2
+"Revlon","rv","ColorStay","cs","de9a77",20,0.46,0.87,70,2
+"Revlon","rv","ColorStay","cs","cb8f6e",21,0.46,0.8,65,2
+"Revlon","rv","ColorStay","cs","c98667",19,0.49,0.79,62,2
+"Revlon","rv","ColorStay","cs","c68f71",21,0.43,0.78,64,2
+"Revlon","rv","ColorStay","cs","ba8568",21,0.44,0.73,60,2
+"Revlon","rv","ColorStay","cs","a7745e",18,0.44,0.65,54,2
+"Revlon","rv","ColorStay","cs","8e6558",14,0.38,0.56,47,2
+"Revlon","rv","ColorStay","cs","eec498",31,0.36,0.93,82,2
+"Revlon","rv","ColorStay","cs","eec29e",27,0.34,0.93,82,2
+"L'Oréal","lo","Infalliable","ipm","f3c6a2",27,0.33,0.95,83,2
+"L'Oréal","lo","Infalliable","ipm","e5ad8b",23,0.39,0.9,75,2
+"L'Oréal","lo","Infalliable","ipm","e7ad82",26,0.44,0.91,76,2
+"L'Oréal","lo","Infalliable","ipm","eeb67e",30,0.47,0.93,78,2
+"L'Oréal","lo","Infalliable","ipm","e8b481",30,0.44,0.91,77,2
+"L'Oréal","lo","Infalliable","ipm","daa271",28,0.48,0.85,71,2
+"L'Oréal","lo","Infalliable","ipm","d49e6c",29,0.49,0.83,70,2
+"L'Oréal","lo","Infalliable","ipm","c0844e",28,0.59,0.75,61,2
+"L'Oréal","lo","Infalliable","ipm","c27f48",27,0.63,0.76,60,2
+"L'Oréal","lo","Infalliable","ipm","da9e6b",28,0.51,0.85,70,2
+"L'Oréal","lo","Infalliable","ipm","b87740",28,0.65,0.72,56,2
+"L'Oréal","lo","Infalliable","ipm","925422",27,0.77,0.57,43,2
+"L'Oréal","lo","Infalliable","ipm","fadcc8",24,0.2,0.98,90,2
+"L'Oréal","lo","Infalliable","ipm","fcd6c7",17,0.21,0.99,89,2
+"L'Oréal","lo","Infalliable","ipm","f7cab1",21,0.28,0.97,85,2
+"L'Oréal","lo","Infalliable","ipm","deb09e",17,0.29,0.87,76,2
+"L'Oréal","lo","Infalliable","ipm","d1a396",13,0.28,0.82,71,2
+"L'Oréal","lo","Infalliable","ipm","cf9c7d",23,0.4,0.81,69,2
+"L'Oréal","lo","Infalliable","ipm","d99959",30,0.59,0.85,69,2
+"L'Oréal","lo","Infalliable","ipm","754728",24,0.66,0.46,35,2
+"L'Oréal","lo","Infalliable","ipm","4d2c0a",30,0.87,0.3,22,2
+"L'Oréal","lo","Infalliable","ipm","4d2006",22,0.92,0.3,19,2
+"Covergirl + Olay","oc","Simply Ageless","sa","e1ad81",NA,NA,NA,75,2
+"Covergirl + Olay","oc","Simply Ageless","sa","deb192",NA,NA,NA,76,2
+"Covergirl + Olay","oc","Simply Ageless","sa","e3b490",NA,NA,NA,77,2
+"Covergirl + Olay","oc","Simply Ageless","sa","e9b898",NA,NA,NA,79,2
+"Covergirl + Olay","oc","Simply Ageless","sa","e8bb9c",NA,NA,NA,79,2
+"Covergirl + Olay","oc","Simply Ageless","sa","e1b7a0",NA,NA,NA,78,2
+"Covergirl + Olay","oc","Simply Ageless","sa","eac4ae",NA,NA,NA,82,2
+"Covergirl + Olay","oc","Simply Ageless","sa","eac7ab",NA,NA,NA,83,2
+"Covergirl + Olay","oc","Simply Ageless","sa","eabe9e",NA,NA,NA,80,2
+"Covergirl + Olay","oc","Simply Ageless","sa","e5b39a",NA,NA,NA,77,2
+"Covergirl + Olay","oc","Simply Ageless","sa","e7b590",NA,NA,NA,78,2
+"Covergirl + Olay","oc","Simply Ageless","sa","f7dcca",NA,NA,NA,90,2
+"Fenty","fe","PRO FILT'R","pf","fde9de",21,0.12,0.99,94,0
+"Fenty","fe","PRO FILT'R","pf","fde7da",22,0.14,0.99,93,0
+"Fenty","fe","PRO FILT'R","pf","fde3cc",28,0.19,0.99,92,0
+"Fenty","fe","PRO FILT'R","pf","f2d3b1",31,0.27,0.95,87,0
+"Fenty","fe","PRO FILT'R","pf","fce1c6",30,0.21,0.99,91,0
+"Fenty","fe","PRO FILT'R","pf","efd1b7",28,0.23,0.94,86,0
+"Fenty","fe","PRO FILT'R","pf","f4cca8",28,0.31,0.96,85,0
+"Fenty","fe","PRO FILT'R","pf","e8bfa3",24,0.3,0.91,80,0
+"Fenty","fe","PRO FILT'R","pf","fad5b8",26,0.26,0.98,88,0
+"Fenty","fe","PRO FILT'R","pf","e9c39f",29,0.32,0.91,81,0
+"Fenty","fe","PRO FILT'R","pf","e8bc99",27,0.34,0.91,80,0
+"Fenty","fe","PRO FILT'R","pf","e2ad85",26,0.41,0.89,75,0
+"Fenty","fe","PRO FILT'R","pf","eeba93",26,0.38,0.93,80,0
+"Fenty","fe","PRO FILT'R","pf","dfad89",25,0.39,0.87,75,0
+"Fenty","fe","PRO FILT'R","pf","d9a57d",26,0.42,0.85,72,0
+"Fenty","fe","PRO FILT'R","pf","e4ac7c",28,0.46,0.89,75,0
+"Fenty","fe","PRO FILT'R","pf","dca77d",27,0.43,0.86,73,0
+"Fenty","fe","PRO FILT'R","pf","d59d6d",28,0.49,0.84,69,0
+"Fenty","fe","PRO FILT'R","pf","e7ae85",25,0.42,0.91,76,0
+"Fenty","fe","PRO FILT'R","pf","dcb17d",33,0.43,0.86,75,0
+"Fenty","fe","PRO FILT'R","pf","ca9262",28,0.51,0.79,65,0
+"Fenty","fe","PRO FILT'R","pf","d28f58",27,0.58,0.82,65,0
+"Fenty","fe","PRO FILT'R","pf","d39063",24,0.53,0.83,66,0
+"Fenty","fe","PRO FILT'R","pf","d39156",28,0.59,0.83,66,0
+"Fenty","fe","PRO FILT'R","pf","ac7752",25,0.52,0.67,55,0
+"Fenty","fe","PRO FILT'R","pf","b67849",26,0.6,0.71,56,0
+"Fenty","fe","PRO FILT'R","pf","bd7b45",27,0.63,0.74,58,0
+"Fenty","fe","PRO FILT'R","pf","c98256",23,0.57,0.79,61,0
+"Fenty","fe","PRO FILT'R","pf","ca875a",24,0.55,0.79,63,0
+"Fenty","fe","PRO FILT'R","pf","a86b3f",25,0.63,0.66,51,0
+"Fenty","fe","PRO FILT'R","pf","a65e23",27,0.79,0.65,48,0
+"Fenty","fe","PRO FILT'R","pf","9d5d2d",26,0.71,0.62,46,0
+"Fenty","fe","PRO FILT'R","pf","ab6939",25,0.67,0.67,51,0
+"Fenty","fe","PRO FILT'R","pf","894f29",24,0.7,0.54,40,0
+"Fenty","fe","PRO FILT'R","pf","9b5b35",22,0.66,0.61,46,0
+"Fenty","fe","PRO FILT'R","pf","824f30",23,0.63,0.51,39,0
+"Fenty","fe","PRO FILT'R","pf","7d452c",19,0.65,0.49,36,0
+"Fenty","fe","PRO FILT'R","pf","6d3b20",21,0.71,0.43,31,0
+"Fenty","fe","PRO FILT'R","pf","683a20",22,0.69,0.41,30,0
+"Fenty","fe","PRO FILT'R","pf","583218",24,0.73,0.35,25,0
+"Iman","im","Second to None","sn","e1bea4",26,0.27,0.88,80,3
+"Iman","im","Second to None","sn","e5ae86",25,0.41,0.9,76,3
+"Iman","im","Second to None","sn","c38e63",27,0.49,0.76,64,3
+"Iman","im","Second to None","sn","ac703d",28,0.65,0.67,53,3
+"Iman","im","Second to None","sn","9e6209",36,0.94,0.62,47,3
+"Iman","im","Second to None","sn","855723",32,0.74,0.52,41,3
+"Iman","im","Second to None","sn","793f0d",28,0.89,0.47,34,3
+"Iman","im","Second to None","sn","64300a",25,0.9,0.39,27,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","532e1e",18,0.64,0.33,24,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","4e2a1a",18,0.67,0.31,22,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","623f2c",21,0.55,0.38,30,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","8e532b",24,0.7,0.56,42,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","985223",24,0.77,0.6,43,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","a86738",25,0.67,0.66,50,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","a16f4c",25,0.53,0.63,52,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","a4683b",26,0.64,0.64,50,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","a4683b",26,0.64,0.64,50,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","ba7246",23,0.62,0.73,55,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","a86d46",24,0.58,0.66,52,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","b47c57",24,0.52,0.71,57,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","cc9561",29,0.52,0.8,66,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","d6a878",31,0.44,0.84,72,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","d0a37f",27,0.39,0.82,71,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","f1c78e",35,0.41,0.95,83,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","f2cea2",33,0.33,0.95,85,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","f5dab6",34,0.26,0.96,89,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","e9c096",30,0.36,0.91,81,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","edcbab",29,0.28,0.93,84,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","f2dac1",31,0.2,0.95,89,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","f2dbbb",35,0.23,0.95,89,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","f3dabc",33,0.23,0.95,89,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","f3dbbc",34,0.23,0.95,89,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","f6e2c7",34,0.19,0.96,91,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","f4dfc9",31,0.18,0.96,90,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","f9ecc5",45,0.21,0.98,94,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","f9ebcd",41,0.18,0.98,94,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","f3e2ce",32,0.15,0.95,91,3
+"Beauty Bakerie","bb","#1 CAKE MIX","cm","f5e8d7",34,0.12,0.96,93,3
+"Black Up","bu","Matifying Fluid","mf","eed1b5",29,0.24,0.93,86,3
+"Black Up","bu","Matifying Fluid","mf","daaa80",28,0.41,0.85,73,3
+"Black Up","bu","Matifying Fluid","mf","d7a778",30,0.44,0.84,72,3
+"Black Up","bu","Matifying Fluid","mf","dfa46f",28,0.5,0.87,72,3
+"Black Up","bu","Matifying Fluid","mf","d28f66",23,0.51,0.82,66,3
+"Black Up","bu","Matifying Fluid","mf","ad6d41",24,0.62,0.68,52,3
+"Black Up","bu","Matifying Fluid","mf","c98c60",25,0.52,0.79,64,3
+"Black Up","bu","Matifying Fluid","mf","bf7a43",27,0.65,0.75,58,3
+"Black Up","bu","Matifying Fluid","mf","ac734c",24,0.56,0.67,54,3
+"Black Up","bu","Matifying Fluid","mf","b97245",23,0.63,0.73,55,3
+"Black Up","bu","Matifying Fluid","mf","a0522c",20,0.73,0.63,44,3
+"Black Up","bu","Matifying Fluid","mf","9e5a35",21,0.66,0.62,46,3
+"Black Up","bu","Matifying Fluid","mf","97472e",14,0.7,0.59,41,3
+"Black Up","bu","Matifying Fluid","mf","7e3e2a",14,0.67,0.49,34,3
+"Black Up","bu","Matifying Fluid","mf","7b3625",12,0.7,0.48,32,3
+"Black Up","bu","Matifying Fluid","mf","653129",8,0.59,0.4,27,3
+"Black Up","bu","Matifying Fluid","mf","3b2218",17,0.59,0.23,16,3
+"Black Up","bu","Matifying Fluid","mf","352315",26,0.6,0.21,16,3
+"Black Opal","bo","True Color","tc","b77d57",24,0.52,0.72,65,3
+"Black Opal","bo","True Color","tc","bc835b",25,0.52,0.74,60,3
+"Black Opal","bo","True Color","tc","b67753",22,0.54,0.71,56,3
+"Black Opal","bo","True Color","tc","b77d53",25,0.55,0.72,58,3
+"Black Opal","bo","True Color","tc","7b4e34",22,0.58,0.48,38,3
+"Black Opal","bo","True Color","tc","7a523a",23,0.52,0.48,39,3
+"Black Opal","bo","True Color","tc","71412d",18,0.6,0.44,33,3
+"Black Opal","bo","True Color","tc","81523e",18,0.52,0.51,40,3
+"Black Opal","bo","True Color","tc","6a4338",13,0.47,0.42,33,3
+"Black Opal","bo","True Color","tc","543022",17,0.6,0.33,24,3
+"Black Opal","bo","True Color","tc","5d3e2e",20,0.51,0.36,30,3
+"Black Opal","bo","True Color","tc","4c2e22",17,0.55,0.3,23,3
+"Laws of Nature","ln","Foxy Finish","ff","a66c4b",22,0.55,0.65,51,3
+"Laws of Nature","ln","Foxy Finish","ff","bb8f7f",16,0.32,0.73,63,3
+"Laws of Nature","ln","Foxy Finish","ff","dfb9af",12,0.22,0.87,78,3
+"Laws of Nature","ln","Foxy Finish","ff","b7743c",27,0.67,0.72,55,3
+"Laws of Nature","ln","Foxy Finish","ff","924829",18,0.72,0.57,40,3
+"Laws of Nature","ln","Foxy Finish","ff","a37452",25,0.5,0.64,53,3
+"Laws of Nature","ln","Foxy Finish","ff","6c4529",25,0.62,0.42,33,3
+"Laws of Nature","ln","Foxy Finish","ff","321407",18,0.86,0.2,11,3
+"Laws of Nature","ln","Foxy Finish","ff","cc9d72",29,0.44,0.8,68,3
+"Laws of Nature","ln","Foxy Finish","ff","a66c49",23,0.56,0.65,51,3
+"Laws of Nature","ln","Foxy Finish","ff","be784d",23,0.59,0.75,57,3
+"Laws of Nature","ln","Foxy Finish","ff","592d24",10,0.6,0.35,24,3
+"Laws of Nature","ln","Foxy Finish","ff","b68e6f",26,0.39,0.71,62,3
+"Laws of Nature","ln","Foxy Finish","ff","b19277",28,0.33,0.69,63,3
+"Laws of Nature","ln","Foxy Finish","ff","a3724a",27,0.55,0.64,53,3
+"Laws of Nature","ln","Foxy Finish","ff","742b13",15,0.84,0.45,29,3
+"Laws of Nature","ln","Foxy Finish","ff","deb399",23,0.31,0.87,76,3
+"Lancôme","lc","Teint Idole","ti","fdece4",19,0.1,0.99,95,4
+"Lancôme","lc","Teint Idole","ti","f4d1ab",31,0.3,0.96,86,4
+"Lancôme","lc","Teint Idole","ti","eec1a0",25,0.33,0.93,82,4
+"Lancôme","lc","Teint Idole","ti","eac398",31,0.35,0.92,81,4
+"Lancôme","lc","Teint Idole","ti","e9be9e",26,0.32,0.91,80,4
+"Lancôme","lc","Teint Idole","ti","deba96",30,0.32,0.87,78,4
+"Lancôme","lc","Teint Idole","ti","dcb190",26,0.35,0.86,76,4
+"Lancôme","lc","Teint Idole","ti","ddb391",27,0.34,0.87,76,4
+"Lancôme","lc","Teint Idole","ti","e4ba8c",31,0.39,0.89,78,4
+"Lancôme","lc","Teint Idole","ti","e2b78f",29,0.37,0.89,78,4
+"Lancôme","lc","Teint Idole","ti","e5b189",26,0.4,0.9,76,4
+"Lancôme","lc","Teint Idole","ti","f3c796",32,0.38,0.95,83,4
+"Lancôme","lc","Teint Idole","ti","f3bf90",28,0.41,0.95,81,4
+"Lancôme","lc","Teint Idole","ti","e1af8c",25,0.38,0.88,76,4
+"Lancôme","lc","Teint Idole","ti","ddb184",30,0.4,0.87,75,4
+"Lancôme","lc","Teint Idole","ti","dca77d",27,0.43,0.86,73,4
+"Lancôme","lc","Teint Idole","ti","d6a77d",28,0.42,0.84,72,4
+"Lancôme","lc","Teint Idole","ti","d7a17f",23,0.41,0.84,71,4
+"Lancôme","lc","Teint Idole","ti","d7a17d",24,0.42,0.84,71,4
+"Lancôme","lc","Teint Idole","ti","dda876",29,0.47,0.87,73,4
+"Lancôme","lc","Teint Idole","ti","e39f72",24,0.5,0.89,72,4
+"Lancôme","lc","Teint Idole","ti","cf9162",26,0.53,0.81,66,4
+"Lancôme","lc","Teint Idole","ti","e0a16b",28,0.52,0.88,72,4
+"Lancôme","lc","Teint Idole","ti","d0975d",30,0.55,0.82,67,4
+"Lancôme","lc","Teint Idole","ti","d29e6d",29,0.48,0.82,69,4
+"Lancôme","lc","Teint Idole","ti","c9925e",29,0.53,0.79,65,4
+"Lancôme","lc","Teint Idole","ti","ce8c5c",25,0.55,0.81,64,4
+"Lancôme","lc","Teint Idole","ti","bb7e44",29,0.64,0.73,58,4
+"Lancôme","lc","Teint Idole","ti","ce9163",26,0.52,0.81,66,4
+"Lancôme","lc","Teint Idole","ti","bd7f56",24,0.54,0.74,59,4
+"Lancôme","lc","Teint Idole","ti","935427",25,0.73,0.58,43,4
+"Lancôme","lc","Teint Idole","ti","bc7c56",22,0.54,0.74,58,4
+"Lancôme","lc","Teint Idole","ti","aa6941",23,0.62,0.67,51,4
+"Lancôme","lc","Teint Idole","ti","9b5e41",19,0.58,0.61,46,4
+"Lancôme","lc","Teint Idole","ti","8a4d30",19,0.65,0.54,40,4
+"Lancôme","lc","Teint Idole","ti","7b3c11",24,0.86,0.48,33,4
+"Lancôme","lc","Teint Idole","ti","703e23",21,0.69,0.44,32,4
+"Lancôme","lc","Teint Idole","ti","502716",18,0.73,0.31,21,4
+"Lancôme","lc","Teint Idole","ti","7c3f2c",14,0.65,0.49,34,4
+"Lancôme","lc","Teint Idole","ti","391b11",15,0.7,0.22,14,4
+"MAC","ma","Studio Fix","sff","d8b593",30,0.32,0.85,76,4
+"MAC","ma","Studio Fix","sff","fbbe91",25,0.42,0.98,82,4
+"MAC","ma","Studio Fix","sff","d2ae88",31,0.35,0.82,74,4
+"MAC","ma","Studio Fix","sff","d0a87f",30,0.39,0.82,72,4
+"MAC","ma","Studio Fix","sff","d79051",28,0.62,0.84,66,4
+"MAC","ma","Studio Fix","sff","ffdbc2",25,0.24,1,90,4
+"MAC","ma","Studio Fix","sff","ffc9a9",22,0.34,1,85,4
+"MAC","ma","Studio Fix","sff","ffd7b4",28,0.29,1,89,4
+"MAC","ma","Studio Fix","sff","dfc7a8",34,0.25,0.87,82,4
+"MAC","ma","Studio Fix","sff","dabc96",34,0.31,0.85,78,4
+"MAC","ma","Studio Fix","sff","d9b88f",33,0.34,0.85,77,4
+"MAC","ma","Studio Fix","sff","d4b588",36,0.36,0.83,76,4
+"MAC","ma","Studio Fix","sff","d0ae84",33,0.37,0.82,73,4
+"MAC","ma","Studio Fix","sff","d3b18a",32,0.35,0.83,75,4
+"MAC","ma","Studio Fix","sff","d1ac7f",33,0.39,0.82,73,4
+"MAC","ma","Studio Fix","sff","d0a97b",32,0.41,0.82,72,4
+"MAC","ma","Studio Fix","sff","c9a177",31,0.41,0.79,69,4
+"MAC","ma","Studio Fix","sff","c5986d",29,0.45,0.77,66,4
+"MAC","ma","Studio Fix","sff","d5844b",25,0.65,0.84,63,4
+"MAC","ma","Studio Fix","sff","db864d",24,0.65,0.86,64,4
+"MAC","ma","Studio Fix","sff","b5855a",28,0.5,0.71,60,4
+"MAC","ma","Studio Fix","sff","b38456",30,0.52,0.7,59,4
+"MAC","ma","Studio Fix","sff","e5d1be",29,0.17,0.9,85,4
+"MAC","ma","Studio Fix","sff","e0c8ae",31,0.22,0.88,82,4
+"MAC","ma","Studio Fix","sff","e0c1a2",30,0.28,0.88,80,4
+"MAC","ma","Studio Fix","sff","dcbca2",27,0.26,0.86,79,4
+"MAC","ma","Studio Fix","sff","dbbc9f",29,0.27,0.86,78,4
+"MAC","ma","Studio Fix","sff","d9b28d",29,0.35,0.85,75,4
+"MAC","ma","Studio Fix","sff","d5b293",28,0.31,0.84,75,4
+"MAC","ma","Studio Fix","sff","d5ad89",28,0.36,0.84,74,4
+"MAC","ma","Studio Fix","sff","d1a88a",25,0.34,0.82,72,4
+"MAC","ma","Studio Fix","sff","cfa67d",30,0.4,0.81,71,4
+"MAC","ma","Studio Fix","sff","cba275",31,0.42,0.8,70,4
+"MAC","ma","Studio Fix","sff","c39368",28,0.47,0.76,65,4
+"MAC","ma","Studio Fix","sff","b28050",29,0.55,0.7,58,4
+"MAC","ma","Studio Fix","sff","b9855a",27,0.51,0.73,60,4
+"MAC","ma","Studio Fix","sff","b27949",27,0.59,0.7,56,4
+"MAC","ma","Studio Fix","sff","ae7a50",27,0.54,0.68,56,4
+"MAC","ma","Studio Fix","sff","a77246",27,0.58,0.65,53,4
+"MAC","ma","Studio Fix","sff","a0714d",26,0.52,0.63,52,4
+"MAC","ma","Studio Fix","sff","a9734e",24,0.54,0.66,54,4
+"MAC","ma","Studio Fix","sff","724a32",23,0.56,0.45,36,4
+"Bobbi Brown","br","Skin Long-Wear","slw","f5e0c8",32,0.18,0.96,90,4
+"Bobbi Brown","br","Skin Long-Wear","slw","efcfaf",30,0.27,0.94,85,4
+"Bobbi Brown","br","Skin Long-Wear","slw","e8bca4",21,0.29,0.91,80,4
+"Bobbi Brown","br","Skin Long-Wear","slw","e5bc92",30,0.36,0.9,79,4
+"Bobbi Brown","br","Skin Long-Wear","slw","debe97",33,0.32,0.87,79,4
+"Bobbi Brown","br","Skin Long-Wear","slw","e9c9aa",30,0.27,0.91,83,4
+"Bobbi Brown","br","Skin Long-Wear","slw","eac49f",30,0.32,0.92,82,4
+"Bobbi Brown","br","Skin Long-Wear","slw","ecc3a1",27,0.32,0.93,82,4
+"Bobbi Brown","br","Skin Long-Wear","slw","e2b996",28,0.34,0.89,78,4
+"Bobbi Brown","br","Skin Long-Wear","slw","d29e7b",24,0.41,0.82,70,4
+"Bobbi Brown","br","Skin Long-Wear","slw","d9a779",29,0.44,0.85,72,4
+"Bobbi Brown","br","Skin Long-Wear","slw","d6a075",27,0.45,0.84,70,4
+"Bobbi Brown","br","Skin Long-Wear","slw","d3996f",25,0.47,0.83,68,4
+"Bobbi Brown","br","Skin Long-Wear","slw","d7a770",32,0.48,0.84,72,4
+"Bobbi Brown","br","Skin Long-Wear","slw","ca8f63",26,0.51,0.79,65,4
+"Bobbi Brown","br","Skin Long-Wear","slw","d29d71",27,0.46,0.82,69,4
+"Bobbi Brown","br","Skin Long-Wear","slw","d09059",28,0.57,0.82,65,4
+"Bobbi Brown","br","Skin Long-Wear","slw","ca9450",33,0.6,0.79,66,4
+"Bobbi Brown","br","Skin Long-Wear","slw","cc9357",31,0.57,0.8,66,4
+"Bobbi Brown","br","Skin Long-Wear","slw","b27c3b",33,0.67,0.7,57,4
+"Bobbi Brown","br","Skin Long-Wear","slw","a86829",30,0.76,0.66,50,4
+"Bobbi Brown","br","Skin Long-Wear","slw","b87840",28,0.65,0.72,57,4
+"Bobbi Brown","br","Skin Long-Wear","slw","9a4e28",20,0.74,0.6,42,4
+"Bobbi Brown","br","Skin Long-Wear","slw","81562f",29,0.64,0.51,41,4
+"Bobbi Brown","br","Skin Long-Wear","slw","aa6a2f",29,0.72,0.67,51,4
+"Bobbi Brown","br","Skin Long-Wear","slw","9b5127",22,0.75,0.61,43,4
+"Bobbi Brown","br","Skin Long-Wear","slw","7e462d",19,0.64,0.49,36,4
+"Bobbi Brown","br","Skin Long-Wear","slw","8e4922",22,0.76,0.56,39,4
+"Bobbi Brown","br","Skin Long-Wear","slw","7b2800",20,1,0.48,29,4
+"Bobbi Brown","br","Skin Long-Wear","slw","623726",17,0.61,0.38,28,4
+"Make Up For Ever","mu","Ultra HD","uhd","f9e3d5",23,0.14,0.98,92,1
+"Make Up For Ever","mu","Ultra HD","uhd","f6d2bb",23,0.24,0.96,87,1
+"Make Up For Ever","mu","Ultra HD","uhd","f9d5c3",20,0.22,0.98,88,1
+"Make Up For Ever","mu","Ultra HD","uhd","f7c3b3",14,0.28,0.97,83,1
+"Make Up For Ever","mu","Ultra HD","uhd","deccaf",37,0.21,0.87,83,1
+"Make Up For Ever","mu","Ultra HD","uhd","e1c2a8",27,0.25,0.88,81,1
+"Make Up For Ever","mu","Ultra HD","uhd","efd2b8",28,0.23,0.94,86,1
+"Make Up For Ever","mu","Ultra HD","uhd","f7bcb7",5,0.26,0.97,82,1
+"Make Up For Ever","mu","Ultra HD","uhd","ebcab0",26,0.25,0.92,84,1
+"Make Up For Ever","mu","Ultra HD","uhd","eac1ac",20,0.26,0.92,81,1
+"Make Up For Ever","mu","Ultra HD","uhd","e8c6a3",30,0.3,0.91,82,1
+"Make Up For Ever","mu","Ultra HD","uhd","f2ccb7",21,0.24,0.95,85,1
+"Make Up For Ever","mu","Ultra HD","uhd","dca795",15,0.32,0.86,73,1
+"Make Up For Ever","mu","Ultra HD","uhd","e4bd9c",27,0.32,0.89,79,1
+"Make Up For Ever","mu","Ultra HD","uhd","daad90",24,0.34,0.85,74,1
+"Make Up For Ever","mu","Ultra HD","uhd","d8ab8b",25,0.36,0.85,74,1
+"Make Up For Ever","mu","Ultra HD","uhd","ddb395",25,0.33,0.87,76,1
+"Make Up For Ever","mu","Ultra HD","uhd","e3b391",25,0.36,0.89,77,1
+"Make Up For Ever","mu","Ultra HD","uhd","e3b296",22,0.34,0.89,77,1
+"Make Up For Ever","mu","Ultra HD","uhd","dcb59c",23,0.29,0.86,77,1
+"Make Up For Ever","mu","Ultra HD","uhd","d79e89",16,0.36,0.84,70,1
+"Make Up For Ever","mu","Ultra HD","uhd","d9a586",22,0.38,0.85,72,1
+"Make Up For Ever","mu","Ultra HD","uhd","d19578",20,0.43,0.82,67,1
+"Make Up For Ever","mu","Ultra HD","uhd","e7b391",24,0.37,0.91,77,1
+"Make Up For Ever","mu","Ultra HD","uhd","d4a689",23,0.35,0.83,72,1
+"Make Up For Ever","mu","Ultra HD","uhd","d69b81",18,0.4,0.84,69,1
+"Make Up For Ever","mu","Ultra HD","uhd","d59682",14,0.39,0.84,68,1
+"Make Up For Ever","mu","Ultra HD","uhd","c99980",21,0.36,0.79,67,1
+"Make Up For Ever","mu","Ultra HD","uhd","c98567",18,0.49,0.79,62,1
+"Make Up For Ever","mu","Ultra HD","uhd","c7977b",22,0.38,0.78,67,1
+"Make Up For Ever","mu","Ultra HD","uhd","be8470",15,0.41,0.75,61,1
+"Make Up For Ever","mu","Ultra HD","uhd","c78569",18,0.47,0.78,62,1
+"Make Up For Ever","mu","Ultra HD","uhd","b68069",18,0.42,0.71,59,1
+"Make Up For Ever","mu","Ultra HD","uhd","b17862",17,0.45,0.69,56,1
+"Make Up For Ever","mu","Ultra HD","uhd","996754",17,0.45,0.6,49,1
+"Make Up For Ever","mu","Ultra HD","uhd","9c624a",18,0.53,0.61,48,1
+"Make Up For Ever","mu","Ultra HD","uhd","8e5642",16,0.54,0.56,43,1
+"Make Up For Ever","mu","Ultra HD","uhd","784a42",9,0.45,0.47,37,1
+"Make Up For Ever","mu","Ultra HD","uhd","895852",7,0.4,0.54,43,1
+"Make Up For Ever","mu","Ultra HD","uhd","644136",14,0.46,0.39,31,1
+"Hegai and Ester","he","Photo Perfect","pp","f6a762",28,0.6,0.96,75,5
+"Hegai and Ester","he","Photo Perfect","pp","d76b4c",13,0.65,0.84,58,5
+"Hegai and Ester","he","Photo Perfect","pp","ad543d",12,0.65,0.68,47,5
+"Hegai and Ester","he","Photo Perfect","pp","c86835",21,0.74,0.78,55,5
+"Hegai and Ester","he","Photo Perfect","pp","904134",8,0.64,0.56,38,5
+"Hegai and Ester","he","Photo Perfect","pp","92524e",4,0.47,0.57,43,5
+"Hegai and Ester","he","Photo Perfect","pp","bf6b44",19,0.64,0.75,55,5
+"Hegai and Ester","he","Photo Perfect","pp","915831",24,0.66,0.57,43,5
+"Hegai and Ester","he","Photo Perfect","pp","ea8944",25,0.71,0.92,67,5
+"Hegai and Ester","he","Photo Perfect","pp","eebb7a",34,0.49,0.93,80,5
+"House of Tara","ht","Oil Free","off","ae7748",28,0.59,0.68,55,5
+"House of Tara","ht","Oil Free","off","b68358",27,0.52,0.71,59,5
+"House of Tara","ht","Oil Free","off","a77546",29,0.58,0.65,54,5
+"House of Tara","ht","Oil Free","off","a36c3b",28,0.64,0.64,51,5
+"House of Tara","ht","Oil Free","off","89562c",27,0.68,0.54,42,5
+"House of Tara","ht","Oil Free","off","9a572c",23,0.71,0.6,44,5
+"House of Tara","ht","Oil Free","off","904d2e",19,0.68,0.56,41,5
+"House of Tara","ht","Oil Free","off","783f23",20,0.71,0.47,34,5
+"House of Tara","ht","Oil Free","off","75391c",20,0.76,0.46,32,5
+"House of Tara","ht","Oil Free","off","602d18",18,0.75,0.38,25,5
+"House of Tara","ht","Oil Free","off","5b2717",14,0.75,0.36,23,5
+"Trim & Prissy","tp","Flawless Finish","fff","e2ac7c",28,0.45,0.89,75,5
+"Trim & Prissy","tp","Flawless Finish","fff","b17e4f",29,0.55,0.69,57,5
+"Trim & Prissy","tp","Flawless Finish","fff","8c5b3d",23,0.56,0.55,44,5
+"Trim & Prissy","tp","Flawless Finish","fff","b0704d",21,0.56,0.69,54,5
+"Trim & Prissy","tp","Flawless Finish","fff","d89757",30,0.6,0.85,68,5
+"Trim & Prissy","tp","Flawless Finish","fff","c48b58",28,0.55,0.77,63,5
+"Trim & Prissy","tp","Hi - Def","hdf","fcd1a7",30,0.34,0.99,87,5
+"Trim & Prissy","tp","Hi - Def","hdf","e2ac7c",28,0.45,0.89,75,5
+"Trim & Prissy","tp","Hi - Def","hdf","b17e51",28,0.54,0.69,57,5
+"Trim & Prissy","tp","Hi - Def","hdf","9d6d49",26,0.54,0.62,51,5
+"Trim & Prissy","tp","Hi - Def","hdf","b0704d",21,0.56,0.69,54,5
+"Trim & Prissy","tp","Hi - Def","hdf","8c5b3d",23,0.56,0.55,44,5
+"Trim & Prissy","tp","Hi - Def","hdf","795340",20,0.47,0.47,39,5
+"Elsas Pro","ep","Full Coverage","fcf","815d51",15,0.37,0.51,43,5
+"Elsas Pro","ep","Full Coverage","fcf","845949",16,0.45,0.52,42,5
+"Elsas Pro","ep","Full Coverage","fcf","8b614b",21,0.46,0.55,45,5
+"Elsas Pro","ep","Full Coverage","fcf","906656",17,0.4,0.56,47,5
+"Elsas Pro","ep","Full Coverage","fcf","774c43",10,0.44,0.47,37,5
+"Elsas Pro","ep","Full Coverage","fcf","734b41",12,0.43,0.45,36,5
+"Elsas Pro","ep","Full Coverage","fcf","88614d",20,0.43,0.53,45,5
+"Elsas Pro","ep","Full Coverage","fcf","ba8261",22,0.48,0.73,60,5
+"Elsas Pro","ep","Full Coverage","fcf","d9ab88",26,0.37,0.85,74,5
+"Elsas Pro","ep","Full Coverage","fcf","d49a74",24,0.45,0.83,69,5
+"Elsas Pro","ep","Full Coverage","fcf","cf8a60",23,0.54,0.81,64,5
+"Kuddy","ku","Matte Wear","mwf","c78660",22,0.52,0.78,62,5
+"Kuddy","ku","Matte Wear","mwf","e0a260",31,0.57,0.88,72,5
+"Kuddy","ku","Matte Wear","mwf","cc8b65",22,0.5,0.8,64,5
+"Kuddy","ku","Matte Wear","mwf","c78660",22,0.52,0.78,62,5
+"Kuddy","ku","Matte Wear","mwf","b2724f",21,0.56,0.7,54,5
+"RMK","rmk","RMK Liquid","lf","fcdba8",36,0.33,0.99,89,6
+"RMK","rmk","RMK Liquid","lf","fbd099",34,0.39,0.98,86,6
+"RMK","rmk","RMK Liquid","lf","f7be87",29,0.45,0.97,81,6
+"RMK","rmk","RMK Liquid","lf","f0a762",29,0.59,0.94,75,6
+"RMK","rmk","RMK Liquid","lf","e8a463",29,0.57,0.91,73,6
+"RMK","rmk","RMK Liquid","lf","fddcbb",30,0.26,0.99,90,6
+"RMK","rmk","RMK Liquid","lf","f9c89f",27,0.36,0.98,84,6
+"RMK","rmk","RMK Liquid","lf","f3c095",27,0.39,0.95,82,6
+"RMK","rmk","RMK Liquid","lf","c17663",12,0.49,0.76,58,6
+"Addiction","ad","The Foundation","tf","ffdcbe",28,0.25,1,90,6
+"Addiction","ad","The Foundation","tf","ffd8b9",27,0.27,1,89,6
+"Addiction","ad","The Foundation","tf","fdd5b4",27,0.29,0.99,88,6
+"Addiction","ad","The Foundation","tf","fdcfad",25,0.32,0.99,87,6
+"Addiction","ad","The Foundation","tf","fdcba6",26,0.34,0.99,85,6
+"Addiction","ad","The Foundation","tf","fcc59e",25,0.37,0.99,84,6
+"Addiction","ad","The Foundation","tf","f8bf88",29,0.45,0.97,82,6
+"Addiction","ad","The Foundation","tf","f3bc86",30,0.45,0.95,80,6
+"Addiction","ad","The Foundation","tf","eab17a",29,0.48,0.92,77,6
+"Addiction","ad","The Foundation","tf","e9b079",29,0.48,0.91,76,6
+"Addiction","ad","The Foundation","tf","dfaa76",30,0.47,0.87,74,6
+"Addiction","ad","The Foundation","tf","dda376",26,0.47,0.87,72,6
+"Addiction","ad","The Foundation","tf","daa272",28,0.48,0.85,71,6
+"Addiction","ad","The Foundation","tf","db9e70",26,0.49,0.86,70,6
+"Addiction","ad","The Foundation","tf","d69668",25,0.51,0.84,68,6
+"Addiction","ad","The Foundation","tf","c38355",25,0.56,0.76,61,6
+"Addiction","ad","The Foundation","tf","c37f4e",25,0.6,0.76,60,6
+"Shu Uemera","su","Petal Skin Fluid","psf","e9a986",21,0.42,0.91,75,6
+"Shu Uemera","su","Petal Skin Fluid","psf","fac6a1",25,0.36,0.98,84,6
+"Shu Uemera","su","Petal Skin Fluid","psf","c99e76",29,0.41,0.79,68,6
+"Shu Uemera","su","Petal Skin Fluid","psf","e0aa7c",28,0.45,0.88,74,6
+"Shu Uemera","su","Petal Skin Fluid","psf","ebc095",30,0.37,0.92,81,6
+"Shu Uemera","su","Petal Skin Fluid","psf","f9dabd",29,0.24,0.98,89,6
+"Shu Uemera","su","Petal Skin Fluid","psf","af8749",36,0.58,0.69,59,6
+"Shu Uemera","su","Petal Skin Fluid","psf","c89a5e",34,0.53,0.78,67,6
+"Shu Uemera","su","Petal Skin Fluid","psf","dbab6d",34,0.5,0.86,73,6
+"Shu Uemera","su","Petal Skin Fluid","psf","e5bf81",37,0.44,0.9,80,6
+"Shu Uemera","su","Petal Skin Fluid","psf","f4d6a4",37,0.33,0.96,87,6
+"Shiseido","sh","Synchro Skin","ss","edb899",22,0.35,0.93,79,6
+"Shiseido","sh","Synchro Skin","ss","e8b193",21,0.37,0.91,77,6
+"Shiseido","sh","Synchro Skin","ss","ebb68c",27,0.4,0.92,78,6
+"Shiseido","sh","Synchro Skin","ss","e9b085",26,0.43,0.91,76,6
+"Shiseido","sh","Synchro Skin","ss","d69e7b",23,0.43,0.84,70,6
+"Shiseido","sh","Synchro Skin","ss","cb9068",24,0.49,0.8,65,6
+"Kate","ka","Secret Skin Maker Zero","ssm","f7d5bb",26,0.24,0.97,88,6
+"Kate","ka","Secret Skin Maker Zero","ssm","e8b793",25,0.37,0.91,78,6
+"Kate","ka","Secret Skin Maker Zero","ssm","dca67e",26,0.43,0.86,73,6
+"Kate","ka","Secret Skin Maker Zero","ssm","ebbd88",32,0.42,0.92,80,6
+"Kate","ka","Secret Skin Maker Zero","ssm","d19c72",27,0.45,0.82,69,6
+"Kate","ka","Secret Skin Maker Zero","ssm","c28660",23,0.51,0.76,61,6
+"IPSA","ip","Liquid Foundation","lf","edc69f",30,0.33,0.93,83,6
+"IPSA","ip","Liquid Foundation","lf","efc9a5",29,0.31,0.94,84,6
+"IPSA","ip","Liquid Foundation","lf","ecbb9a",24,0.35,0.93,80,6
+"IPSA","ip","Liquid Foundation","lf","e9b494",23,0.36,0.91,78,6
+"IPSA","ip","Liquid Foundation","lf","e7aa8d",19,0.39,0.91,75,6
+"IPSA","ip","Liquid Foundation","lf","edc0a3",24,0.31,0.93,81,6
+"Dior","di","Diorskin Forever","df","e6c6ad",26,0.25,0.9,82,6
+"Dior","di","Diorskin Forever","df","e7cbac",32,0.26,0.91,83,6
+"Dior","di","Diorskin Forever","df","edc8af",24,0.26,0.93,83,6
+"Dior","di","Diorskin Forever","df","e2bda2",25,0.28,0.89,79,6
+"Dior","di","Diorskin Forever","df","e4bf9a",30,0.32,0.89,80,6
+"Dior","di","Diorskin Forever","df","d7a98a",24,0.36,0.84,73,6
+"NARS","na","Velvet Matte","vm","fad8a7",35,0.33,0.98,88,6
+"NARS","na","Velvet Matte","vm","efbf99",27,0.36,0.94,81,6
+"NARS","na","Velvet Matte","vm","f6d0a1",33,0.35,0.96,86,6
+"NARS","na","Velvet Matte","vm","ecb98c",28,0.41,0.93,79,6
+"NARS","na","Velvet Matte","vm","e7ab74",29,0.5,0.91,75,6
+"NARS","na","Velvet Matte","vm","e6b685",30,0.42,0.9,78,6
+"NARS","na","Velvet Matte","vm","dd9e6d",26,0.51,0.87,71,6
+"NARS","na","Velvet Matte","vm","e4aa7c",27,0.46,0.89,74,6
+"NARS","na","Velvet Matte","vm","dfa575",27,0.48,0.87,73,6
+"NARS","na","Velvet Matte","vm","da9b5a",30,0.59,0.85,69,6
+"NARS","na","Velvet Matte","vm","e4a36a",28,0.54,0.89,72,6
+"NARS","na","Velvet Matte","vm","ca8a55",27,0.58,0.79,63,6
+"NARS","na","Velvet Matte","vm","ce8440",29,0.69,0.81,62,6
+"Lakmé","la","Invisible Finish","if","c39d76",30,0.39,0.76,68,7
+"Lakmé","la","Invisible Finish","if","bc8b63",27,0.47,0.74,62,7
+"Lakmé","la","Invisible Finish","if","c88f72",20,0.43,0.78,65,7
+"Lakmé","la","Invisible Finish","if","deaf91",23,0.35,0.87,75,7
+"Colorbar","cb","Perfect Match","pm","cd9d77",27,0.42,0.8,69,7
+"Colorbar","cb","Perfect Match","pm","ecc3a5",25,0.3,0.93,82,7
+"Colorbar","cb","Perfect Match","pm","e5ae87",25,0.41,0.9,76,7
+"Bharat & Doris","bd","Liquid Foundation","lf","d7ac7a",32,0.43,0.84,73,7
+"Bharat & Doris","bd","Liquid Foundation","lf","d7b182",33,0.4,0.84,75,7
+"Bharat & Doris","bd","Liquid Foundation","lf","ce9c6a",30,0.49,0.81,68,7
+"Bharat & Doris","bd","Liquid Foundation","lf","eec693",34,0.38,0.93,83,7
+"Bharat & Doris","bd","Liquid Foundation","lf","d7c499",42,0.29,0.84,80,7
+"Bharat & Doris","bd","Liquid Foundation","lf","e3b385",29,0.41,0.89,77,7
+"Bharat & Doris","bd","Liquid Foundation","lf","cba167",35,0.49,0.8,69,7
+"Olivia","ol","Foundation","fo","eb893e",26,0.74,0.92,67,7
+"Olivia","ol","Foundation","fo","ef9a5a",26,0.62,0.94,72,7
+"Olivia","ol","Foundation","fo","d0803b",28,0.72,0.82,61,7
+"Olivia","ol","Foundation","fo","b76f47",21,0.61,0.72,54,7
+"Blue Heaven","bh","X Factor","xf","ebb08a",24,0.41,0.92,77,7
+"Blue Heaven","bh","X Factor","xf","e8b684",30,0.43,0.91,78,7
+"Lotus Herbals","lh","Make-Up Ecostay","mue","eec1a2",24,0.32,0.93,82,7
+"Lotus Herbals","lh","Make-Up Ecostay","mue","b7a597",26,0.17,0.72,69,7
+"Lotus Herbals","lh","Make-Up Ecostay","mue","f0c092",29,0.39,0.94,81,7
+"Lotus Herbals","lh","Make-Up Ecostay","mue","d0985f",30,0.54,0.82,67,7
+"Nykaa","ny","SKINgenius","sg","cb9070",21,0.45,0.8,65,7
+"Nykaa","ny","SKINgenius","sg","dfab86",25,0.4,0.87,74,7
+"Nykaa","ny","SKINgenius","sg","d19676",21,0.44,0.82,67,7
+"Nykaa","ny","SKINgenius","sg","d4ac93",23,0.31,0.83,74,7
+"Nykaa","ny","SKINgenius","sg","ebc7af",24,0.26,0.92,83,7
+"Maybelline","mb","Fit Me Matte","fmm","f7d1bc",21,0.24,0.97,87,7
+"Maybelline","mb","Fit Me Matte","fmm","f3b989",27,0.44,0.95,80,7
+"Maybelline","mb","Fit Me Matte","fmm","f0ba81",31,0.46,0.94,80,7
+"Maybelline","mb","Fit Me Matte","fmm","ebba8a",30,0.41,0.92,79,7
+"Maybelline","mb","Fit Me Matte","fmm","d69c74",24,0.46,0.84,69,7
+"Maybelline","mb","Fit Me Matte","fmm","f9d0b0",26,0.29,0.98,86,7
+"Maybelline","mb","Fit Me Matte","fmm","fbd5bd",23,0.25,0.98,86,7
+"Maybelline","mb","Fit Me Matte","fmm","e7b9a2",20,0.3,0.91,79,7
+"Maybelline","mb","Fit Me Matte","fmm","dcb297",23,0.31,0.86,76,7
+"Maybelline","mb","Fit Me Matte","fmm","e6b898",25,0.34,0.9,78,7
+"Maybelline","mb","Fit Me Matte","fmm","ebbf93",30,0.37,0.92,81,7
+"Maybelline","mb","Fit Me Matte","fmm","efb793",23,0.38,0.94,79,7
+"Maybelline","mb","Fit Me Matte","fmm","ebba8a",30,0.41,0.92,79,7
+"Maybelline","mb","Fit Me Matte","fmm","f3b27d",27,0.49,0.95,78,7
+"L'Oréal","lo","True Match","tms","693720",19,0.7,0.41,29,7
+"L'Oréal","lo","True Match","tms","b07555",21,0.52,0.69,55,7
+"L'Oréal","lo","True Match","tms","bc6d4e",17,0.59,0.74,55,7
+"L'Oréal","lo","True Match","tms","c29979",26,0.38,0.76,67,7
+"L'Oréal","lo","True Match","tms","ddb496",25,0.32,0.87,76,7
+"L'Oréal","lo","True Match","tms","eebfa3",22,0.32,0.93,81,7
+"L'Oréal","lo","True Match","tms","e7cbb5",26,0.22,0.91,84,7
+"L'Oréal","lo","True Match","tms","dcb29a",22,0.3,0.86,76,7
+"L'Oréal","lo","True Match","tms","f0c7b3",20,0.25,0.94,83,7
+"L'Oréal","lo","True Match","tms","eecfba",24,0.22,0.93,85,7
+"L'Oréal","lo","True Match","tms","e8c7b8",19,0.21,0.91,83,7
+"L'Oréal","lo","True Match","tms","f0cbb9",20,0.23,0.94,85,7
+"L'Oréal","lo","True Match","tms","e9c4b1",20,0.24,0.91,82,7
+"L'Oréal","lo","True Match","tms","eabea1",24,0.31,0.92,80,7
