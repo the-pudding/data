@@ -1,4 +1,4 @@
-This folder contains all of the data used in The Pudding essay [Let's Talk About Birth Control](https://pudding.cool/2018/07/birth_control/) published in July 2018.
+This folder contains all of the data and R scripts used in The Pudding essay [Let's Talk About Birth Control](https://pudding.cool/2018/07/birth_control/) published in July 2018.
 
 Below you'll find metadata for each file.
 
@@ -6,7 +6,7 @@ Below you'll find metadata for each file.
 
 **Contains**
 * `allData.csv`: The data described below.
-* `allData.R`: The script used to collect the data from the CDC’s [National Survey of Family Growth](https://www.cdc.gov/nchs/nsfg/index.htm) website and process it using the provided `.sas.txt` files. This script was written in
+* `allData.R`: The script used to collect the data from the CDC’s [National Survey of Family Growth](https://www.cdc.gov/nchs/nsfg/index.htm) website and process it using the provided `.sas.txt` files. This script was written in the R programming language. All details describing the R session environment during processing are available [here](#R-Session-Info).
 * `2006_2010_FemRespSetup.sas.txt` : The install instructions for the 2006 - 2010 questionnaire (the 2011 - 2013 and 2013 - 2015 ones can be accessed via the internet).
 
 > The `.csv` file contained in this zipped folder is 23.4 mb.
@@ -87,6 +87,120 @@ Below you'll find metadata for each file.
 | `CONSTAT1`- `CONSTAT4` | Current contraceptive status. [Codebook](https://www.icpsr.umich.edu/icpsradmin/nsfg/variable/819075?studyNumber=9999). | number |
 | `yearRange` | Which survey was administered to this respondent? <br/>&bull; `0610` = 2006 - 2010<br/>&bull; `1113` = 2011 - 2013<br/>&bull; `1315` = 2013 - 2015 | number |
 
+
+## everUsed.csv & everUsed.R
+
+* `everUsed.csv`: The data described below.
+* `everUsed.R`: The script used to process `allData.csv` (from `allData.zip`) to create `everUsed.csv`. The data was then used for the graphics in the section of [Let's Talk About Birth Control](https://pudding.cool/2018/07/birth_control/) labelled "Condoms and The Pill Are Go-To's". This script was written in the R programming language. All details describing the R session environment during processing are available [here](#R-Session-Info).
+
+
+
+- 	**What is this?**: Data representing the types of contraception that respondents of the CDC's National Survey of Family Growth have ever used in their lifetime.
+-   **Source(s) & Methodology**: All data was acquired in the same way as [allData.zip](#allData.zip). It was processed using the scripts in `everUsed.R`. Percentages were calculated out of 20,759 respondents.
+-   **Last Modified**: July 12, 2018
+-   **Contact Information**: [Amber Thomas](mailto:amber@polygraph.cool)
+-   **Spatial Applicability**: United States (nationally representative data)
+-   **Temporal Applicability**: 2006 - 2015
+-   **Observations (Rows)**: Each row represents a single contraceptive type.
+-   **Variables (Columns)**:
+
+| Header | Description | Data Type |
+|---|---|---|
+| `cleanMethod` | The name of the contraceptive method used by the respondent. Categories not listed below are named as expected (e.g., the code for condoms is `CONDOM`).<br/>&bull; `DEPOPROV` = Depo-Provera or Injectables<br/>&bull; `MORNPILL` = Emergency Contraception<br/>&bull; `SDAYCBDS` = Standard Days or Calendar Method<br/>&bull; `STRLOPER` = Tubal Ligation<br/>&bull; `TEMPSAFE` = Sympto-thermal method<br/>&bull; `VASECTMY` = Vasectomy<br/>&bull; `WIDRAWAL` = Withdrawal | string |
+| `count` | Total number of respondents that have ever used this type of contraception. | number |
+| `percent` | The percentage of 20,759 respondents that have used a particular type of contraception. Data is presented as a whole number between 0 and 100. | number |
+
+## firstTime.csv & firstTime.R
+
+* `firstTime.csv`: The data described below
+* `firstTime.R`: The script used to process `allData.csv` (from `allData.zip`) to create `firstTime.csv`. The data was used to create the graphics in the section of [Let's Talk About Birth Control](https://pudding.cool/2018/07/birth_control/) labelled "It Feels Like the First Time". This script was written in the R programming language. All details describing the R session environment during processing are available [here](#R-Session-Info).
+
+
+- 	**What is this?**: Data representing the first type of contraception a person used grouped by the decade in which they first started using contraception.
+-   **Source(s) & Methodology**: All data was acquired in the same way as [allData.zip](#allData.zip). It was processed using the scripts in `firstTime.R`. Percentages were calculated out of the number of respondents that started using contraception in a given decade.
+-   **Last Modified**: July 12, 2018
+-   **Contact Information**: [Amber Thomas](mailto:amber@polygraph.cool)
+-   **Spatial Applicability**: United States (nationally representative data)
+-   **Temporal Applicability**: 2006 - 2015
+-   **Observations (Rows)**: Each row represents a single contraceptive type and decade combination.
+-   **Variables (Columns)**:
+
+| Header | Description | Data Type |
+|---|---|---|
+| `method` | A number representing the method of use. [Codebook here](https://www.icpsr.umich.edu/icpsradmin/nsfg/variable/817323?studyNumber=9999). | number |
+| `decade` | The decade during which a respondent first began using contraception. This is represented as `70's`, `80's` etc.| string |
+| `percent` | The percentage of respondents that used the same type of birth control first during a specific decade. This was calculated as the `number of people who first used birth control type A during decade X / total number of people who started using contraception in decade X`.| number |
+
+## overTime.csv & overTime.R
+
+* `overTime.csv`: The data described below
+* `overTime.R`: The script used to process `allData.csv` (from `allData.zip`) to create `overTime.csv`. The data was used to create the graphics in the section of [Let's Talk About Birth Control](https://pudding.cool/2018/07/birth_control/) labelled "Different Age, Different Method". This script was written in the R programming language. All details describing the R session environment during processing are available [here](#R-Session-Info).
+
+
+- 	**What is this?**: Data representing the first type of contraception a person used grouped by their age.
+-   **Source(s) & Methodology**: All data was acquired in the same way as [allData.zip](#allData.zip). It was processed using the scripts in `overTime.R`.
+-   **Last Modified**: July 12, 2018
+-   **Contact Information**: [Amber Thomas](mailto:amber@polygraph.cool)
+-   **Spatial Applicability**: United States (nationally representative data)
+-   **Temporal Applicability**: 2006 - 2015
+-   **Observations (Rows)**: Each row represents a single contraceptive type and age combination.
+-   **Variables (Columns)**:
+
+| Header | Description | Data Type |
+|---|---|---|
+| `method` | A number representing the method of use. [Codebook here](https://www.icpsr.umich.edu/icpsradmin/nsfg/variable/819075?studyNumber=9999). | number |
+| `methodR` | The number of respondents of a specific age that are currently using a certain method| number |
+| `total` | The total number of respondents that are currently a specific age.| number |
+| `percent` | The percentage of respondents of a certain age using a specific method. This was calculated as the `number of people using a method at a given age / total number of people currently that age`. | number |
+| `calcAge` | Respondent's age (in years). | number |
+
+
+## multipleMethods.csv & multipleMethods.R
+
+* `multipleMethods.csv`: The data described below
+* `multipleMethods.R`: The script used to process `allData.csv` (from `allData.zip`) to create `multipleMethods.csv`. The data was used to create the graphics in the section of [Let's Talk About Birth Control](https://pudding.cool/2018/07/birth_control/) labelled "Double Bag It". This script was written in the R programming language. All details describing the R session environment during processing are available [here](#R-Session-Info).
+
+
+- 	**What is this?**: Data representing the combinations of birth control methods used by respondents over a 4 year timespan.
+-   **Source(s) & Methodology**: All data was acquired in the same way as [allData.zip](#allData.zip). It was processed using the scripts in `multipleMethods.R`.
+-   **Last Modified**: July 12, 2018
+-   **Contact Information**: [Amber Thomas](mailto:amber@polygraph.cool)
+-   **Spatial Applicability**: United States (nationally representative data)
+-   **Temporal Applicability**: 2006 - 2015
+-   **Observations (Rows)**: Each row represents a single contraceptive type combination.
+-   **Variables (Columns)**:
+
+| Header | Description | Data Type |
+|---|---|---|
+| `m1` | A number representing the first method of use. [Codebook here](https://www.icpsr.umich.edu/icpsradmin/nsfg/variable/817482?studyNumber=9999). | number |
+| `m2` | A number representing the second method of use. [Codebook here](https://www.icpsr.umich.edu/icpsradmin/nsfg/variable/817482?studyNumber=9999).| number |
+| `uniqueR` | The number of unique respondents that have used a specific combination of methods at least once simultaneously.| number |
+
+## sideEffects.csv & sideEffects.R
+
+* `sideEffects.csv`: The data described below
+* `sideEffects.R`: The script used to process `allData.csv` (from `allData.zip`) to create `sideEffects.csv`. The data was used to create the graphics in the section of [Let's Talk About Birth Control](https://pudding.cool/2018/07/birth_control/) labelled "Side Effects are a Deal Breaker". This script was written in the R programming language. All details describing the R session environment during processing are available [here](#R-Session-Info).
+
+
+- 	**What is this?**: Data representing the types of side effects that respondents listed as reasons for stopping Depo-Provera, Pill, IUD, and condom use.
+-   **Source(s) & Methodology**: All data was acquired in the same way as [allData.zip](#allData.zip). It was processed using the scripts in `sideEffects.R`.
+-   **Last Modified**: July 12, 2018
+-   **Contact Information**: [Amber Thomas](mailto:amber@polygraph.cool)
+-   **Spatial Applicability**: United States (nationally representative data)
+-   **Temporal Applicability**: 2006 - 2015
+-   **Observations (Rows)**: Each row represents a single contraceptive type combination.
+-   **Variables (Columns)**:
+
+| Header | Description | Data Type |
+|---|---|---|
+| `stopMethod` | The method that has been stopped by the respondent. | string |
+| `reason` | A number representing the reason that the method was stopped. There is a different codebook for each type. They are available here: <br/>&bull; [Condom Codebook - General](https://www.icpsr.umich.edu/icpsradmin/nsfg/variable/817289?vg=10307&studyNumber=9999)<br/>&bull; [Condom Codebook - Specific](https://www.icpsr.umich.edu/icpsradmin/nsfg/variable/817296?studyNumber=9999)<br/>&bull; [IUD Codebook - General](https://www.icpsr.umich.edu/icpsradmin/nsfg/variable/817313?studyNumber=9999)<br/>&bull; [IUD Codebook - Specific](https://www.icpsr.umich.edu/icpsradmin/nsfg/variable/817318?studyNumber=9999)<br/>&bull; [Pill Codebook - General](https://www.icpsr.umich.edu/icpsradmin/nsfg/variable/817277?studyNumber=9999)</br>&bull; [Pill Codebook - Specific](https://www.icpsr.umich.edu/icpsradmin/nsfg/variable/817283?studyNumber=9999)</br>&bull; [Depo-Provera Codebook - General](https://www.icpsr.umich.edu/icpsradmin/nsfg/variable/817298?studyNumber=9999)</br>&bull; [Depo-Provera Codebook - Specific](https://www.icpsr.umich.edu/icpsradmin/nsfg/variable/817306?studyNumber=9999)| number |
+| `total` | The total number of unique respondents that reported a side effect. | number |
+| `percent` | The percentage of respondents that reported a specific side effect. This was calculated as `number of people that experienced a stopped using a method due to a specific side effect/ total number of people that stopped using that method for some reason`. Represented as a number from 0 to 100 with one decimal place. | number |
+| `type` | The CDC reports two types of reasons for discontinued use: a general reason and a specific reason. If a respondent selects that they stopped using a method due to `side effects` or `other` in the general response, they are asked to give a more specific reason for discontinuing. The general and specific responses are labelled accordingly and coincide with the general and specific codebooks labeled in the `reason` variable above. | string |
+
+## analysis.Rmd & analysis.html
+These files contain the full, mostly un-edited version of my preliminary and final analyses for this project. Some of the analyses did not make it into the final project. To view the code and preliminary figures, check out the `.html` file instead of the `.Rmd` file.
 
 ## R Session Info
   ### Session info

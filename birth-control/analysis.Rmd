@@ -1,0 +1,1155 @@
+---
+title: "Data Collection"
+author: Amber Thomas
+date: April 26, 2018
+output:
+  html_document:
+    collapsed: FALSE
+    theme: cosmo
+    toc: yes
+    toc_float: yes
+    toc_depth: 2
+    df_print: paged
+---
+```{css echo = FALSE}
+pre code, pre, code {
+  white-space: pre !important;
+  overflow-y: scroll !important;
+  max-height: 25vh !important;
+}
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Background
+
+This project exists to explore the use of various types of contraceptives by women and people with female-assigned reproductive systems in the United States. 
+
+### Questions
+
+Here are a few of the questions that I may try to answer while investigating this dataset: 
+
+* What are the most commonly used types of contraception? 
+* How often do users switch from one type to another? 
+* If users switch, what do they switch from/to? 
+* What types of side effects did people experience? 
+* Does sex ed/cost of contraception affect what types people are using? 
+
+
+### Data Source(s)
+
+All data from this project is collected by the Centers for Disease Control and Prevention (CDC) through the National Survey of Family Growth (NSFG). Surveys of this nature have been conducted since 1973 and originally only involved female respondents. After 2002, this survey consists of both a "Male" and "Female" survey, but for the purposes of this topic, I will only focus on the "Female" survey.
+
+More information on the survey methods are available [here](https://www.cdc.gov/nchs/nsfg/about_nsfg.htm). 
+
+Since I am primarily interested on the questions pertaining to contraceptive use, I will reduce each of the large data files to only the questions I am interested in. 
+
+## Loading Necessary Packages
+```{r message = FALSE}
+## For folder structure
+library(here)
+library(ezknitr)
+
+## For data import/cleaning
+library(tidyverse)
+library(SAScii)
+library(purrr)
+library(rlang)
+library(forcats)
+
+## For graphing
+library(igraph)
+library(RColorBrewer)
+library(viridis)
+```
+
+## Importing data
+While I can download the original data sources to my machine, they appear to be quite large, so I will instead access them directly from the CDC website. These files are in `.dat` format, and have SAS script that describes how to import the data. Luckily, the `SAScii` package exists to combine SAS scripts and `.dat` files and import them into an R environment.  
+
+### 2013 - 2015
+```{r eval = FALSE}
+data_1315 <- read.SAScii(
+  fn = "ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NSFG/2013_2015_FemRespData.dat",
+  sas_ri = "ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NSFG/sas/2013_2015_FemRespSetup.sas"
+)
+```
+
+```{r eval = FALSE, echo = FALSE}
+saveRDS(data_1315, here("raw_data", "data_1315.rds"))
+```
+
+```{r echo = FALSE}
+data_1315 <- readRDS(here("raw_data", "data_1315.rds"))
+```
+
+
+Looks like the data has 5699 observations (rows), each one representing a single respondent and 3207 variables (columns), each one representing a single question. I don't need all of that data, so I can now reduce the data to include only the columns of interest. The codebook for questions can be found [here](https://www.cdc.gov/nchs/data/nsfg/NSFG_2013-2015_UG_App1a_FemRespFile_Index.pdf). The codebook for responses can be found [here](https://www.icpsr.umich.edu/icpsradmin/nsfg/dataset?number=1&studyNumber=9999). 
+
+Here are the ones I'll be keeping: 
+
+* **CASEID**: Respondent ID Number
+* **AGE_R**: Respondent's age at interview
+* **MARSTAT**: Respondent's marital status
+* **PREGNOWQ**: Whether respondent is currently pregnant
+* **RHADSEX**: Whether respondent has ever had sex (heterosexual vaginal intercourse)
+* **SEDBC**: Formal Sex Ed Before 18: Methods of Birth Control
+* **SEDSTD**: Formal Sex Ed Before 18: STD
+* **SEDABST**: Formal Sex Ed Before 18: Waiting Until Marriage *Not available in 0610 data*
+* **LIFEPRTS**: Number of Male Sexual Partners in Lifetime
+* **HYST**: Respondent is surgically sterile at interview due to hysterectomy
+* **OVAREM**: Respondent is surgically sterile at interview due to ovary removal *Not available in 0610 data*
+* **OTHR**: Respondent is surgically sterile at interview due to other female operation
+* **VASECT**: Respondent's husband/partner is currently sterile from vasectomy
+* **POSIBLPG**: Physically possible for Respondent to have a baby
+* **POSIBLMN**: Physically possible for Respondents current husband/partner to father a baby
+* **PILL**: EA-1 Respondent ever used birth contorl pills? 
+* **CONDOM**: EA-2 Respondent ever used condoms? 
+* **VASECTMY**: EA-3 Respondent ever used partner's vasectomy? 
+* **DEPOPROV**: EA-4 Respondent ever used Depo-Provera, injectables?
+* **WIDRAWAL**: EA-5 Respondent ever used withdrawal?
+* **RHYTHM**: EA-7 Respondent ever used calendar rhythm method? 
+* **SDAYCBDS**: EA-7b Respondent ever used Standard Days or CycleBeads method? *Not available in 0610 or 1113 data*
+* **TEMPSAFE**: EA-8 Respondent ever used symptothermal method? 
+* **PATCH**: EA-9 Respondent ever used contraceptive patch? 
+* **RING**: EA-10 Respondent ever used vaginal contraceptive ring or "NuvaRing"?
+* **MORNPILL**: EA-11 Respondent ever used emergency contraception? 
+* **ECTIMESX**: EA-12 Number of times Respondent used emergency contraception
+* **EVERUSED**: Respondent ever used any type of contraception? (computed)
+* **EVIUDTYP1**: EA-15a Types of IUD ever used - 1st mention
+* **EVIUDTYP2**: EA-15a Types of IUD ever used - 2nd mention
+* **METHSTOP01 - METHSTOP10**: EA-17 Method stopped using due to dissatisfaction - 1st through 10th method
+* **STOPPILL1 - STOPPILL6**: Computed open-ended response to reason(s) for discontinuation of the pill - 1st through 6th mention
+* **STOPCOND1 - STOPCOND2**: Computed open-ended response to reason(s) for discontinuation of the condom - 1st and 2nd mention
+* **STOPDEPO1 - STOPDEPO2**: Computed open-ended response to reason(s) for discontinuation of Depo Provera - 1st and 2nd mention
+* **TYPEIUD_1 - TYPEIUD_2**: Type of IUD that was continued due to dissatisfaction - 1st and 2nd mention
+* **STOPIUD1 - STOPIUD5**: Computed open-ended response to reason(s) for discontinuation of IUD - 1st through 5th mention
+* **REASPILL01 - REASPILL06**: Reason not satisfied with the pill - 1st through 6th mention
+* **REASCOND01 - REASCOND07**: Reason not satisfied with the condom - 1st through 7th mention
+* **REASDEPO01 - REASDEPO08**: Reason not satisfied with Depo-Provera - 1st through 8th mention
+* **REASIUD01 - REASIUD05**: Reason not satisfied with IUD - 1st through 5th mention
+* **WHYNOUSING1 - WHYNOUSING5**: Reason not using birth control (at risk of unintended pregnancy) - 1st through 5th mention
+* **FIRSMETH1 - FIRSMETH4**: First method ever used - 1st through 4th mention
+* **YUSEPILL1 - YUSEPILL7**: Reasons for recent pill use - 1st through 7th mention
+* **JINTEND**: Respondent and husband/partner intend to have a/another baby some time? 
+* **JSUREINT**: How sure respondent and husband/partner will/will not have another baby? 
+* **INTEND**: Respondent intends to have a/another baby some time? 
+* **SUREINT**: How sure Respondent will/will not have a/another baby? 
+* **REACTSLF**: How respondent would feel if she got pregnant now
+* **LESSPLSR**: Chance respondent would feel less physical pleasure if partner used a condom
+* **EMBARRAS**: Chance condom discussion would embarrass respondent & partner
+* **ORIENT**: Respondent's sexual orientation *Not available in 0610 data*
+* **CONFCONC**: Not go for sexual or reproductive health care because your parents might find out *Not available in 0610 or 1113 data*
+* **BTHCON12**: Recieved method birth control/prescription in the last 12 months
+* **MEDTST12**: Received checkup for birth control last 12 months
+* **BC12PAYX7 - BC12PAYX9**: Way bill was paid - method birth control/prescription - 1st through 4th methods
+* **BC12PAYX10 - BC12PAYX16**: Way bill was paid - check up for birth control - 1st through 4th methods
+* **BC12PAYX19 - BC12PAYX22**: Way bill was paid - counseling about birth control - 1st through 4th methods
+* **STRLOPER**: Type of sterlization operation "in effect" at time of interview
+
+## Cleaning Data
+
+I'll create a character vector of all of the column names that don't have repeats so that I can trim to just the columns that I need. Any of the column names that have numeric repeats (e.g., `METHSTOP01`, `METHSTOP02`) can be specified using the `num_range()` function inside of `select()` from `dplyr`.
+```{r}
+general_ques <- c("CASEID", "AGE_R", "MARSTAT", "PREGNOWQ", "RHADSEX", "SEDBC", "SEDSTD", "SEDABST", "LIFEPRTS", "HYST", "OVAREM", "OTHR", "VASECT", "POSIBLPG", "POSIBLMN", "PILL", "CONDOM", "VASECTMY", "DEPOPROV", "WIDRAWAL", "RHYTHM", "SDAYCBDS", "TEMPSAFE", "PATCH", "RING", "MORNPILL", "ECTIMESX", "EVERUSED", "JINTEND", "JSUREINT", "INTEND", "JSUREINT", "INTEND", "SUREINT", "REACTSLF", "LESSPLSR", "EMBARRAS", "ORIENT", "CONFCONC", "BTHCON12", "MEDTST12", "WNFSTUSE_Y", "STRLOPER")
+```
+
+```{r eval = FALSE}
+general_data_1315 <- data_1315 %>% 
+  select(one_of(general_ques), 
+         num_range("EVIUDTYP", 1:2), 
+         num_range("METHSTOP", 1:10), 
+         num_range("STOPPILL", 1:6), 
+         num_range("STOPCOND", 1:2), 
+         num_range("STOPDEPO", 1:2),
+         num_range("TYPEIUD_", 1:2),
+         num_range("STOPIUD", 1:5),
+         num_range("WHYNOUSING", 1:5),
+         num_range("YUSEPILL", 1:7),
+         num_range("BC12PAYX", 7:22),
+         num_range("FIRSMETH", 1:4), 
+         num_range("REASPILL0", 1:6),
+         num_range("REASCOND0", 1:7),
+         num_range("REASDEPO0", 1:8),
+         num_range("REASIUD0", 1:5),
+  )
+```
+
+```{r eval = FALSE, echo = FALSE}
+saveRDS(general_data_1315, here("processed_data", "general_data_1315.rds"))
+```
+
+```{r echo = FALSE}
+general_data_1315 <- readRDS(here("processed_data", "general_data_1315.rds"))
+```
+
+
+---
+
+I also want a secondary data frame that just looks at the methods used monthly over the course of four years. 
+
+These are all labeled as **METHX1** through **METHX192**. 
+
+This one doesn't need a character vector. 
+
+```{r}
+switch_data_1315 <- data_1315 %>% 
+  select(num_range("METHX", 1:192), c("CASEID", "EVERUSED"))
+
+startMonth <- seq(from = 1, to = 192, by = 4)
+endMonth <- seq(from = 4, to = 192, by = 4)
+months <- as.data.frame(cbind(startMonth, endMonth))
+
+switch_sub <- head(switch_data_1315, n = 15)
+
+test <- switch_sub %>% 
+  unite(jan4, sort(as.numeric(months$startMonth[1]:months$endMonth[1])), sep = ",") %>% 
+  select(jan4) %>% 
+  mutate(jan4 = str_replace_all(jan4, ",NA", ""))
+```
+
+```{r}
+condenseUsage <- function(monthNum){
+  monthName <- paste0("month_", monthNum)
+  
+  df <- switch_data_1315 %>% 
+    unite(!!monthName, sort(as.numeric(months$startMonth[monthNum]:months$endMonth[monthNum])), sep = ",") %>% 
+    select(c(!!monthName)) #%>% 
+   # mutate(!!monthName := str_replace_all(!!monthName, "_NA", ""))
+}
+```
+
+```{r echo = FALSE, eval = FALSE}
+switch_subID <- switch_sub %>% 
+  select(c("CASEID", "EVERUSED"))
+
+monthNumbers <- c(1:5)
+
+testusage <- condenseUsage(3)
+testMap <- map_dfc(monthNumbers, condenseUsage) %>% 
+  mutate_all(funs(str_replace_all(., ",NA", ""))) #%>% 
+  #cbind(switch_subID)
+
+```
+
+
+```{r}
+monthNumbers <- c(1:48)
+
+sub <- switch_data_1315 %>% 
+  select(c("CASEID", "EVERUSED"))
+
+usageMap <- map_dfc(monthNumbers, condenseUsage) %>% 
+  mutate_all(funs(str_replace_all(., ",NA", ""))) %>% 
+  cbind(sub) %>% 
+  select(c("CASEID", "EVERUSED"), month_1:month_48) %>% 
+  gather(month, value = "method", month_1:month_48) %>% 
+  mutate(month = gsub("month_", "", month)) %>% 
+  group_by(CASEID, method) %>% 
+  summarise(count = n()) %>% 
+  mutate(prev = lag(method))
+```
+
+
+## Adding more data
+So far, so good. Looks like we've got some pretty workable methods for cleaning the data we'll need, but I want to look at more than just 2013 - 2015. The CDC has data going back to the 70's, but for now, let's just go back to 2006  
+
+### Finding links for all data sources
+```{r eval = FALSE}
+dataURL_0610 <- "ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NSFG/2006_2010_FemResp.dat"
+codeURL_0610 <- here("raw_data", "2006_2010_FemRespSetup.sas.txt")
+dataURL_1113 <- "ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NSFG/2011_2013_FemRespData.dat"
+codeURL_1113 <- "ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NSFG/sas/2011_2013_FemRespSetup.sas"
+dataURL_1315 <- "ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NSFG/2013_2015_FemRespData.dat"
+codeURL_1315 <- "ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NSFG/sas/2013_2015_FemRespSetup.sas"
+
+data_0610 <- read.SAScii(
+  fn = dataURL_0610,
+  sas_ri = codeURL_0610
+)
+
+data_1113 <- read.SAScii(
+  fn = dataURL_1113,
+  sas_ri = codeURL_1113
+)
+```
+
+```{r eval = FALSE, echo = FALSE}
+saveRDS(data_0610, here("raw_data", "data_0610.rds"))
+saveRDS(data_1113, here("raw_data", "data_1113.rds"))
+```
+
+```{r echo = FALSE}
+data_0610 <- readRDS(here("raw_data", "data_0610.rds"))
+data_1113 <- readRDS(here("raw_data", "data_1113.rds"))
+```
+
+We'll create a small function based on our experience of cleaning the 2013 - 2015 data that loops through all of these. 
+
+
+```{r}
+cleanData<- function(data, years){
+
+  filteredData <- data %>%
+    select(one_of(general_ques),
+         num_range("EVIUDTYP", 1:2), 
+         num_range("METHSTOP", 1:10), 
+         num_range("STOPPILL", 1:6), 
+         num_range("STOPCOND", 1:2), 
+         num_range("STOPDEPO", 1:2),
+         num_range("TYPEIUD_", 1:2),
+         num_range("STOPIUD", 1:5),
+         num_range("WHYNOUSING", 1:5),
+         num_range("YUSEPILL", 1:7),
+         num_range("BC12PAYX", 7:22),
+         num_range("FIRSMETH", 1:4), 
+         num_range("REASPILL0", 1:6),
+         num_range("REASCOND0", 1:7),
+         num_range("REASDEPO0", 1:8),
+         num_range("REASIUD0", 1:5), 
+         num_range("METHX", 1:192),
+         num_range("SIMSEQX", 1:48),
+         num_range("LSTMTHP", 1:4),
+         num_range("CONSTAT", 1:4)
+      ) %>%
+      mutate(yearRange = years)
+}
+```
+
+```{r eval = FALSE}
+general_ques <- c("CASEID", "AGE_R", "MARSTAT", "PREGNOWQ", "RHADSEX", "SEDBC", "SEDSTD", "SEDABST", "LIFEPRTS", "HYST", "OVAREM", "OTHR", "VASECT", "POSIBLPG", "POSIBLMN", "PILL", "CONDOM", "VASECTMY", "DEPOPROV", "WIDRAWAL", "RHYTHM", "SDAYCBDS", "TEMPSAFE", "PATCH", "RING", "MORNPILL", "ECTIMESX", "EVERUSED", "JINTEND", "JSUREINT", "INTEND", "JSUREINT", "INTEND", "SUREINT", "REACTSLF", "LESSPLSR", "EMBARRAS", "ORIENT", "CONFCONC", "BTHCON12", "MEDTST12", "WNFSTUSE_Y", "STRLOPER")
+
+clean_0610 <- cleanData(data_0610, "0610")
+clean_1113 <- cleanData(data_1113, "1113")
+clean_1315 <- cleanData(data_1315, "1315")
+
+allData <- bind_rows(clean_0610, clean_1113, clean_1315)
+```
+
+```{r eval = FALSE, echo = FALSE}
+saveRDS(allData, here("raw_data", "data_0615.rds"))
+
+write.csv(allData, here("open_data", "allData.csv"), row.names = FALSE)
+```
+
+```{r echo = FALSE}
+allData <- readRDS(here("raw_data", "data_0615.rds"))
+```
+
+Alright, so we've got 23,579 responses with 278 variables. There are a few variables missing for early years, but we'll see what we can do. 
+
+## Exploring Data
+Let's start trying to answer some simple questions. 
+
+### First Time
+What was the respondent's primary contraceptive method during their first time? 
+
+```{r}
+firstTime <- allData %>% 
+  filter(EVERUSED == 1) %>% 
+  select(FIRSMETH1) %>% 
+  group_by(FIRSMETH1) %>% 
+  summarise(count = n())
+```
+
+Mostly condoms and birth control pills. Has this changed based on the year that the respondent first started using that method? 
+
+```{r}
+firstTimeYear <- allData %>% 
+  filter(EVERUSED == 1) %>% 
+  select(c("FIRSMETH1", "WNFSTUSE_Y")) %>% 
+  mutate(decade = case_when(
+    WNFSTUSE_Y < 1980 ~ "70's",
+    between(WNFSTUSE_Y, 1980, 1989) ~ "80's",
+    between(WNFSTUSE_Y, 1990, 1999) ~ "90's",
+    between(WNFSTUSE_Y, 2000, 2009) ~ "00's",
+    WNFSTUSE_Y >= 2010 ~ "10's"
+  )) %>% 
+  group_by(decade) %>% 
+  mutate(total = n()) %>% 
+  group_by(FIRSMETH1, decade, total) %>% 
+  summarise(count = n()) %>% 
+  mutate(percent = (count / total) * 100) %>% 
+  na.omit() %>% 
+  mutate(percent = round(percent, 1)) %>% 
+  rename(method = FIRSMETH1) %>% 
+  select(method, decade, percent) %>% 
+  ungroup() %>% 
+  group_by(method) %>% 
+  mutate(decade = factor(decade, levels = c("70's", "80's", "90's", "00's", "10's")), decade) %>% 
+  arrange(decade) %>% 
+  ungroup()
+
+## Export data to csv for graphing
+write.csv(firstTimeYear, "../../src/assets/data/firstTime.csv", row.names = FALSE)
+
+firstTimeYearPlot <- ggplot(firstTimeYear, aes(x = decade, y = percent, group = as.factor(method), color = as.factor(method))) +
+  geom_line()
+
+firstTimeYearPlot
+
+ggsave(here("plots", "firstTimeYear.svg"), firstTimeYearPlot, device = "svg", width = 10, height = 5)
+```
+
+
+
+### Types of Contraception
+First let's look at the breakdown of the types of birth control that respondents have ever used. 
+
+```{r}
+# Find percentage of respondents that have ever used contraceptives
+allData %>% 
+  group_by(EVERUSED) %>% 
+  summarise(count = n(),
+        percent = count / nrow(allData)) %>% 
+  mutate(EVERUSED = ifelse(EVERUSED == 1, "Yes", 
+                           ifelse(EVERUSED == 5, "No", NA)))
+```
+Alright, so 88% of respondents have used some form of contraception. Let's limit our sample to just those 20,759 people. 
+
+```{r}
+possibleTypes <- c("CONDOM", "VASECTMY", "DEPOPROV", "WIDRAWAL", "RHYTHM", "SDAYCBDS", "TEMPSAFE", "PATCH", "PILL", "RING", "MORNPILL", "EVIUDTYP1", "EVIUDTYP2", "STRLOPER")
+
+IUDTypes <- c(1, 2, 3, 9)
+IUDMethods <- c("EVIUDTYP1", "EVIUDTYP2")
+tubalMethods <- "STRLOPER"
+
+`%not_in%` <- negate(`%in%`)
+
+typeUsed <- allData %>% 
+  filter(EVERUSED == 1) %>% 
+  select(one_of(possibleTypes)) %>% 
+  gather(method, usage) %>% 
+  mutate(usage = case_when(
+    method %in% IUDMethods & (usage %in% IUDTypes) ~ "Yes",
+    method %in% IUDMethods & usage %not_in% IUDTypes ~ "No",
+    method %in% tubalMethods & usage == 1 ~ "Yes",
+    method %in% tubalMethods & usage > 1 ~ "No",
+    method %not_in% IUDMethods & method %not_in% tubalMethods & usage == 1 ~ "Yes",
+    method %not_in% IUDMethods & method %not_in% tubalMethods & usage == 5 ~ "No",
+    method %not_in% IUDMethods & method %not_in% tubalMethods & usage != 1 & usage != 5 ~ "NA"
+  )) %>% 
+  # mutate(usage = ifelse(usage == 1, "Yes", 
+  #                          ifelse(usage == 5, "No", NA))) %>% 
+  filter(!usage == "NA") %>% 
+  mutate(cleanMethod = ifelse(method == "EVIUDTYP1" | method == "EVIUDTYP2", "IUD", method)) %>% 
+  group_by(cleanMethod, usage) %>% 
+  summarise(count = n(),
+            percent = (count / 20759) * 100) 
+
+# Looking at only the positive responses
+onlyPos <- typeUsed %>% 
+  filter(usage == "Yes") %>% 
+  mutate(percent = round(percent, 0))
+
+# Export the positive responses to csv for use in JS
+write.csv(onlyPos, "../../src/assets/data/everused.csv", row.names = FALSE)
+
+typeUsed
+```
+
+So, 92% of respondents have used condoms,  79% have used the pill, 27% have used Depo-Provera (Injectable), 3% have used an IUD, 16% have used the morning-after pill (emergency contraception), 12% have used the patch, 16% have used their biological rhythm, 8.5% have used a contraceptive ring (Nuva Ring), 3% (of the people surveyed in 2013 - 2015) have used the calendar method, 3% have used their body temperature, 10% have used their partner's vasectomy, and 60% have used withdrawal. 
+
+Does the contraception type change with age? 
+
+```{r}
+typeAge <-  allData %>% 
+  filter(EVERUSED == 1) %>% 
+  select(one_of(possibleTypes), AGE_R) %>% 
+  gather(method, usage, -AGE_R) %>% 
+  mutate(usage = case_when(
+    method %in% IUDMethods & (usage %in% IUDTypes) ~ "Yes",
+    method %in% IUDMethods & usage %not_in% IUDTypes ~ "No",
+    method %not_in% IUDMethods & usage == 1 ~ "Yes",
+    method %not_in% IUDMethods & usage == 5 ~ "No",
+    method %not_in% IUDMethods & usage != 1 & usage != 5 ~ "NA"
+  )) %>% 
+  filter(usage == "Yes" & method != "EVIUDTYP2") %>% 
+  group_by(AGE_R) %>% 
+  mutate(total = n()) %>% 
+  group_by(AGE_R, method, total) %>% 
+  summarise(count = n()) %>% 
+  mutate(percent = (count / total) * 100)
+
+ageUseGraph <- ggplot(typeAge, aes(x = AGE_R, y = percent, group = method, color = method)) + geom_line()
+
+ggsave(here("plots", "ageUse.svg"), ageUseGraph, device = "svg", width = 10, height = 7)
+```
+
+
+How many different types of contraceptive have respondents used? 
+
+```{r}
+not_one_of <- negate(one_of)
+
+specialRecode <- c("CONDOM", "VASECTMY", "DEPOPROV", "WIDRAWAL", "RHYTHM", "SDAYCBDS", "TEMPSAFE", "PATCH", "PILL", "RING", "MORNPILL")
+
+recodeVal <- function(x){
+  if(x != 1) 0
+}
+
+typeCount <- allData %>% 
+  filter(EVERUSED == 1) %>% 
+  select(CASEID, AGE_R, one_of(possibleTypes)) %>% 
+  mutate_at(.vars = vars(one_of(specialRecode)), 
+            funs(ifelse(. != 1, 0, .))) %>% 
+  mutate_at(.vars = vars(one_of(IUDMethods)),
+            funs(ifelse(is.na(.), 0, 1))) %>% 
+  mutate(total = rowSums(.[3:15], na.rm = TRUE))
+
+typeCount %>% summarise(mean(total))
+```
+
+
+On average, respondents have used 3.3 different types of birth control. 
+
+---
+Does this change with age? 
+
+```{r}
+ageCount <- typeCount %>% 
+  group_by(AGE_R) %>% 
+  summarise(average = mean(total),
+            count = n())
+
+ggplot(ageCount, aes(x = AGE_R, y = average)) + geom_point()
+```
+
+
+Young respondents haven't had much experience with different types of birth control, while people in their mid-20's have reached their peak number of birth control types. Maybe they've settled on what works for them?
+
+---
+### Switching Methods
+
+How long are particular types of birth control used (on average) and how often do users switch between them? 
+
+To get at this, we need to access the `METHX` columns of our dataset. 
+
+```{r}
+monthNumbers <- c(1:48)
+
+startMonth <- seq(from = 1, to = 192, by = 4)
+endMonth <- seq(from = 4, to = 192, by = 4)
+months <- as.data.frame(cbind(startMonth, endMonth))
+
+fullSwitch <- allData %>% 
+  select(num_range("METHX", 1:192), c("EVERUSED", "CASEID")) %>% 
+  filter(EVERUSED == 1) %>% 
+  select(-EVERUSED)
+  
+idsOnly <- fullSwitch %>% 
+  select("CASEID")
+
+methodsOnly <- fullSwitch %>% 
+  select(-CASEID)
+
+condenseAll <- function(monthNum){
+  monthName <- paste0("month_", monthNum)
+  
+  df <- methodsOnly %>% 
+    unite(!!monthName, sort(as.numeric(months$startMonth[monthNum]:months$endMonth[monthNum])), sep = ",") %>% 
+    select(c(!!monthName)) 
+}
+
+partUsage <- map_dfc(monthNumbers, condenseAll) %>% 
+  mutate_all(funs(str_replace_all(., ",NA", ""))) %>% 
+  cbind(idsOnly) %>% 
+  select("CASEID", month_1:month_48) %>% 
+  gather(month, value = "method", month_1:month_48) %>% 
+  mutate(month = gsub("month_", "", month))
+
+# Keep only months where the respondent used multiple methods at the same time
+sameTime <- allData %>% 
+  select(num_range("SIMSEQX", 1:48), CASEID) %>% 
+  gather(month, value = "time", SIMSEQX1:SIMSEQX48) %>% 
+  mutate(month = gsub("SIMSEQX", "", month))
+
+usageTime <- partUsage %>%
+  left_join(sameTime, by = c("CASEID", "month")) %>% 
+  filter(time == 1)
+
+usageMap <- usageTime %>% 
+  group_by(CASEID, method) %>% 
+  summarise(count = n()) %>% 
+  mutate(prev = lag(method))
+```
+
+How many different combinations are there? 
+```{r}
+levels(as.factor(usageMap$method))
+```
+Alright, so there are just over 300 combinations. 
+
+```{r echo = FALSE, eval = FALSE}
+singleMethods <- usageMap %>% 
+  filter(!str_detect(method, ","),
+         !method == "NA") %>% 
+  group_by(method) %>% 
+  summarise(min = min(count),
+            max = max(count), 
+            iqr = IQR(count),
+            mean = mean(count), 
+            median = median(count)) %>% 
+  mutate(methodWords = case_when(
+    method == 1 ~ "No method",
+    method == 3 ~ "Birth control pills",
+    method == 4 ~ "Condom",
+    method == 5 ~ "Partner's Vasectomy",
+    method == 6 ~ "Female Sterlization",
+    method == 7 ~ "Withdrawal", 
+    method == 8 ~ "Depo-Provera", 
+    method == 9 ~ "Hormonal Implant", 
+    method == 10 ~ "Calendar Rhythm", 
+    method == 11 ~ "Temperature Test", 
+    method == 12 ~ "Diaphragm", 
+    method == 13 ~ "Female Condom", 
+    method == 14 ~ "Foam", 
+    method == 15 ~ "Jelly or Cream", 
+    method == 16 ~ "Cervical Cap", 
+    method == 17 ~ "Suppository", 
+    method == 18 ~ "Today sponge", 
+    method == 19 ~ "IUD", 
+    method == 20 ~ "Emergency contraception",
+    method == 21 ~ "Other", 
+    method == 22 ~ "Sterile", 
+    method == 23 ~ "Partner Sterile",
+    method == 25 ~ "Patch", 
+    method == 26 ~ "Ring", 
+    method == 55 ~ "Empty", 
+    method == 98 ~ "Refused", 
+    method == 99 ~ "Don't know"
+  ))
+
+ggplot(singleMethods, aes(x = reorder(methodWords, mean), y = mean)) + 
+  geom_bar(stat = "identity") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5)) + 
+  ylab("Mean Months of Use") +
+  xlab("Method used in isolation")
+```
+
+Now, which methods are commonly used together? 
+
+To figure this out, we'll split the data back out with each method in a separate column. 
+
+```{r}
+networkData <- usageMap %>% 
+  separate(method, c("method_1", "method_2", "method_3", "method_4"), sep = ",")
+
+# Keep respondents that used 4 types of birth control
+networkData_4Types <- networkData %>% filter(!is.na(method_4))
+networkData_4Types12 <- networkData_4Types %>% select(-c(method_3, method_4)) %>% rename(m_a = method_1, m_b = method_2)
+networkData_4Types34 <- networkData_4Types %>% select(-c(method_1, method_2)) %>% rename(m_a = method_3, m_b = method_4)
+networkData_4Types13 <- networkData_4Types %>% select(-c(method_2, method_4)) %>% rename(m_a = method_1, m_b = method_3)
+networkData_4Types14 <- networkData_4Types %>% select(-c(method_2, method_3)) %>% rename(m_a = method_1, m_b = method_4)
+networkData_4Types23 <- networkData_4Types %>% select(-c(method_1, method_4)) %>% rename(m_a = method_2, m_b = method_3)
+networkData_4Types24 <- networkData_4Types %>% select(-c(method_1, method_3)) %>% rename(m_a = method_2, m_b = method_4)
+
+networkData_4All <- bind_rows(networkData_4Types12, networkData_4Types34, networkData_4Types13, networkData_4Types14, networkData_4Types23, networkData_4Types24)
+
+# Limit to people that have used 3 types
+networkData_3Types <- networkData %>% filter(!is.na(method_3) & is.na(method_4))
+networkData_3Types12 <- networkData_3Types %>% select(-c(method_3, method_4)) %>% rename(m_a = method_1, m_b = method_2)
+networkData_3Types13 <- networkData_3Types %>% select(-c(method_2, method_4)) %>% rename(m_a = method_1, m_b = method_3)
+networkData_3Types23 <- networkData_3Types %>% select(-c(method_1, method_4)) %>% rename(m_a = method_2, m_b = method_3)
+
+networkData_3All <- bind_rows(networkData_3Types12, networkData_3Types13, networkData_4Types23)
+
+# Limit to people that have used 2 types
+networkData_2Types <- networkData %>% filter(!is.na(method_2) & is.na(method_3) & is.na(method_4))
+networkData_2Types12 <- networkData_2Types %>% select(-c(method_3, method_4)) %>% rename(m_a = method_1, m_b = method_2)
+
+# Limit to people that have used 1 type
+networkData_1Type <- networkData %>% filter(is.na(method_2) & is.na(method_3) & is.na(method_4)) %>% select(-c(method_3, method_4)) %>% rename(m_a = method_1, m_b = method_2)
+
+allNetworkData <- bind_rows(networkData_4All, networkData_3All, networkData_2Types12)
+
+nodeData <- allNetworkData %>% gather(method, type, c(m_a, m_b))
+```
+
+Using the `igraph` package we can start getting an idea of the connection between these different contraceptive methods. 
+
+```{r}
+nodes <- nodeData %>%
+  group_by(type) %>% 
+  summarise(sum = sum(count)) %>% 
+  mutate(methodWords = case_when(
+    type == 1 ~ "No method",
+    type == 3 ~ "Birth control pills",
+    type == 4 ~ "Condom",
+    type == 5 ~ "Partner's Vasectomy",
+    type == 6 ~ "Female Sterlization",
+    type == 7 ~ "Withdrawal", 
+    type == 8 ~ "Depo-Provera", 
+    type == 9 ~ "Hormonal Implant", 
+    type == 10 ~ "Calendar Rhythm", 
+    type == 11 ~ "Temperature Test", 
+    type == 12 ~ "Diaphragm", 
+    type == 13 ~ "Female Condom", 
+    type == 14 ~ "Foam", 
+    type == 15 ~ "Jelly or Cream", 
+    type == 16 ~ "Cervical Cap", 
+    type == 17 ~ "Suppository", 
+    type == 18 ~ "Today sponge", 
+    type == 19 ~ "IUD", 
+    type == 20 ~ "Emergency contraception",
+    type == 21 ~ "Other", 
+    type == 22 ~ "Sterile", 
+    type == 23 ~ "Partner Sterile",
+    type == 25 ~ "Patch", 
+    type == 26 ~ "Ring", 
+    type == 55 ~ "Empty", 
+    type == 98 ~ "Refused", 
+    type == 99 ~ "Don't know"
+  )) %>% 
+  filter(!is.na(type), type != "NA") %>% 
+  ungroup()
+
+edges <- allNetworkData %>% 
+  na.omit() %>% 
+  group_by(m_a, m_b) %>% 
+  summarise(sum = sum(count)) %>% 
+  ungroup()
+
+# Make graph object
+net <- graph.data.frame(edges, nodes, directed = FALSE)
+
+# Set graph attributes
+V(net)$size <- V(net)$sum
+E(net)$width <- E(net)$sum/10000
+E(net)$edge.color <- "gray80"
+
+layout <- layout_nicely(net)
+
+ plot(net, vertex.size = 5 + nodes$sum/6000, edge.width = 0.25 + edges$sum/5000, vertex.label=nodes$methodWords, edge.color="gray", layout = layout)
+```
+
+Hmm, that's not super helpful. Maybe try a heatmap? 
+
+```{r}
+hm.palette <- colorRampPalette(rev(brewer.pal(9, 'YlOrRd')), space='Lab')
+
+ggplot(edges, aes(m_a, m_b)) +
+  geom_tile(aes(fill = log(sum)), color = "white") +
+  scale_fill_gradientn(colours = hm.palette(100)) +
+  ylab("Method A") +
+  xlab("Method B") +
+  theme(legend.title = element_text(size = 10),
+        legend.text = element_text(size = 12),
+        plot.title = element_text(size=16),
+        axis.title=element_text(size=14,face="bold"),
+        axis.text.x = element_text(angle = 90, hjust = 1)) +
+  labs(fill = "Combinations")
+```
+
+How many people use multiple methods simultaneously? 
+
+```{r}
+multipleMethods <- usageMap %>% 
+  mutate(mult = ifelse(str_detect(method, ","), TRUE, FALSE)) %>% 
+  group_by(mult) %>% 
+  summarise(unique = n_distinct(CASEID))
+```
+
+What are the most common combinations (based on CASEID)
+
+```{r}
+commonCombo <- allNetworkData %>% 
+  group_by(m_a, m_b) %>% 
+  summarise(uniqueR = n_distinct(CASEID)) %>% 
+  arrange(desc(uniqueR)) %>% 
+  ungroup() %>% 
+  mutate(row = row_number())
+
+combo2 <- allNetworkData %>% 
+  group_by(m1 = pmin(m_a, m_b), m2 = pmax(m_a, m_b)) %>% 
+  summarise(uniqueR = n_distinct(CASEID)) %>% 
+  arrange(desc(uniqueR)) %>% 
+  ungroup() %>% 
+  mutate(row = row_number()) %>% 
+  filter(row <= 15) %>% 
+  select(-row)
+
+write.csv(combo2, "../../src/assets/data/multipleMethods.csv", row.names = FALSE)
+
+
+ggplot(commonCombo, aes(x = row, y = uniqueR)) + geom_bar(stat = "identity") + coord_flip()
+
+ggplot(commonCombo, aes(m_a, m_b)) +
+  geom_tile(aes(fill = log(uniqueR)), color = "white") +
+  scale_fill_viridis(option = "plasma") +
+  ylab("Method A") +
+  xlab("Method B") +
+  theme(legend.title = element_text(size = 10),
+        legend.text = element_text(size = 12),
+        plot.title = element_text(size=16),
+        axis.title=element_text(size=14,face="bold"),
+        axis.text.x = element_text(angle = 90, hjust = 1)) +
+  labs(fill = "Combinations")
+```
+
+
+### Why switch methods? 
+
+At this point, I'm going to combine their primary/secondary/tertiary etc. reasons. I want to see all of the reasons that people stop using a particular type of contraception. Reasons are specified [here](https://www.icpsr.umich.edu/icpsradmin/nsfg/variableGroupChild/10307?studyNumber=9999). 
+
+**TODO: Decide on primary vs. all reasons combined. How to display if all reasons. Is percent calculated as total that experienced a thing / number of experiences or users*
+
+```{r}
+# Import lookup table for values
+stop_reasons <- read.csv(here("raw_data", "stop_reasons.csv")) %>% 
+  mutate(method = toupper(method))
+
+whyStop <- allData %>% 
+  select(contains("STOP")) %>% 
+  gather(stopMethod, reason) %>% 
+  na.omit() %>% 
+  # Remove last character from method names (the number) 
+  mutate(stopMethod = str_sub(stopMethod, 1, str_length(stopMethod)-1)) %>% 
+  group_by(stopMethod) %>% 
+  mutate(total = n()) %>% 
+  group_by(stopMethod, reason, total) %>% 
+  summarise(count = n()) %>% 
+  mutate(percent = (count / total) * 100) %>% 
+  arrange(desc(count)) %>% 
+  group_by(stopMethod, reason) %>% 
+  mutate(rank = row_number()) %>% 
+  filter(rank <= 5) %>% 
+  left_join(stop_reasons, by = c("stopMethod" = "method", "reason" = "value")) %>% 
+  filter(stopMethod != "METHSTOP1" | stopMethod != "METHSTOP2") %>% 
+  filter(reason < 25)
+
+ggplot(whyStop, aes(x = reason, y = percent)) + 
+  geom_bar(stat = "identity") + 
+  facet_wrap(~stopMethod) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+```
+
+So most people stopped taking a certain type of contraceptive because of (primarily) weight gain, pain, mood swings, nausea, or bleeding problems. The top "non-medical" cause is because they couldn't remember to take their pills regularly. 
+
+Looks like the question above is a spin-off of another question: why were users dissatisfied enough to stop using a particular method (if they answered other, or they had side effects, then the answered the question explored above). 
+
+```{r}
+## Calculating percent of complaints out of total number of complaints
+whyDis <- allData %>% 
+  select(CASEID, contains("REAS")) %>% 
+  gather(stopMethod, reason, -CASEID) %>% 
+  na.omit() %>% 
+  # Remove last 2 characters from method names (the numbers) 
+  mutate(stopMethod = str_sub(stopMethod, 1, str_length(stopMethod)-2)) %>% 
+  group_by(stopMethod) %>% 
+  mutate(total = n()) %>% 
+  group_by(stopMethod, reason, total) %>% 
+  summarise(count = n()) %>% 
+  mutate(percent = (count / total) * 100) %>% 
+  arrange(desc(count)) %>% 
+  group_by(stopMethod, reason) %>% 
+  mutate(rank = row_number()) %>% 
+  filter(rank <= 5) %>% 
+  mutate(label = case_when(
+    reason == 1 ~ "too expensive",
+    reason == 2 ~ "insurance didn't cover it",
+    reason == 3 ~ "too difficult to use",
+    reason == 4 ~ "too messy",
+    reason == 5 ~ "partner did not like it",
+    reason == 6 ~ "you had side effects",
+    reason == 7 ~ "you were worried you might have side effects",
+    reason == 8 ~ "worried the method would not work",
+    reason == 9 ~ "method failed and you became pregnant",
+    reason == 10 ~ "the method did not protect against disease",
+    reason == 11 ~ "Doctor told you that you should not use method again",
+    reason == 12 ~ "method decreased sexual pleasure",
+    reason == 13 ~ "too difficult to obtain",
+    reason == 14 ~ "did not like changes to menstrual cycle",
+    reason == 15 ~ "other",
+    reason == 99 ~ "do not know"
+  )) %>% 
+  filter(reason < 25)
+
+ggplot(whyDis, aes(x = reason, y = percent)) + 
+  geom_bar(stat = "identity") + 
+  facet_wrap(~stopMethod) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+```
+
+```{r}
+## Calculating percent of complaints out of total users that discontinued use
+whyDisUsers <- allData %>% 
+  select(CASEID, contains("REAS")) %>% 
+  gather(stopMethod, reason, -CASEID) %>% 
+  na.omit() %>% 
+  # Remove last 2 characters from method names (the numbers) 
+  mutate(stopMethod = str_sub(stopMethod, 1, str_length(stopMethod)-2)) %>% 
+  group_by(stopMethod) %>% 
+  mutate(total = n_distinct(CASEID)) %>% 
+  group_by(stopMethod, reason, total) %>% 
+  summarise(count = n()) %>% 
+  mutate(percent = (count / total) * 100) %>% 
+  arrange(desc(count)) %>% 
+  group_by(stopMethod, reason) %>% 
+  mutate(rank = row_number()) %>% 
+  filter(rank <= 5) %>% 
+  mutate(label = case_when(
+    reason == 1 ~ "too expensive",
+    reason == 2 ~ "insurance didn't cover it",
+    reason == 3 ~ "too difficult to use",
+    reason == 4 ~ "too messy",
+    reason == 5 ~ "partner did not like it",
+    reason == 6 ~ "you had side effects",
+    reason == 7 ~ "you were worried you might have side effects",
+    reason == 8 ~ "worried the method would not work",
+    reason == 9 ~ "method failed and you became pregnant",
+    reason == 10 ~ "the method did not protect against disease",
+    reason == 11 ~ "Doctor told you that you should not use method again",
+    reason == 12 ~ "method decreased sexual pleasure",
+    reason == 13 ~ "too difficult to obtain",
+    reason == 14 ~ "did not like changes to menstrual cycle",
+    reason == 15 ~ "other",
+    reason == 99 ~ "do not know"
+  )) %>% 
+  filter(reason < 25) %>% 
+  group_by(stopMethod) %>% 
+  arrange(desc(percent)) %>% 
+  mutate(rank = row_number()) %>% 
+  filter(rank <= 5) %>% 
+  select(stopMethod, reason, total, percent) %>%
+  mutate(percent = round(percent, 1)) %>% 
+  mutate(type = "general")
+
+ggplot(whyDis, aes(x = reason, y = percent)) + 
+  geom_bar(stat = "identity") + 
+  facet_wrap(~stopMethod) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+```
+
+```{r}
+# Import lookup table for values
+stop_reasons <- read.csv(here("raw_data", "stop_reasons.csv")) %>% 
+  mutate(method = toupper(method))
+
+whyStopUsers <- allData %>% 
+  select(CASEID, contains("STOP")) %>% 
+  gather(stopMethod, reason, -CASEID) %>% 
+  na.omit() %>% 
+  # Remove last character from method names (the number) 
+  mutate(stopMethod = str_sub(stopMethod, 1, str_length(stopMethod)-1)) %>% 
+  group_by(stopMethod) %>% 
+  mutate(total = n_distinct(CASEID)) %>% 
+  group_by(stopMethod, reason, total) %>% 
+  summarise(count = n()) %>% 
+  mutate(percent = (count / total) * 100) %>% 
+  arrange(desc(count)) %>% 
+  group_by(stopMethod, reason) %>% 
+  mutate(rank = row_number()) %>% 
+  filter(rank <= 5) %>% 
+  left_join(stop_reasons, by = c("stopMethod" = "method", "reason" = "value")) %>% 
+  filter(stopMethod != "METHSTOP1",
+         stopMethod != "METHSTOP2") %>% 
+  filter(reason < 25) %>% 
+  group_by(stopMethod) %>% 
+  arrange(desc(percent)) %>% 
+  mutate(rank = row_number()) %>% 
+  filter(rank <= 5) %>% 
+  select(stopMethod, reason, total, percent) %>%
+  mutate(percent = round(percent, 1)) %>%
+  mutate(type = "specific")
+
+userSideEffects <- bind_rows(whyDisUsers, whyStopUsers) %>% 
+  ungroup() %>% 
+  mutate(stopMethod = gsub("STOPPILL|REASPILL", "The Pill", stopMethod),
+        stopMethod =  gsub("STOPIUD|REASIUD", "IUD", stopMethod),
+         stopMethod = gsub("STOPCOND|REASCOND", "Condom", stopMethod),
+         stopMethod = gsub("STOPDEPO|REASDEPO", "Depo-Provera", stopMethod))
+
+write.csv(userSideEffects, "../../src/assets/data/sideEffects.csv", row.names = FALSE)
+
+ggplot(whyStop, aes(x = reason, y = percent)) + 
+  geom_bar(stat = "identity") + 
+  facet_wrap(~stopMethod) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+```
+
+### changes with age
+Does birth control usage change with age? 
+
+```{r}
+monthNumbers <- c(1:48)
+
+ageVar <- c("EVERUSED", "CASEID", "AGE_R")
+
+startMonth <- seq(from = 1, to = 192, by = 4)
+endMonth <- seq(from = 4, to = 192, by = 4)
+months <- as.data.frame(cbind(startMonth, endMonth))
+
+ageSwitch <- allData %>% 
+  select(num_range("METHX", 1:192), one_of(ageVar)) %>% 
+  filter(EVERUSED == 1) %>% 
+  select(-EVERUSED)
+  
+idsAgeOnly <- ageSwitch %>% 
+  select(c("CASEID", "AGE_R"))
+
+methodsAgeOnly <- ageSwitch %>% 
+  select(contains("METHX"))
+
+condenseAllAge <- function(monthNum){
+  monthName <- paste0("month_", monthNum)
+  
+  df <- methodsAgeOnly %>% 
+    unite(!!monthName, sort(as.numeric(months$startMonth[monthNum]:months$endMonth[monthNum])), sep = ",") %>% 
+    select(c(!!monthName)) 
+}
+
+usageAgeMap <- map_dfc(monthNumbers, condenseAllAge) %>% 
+  mutate_all(funs(str_replace_all(., ",NA", ""))) %>% 
+  cbind(idsAgeOnly) %>% 
+  select("CASEID", "AGE_R", month_1:month_48) %>% 
+  gather(month, value = "method", month_1:month_48) %>% 
+  mutate(month = gsub("month_", "", month)) %>% 
+  separate(method, c("method_1", "method_2", "method_3", "method_4"), sep = ",") %>% 
+  gather(num, method, c("method_1":"method_4")) %>% 
+  filter(!is.na(method)) %>% 
+  mutate(month = as.numeric(month)) %>% 
+  mutate(calcAge = case_when(
+    month < 12 ~ AGE_R - 3,
+    between(month, 13, 24) ~ AGE_R - 2,
+    between(month, 25, 36) ~ AGE_R - 1,
+    month > 36 ~ AGE_R
+  ))
+
+totalAges <- usageAgeMap %>% 
+  group_by(calcAge) %>% 
+  summarise(totalR = n_distinct(CASEID)) 
+
+methodAge <- usageAgeMap %>% 
+  filter(!method == "NA") %>% 
+  group_by(method, calcAge) %>% 
+  summarise(methodR = n_distinct(CASEID))
+
+totalAges2 <- methodAge %>% 
+  filter(!method == "NA") %>% 
+  group_by(calcAge) %>% 
+  summarise(total = sum(methodR))
+
+toRemove <- c(1, 98, 99, 21, 22, 23, 14, 15, 17, 13, 18, 24, 55)
+
+fullAge <- methodAge %>% 
+  left_join(totalAges2, by = "calcAge") %>% 
+  mutate(percent = (methodR / total) * 100) %>% 
+  filter(total > 1000) %>% 
+  # Filter out no method, refused, and don't know
+  filter(!method %in% toRemove) %>% 
+  filter(!is.na(calcAge))
+
+#write.csv(fullAge, "../../src/assets/data/overTime.csv", row.names = FALSE)
+  
+
+facetAge <- ggplot(fullAge, aes(x = calcAge, y = percent, group = method, color = method)) + geom_line() + geom_area() + facet_wrap(~method)
+
+facetAge
+
+ggsave(here("plots", "facetAge.svg"), facetAge, device = "svg", width = 10, height = 7)
+
+
+```
+
+Based on the way the METHX variable was reported, this method of calculation may lead to over-weighting long acting reversible methods (IUD, implants, etc.) which can continue to be used when the user is not sexually active and underweighting coital-dependent methods (like condoms). Let's try this calculation again using the CONSTAT variable (reporting the methods that the user is using at the time of surveying).
+
+```{r}
+ageCurrent <- allData %>% 
+  select(num_range("CONSTAT", 1:4), one_of(ageVar)) %>% 
+  filter(EVERUSED == 1) %>% 
+  select(-EVERUSED) %>% 
+  gather(variable, method, c("CONSTAT1":"CONSTAT4")) %>% 
+  filter(method != 88) %>% 
+  group_by(method, AGE_R) %>% 
+  summarise(methodR = n_distinct(CASEID))
+
+fullAgeCurrent <- allData %>% 
+  select(one_of(ageVar)) %>% 
+  filter(EVERUSED == 1) %>% 
+  select(-EVERUSED) %>% 
+  group_by(AGE_R) %>% 
+  summarise(total = n())
+
+currentRemove <- c(4, 13, 14, 16, 17, 18, 22, 30, 31, 32, 33, 34, 35, 36, 38, 40, 41, 42)
+
+totalAgeCurrent <- ageCurrent %>% 
+  left_join(fullAgeCurrent, by = "AGE_R") %>% 
+  mutate(percent = (methodR / total) * 100) %>% 
+  #filter(total > 1000) %>% 
+  filter(!method %in% currentRemove) %>% 
+  mutate(calcAge = AGE_R) %>% 
+  select(-AGE_R) %>% 
+  filter(total >= 100)
+
+ggplot(totalAgeCurrent, aes(x = calcAge, y = percent, group = method, color = method)) + geom_line() + geom_area() + facet_wrap(~method)
+
+write.csv(totalAgeCurrent, "../../src/assets/data/overTime.csv", row.names = FALSE)
+```
+
+
+
+## Method used at last sex
+
+To better understand the combinations of methods, we can also look at methods used at the same time during the last sexual experience. 
+
+
+```{r}
+lastSex <- allData %>% 
+  select(num_range("LSTMTHP", 1:4), CASEID)
+
+
+# Keep respondents that used 4 types of birth control
+lastSexNet_4Types <- lastSex %>% filter(!is.na(LSTMTHP4))
+lastSexNet_4Types12 <- lastSexNet_4Types %>% select(-c(LSTMTHP3, LSTMTHP4)) %>% rename(m_a = LSTMTHP1, m_b = LSTMTHP2)
+lastSexNet_4Types34 <- lastSexNet_4Types %>% select(-c(LSTMTHP1, LSTMTHP2)) %>% rename(m_a = LSTMTHP3, m_b = LSTMTHP4)
+lastSexNet_4Types13 <- lastSexNet_4Types %>% select(-c(LSTMTHP2, LSTMTHP4)) %>% rename(m_a = LSTMTHP1, m_b = LSTMTHP3)
+lastSexNet_4Types14 <- lastSexNet_4Types %>% select(-c(LSTMTHP2, LSTMTHP3)) %>% rename(m_a = LSTMTHP1, m_b = LSTMTHP4)
+lastSexNet_4Types23 <- lastSexNet_4Types %>% select(-c(LSTMTHP1, LSTMTHP4)) %>% rename(m_a = LSTMTHP2, m_b = LSTMTHP3)
+lastSexNet_4Types24 <- lastSexNet_4Types %>% select(-c(LSTMTHP1, LSTMTHP3)) %>% rename(m_a = LSTMTHP2, m_b = LSTMTHP4)
+
+lastSexNet_4All <- bind_rows(lastSexNet_4Types12, lastSexNet_4Types34, lastSexNet_4Types13, lastSexNet_4Types14, lastSexNet_4Types23, lastSexNet_4Types24)
+
+# Limit to people that have used 3 types
+lastSexNet_3Types <- lastSex %>% filter(!is.na(LSTMTHP3) & is.na(LSTMTHP4))
+lastSexNet_3Types12 <- lastSexNet_3Types %>% select(-c(LSTMTHP3, LSTMTHP4)) %>% rename(m_a = LSTMTHP1, m_b = LSTMTHP2)
+lastSexNet_3Types13 <- lastSexNet_3Types %>% select(-c(LSTMTHP2, LSTMTHP4)) %>% rename(m_a = LSTMTHP1, m_b = LSTMTHP3)
+lastSexNet_3Types23 <- lastSexNet_3Types %>% select(-c(LSTMTHP1, LSTMTHP4)) %>% rename(m_a = LSTMTHP2, m_b = LSTMTHP3)
+
+lastSexNet_3All <- bind_rows(lastSexNet_3Types12, lastSexNet_3Types13, lastSexNet_4Types23)
+
+# Limit to people that have used 2 types
+lastSexNet_2Types <- lastSex %>% filter(!is.na(LSTMTHP2) & is.na(LSTMTHP3) & is.na(LSTMTHP4))
+lastSexNet_2Types12 <- lastSexNet_2Types %>% select(-c(LSTMTHP3, LSTMTHP4)) %>% rename(m_a = LSTMTHP1, m_b = LSTMTHP2)
+
+# Limit to people that have used 1 type
+lastSexNet_1Type <- lastSex %>% filter(is.na(LSTMTHP2) & is.na(LSTMTHP3) & is.na(LSTMTHP4)) %>% select(-c(LSTMTHP3, LSTMTHP4)) %>% rename(m_a = LSTMTHP1, m_b = LSTMTHP2)
+
+alllastSexNet <- bind_rows(lastSexNet_4All, lastSexNet_3All, lastSexNet_2Types12)
+
+lastSexCombo <- alllastSexNet %>% 
+  group_by(m_a, m_b) %>% 
+  summarise(uniqueR = n_distinct(CASEID)) %>% 
+  arrange(desc(uniqueR)) %>% 
+  ungroup() %>% 
+  mutate(row = row_number())
+
+lastSexCombo2 <- alllastSexNet %>% 
+  group_by(m1 = pmin(m_a, m_b), m2 = pmax(m_a, m_b)) %>% 
+  summarise(uniqueR = n_distinct(CASEID)) %>% 
+  arrange(desc(uniqueR)) %>% 
+  ungroup() %>% 
+  mutate(row = row_number()) %>% 
+  filter(row <= 15) %>% 
+  select(-row)
+
+#write.csv(lastSexCombo2, "../../src/assets/data/multipleMethods.csv", row.names = FALSE)
+
+```
+
+The following contains all of my session info for this code: 
+```{r session_info, include=TRUE, echo=TRUE, results='markup'}
+devtools::session_info()
+```
+

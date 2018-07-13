@@ -1,0 +1,53 @@
+method,value,label
+stopdepo,1,weight gain
+stopdepo,2,bleeding problems
+stopdepo,3,headaches or migraines
+stopdepo,4,mood swings or depression
+stopdepo,5,hair loss or growth
+stopdepo,8,skin problems
+stopdepo,11,nausea or sickness
+stopdepo,13,safety or health concerns
+stopdepo,15,other side effects
+stopdepo,16,other
+stopiud,1,weight gain
+stopiud,2,bleeding problems
+stopiud,3,headaches or migraines
+stopiud,4,mood swings or depression
+stopiud,5,hair loss or growth
+stopiud,6,vaginal infection
+stopiud,7,abdominal pain or cramping
+stopiud,9,pain or discomfort during intercourse
+stopiud,11,IUD moved or was expelled
+stopiud,12,other side effects
+stopiud,13,other
+stopcond,1,allergy
+stopcond,2,didn't like it
+stopcond,3,pain or discomfort or irritation
+stopcond,4,yeast infection
+stopcond,5,worried it would fall off or break or not prevent pregnancy
+stopcond,6,inconvenient
+stopcond,7,not spontaneous
+stopcond,9,Other
+stopcond,97,NA 
+stoppill,1,can't remember to take pill regularly
+stoppill,2,interfered with other medications
+stoppill,3,weight gain
+stoppill,4,headaches or migraines
+stoppill,5,mood swings or depression
+stoppill,6,bleeding problems
+stoppill,7,hair loss or growth
+stoppill,8,nausea or sickness
+stoppill,9,skin problems
+stoppill,10,hormonal problems or changes
+stoppill,11,didn't like it
+stoppill,12,concerns about risks
+stoppill,15,menstrual cramps
+stoppill,16,leg cramps
+stoppill,17,dizziness
+stoppill,18,decreased sex drive
+stoppill,19,high blood pressure
+stoppill,20,blood clots
+stoppill,21,fatigue
+stoppill,22,other side effects
+stoppill,23,other
+stoppill,97,NA
