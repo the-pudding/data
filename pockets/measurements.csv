@@ -1,0 +1,81 @@
+brand,style,menWomen,name,fabric,price,maxHeightFront,minHeightFront,rivetHeightFront,maxWidthFront,minWidthFront,maxHeightBack,minHeightBack,maxWidthBack,minWidthBack,cutout
+Arizona,skinny,women,Fave Super Skinny,"78% cotton, 20% polyester, 2% spandex",42,14.5,15,6.5,16.5,13,15,12.2,13.7,12,FALSE
+Arizona,straight,women,Perfect Boot,"78% cotton, 20% polyester, 2% spandex",42,14.5,14,6.5,16,12.5,15.5,12.2,13,11.2,FALSE
+Ralph Lauren,skinny,women,Modern Skinny Slimming Fit,"92% cotton, 7% poly, 1% elastane",89.5,13,13.5,6.5,14.5,12,15.5,13,13.5,12.5,FALSE
+Ralph Lauren,straight,women,Premier Straight Slimming Fit,"92% cotton, 7% poly, 1% elastane",89.5,13,13.5,6.5,14.5,12,14.5,13,13,12.2,FALSE
+Uniqlo,skinny,women,Skinny Fit,"87% cotton, 9% polyester, 4% spandex",39.9,13,13,5.5,14,11.5,14,12,14.2,11.7,FALSE
+Uniqlo,straight,women,High-Rise Straight,"98% cotton, 2% spandex",39.9,15.5,12,6.5,16.5,12.5,14.5,12.5,12.5,11.5,TRUE
+Calvin Klein,skinny,women,Midrise Skinny,"98% cotton, 2% elastane",79.5,12,12,6.5,14.5,12,16.5,13.7,13,12,FALSE
+Calvin Klein,straight,women,Straight,"85% cotton, 13% poly, 2% elastane",69.5,14,11.2,6.5,15.5,12,15,12,14,12.5,FALSE
+Lucky,skinny,women,Ava Mid Rise Skinny,"69% cotton, 21% polyester, 8% modal, 2% elastane",99,13,14.5,6,13.5,12.7,16,12.7,14.5,12.5,FALSE
+Lucky,straight,women,Sweet Boot,"96% cotton, 3% other fiber, 1% elastane",79.5,15,16.5,5.5,15.5,12.2,14.5,12.7,13,11,FALSE
+Levi's,skinny,women,711 Skinny,"60% cotton, 23% viscose, 16% polyester, 1% elastane",54.5,12.5,14,6.5,15,12,14.5,11.5,12,10.5,FALSE
+Levi's,straight,women,Classic Bootcut,"79% cotton, 19% polyester, 2% elastane",54.5,12.2,14.5,7,17,12.7,15.5,12.5,12.5,11.5,FALSE
+Lee,skinny,women,Riders Midrise Skinny,"55% cotton, 24% rayon, 19% polyester, 2% spandex",19.94,13.7,13,6,18.5,14.5,14.5,12.5,14,12.5,FALSE
+Lee,straight,women,Riders Midrise Straight,"81% cotton, 17% polyester, 2% spandex",19.94,13.5,13,6.2,17,14,15,12.5,14.5,12.5,FALSE
+7 for All Mankind,skinny,women,The Ankle Skinny,"89% cottton, 9% polyester, 2% spandex",199,13,13.5,6,15,12.5,16.5,13.7,12.5,11.5,FALSE
+7 for All Mankind,straight,women,Bootcut,"45% rayon, 30% cotton, 25% polyester",159,14,13.5,7,15,11.5,15.5,14,12.5,12,FALSE
+True Religion,skinny,women,Stella,"55% cotton, 31% polyester, 13% lyocell, 1% elastane",179,14,11,6.2,15,12,13,10.5,11.5,9.7,TRUE
+True Religion,straight,women,Slim Straight,"62% cotton, 21% rayon, 15% polyester, 2% elastane",249,14.5,11.7,5.7,14,11.7,14.7,12.5,13,9.5,TRUE
+Guess,skinny,women,Power Stretch Skinny,"56% cotton, 28% modal, 14% spandex, 2% elastane",98,11.5,11.5,6,14.5,12.5,14.7,11.5,12.5,12,FALSE
+Guess,straight,women,Tailored Mini Boot,"51% cotton, 36% rayon, 12% polyester, 1% spandex",89,12.5,12,7.5,14,11.5,14.5,11.5,13.5,13,FALSE
+Tommy Hilfiger,skinny,women,Greenwich Skinny,"90% cotton, 8% polyester, 2% elastane",69.5,12.5,12.5,6.5,16,12,14,11.7,13,11.5,FALSE
+Tommy Hilfiger,straight,women,Tribeca Straight,"99% cotton, 1% elastane",69.5,15,15.5,7.5,16.7,13,15.5,13,15,12.5,FALSE
+Express,skinny,women,Skinny Midrise,"75% cotton, 24% polyester, 1% spandex",79.9,15.7,12,6.5,16,13,16.5,12.5,14,13,FALSE
+Express,straight,women,Barely Boot Midrise,"75% cotton, 24% polyester, 1% spandex",79.9,15.5,14.2,7,15.2,12.5,15.5,12.2,15,13,FALSE
+H&M,straight,women,Vintage Fit High Waist,"71% cotton, 19% polyester, 9% viscose, 1% elastane",49.99,14.5,13,6.5,14,12,16,13.5,13,12,FALSE
+H&M,skinny,women,Skinny Ankle High Waist,"78% cotton, 19% polyester, 3% elastane",9.99,19,13.5,6.5,14.5,12,15,13,12.5,12,FALSE
+Old Navy,boot-cut,women,Original Boot Cut,"86% cotton, 13% polyester, 1% spandex",29.99,12,12.5,5.5,14.5,11.5,15,12,13.5,11,FALSE
+Old Navy,skinny,women,Original Skinny,"86% cotton, 13% polyester, 1% spandex",29.99,14.5,12.5,6,14,12,16.5,13.5,13,12,FALSE
+J. Crew,straight,women,Vintage Straight,"90% cotton, 8% polyester, 2% elastane",125,14,14.5,6,15.5,12.5,15,13,14.5,13,FALSE
+J. Crew,skinny,women,"8"" Tooth Pick","88% cotton, 8% polyester, 4% elastane",110,11.5,12,5.5,15,12,14.5,12,13.5,12,FALSE
+Gap,boot-cut,women,Perfect Boot,"87% cotton, 12% polyester, 1% spandex",69.95,14,9.5,4.5,12,11,15,12,13.5,11,FALSE
+Gap,skinny,women,True Skinny Mid-Rise,"87% cotton, 12% polyester, 1% spandex",69.95,13,12,5,12.5,11.5,15.5,12.5,13,10.5,FALSE
+American Eagle,skinny,women,Ne(x)t Level Stretch Skinny,"71% cotton, 21% viscose, 7% polyester, 1% spandex",39.95,19,17,6.5,14,11,15,13,12.5,10.5,FALSE
+American Eagle,boot-cut,women,Super Stretch Kick Boot,"94% cotton, 5% polyester, 1% elastane",39.95,16,15,5.5,13.5,11,15,12.5,13,11,FALSE
+Abercrombie,skinny,women,Simone High Rise Slim,"99% cotton, 1% elastane",88,21.5,17,5.5,15.5,12.5,16,13.5,12.5,12,FALSE
+Abercrombie,straight,women,Simone High Rise Ankle Straight,"99% cotton, 1% elastane",78,18,12,6,18.5,12.5,16,14,14,12,FALSE
+Wrangler,skinny,women,Born Ready Skinny Jean,"78% cotton, 18% modal, 3% poly",99,14,11.5,6.5,17,13.5,15,11.7,14.5,11.7,FALSE
+Wrangler,straight,women,Acid Wash Fringe Hem Crop,"98% cotton, 2% spandex",99,15,12.5,7.5,15,11,16,13.5,13.2,12.5,FALSE
+Arizona,skinny,men,Skinny Fit,"72% cotton, 19% polyester, 8% rayon, 1% spandex",50,26,20.5,7.5,17,14,17,14.7,14,13,FALSE
+Arizona,boot-cut,men,Original Bootcut,100% cotton,50,24.5,21.5,8.75,18,13.5,16,13.5,15.2,13.5,FALSE
+Ralph Lauren,slim,men,Varick Slim Straight,100% cotton,89.5,23,23,7.5,15.5,14.5,16,14.2,15,13.5,FALSE
+Ralph Lauren,straight,men,Hampton Straight,100% cotton,89.5,24,24,8,17.5,14.5,17,15,15,12.5,FALSE
+Guess ,skinny,men,Skinny,"98% cotton, 2% spandex",98,22.5,16.5,7,14,12,17,14.5,14.5,12,TRUE
+Guess,straight,men,Regular Straight,"91% cotton, 7% polyester, 2% elastane",98,25.5,17,8.7,17.5,13,16,14.5,14,11.5,TRUE
+Calvin Klein,skinny,men,Skinny,"98% cotton, 2% spandex",89.5,22,14.5,6,15,13.5,16.5,13.5,14.2,11.5,FALSE
+Calvin Klein,straight,men,Straight,"98% cotton, 2% elastane",69.5,21.5,20.5,6,18,13.5,17,14.5,15.5,12.5,FALSE
+Levi's,skinny,men,510 Skinny,"99% cotton, 1% elastane ",69.5,25.5,19,7.5,14.5,13,16.5,15,13,11.5,FALSE
+Levi's,straight,men,569 Loose Straight,100% Cotton,59.5,26,17.5,9,16.5,11.5,15,12.5,13.2,11.7,FALSE
+Uniqlo,skinny,men,Skinny Ultra Stretch,"90% cotton, 8% polyester, 2% spandex",49.9,22.5,22.5,7,15.5,13,14.5,12,13,10.5,FALSE
+Uniqlo,regular,men,Regular,100% cotton,49.9,21.5,21.5,7.5,16,13,15,12.5,14,11.5,FALSE
+Express,skinny,men,Super Skinny Stretch,"75% cotton, 24% polyester, 1% spandex",88,20.5,17,7,15.5,12.5,16,12.5,14,12,FALSE
+Express,boot-cut,men,Classic Boot Stretch,"98% cotton, 2% spandex",79.9,21.5,16,7.5,16,13,16.2,13.5,13.5,12.7,FALSE
+Lucky,slim,men,121 Slim,"98% cotton, 2% elastane",99,21,16.5,6,16.7,14.5,15.2,13,14.5,12,FALSE
+Lucky,straight,men,363 New Vintage Straight,"98% cotton, 2% elastane",129,22.5,18,6.5,17,13.5,16.2,14.7,13,12,FALSE
+7 for all Mankind,skinny,men,Paxtyn,"92% cotton, 6% polyester, 2% spandex",209,21,23,7.5,16.5,13.5,15.5,14,14.5,13,FALSE
+7 for all Mankind,straight,men,The Straight,"98% cotton, 2% spandex",179,21.5,23,7,16.5,12.5,16,13,14,12.5,FALSE
+True Religion,slim,men,Geno Slim,"98% cotton, 2% elastane",159,26.2,13.5,7.7,15.2,13.5,15,12.5,13,11,TRUE
+True Religion,straight,men,Ricky Relaxed Straight,"98% cotton, 2% elastane",179,21,14,7,16.5,13,16,13,13.5,11,TRUE
+J. Crew,skinny,men,484 Slim,"83% cotton, 14% polyester, 3% elastane",98,25,16,6,17,13,15,12,12.5,11.5,TRUE
+J. Crew,straight,men,770 Straight,"83% cotton, 14% polyester, 3% elastane",98,22.5,14,6,14.5,13,15.5,13,13.5,12,TRUE
+Old Navy,skinny,men,Skinny,"99% cotton, 1% spandex",39.99,24.5,16.5,6,15.5,14,15.5,13,13,11,FALSE
+Old Navy,boot-cut,men,boot-cut,"99% cotton, 1% spandex",39.99,24.5,21.5,6,17,14.5,14,12,12,11,FALSE
+Gap,boot-cut,men,Original Boot,100% cotton,59.95,23,16.7,7.2,17.5,14,15.5,13.5,14,12.5,FALSE
+Gap,skinny,men,Skinny,"90% cotton, 8% elasterell-p, 2% spandex",69.95,22,16.5,6.5,17.5,14,15.5,13.5,13.5,11.5,FALSE
+H&M,skinny,men,Skinny,"99% cotton, 1% elastane",39.99,20,16,7,14.5,12,16.5,13.5,13.5,12.5,FALSE
+H&M,straight,men,Straight,100% cotton,49.99,21.5,17,7,16.5,14,16,14.5,14.5,13,FALSE
+American Eagle,skinny,men,NE(X)T Level Flex Skinny,"65% cotton, 23% viscose, 10% polyester, 2% elastane",49.95,21,15,6,14.5,12,15,12,11.5,11,FALSE
+American Eagle,straight,men,Straight,"85% cotton, 13% polyester, 2% elastane",49.95,22,18,6.5,16.5,12,17,14,13.5,12.5,FALSE
+Abercrombie,straight,men,Kennan Straight,"95% cotton, 4% polyester, 1% elastane",78,22.5,15,5,16,12,16,14,13,11,FALSE
+Abercrombie,slim,men,Langdon Slim,"95% cotton, 4% polyester, 1% elastane",78,22,15,4.5,17,12.5,17.5,14,14,12,FALSE
+Tommy Hilfiger,slim,men,Slim,"99% cotton, 1% elastane",59.5,25,16.5,7,17,15,15,12,12.5,11.5,FALSE
+Tommy Hilfiger,boot-cut,men,Bootcut,100% cotton,59.5,22.5,22.5,6.7,18.2,14.5,17,14,13,13,FALSE
+Lee,slim,men,Modern Series Slim Tapered Leg,"98% cotton, 2% spandex",48,25.5,25,7,16.5,14,16.5,13.7,14,12.5,FALSE
+Lee,straight,men,Modern Series Straight Leg,"98% cotton, 2% spandex",48,24.5,15.5,7.5,16.2,13.5,17.5,14,15,14,FALSE
+Wrangler,slim,men,Slim Fit,"98% cotton, 2% spandex",58,27.5,19,9.2,17.5,13,17,14,13,12.5,FALSE
+Wrangler,boot-cut,men,Regular Fit,"99% cotton, 1% spandex",48,28,15.5,9,13,12,16.7,13.5,14.5,14,FALSE
+Buckle Black,boot-cut,women,Fit No. 76 Bootcut Mid-Rise Curvy,"92% cotton, 6% polyester, 2% spandex",89.95,15,14,7,16,13.5,14.5,13,13.5,11,FALSE
+Buckle Black,skinny,women,Fit No. 53 Straight Mid-Rise Slim,"98% cotton, 2% elastane",92.95,14.5,13.5,6,16,13,14,12.5,14,11.5,FALSE
+Buckle Black,boot-cut,men,Fit No. 9 Bootleg,"92% cotton, 6% polyester, 2% elastane",94.95,21,18.5,8.5,18.5,14.5,16,14,13,12.5,FALSE
+Buckle Black,slim,men,Fit No. 3 Straight Leg Slim Fit,"53% cotton, 22% polyester, 23% rayan, 2% spandex",94.95,21,14.5,7,19,16,16,12,14,13.5,FALSE
