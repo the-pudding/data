@@ -34,14 +34,14 @@ Below you'll find metadata for each file.
 |minWidthBack| The width of the pocket at its narrowest (just before the pocket tapers to a point). *See diagram below.*| number |
 
 - **Diagram of Measurements**:
-<!-- ![alt text](https://the-pudding.github.io/pockets/assets/images/methods_measures-front.png) -->
+<img src='diagram.png' alt='Diagram depicting the areas that were measured, drawn, and computer-generated' width=660px>
 - **Other Notes**:
 
   - For each brand mentioned in this study, 4 pairs of jeans were measured: a skinny and straight style in both men’s and women’s clothing. “Skinny” style is referred to as “slim” in some brands and if a standard “straight” style was unavailable, a “boot-cut” style was used instead. Although we did come across some pockets that were completely sewn shut, we were able to find another version of that same style from that brand that did include a true pocket. Wherever possible, we used “standard” or “mid-rise” jeans, though on occasion, none were available and either high- or low-rise jeans were used as a substitute. All jeans measured had a 32 inch waistband as designated by the sizing guides on each brand’s website. Although this is smaller than the median waist size for women in the US, it was determined to be a size that was regularly available in both men’s and women’s cuts.
 
   - To measure the pockets, jeans were unbuttoned and unzipped (and occasionally flipped completely inside-out). Pockets were measured from the inside of the jeans. While the overall height and width of the pockets was measured, the curvature of the pocket displayed in this article was computer generated.
 
-## measurementsRectangles.json
+## measurementRectangles.json
 - 	**What is this?**: This file contains all of the same measurements as `measurements.csv` but also includes the sizes of the largest rectangles that could theoretically fit in each front pocket.
 -   **Source(s)**: All data was collected from manual measurements by Jan Diehm and Amber Thomas at brick and mortar stores in Nashville, New York, and Seattle. All measurements of front pockets were taken of the right-hand-side front pocket of empty jeans. The largest rectangles were calculated using the [largestRect()](https://d3plus.org/docs/#largestRect) function from the [d3plus](https://d3plus.org/docs/#largestRect) library. The full code used to generate this calculation can be found [here](https://github.com/the-pudding/pockets/blob/master/src/js/pudding-chart/rect-calc-template.js).
 -   **Last Modified**: August 13, 2018
@@ -67,9 +67,11 @@ The nested values listed above were all generated from the [largestRect()](https
 | Header | Description | Data Type |
 |---|---|---|
 | `angle` | The angle that the rectangle would be oriented in (according to the d3plus [documentation](https://d3plus.org/docs/#largestRect), an angle of 0 means that the "longer side of the polygon - the width - will be aligned with the x axis"). | number |
-| `area` | The area of the largest rectangle generated | number |
-| `cx` | The x coordinate of the center of the largest rectangle generated | number |
-| `cy` | The y coordinate of the center of the largest rectangle generated | number |
-| `height` | The height (in pixels) of the largest rectangle generated| number |
-| `width` | The width (in pixels) of the largest rectangle generated | number |
+| `area` | The area of the largest rectangle generated. | number |
+| `cx` | The x coordinate of the center of the largest rectangle generated. | number |
+| `cy` | The y coordinate of the center of the largest rectangle generated. | number |
+| `height` | The height (in pixels) of the largest rectangle generated.| number |
+| `heightCM` | The height (in cm) of the largest rectangle generated. | number|
+| `width` | The width (in pixels) of the largest rectangle generated. | number |
+| `widthCM` | The width (in cm) of the largest rectangle generated. | number |
 | `points` | An array of 5 x, y coordinates, denoting where the corners of the largest rectangle would be drawn (assuming it were on a canvas that is 225px wide by 175px tall). | nested values |
