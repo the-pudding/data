@@ -1,4 +1,4 @@
-This folder contains all of the data used in The Pudding article [Pockets](https://pudding.cool/2018/08/pockets/) published in August 2018.
+This folder contains all of the data used in The Pudding article [Women's Pockets are Inferior](https://pudding.cool/2018/08/pockets/) published in August 2018.
 
 Below you'll find metadata for each file.
 
