@@ -5,7 +5,7 @@ Below you'll find metadata for each file.
 ## titles.csv
 
 - 	**What is this?**: Data for every championship win in six pro sports leagues and six college sports, 1870-2018
--   **Source(s)**: Data was collected from the following sources: MLB: baseball-reference.com; NBA: basketball-reference.com; NFL: pro-football-reference.com; NHL: hockey-reference.com; MLS: worldfootball.net; CFL: cfhof.ca; NCAA: ncaa.com, sports-reference.com/cbb, sports-reference.com/cfb
+-   **Source(s)**: Data was collected from the following sources: **MLB**: baseball-reference.com; **NBA**: basketball-reference.com; **NFL**: pro-football-reference.com; **NHL**: hockey-reference.com; **MLS**: worldfootball.net; **CFL**: cfhof.ca; **NCAA**: ncaa.com, sports-reference.com/cbb, sports-reference.com/cfb
 -   **Last Modified**: November 7, 2018
 -   **Contact Information**: [Sam Vickars](mailto:sam.vickars@gmail.com)
 -   **Spatial Applicability**: United States and Canada
