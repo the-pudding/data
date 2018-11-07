@@ -28,7 +28,7 @@ Below you'll find metadata for each file.
 | `final_four4` | Name of the remaining team in the final four (*Not available in college football*). | text |
 | `final_four4_metro` | Metro area of the remaining team in the final four (*Not available in college football*). | text |
 
-## metros.csv
+## metros.json
 
 - 	**What is this?**: Data for every metro area to field a pro or div 1 NCAA sports team, 1870-2018
 -   **Source(s)**: Data was collected from the following sources: MLB: baseball-reference.com; NBA: basketball-reference.com; NFL: pro-football-reference.com; NHL: hockey-reference.com; MLS: worldfootball.net; CFL: cfhof.ca; NCAA: ncaa.com, sports-reference.com/cbb, sports-reference.com/cfb
@@ -42,7 +42,7 @@ Below you'll find metadata for each file.
 |---|---|---|
 | `metro` | Metro area. | text |
 | `population` | Most recent population estimate for metro area. | text |
-| `seasonArray` | Array of seasons in which at least one team representing this metro area played at least one game | array |
+| `seasonArray` | Array of seasons in which at least one team representing this metro area played at least one game | date array |
 | `teamArray` | Array of teams representing this metro area (see nested items below). | object array |
 
 > *Data objects inside `teamArray` field above*
@@ -51,7 +51,7 @@ Below you'll find metadata for each file.
 |---|---|---|
 | `team` | Team name. | text |
 | `sport` | Sport or league the team plays/played (e.g. `Football (M)` or `NFL`). | text |
-| `titles` | Array of years in which team won a title. | array |
-| `finals` | Array of years in which team won appeared in the finals. | array |
-| `finalFours` | Array of years in which team made a final four appearance. | array |
-| `seasons` | Array of years in which team played at least one game. | array |
+| `titles` | Array of years in which team won a title. | date array |
+| `finals` | Array of years in which team won appeared in the finals. | date array |
+| `finalFours` | Array of years in which team made a final four appearance. | date array |
+| `seasons` | Array of years in which team played at least one game. | date array |
