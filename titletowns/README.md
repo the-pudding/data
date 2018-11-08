@@ -55,3 +55,75 @@ Below you'll find metadata for each file.
 | `finals` | Array of years in which team won appeared in the finals. | date array |
 | `finalFours` | Array of years in which team made a final four appearance. | date array |
 | `seasons` | Array of years in which team played at least one game. | date array |
+
+## case1.json
+
+- 	**What is this?**: Data used in the first and third cases (title counts and titles vs population)
+-   **Source(s)**: Data was collected from the following sources: MLB: baseball-reference.com; NBA: basketball-reference.com; NFL: pro-football-reference.com; NHL: hockey-reference.com; MLS: worldfootball.net; CFL: cfhof.ca; NCAA: ncaa.com, sports-reference.com/cbb, sports-reference.com/cfb
+-   **Last Modified**: November 7, 2018
+-   **Contact Information**: [Sam Vickars](mailto:sam.vickars@gmail.com)
+-   **Spatial Applicability**: United States and Canada
+-   **Temporal Applicability**: 1870-November 2018
+-   **Variables (Columns)**:
+
+| Header | Description | Data Type |
+|---|---|---|
+| `key` | Metro area. | text |
+| `values` | Array of championship winning teams (see nested items below). | object array |
+| `population` | Most recent population estimate for metro area. | text |
+| `seasons` | Number of seasons played by teams representing this metro area in each sport (see nested items below). | nested values |
+
+> *Data objects inside `values` field above*
+
+| Header | Description | Data Type |
+|---|---|---|
+| `year` | Title season. | date |
+| `team` | Title-winning team. | text |
+| `sport` | Sport or league (e.g. `Football (M)` or `NFL`). | text |
+
+> *Values inside `seasons` field above*
+
+| Header | Description | Data Type |
+|---|---|---|
+| `mlb` | Number of seasons played by city in the MLB. | number |
+| `nba` | Number of seasons played by city in the NBA. | number |
+| `nfl` | Number of seasons played by city in the NFL. | number |
+| `nhl` | Number of seasons played by city in the NHL. | number |
+| `mls` | Number of seasons played by city in the MLS. | number |
+| `cfl` | Number of seasons played by city in the CFL. | number |
+| `baseball_m` | Number of seasons played by city in NCAA div 1 men's baseball. | number |
+| `basketball_m` | Number of seasons played by city in NCAA div 1 men's basketball. | number |
+| `basketball_w` | Number of seasons played by city in NCAA div 1 women's basketball. | number |
+| `football_m` | Number of seasons played by city in NCAA div 1 men's football. | number |
+| `soccer_w` | Number of seasons played by city in NCAA div 1 women's soccer. | number |
+| `volleyball_w` | Number of seasons played by city in NCAA div 1 women's volleyball. | number |
+
+## case2.json
+
+- 	**What is this?**: Data used in the second case (timeline)
+-   **Source(s)**: Data was collected from the following sources: MLB: baseball-reference.com; NBA: basketball-reference.com; NFL: pro-football-reference.com; NHL: hockey-reference.com; MLS: worldfootball.net; CFL: cfhof.ca; NCAA: ncaa.com, sports-reference.com/cbb, sports-reference.com/cfb
+-   **Last Modified**: November 7, 2018
+-   **Contact Information**: [Sam Vickars](mailto:sam.vickars@gmail.com)
+-   **Spatial Applicability**: United States and Canada
+-   **Temporal Applicability**: 1870-November 2018
+-   **Variables (Columns)**:
+
+| Header | Description | Data Type |
+|---|---|---|
+| `metro` | Metro area. | text |
+| `seasons` | Array of all seasons in which at least one team representing this metro area played at least one game (see nested items below). | object array |
+
+> *Data objects inside `seasons` field above*
+
+| Header | Description | Data Type |
+|---|---|---|
+| `season` | Season year. | date |
+| `teams` | Array of competing teams for this season. | object array |
+
+> *Data objects inside `teams` field above*
+
+| Header | Description | Data Type |
+|---|---|---|
+| `team` | Competing team. | text |
+| `sport` | Sport or league (e.g. `Football (M)` or `NFL`). | text |
+| `result` | Season result, `title`, `finals`, `finalFour`, or `seasons`. | text |
