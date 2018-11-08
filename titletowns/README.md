@@ -126,4 +126,4 @@ Below you'll find metadata for each file.
 |---|---|---|
 | `team` | Competing team. | text |
 | `sport` | Sport or league (e.g. `Football (M)` or `NFL`). | text |
-| `result` | Season result, `title`, `finals`, `finalFour`, or `seasons`. | text |
+| `result` | Season result, `title`, `finals`, `finalFour`, or `season`. | text |
