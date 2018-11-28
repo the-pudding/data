@@ -1,4 +1,4 @@
-This folder contains all of the data used in The Pudding essay [How far is too far? An analysis of driving times to abortion clinics in the US.](https://pudding.cool/2017/09/clinics/) published in September 2017.
+This folder contains all of the data used in The Pudding essay [30 Years of American Anxieties: What 20,000 letters to an advice columnist tell us about what—and who—concerns us most.](https://pudding.cool/2018/11/dearabby/) published in November 2018.
 
 Below you'll find metadata for each file.
 
