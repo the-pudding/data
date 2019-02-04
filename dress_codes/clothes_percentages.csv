@@ -1,0 +1,41 @@
+"slug","market","reveal_body","n","per","group"
+"short* shorts","f","y",334,69,60
+"visible underwear","n","y",332,69,60
+"short* skirt","f","y",290,60,60
+"sagging pants","m","y",219,45,40
+"sheer clothing","f","y",201,42,40
+"strapless top","f","y",187,39,30
+"spaghetti strap","f","y",184,38,30
+"halter top","f","y",183,38,30
+"low neckline","f","y",177,37,30
+"short* dresses","f","y",172,36,30
+"pajamas","n","n",161,33,30
+"muscle shirt","m","y",133,28,20
+"tank top","n","y",131,27,20
+"narrow straps","f","y",127,26,20
+"leggings","f","y",124,26,20
+"tight clothing","f","y",108,22,20
+"loose clothing","n","n",86,18,10
+"crop top","f","y",82,17,10
+"backless shirt","f","y",81,17,10
+"fishnet clothing","f","y",73,15,10
+"visible bra straps","f","y",71,15,10
+"sleeveless shirt","n","y",69,14,10
+"holes above thigh","n","y",65,13,10
+"frayed clothing","n","y",58,12,10
+"bike shorts","n","y",54,11,10
+"short* clothing","f","y",50,10,10
+"cutoff shorts","f","y",49,10,10
+"spandex clothing","n","y",41,8,0
+"backless dress","f","y",40,8,0
+"no underwear","n","y",32,7,0
+"off shoulder shirt","f","y",31,6,0
+"undershirt","n","y",31,6,0
+"holes above knee","n","y",26,5,0
+"swimwear","n","y",25,5,0
+"cutoff pants","n","n",24,5,0
+"very long shirt","n","n",24,5,0
+"gym shorts","n","y",24,5,0
+"pants with holes","n","y",23,5,0
+"low backline","f","y",22,5,0
+"strapless dress","f","y",22,5,0

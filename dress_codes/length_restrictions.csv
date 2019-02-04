@@ -1,0 +1,840 @@
+School.Name,School.State.Abbreviation,limits,length,inches
+RUSK H S,TX,dresses,top of the kneecap,
+RUSK H S,TX,skirts,top of the kneecap,
+RUSK H S,TX,shorts,top of the kneecap,
+MAY-PORT CG HIGH SCHOOL,ND,dresses,shorter than x inches from knee,3
+MAY-PORT CG HIGH SCHOOL,ND,skirts,shorter than x inches from knee,3
+MAY-PORT CG HIGH SCHOOL,ND,shorts,shorter than x inch inseam,5
+EAST HIGH,UT,skirts,shorter than fingertips,
+EAST HIGH,UT,shorts,shorter than fingertips,
+NORTH FORT MYERS HIGH SCHOOL,FL,dresses,shorter than the knee,
+NORTH FORT MYERS HIGH SCHOOL,FL,skirts,shorter than the knee,
+NORTH FORT MYERS HIGH SCHOOL,FL,shorts,shorter than the knee,
+TOMAHAWK HIGH,WI,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+PRIOR LAKE HIGH SCHOOL,MN,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+PRIOR LAKE HIGH SCHOOL,MN,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+OOLOGAH-TALALA HS,OK,dresses,shorter than x inches from knee,6
+OOLOGAH-TALALA HS,OK,skirts,shorter than x inches from knee,6
+OOLOGAH-TALALA HS,OK,shorts,shorter than x inches from knee,6
+JUDITH GAP HIGH SCHOOL,MT,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+JUDITH GAP HIGH SCHOOL,MT,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+LA FERIA H S,TX,shorts,shorter than x inches from knee,3
+GLASGOW HIGH SCHOOL,MT,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+GLASGOW HIGH SCHOOL,MT,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+OAKDALE HIGH,MD,pants,shorter than mid-thigh,
+OAKDALE HIGH,MD,skirts,shorter than mid-thigh,
+OAKDALE HIGH,MD,shorts,shorter than mid-thigh,
+FONDA-FULTONVILLE SENIOR HIGH SCHOOL,NY,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+FONDA-FULTONVILLE SENIOR HIGH SCHOOL,NY,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+TEAGUE H S,TX,dresses,shorter than x inches from knee,4
+TEAGUE H S,TX,skirts,shorter than x inches from knee,4
+TEAGUE H S,TX,shorts,shorter than x inches from knee,4
+ARCADIA HIGH SCHOOL,NY,dresses,shorter than fingertips,
+ARCADIA HIGH SCHOOL,NY,skirts,shorter than fingertips,
+ARCADIA HIGH SCHOOL,NY,shorts,shorter than fingertips,
+NORTHGLENN HIGH SCHOOL,CO,skirts,shorter than fingertips,
+NORTHGLENN HIGH SCHOOL,CO,shorts,shorter than fingertips,
+LATHROP HIGH,CA,shorts,shorter than mid-thigh,
+DEL MAR HIGH,CA,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+ANAMOSA HIGH SCHOOL,IA,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+ANAMOSA HIGH SCHOOL,IA,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+RIO RANCHO HIGH,NM,dresses,shorter than mid-thigh,
+RIO RANCHO HIGH,NM,skirts,shorter than mid-thigh,
+RIO RANCHO HIGH,NM,shorts,shorter than mid-thigh,
+TACONIC HIGH,MA,skirts,shorter than fingertips,
+TACONIC HIGH,MA,shorts,shorter than fingertips,
+LATTA HS,OK,dresses,shorter than x inches from knee,4
+LATTA HS,OK,skirts,shorter than x inches from knee,4
+LATTA HS,OK,shorts,shorter than x inch inseam,5
+BROOKFIELD HIGH,MO,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+BREMOND H S,TX,dresses,shorter than x inches from knee,3
+BREMOND H S,TX,skirts,shorter than x inches from knee,3
+JULIAN HIGH,CA,dresses,shorter than fingertips,
+JULIAN HIGH,CA,skirts,shorter than fingertips,
+JULIAN HIGH,CA,shorts,shorter than fingertips,
+ROBERTSDALE HIGH SCH,AL,dresses,shorter than mid-thigh,
+ROBERTSDALE HIGH SCH,AL,skirts,shorter than mid-thigh,
+ROBERTSDALE HIGH SCH,AL,shorts,shorter than mid-thigh,
+LATHROP HIGH SCHOOL,AK,dresses,shorter than x inches from knee,6
+LATHROP HIGH SCHOOL,AK,skirts,shorter than x inches from knee,6
+SAVAGE HIGH SCHOOL,MT,dresses,shorter than mid-thigh,
+SAVAGE HIGH SCHOOL,MT,skirts,shorter than mid-thigh,
+SAVAGE HIGH SCHOOL,MT,shorts,shorter than mid-thigh,
+BEGGS HS,OK,dresses,shorter than fingertips,
+BEGGS HS,OK,shorts,shorter than fingertips,
+BELTON H S,TX,dresses,shorter than mid-thigh,
+BELTON H S,TX,skirts,shorter than mid-thigh,
+BELTON H S,TX,shorts,shorter than mid-thigh,
+MILTON HIGH,WI,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+MILTON HIGH,WI,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+SOUTHERN COLUMBIA HS,PA,dresses,shorter than x inches from knee,5
+SOUTHERN COLUMBIA HS,PA,skirts,shorter than x inches from knee,5
+SOUTHERN COLUMBIA HS,PA,shorts,shorter than x inches from knee,5
+ELSBERRY HIGH,MO,skirts,shorter than fingertips,
+ELSBERRY HIGH,MO,shorts,shorter than fingertips,
+PORT JERVIS SENIOR HIGH SCHOOL,NY,skirts,shorter than fingertips,
+PORT JERVIS SENIOR HIGH SCHOOL,NY,shorts,shorter than fingertips,
+ELKO HIGH SCHOOL,NV,dresses,shorter than fingertips,
+ELKO HIGH SCHOOL,NV,skirts,shorter than fingertips,
+ELKO HIGH SCHOOL,NV,shorts,shorter than fingertips,
+IRONTON HIGH SCHOOL,OH,shorts,shorter than fingertips,
+SOUTH JEFFERSON HIGH SCHOOL,NY,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+SOUTH JEFFERSON HIGH SCHOOL,NY,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+SOUTH JEFFERSON HIGH SCHOOL,NY,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+SIMSBURY HIGH SCHOOL,CT,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+SIMSBURY HIGH SCHOOL,CT,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+SIMSBURY HIGH SCHOOL,CT,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+WINDTHORST H S,TX,skirts,shorter than x inches from knee,3
+WINDTHORST H S,TX,shorts,shorter than x inches from knee,4
+NORTHBRIDGE HIGH,MA,dresses,shorter than the knee,
+NORTHBRIDGE HIGH,MA,skirts,shorter than the knee,
+NORTHBRIDGE HIGH,MA,shorts,shorter than x inches from knee,4
+NORTHBRIDGE HIGH,MA,skorts,shorter than x inches from knee,4
+AMSTERDAM HIGH SCHOOL,NY,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+BARBERS HILL H S,TX,dresses,shorter than fingertips,
+BARBERS HILL H S,TX,skirts,shorter than fingertips,
+BARBERS HILL H S,TX,shorts,shorter than fingertips,
+LOUISIANA HIGH,MO,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+BUTLER HIGH SCHOOL,OH,dresses,shorter than fingertips,
+BUTLER HIGH SCHOOL,OH,skirts,shorter than fingertips,
+BUTLER HIGH SCHOOL,OH,shorts,shorter than fingertips,
+GATEWAY HIGH SCHOOL,CO,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+GATEWAY HIGH SCHOOL,CO,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+GATEWAY HIGH SCHOOL,CO,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+COE-BROWN NORTHWOOD ACADEMY,NH,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+COE-BROWN NORTHWOOD ACADEMY,NH,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+COE-BROWN NORTHWOOD ACADEMY,NH,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+DAWSON HIGH SCHOOL,MT,shorts,shorter than thumb,
+HINTON HS,OK,skirts,shorter than fingertips,
+HINTON HS,OK,shorts,shorter than fingertips,
+GIRARD HS,PA,dresses,shorter than fingertips,
+GIRARD HS,PA,skirts,shorter than fingertips,
+GIRARD HS,PA,shorts,shorter than fingertips,
+HUNTLEY PROJECT HIGH SCHL,MT,dresses,shorter than fingertips,
+HUNTLEY PROJECT HIGH SCHL,MT,skirts,shorter than fingertips,
+HUNTLEY PROJECT HIGH SCHL,MT,shorts,shorter than fingertips,
+FRUITVALE H S,TX,dresses,shorter than x inches from knee,2
+FRUITVALE H S,TX,skirts,shorter than x inches from knee,2
+DARLINGTON HIGH,WI,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+MOUNDS HS,OK,dresses,shorter than fingertips,
+MOUNDS HS,OK,skirts,shorter than fingertips,
+MOUNDS HS,OK,shorts,shorter than fingertips,
+HOWE HS,OK,dresses,shorter than x inches from knee,6
+HOWE HS,OK,skirts,shorter than x inches from knee,6
+HOWE HS,OK,shorts,shorter than x inches from knee,6
+OAK GROVE HIGH,MO,dresses,shorter than x inches from knee,width of agenda
+OAK GROVE HIGH,MO,skirts,shorter than x inches from knee,
+OAK GROVE HIGH,MO,shorts,shorter than x inches from knee,
+MCLOUTH HIGH,KS,skirts,shorter than fingertips,
+MCLOUTH HIGH,KS,shorts,shorter than fingertips,
+TATUM H S,TX,dresses,shorter than x inches from knee,3
+TATUM H S,TX,skirts,shorter than x inches from knee,3
+TATUM H S,TX,shorts,shorter than x inches from knee,3
+CEDAR CITY HIGH,UT,skirts,shorter than x inches from knee,6
+CEDAR CITY HIGH,UT,shorts,shorter than x inch inseam,5
+HANOVER HIGH,KS,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+HANOVER HIGH,KS,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+HANOVER HIGH,KS,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+DAPHNE HIGH SCH,AL,dresses,"shorter than fingertips, shorter than mid-thigh, whichever is longer",
+DAPHNE HIGH SCH,AL,skirts,"shorter than fingertips, shorter than mid-thigh, whichever is longer",
+DAPHNE HIGH SCH,AL,shorts,"shorter than fingertips, shorter than mid-thigh, whichever is longer",
+LAWSON HIGH,MO,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+ELGIN HS,OK,shorts,shorter than fingertips,
+AKRON WESTFIELD SENIOR HIGH SCHOOL,IA,skirts,shorter than fingertips,
+AKRON WESTFIELD SENIOR HIGH SCHOOL,IA,shorts,shorter than fingertips,
+MARTINSVILLE HIGH,VA,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+MARTINSVILLE HIGH,VA,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+CHILLICOTHE HIGH,MO,dresses,shorter than the width of the palm of the hand measuring down from the top of the inseam,
+CHILLICOTHE HIGH,MO,skirts,shorter than the width of the palm of the hand measuring down from the top of the inseam,
+CHILLICOTHE HIGH,MO,shorts,shorter than the width of the palm of the hand measuring down from the top of the inseam,
+FLOYD HIGH,NM,dresses,shorter than x inches from knee,2
+FLOYD HIGH,NM,skirts,shorter than x inches from knee,2
+FLOYD HIGH,NM,shorts,shorter than x inches from knee,2
+FLOYD HIGH,NM,skorts,shorter than x inches from knee,2
+BERRYVILLE HIGH SCHOOL,AR,dresses,shorter than x inches from knee,width of a dollar bill
+BERRYVILLE HIGH SCHOOL,AR,skirts,shorter than x inches from knee,width of a dollar bill
+BERRYVILLE HIGH SCHOOL,AR,shorts,shorter than fingertips,
+EAST LAURENS HIGH SCHOOL,GA,skirts,shorter than the knee,
+EAST LAURENS HIGH SCHOOL,GA,shorts,shorter than the knee,
+HENRIETTA H S,TX,dresses,shorter than x inches from knee,3
+HENRIETTA H S,TX,skirts,shorter than x inches from knee,3
+HENRIETTA H S,TX,shorts,shorter than x inches from knee,3
+GRANBURY H S,TX,dresses,shorter than x inches from knee,3
+GRANBURY H S,TX,skirts,shorter than x inches from knee,3
+GRANBURY H S,TX,shorts,shorter than x inches from knee,3
+RAINIER SENIOR HIGH SCHOOL,WA,skirts,shorter than x inches from knee,3
+RAINIER SENIOR HIGH SCHOOL,WA,shorts,shorter than x inches from knee,5
+NORTH ANDREW HIGH,MO,shorts,"shorter than fingertips, shorter than mid-thigh, whichever is longer",
+CARROLLTON HIGH SCHOOL,GA,skirts,shorter than x inches from knee,6
+CARROLLTON HIGH SCHOOL,GA,shorts,shorter than x inches from knee,6
+HORN H S,TX,skirts,shorter than mid-thigh,
+HORN H S,TX,shorts,shorter than mid-thigh,
+HORN H S,TX,jumpers,shorter than mid-thigh,
+BANKS COUNTY HIGH SCHOOL,GA,skirts,shorter than mid-thigh,
+BANKS COUNTY HIGH SCHOOL,GA,shorts,shorter than mid-thigh,
+WEATHERFORD H S,TX,skirts,shorter than fingertips,
+WEATHERFORD H S,TX,shorts,shorter than fingertips,
+CORNWALL CENTRAL HIGH SCHOOL,NY,dresses,shorter than mid-thigh,
+CORNWALL CENTRAL HIGH SCHOOL,NY,skirts,shorter than mid-thigh,
+CORNWALL CENTRAL HIGH SCHOOL,NY,shorts,shorter than mid-thigh,
+CORNWALL CENTRAL HIGH SCHOOL,NY,skorts,shorter than mid-thigh,
+CENTRAL HIGH SCHOOL,IA,skirts,shorter than fingertips,
+CENTRAL HIGH SCHOOL,IA,shorts,shorter than fingertips,
+RANCHO BUENA VISTA HIGH,CA,shorts,does not conceal entire bottom,
+LEVERETTS CHAPEL H S,TX,dresses,shorter than x inches from knee,4
+LEVERETTS CHAPEL H S,TX,skirts,shorter than x inches from knee,4
+LEVERETTS CHAPEL H S,TX,shorts,shorter than x inches from knee,4
+WEST STOKES HIGH,NC,dresses,shorter than x inches from knee,3
+WEST STOKES HIGH,NC,skirts,shorter than x inches from knee,3
+WEST STOKES HIGH,NC,shorts,shorter than x inches from knee,3
+NANTUCKET HIGH,MA,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+NANTUCKET HIGH,MA,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+NORTH CARROLL HIGH,MD,dresses,not cover entire buttocks and private areas,
+NORTH CARROLL HIGH,MD,pants,not cover entire buttocks and private areas,
+NORTH CARROLL HIGH,MD,skirts,not cover entire buttocks and private areas,
+NORTH CARROLL HIGH,MD,shorts,not cover entire buttocks and private areas,
+NORTH CARROLL HIGH,MD,skorts,not cover entire buttocks and private areas,
+SPENCER HIGH SCHOOL,IA,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+PELLA HIGH SCHOOL,IA,skirts,shorter than fingertips,
+MCGREGOR H S,TX,dresses,shorter than the knee,
+MCGREGOR H S,TX,skirts,shorter than the knee,
+MCGREGOR H S,TX,shorts,shorter than the knee,
+WESTHILL HIGH SCHOOL,CT,pants,shorter than mid-thigh,
+WESTHILL HIGH SCHOOL,CT,skirts,shorter than mid-thigh,
+WESTHILL HIGH SCHOOL,CT,shorts,shorter than mid-thigh,
+QUINCY HIGH,MA,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+CURRITUCK COUNTY HIGH,NC,dresses,shorter than fingertips,
+CURRITUCK COUNTY HIGH,NC,skirts,shorter than fingertips,
+CURRITUCK COUNTY HIGH,NC,shorts,shorter than fingertips,
+NEVADA HIGH SCHOOL,IA,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+ADM SENIOR HIGH SCHOOL,IA,skirts,"shorter than fingertips, shorter than x inches from knee, whichever is longest",6
+ADM SENIOR HIGH SCHOOL,IA,shorts,"shorter than fingertips, shorter than x inches from knee, whichever is longest",6
+PLEASANT GROVE H S,TX,dresses,shorter than the knee,
+PLEASANT GROVE H S,TX,skirts,shorter than the knee,
+PLEASANT GROVE H S,TX,shorts,shorter than the knee,
+BASTROP H S,TX,dresses,shorter than fingertips,
+BASTROP H S,TX,skirts,shorter than fingertips,
+BASTROP H S,TX,shorts,shorter than fingertips,
+TGU-GRANVILLE HIGH SCHOOL,ND,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+TGU-GRANVILLE HIGH SCHOOL,ND,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+PORTSMOUTH HIGH SCHOOL,NH,skirts,shorter than fingertips,
+PORTSMOUTH HIGH SCHOOL,NH,shorts,shorter than fingertips,
+BORGER H S,TX,dresses,shorter than 2 inches below longest fingertip,
+BORGER H S,TX,skirts,shorter than 2 inches below longest fingertip,
+BORGER H S,TX,shorts,shorter than 2 inches below longest fingertip,
+CABOOL HIGH,MO,dresses,shorter than fingertips,
+CABOOL HIGH,MO,shorts,shorter than fingertips,
+SYMMES VALLEY HIGH SCHOOL,OH,dresses,shorter than x inches from knee,length of a standard Ohio driver's license
+SYMMES VALLEY HIGH SCHOOL,OH,skirts,shorter than x inches from knee,length of a standard Ohio driver's license
+SYMMES VALLEY HIGH SCHOOL,OH,shorts,shorter than x inches from knee,length of a dollar bill
+WELDON VALLEY HIGH SCHOOL,CO,dresses,shorter than mid-thigh,
+WELDON VALLEY HIGH SCHOOL,CO,skirts,shorter than mid-thigh,
+WELDON VALLEY HIGH SCHOOL,CO,shorts,shorter than x inch inseam,5
+SHADOW HILLS HIGH,CA,dresses,shorter than x inch inseam,2
+SHADOW HILLS HIGH,CA,skirts,shorter than x inch inseam,2
+SHADOW HILLS HIGH,CA,shorts,shorter than x inch inseam,2
+LAINGSBURG HIGH SCHOOL,MI,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+LAINGSBURG HIGH SCHOOL,MI,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+LAINGSBURG HIGH SCHOOL,MI,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+COLUMBIA HIGH SCHOOL,NY,dresses,shorter than mid-thigh,
+COLUMBIA HIGH SCHOOL,NY,skirts,shorter than mid-thigh,
+COLUMBIA HIGH SCHOOL,NY,shorts,shorter than mid-thigh,
+TWIN VALLEY HIGH SCHOOL,VT,skirts,shorter than mid-thigh,
+TWIN VALLEY HIGH SCHOOL,VT,shorts,shorter than mid-thigh,
+SHAWANO HIGH,WI,skirts,shorter than x inches from knee,2
+SHAWANO HIGH,WI,shorts,shorter than mid-thigh,
+HALLSVILLE H S,TX,dresses,shorter than x inches from knee,3
+HALLSVILLE H S,TX,skirts,shorter than x inches from knee,3
+HALLSVILLE H S,TX,shorts,shorter than x inches from knee,3
+LAUREL HIGH SCHOOL,MT,skirts,shorter than fingertips,
+LAUREL HIGH SCHOOL,MT,shorts,shorter than fingertips,
+G.F.W. HIGH SCHOOL,MN,skirts,shorter than fingertips,
+G.F.W. HIGH SCHOOL,MN,shorts,shorter than fingertips,
+HART HIGH SCHOOL,MI,skirts,shorter than mid-thigh,
+HART HIGH SCHOOL,MI,shorts,shorter than mid-thigh,
+DOVER HS,OK,dresses,shorter than fingertips,
+DOVER HS,OK,skirts,shorter than fingertips,
+DOVER HS,OK,shorts,shorter than fingertips,
+POWDER RIVER CO DIST HIGH,MT,skirts,shorter than mid-thigh,
+POWDER RIVER CO DIST HIGH,MT,shorts,shorter than x inch inseam,5
+PLYMOUTH-WHITEMARSH SHS,PA,skirts,shorter than mid-thigh,
+PLYMOUTH-WHITEMARSH SHS,PA,shorts,shorter than mid-thigh,
+CENTRAL HIGH SCHOOL,GA,dresses,shorter than x inches from knee,3
+CENTRAL HIGH SCHOOL,GA,skirts,shorter than x inches from knee,3
+CENTRAL HIGH SCHOOL,GA,shorts,shorter than x inches from knee,3
+SALIDA HIGH SCHOOL,CO,dresses,shorter than mid-thigh,
+SALIDA HIGH SCHOOL,CO,skirts,shorter than mid-thigh,
+SALIDA HIGH SCHOOL,CO,shorts,shorter than x inch inseam,3
+THOMAS JEFFERSON HIGH SCHOOL,CO,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+THOMAS JEFFERSON HIGH SCHOOL,CO,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+THOMAS JEFFERSON HIGH SCHOOL,CO,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+SHERIDAN HIGH SCHOOL,WY,skirts,shorter than mid-thigh,
+SHERIDAN HIGH SCHOOL,WY,shorts,shorter than mid-thigh,
+CREEKVIEW H S,TX,dresses,shorter than x inches from knee,4
+CREEKVIEW H S,TX,skirts,shorter than x inches from knee,4
+CREEKVIEW H S,TX,shorts,shorter than x inches from knee,4
+CREEKVIEW H S,TX,jumpers,shorter than x inches from knee,4
+MORENCI HIGH SCHOOL,AZ,dresses,shorter than mid-thigh,
+MORENCI HIGH SCHOOL,AZ,skirts,shorter than mid-thigh,
+MORENCI HIGH SCHOOL,AZ,shorts,shorter than mid-thigh,
+WESTON RANCH HIGH,CA,skirts,shorter than mid-thigh,
+WESTON RANCH HIGH,CA,shorts,shorter than mid-thigh,
+LANDER VALLEY HIGH SCHOOL,WY,dresses,shorter than fingertips,
+LANDER VALLEY HIGH SCHOOL,WY,skirts,shorter than fingertips,
+LANDER VALLEY HIGH SCHOOL,WY,shorts,shorter than fingertips,
+SKIATOOK HS,OK,dresses,shorter than x inches from knee,7
+SKIATOOK HS,OK,skirts,shorter than x inches from knee,7
+SKIATOOK HS,OK,shorts,shorter than x inches from knee,7
+HORLICK HIGH,WI,dresses,shorter than fingertips,
+HORLICK HIGH,WI,skirts,shorter than fingertips,
+HORLICK HIGH,WI,shorts,shorter than fingertips,
+WEST DELAWARE HIGH SCHOOL,IA,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+WEST DELAWARE HIGH SCHOOL,IA,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+EAST COWETA HIGH SCHOOL,GA,dresses,shorter than fingertips,
+EAST COWETA HIGH SCHOOL,GA,skirts,shorter than fingertips,
+EAST COWETA HIGH SCHOOL,GA,shorts,shorter than fingertips,
+NEWPORT MIDDLE HIGH SCHOOL (HIGH),NH,skirts,shorter than mid-thigh,
+NEWPORT MIDDLE HIGH SCHOOL (HIGH),NH,shorts,shorter than mid-thigh,
+JACKSON HOLE HIGH SCHOOL,WY,shorts,shorter than mid-thigh,
+IRAAN H S,TX,dresses,shorter than x inches from knee,3
+IRAAN H S,TX,skirts,shorter than x inches from knee,3
+IRAAN H S,TX,shorts,shorter than x inches from knee,3
+LINCOLN SENIOR HIGH SCHOOL,MI,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+LINCOLN SENIOR HIGH SCHOOL,MI,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+TURPIN HS,OK,dresses,shorter than fingertips,
+TURPIN HS,OK,pants,shorter than fingertips,
+TURPIN HS,OK,skirts,shorter than fingertips,
+TURPIN HS,OK,shorts,shorter than fingertips,
+BELLPORT SENIOR HIGH SCHOOL,NY,skirts,shorter than mid-thigh,
+BELLPORT SENIOR HIGH SCHOOL,NY,skorts,shorter than mid-thigh,
+PLATTE CANYON HIGH SCHOOL,CO,dresses,shorter than mid-thigh,
+PLATTE CANYON HIGH SCHOOL,CO,skirts,shorter than mid-thigh,
+PLATTE CANYON HIGH SCHOOL,CO,shorts,shorter than mid-thigh,
+BOWLEGS HS,OK,dresses,shorter than x inches from knee,length of a dollar bill
+BOWLEGS HS,OK,skirts,shorter than x inches from knee,length of a dollar bill
+BOWLEGS HS,OK,shorts,shorter than x inches from knee,length of a dollar bill
+PIEDMONT HS,OK,skirts,shorter than mid-thigh,
+PIEDMONT HS,OK,shorts,shorter than mid-thigh,
+RIVERDALE HIGH SCHOOL,FL,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+PITTSFIELD HIGH SCHOOL,NH,dresses,shorter than mid-thigh,
+PITTSFIELD HIGH SCHOOL,NH,skirts,shorter than mid-thigh,
+PITTSFIELD HIGH SCHOOL,NH,shorts,shorter than mid-thigh,
+KENYON-WANAMINGO SENIOR HIGH,MN,dresses,shorter than mid-hand,
+KENYON-WANAMINGO SENIOR HIGH,MN,shorts,shorter than mid-hand,
+GRAND LEDGE HIGH SCHOOL,MI,skirts,shorter than fingertips,
+GRAND LEDGE HIGH SCHOOL,MI,shorts,shorter than fingertips,
+DAVID PROUTY HIGH,MA,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+DAVID PROUTY HIGH,MA,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+TARKINGTON H S,TX,dresses,shorter than x inches from knee,2
+TARKINGTON H S,TX,skirts,shorter than x inches from knee,2
+TARKINGTON H S,TX,shorts,shorter than x inches from knee,2
+SOUTH GLENS FALLS SENIOR HIGH SCHOOL,NY,skirts,shorter than fingertips,
+SOUTH GLENS FALLS SENIOR HIGH SCHOOL,NY,shorts,shorter than fingertips,
+AZLE H S,TX,dresses,shorter than fingertips,
+AZLE H S,TX,skirts,shorter than fingertips,
+AZLE H S,TX,shorts,shorter than fingertips,
+AZLE H S,TX,skorts,shorter than fingertips,
+LEBANON SR. HIGH,MO,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+LEBANON SR. HIGH,MO,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+LEBANON SR. HIGH,MO,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+APPOQUINIMINK HIGH SCHOOL,DE,skirts,shorter than mid-thigh,
+APPOQUINIMINK HIGH SCHOOL,DE,shorts,shorter than mid-thigh,
+APPOQUINIMINK HIGH SCHOOL,DE,skorts,shorter than mid-thigh,
+QUANAH H S,TX,dresses,shorter than fingertips,
+QUANAH H S,TX,skirts,shorter than fingertips,
+RHAM HIGH SCHOOL,CT,skirts,shorter than fingertips,
+RHAM HIGH SCHOOL,CT,shorts,shorter than fingertips,
+LYNNVILLE-SULLY HIGH SCHOOL,IA,skirts,shorter than fingertips,
+LYNNVILLE-SULLY HIGH SCHOOL,IA,shorts,shorter than fingertips,
+LYNNVILLE-SULLY HIGH SCHOOL,IA,skorts,shorter than fingertips,
+FONTANA HIGH,CA,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+FONTANA HIGH,CA,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+HARLOWTON HIGH SCHOOL,MT,skirts,shorter than fingertips,
+HARLOWTON HIGH SCHOOL,MT,shorts,shorter than fingertips,
+MARATHON HIGH,WI,shorts,shorter than mid-thigh,
+BONNEY LAKE HIGH SCHOOL,WA,dresses,shorter than fingertips,
+BONNEY LAKE HIGH SCHOOL,WA,skirts,shorter than fingertips,
+BONNEY LAKE HIGH SCHOOL,WA,shorts,shorter than fingertips,
+ROGERS H S,TX,dresses,shorter than x inches from knee,2
+ROGERS H S,TX,skirts,shorter than x inches from knee,2
+ROGERS H S,TX,shorts,shorter than x inches from knee,2
+ATHENS HIGH,WI,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+ATHENS HIGH,WI,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+BYRON NELSON H S,TX,dresses,shorter than mid-thigh,
+BYRON NELSON H S,TX,skirts,shorter than mid-thigh,
+BYRON NELSON H S,TX,jumpers,shorter than mid-thigh,
+CELINA H S,TX,dresses,shorter than mid-thigh,
+CELINA H S,TX,shorts,shorter than mid-thigh,
+QUEEN CITY H S,TX,dresses,shorter than fingertips,
+QUEEN CITY H S,TX,skirts,shorter than fingertips,
+QUEEN CITY H S,TX,shorts,shorter than fingertips,
+QUEEN CITY H S,TX,skorts,shorter than fingertips,
+MACON SR. HIGH,MO,dresses,shorter than the width of the palm of the hand from the top of the inseam,
+MACON SR. HIGH,MO,skirts,shorter than the width of the palm of the hand from the top of the inseam,
+MACON SR. HIGH,MO,shorts,shorter than the width of the palm of the hand from the top of the inseam,
+SEDRO WOOLLEY SENIOR HIGH SCHOOL,WA,shorts,shorter than mid-thigh,
+AGWSR HIGH SCHOOL,IA,skirts,shorter than fingertips,
+AGWSR HIGH SCHOOL,IA,shorts,shorter than fingertips,
+KEYSTONE HIGH SCHOOL,OH,skirts,shorter than fingertips,
+KEYSTONE HIGH SCHOOL,OH,shorts,shorter than fingertips,
+CUBA HIGH,MO,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+CUBA HIGH,MO,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+ONTARIO HIGH SCHOOL,OR,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+ONTARIO HIGH SCHOOL,OR,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+ONTARIO HIGH SCHOOL,OR,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+ONTARIO HIGH SCHOOL,OR,tunics,"""short""/""inappropriate length"" (no exact measurement given)",
+RANCHO VERDE HIGH,CA,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+RANCHO VERDE HIGH,CA,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+SINTON H S,TX,dresses,shorter than x inches from knee,4
+SINTON H S,TX,skirts,shorter than x inches from knee,4
+SINTON H S,TX,shorts,shorter than x inches from knee,4
+LOMPOC HIGH,CA,dresses,shorter than x inches from knee,6
+LOMPOC HIGH,CA,skirts,shorter than x inches from knee,6
+LOMPOC HIGH,CA,shorts,shorter than x inches from knee,6
+EASTERN HIGH SCHOOL,MI,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+EASTERN HIGH SCHOOL,MI,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+SHELBY CO HIGH SCH,AL,dresses,shorter than mid-thigh,
+SHELBY CO HIGH SCH,AL,skirts,shorter than mid-thigh,
+SHELBY CO HIGH SCH,AL,shorts,shorter than mid-thigh,
+CALHOUN HIGH SCHOOL,GA,shorts,shorter than x inches from knee,6
+INDEPENDENCE HIGH SCHOOL,MS,dresses,shorter than the knee,
+INDEPENDENCE HIGH SCHOOL,MS,skirts,shorter than the knee,
+INDEPENDENCE HIGH SCHOOL,MS,shorts,shorter than the knee,
+INDEPENDENCE HIGH SCHOOL,MS,skorts,shorter than the knee,
+SOMERSET HIGH,WI,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+SOMERSET HIGH,WI,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+BLUE RIDGE H S,TX,dresses,shorter than mid-thigh,
+BLUE RIDGE H S,TX,pants,shorter than mid-thigh,
+BLUE RIDGE H S,TX,skirts,shorter than mid-thigh,
+BLUE RIDGE H S,TX,shorts,shorter than mid-thigh,
+KALKASKA HIGH SCHOOL,MI,skirts,shorter than fingertips,
+KALKASKA HIGH SCHOOL,MI,shorts,shorter than fingertips,
+LA JOLLA HIGH,CA,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+LA JOLLA HIGH,CA,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+NORTH HS,OK,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+NORTH HS,OK,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+THUNDER RIDGE HIGH SCHOOL,KS,dresses,shorter than mid-thigh,
+THUNDER RIDGE HIGH SCHOOL,KS,skirts,shorter than mid-thigh,
+THUNDER RIDGE HIGH SCHOOL,KS,shorts,shorter than x inch inseam,3
+CALERA HIGH SCH,AL,dresses,shorter than mid-thigh,
+CALERA HIGH SCH,AL,skirts,shorter than mid-thigh,
+CALERA HIGH SCH,AL,shorts,shorter than mid-thigh,
+PEKIN COMMUNITY HIGH SCHOOL,IA,dresses,shorter than fingertips,
+PEKIN COMMUNITY HIGH SCHOOL,IA,skirts,shorter than fingertips,
+PEKIN COMMUNITY HIGH SCHOOL,IA,shorts,shorter than fingertips,
+BRINDLEE MT HIGH SCH,AL,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+BRINDLEE MT HIGH SCH,AL,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+BRINDLEE MT HIGH SCH,AL,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+SOROCO HIGH SCHOOL,CO,skirts,shorter than fingertips,
+SOROCO HIGH SCHOOL,CO,shorts,shorter than fingertips,
+WACONIA SENIOR HIGH,MN,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+WACONIA SENIOR HIGH,MN,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+SAN JON HIGH,NM,dresses,shorter than mid-thigh,
+SAN JON HIGH,NM,skirts,shorter than mid-thigh,
+JOSEPH CASE HIGH,MA,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+JOSEPH CASE HIGH,MA,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+WHARTON H S,TX,dresses,shorter than x inches from knee,2
+WHARTON H S,TX,skirts,shorter than x inches from knee,
+WHARTON H S,TX,shorts,shorter than x inches from knee,
+WHARTON H S,TX,jumpers,shorter than x inches from knee,
+WHARTON H S,TX,capris,shorter than x inches from knee,
+LEAVENWORTH SR HIGH,KS,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+LEAVENWORTH SR HIGH,KS,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+ILLINOIS VALLEY HIGH SCHOOL,OR,skirts,shorter than mid-thigh,
+ILLINOIS VALLEY HIGH SCHOOL,OR,shorts,shorter than mid-thigh,
+GRIFFIN HIGH SCHOOL,GA,dresses,shorter than fingertips,
+GRIFFIN HIGH SCHOOL,GA,skirts,shorter than fingertips,
+GRIFFIN HIGH SCHOOL,GA,shorts,shorter than fingertips,
+GRIFFIN HIGH SCHOOL,GA,skorts,shorter than fingertips,
+MONTE VISTA HIGH,CA,skirts,shorter than thumb knuckle,
+MONTE VISTA HIGH,CA,shorts,shorter than thumb knuckle,
+OLTON H S,TX,dresses,shorter than x inches from knee,3
+OLTON H S,TX,skirts,shorter than x inches from knee,3
+OLTON H S,TX,shorts,shorter than x inches from knee,3
+JEFFERSON HIGH,WI,dresses,shorter than fingertips,
+JEFFERSON HIGH,WI,skirts,shorter than fingertips,
+JEFFERSON HIGH,WI,shorts,shorter than fingertips,
+HOMINY HS,OK,shorts,shorter than x inches from knee,6
+GLEN ROSE H S,TX,skirts,shorter than mid-thigh,
+GLEN ROSE H S,TX,shorts,shorter than fingertips,
+MONROE-WOODBURY HIGH SCHOOL,NY,shorts,shorter than x inch inseam,4
+LOVELL HIGH SCHOOL,WY,clothing,shorter than mid-thigh,
+SAUK PRAIRIE HIGH,WI,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+SAUK PRAIRIE HIGH,WI,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+PERRY CENTRAL HIGH SCHOOL,MS,dresses,shorter than x inches from knee,4
+PERRY CENTRAL HIGH SCHOOL,MS,skirts,shorter than x inches from knee,4
+PERRY CENTRAL HIGH SCHOOL,MS,shorts,shorter than x inches from knee,4
+KETCHUM HS,OK,dresses,shorter than the knee,
+KETCHUM HS,OK,skirts,shorter than the knee,
+KETCHUM HS,OK,shorts,shorter than x inch inseam,5
+LEOMINSTER HIGH SCHOOL,MA,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+LEOMINSTER HIGH SCHOOL,MA,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+MADRAS HIGH SCHOOL,OR,dresses,shorter than fingertips,
+MADRAS HIGH SCHOOL,OR,skirts,shorter than fingertips,
+MADRAS HIGH SCHOOL,OR,shorts,shorter than fingertips,
+CHRISTIANSBURG HIGH,VA,dresses,shorter than fingertips,
+CHRISTIANSBURG HIGH,VA,skirts,shorter than fingertips,
+CHRISTIANSBURG HIGH,VA,shorts,shorter than fingertips,
+MILLER PLACE HIGH SCHOOL,NY,skirts,shorter than x inches from knee,width of dollar bill
+MILLER PLACE HIGH SCHOOL,NY,shorts,shorter than x inches from knee,width of dollar bill
+LEHIGH SENIOR HIGH SCHOOL,FL,skirts,shorter than the knee,
+LEHIGH SENIOR HIGH SCHOOL,FL,shorts,shorter than the knee,
+SPAULDING UHSD #41,VT,dresses,shorter than fingertips,
+SPAULDING UHSD #41,VT,skirts,shorter than fingertips,
+TIPTON HIGH SCHOOL,IA,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+BIG PINEY HIGH SCHOOL,WY,dresses,shorter than mid-thigh,
+BIG PINEY HIGH SCHOOL,WY,skirts,shorter than mid-thigh,
+BIG PINEY HIGH SCHOOL,WY,shorts,shorter than mid-thigh,
+CLEARWATER HIGH,MO,skirts,shorter than the knee,
+CLEARWATER HIGH,MO,shorts,shorter than the knee,
+HILLDALE HS,OK,skirts,shorter than x inches from knee,5
+HILLDALE HS,OK,shorts,shorter than x inches from knee,5
+ALVARADO H S,TX,dresses,shorter than x inches from knee,2
+ALVARADO H S,TX,skirts,shorter than x inches from knee,2
+ALVARADO H S,TX,shorts,shorter than x inches from knee,2
+SAYRE HS,OK,skirts,shorter than fingertips,
+SAYRE HS,OK,shorts,shorter than fingertips,
+CHASE HIGH,KS,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+CHASE HIGH,KS,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+PLAINWELL HIGH SCHOOL,MI,skirts,shorter than mid-thigh,
+PLAINWELL HIGH SCHOOL,MI,shorts,shorter than mid-thigh,
+CIMARRON HS,OK,skirts,shorter than fingertips,
+CIMARRON HS,OK,shorts,shorter than fingertips,
+CIMARRON HS,OK,skorts,shorter than fingertips,
+CENTRALIA HIGH,MO,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+GUYMON HS,OK,dresses,shorter than x inches from knee,3
+GUYMON HS,OK,shorts,shorter than x inches from knee,3
+PALACIOS H S,TX,dresses,shorter than fingertips,
+PALACIOS H S,TX,skirts,shorter than fingertips,
+PALACIOS H S,TX,shorts,shorter than fingertips,
+PENTUCKET REGIONAL SR HIGH,MA,skirts,shorter than fingertips,
+PENTUCKET REGIONAL SR HIGH,MA,shorts,shorter than fingertips,
+GRANTSBURG HIGH,WI,skirts,shorter than x inches from knee,6
+GRANTSBURG HIGH,WI,shorts,shorter than x inch inseam,4
+UNIONVILLE-SEBEWAING HIGH SCHOOL,MI,shorts,shorter than x inches from knee,4
+DANVERS HIGH,MA,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+DANVERS HIGH,MA,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+DANVERS HIGH,MA,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+IGNACIO HIGH SCHOOL,CO,dresses,shorter than fingertips,
+IGNACIO HIGH SCHOOL,CO,skirts,shorter than fingertips,
+IGNACIO HIGH SCHOOL,CO,shorts,shorter than fingertips,
+OMRO HIGH,WI,dresses,shorter than mid-thigh,
+OMRO HIGH,WI,skirts,shorter than mid-thigh,
+OMRO HIGH,WI,shorts,shorter than mid-thigh,
+PIERCE COUNTY HIGH SCHOOL,GA,dresses,shorter than x inches from knee,2
+PIERCE COUNTY HIGH SCHOOL,GA,skirts,shorter than x inches from knee,2
+PIERCE COUNTY HIGH SCHOOL,GA,shorts,shorter than x inches from knee,2
+SOUTH ALBANY HIGH SCHOOL,OR,shorts,shorter than mid-thigh,
+CONNALLY HIGH SCHOOL,TX,dresses,shorter than fingertips,
+CONNALLY HIGH SCHOOL,TX,skirts,shorter than fingertips,
+CONNALLY HIGH SCHOOL,TX,shorts,shorter than fingertips,
+MIDDLE CREEK HIGH,NC,dresses,shorter than fingertips,
+MIDDLE CREEK HIGH,NC,skirts,shorter than fingertips,
+MIDDLE CREEK HIGH,NC,shorts,shorter than fingertips,
+MOUNTAIN VIEW HIGH SCHOOL,WY,shorts,shorter than mid-thigh,
+TEXAS H S,TX,dresses,shorter than fingertips,
+TEXAS H S,TX,skirts,shorter than fingertips,
+TEXAS H S,TX,shorts,shorter than fingertips,
+MOORE HS,OK,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+MOORE HS,OK,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+CLEAR BROOK H S,TX,dresses,shorter than mid-thigh,
+CLEAR BROOK H S,TX,pants,shorter than mid-thigh,
+CLEAR BROOK H S,TX,skirts,shorter than mid-thigh,
+CLEAR BROOK H S,TX,shorts,shorter than mid-thigh,
+MEMORIAL HS,OK,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+MEMORIAL HS,OK,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+EAST HAMPTON HIGH SCHOOL,NY,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+EAST HAMPTON HIGH SCHOOL,NY,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+WARRENTON HIGH SCHOOL,OR,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+IRVINE HIGH,CA,dresses,shorter than fingertips,
+IRVINE HIGH,CA,skirts,shorter than fingertips,
+IRVINE HIGH,CA,shorts,shorter than fingertips,
+HILLIARD BRADLEY HIGH SCHOOL,OH,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+HILLIARD BRADLEY HIGH SCHOOL,OH,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+MEDFORD HIGH,MA,shirts,reach top of pants,
+SENIOR HS,OK,skirts,"shorter than mid-thigh, ""short""/""inappropriate length"" (no exact measurement given)",
+SENIOR HS,OK,shorts,"shorter than mid-thigh, ""short""/""inappropriate length"" (no exact measurement given)",
+MONROE CITY R-I HIGH,MO,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+MONROE CITY R-I HIGH,MO,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+TEMPLE H S,TX,dresses,"shorter than fingertips, shorter than the knee",
+TEMPLE H S,TX,shorts,"shorter than fingertips, shorter than the knee",
+RIPLEY HIGH SCHOOL,MS,dresses,shorter than x inches from knee,2
+RIPLEY HIGH SCHOOL,MS,pants,shorter than x inches from knee,2
+RIPLEY HIGH SCHOOL,MS,skirts,shorter than x inches from knee,2
+RIPLEY HIGH SCHOOL,MS,shorts,shorter than x inches from knee,2
+HAVERLING SENIOR HIGH SCHOOL,NY,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+HAVERLING SENIOR HIGH SCHOOL,NY,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+WHITE RIVER HIGH SCHOOL,WA,dresses,shorter than mid-thigh,
+WHITE RIVER HIGH SCHOOL,WA,skirts,shorter than mid-thigh,
+WHITE RIVER HIGH SCHOOL,WA,shorts,shorter than mid-thigh,
+NEWTON SENIOR HIGH SCHOOL,IA,shorts,shorter than mid-thigh,
+CARTER COUNTY HIGH SCHOOL,MT ,skirts,"shorter than 1"" below fingertips",
+CARTER COUNTY HIGH SCHOOL,MT ,shorts,"shorter than 1"" below fingertips",
+HOBBS HIGH,NM,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+HIAWATHA SR HIGH,KS,dresses,shorter than fingertips,
+HIAWATHA SR HIGH,KS,skirts,shorter than fingertips,
+HIAWATHA SR HIGH,KS,shorts,shorter than fingertips,
+PITTSFIELD HIGH,MA,skirts,shorter than fingertips,
+PITTSFIELD HIGH,MA,shorts,shorter than fingertips,
+SOCIAL CIRCLE HIGH SCHOOL,GA,shorts,shorter than mid-thigh,
+LOMIRA HIGH,WI,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+LOMIRA HIGH,WI,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+SARATOGA SPRINGS HIGH SCHOOL,NY,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+SARATOGA SPRINGS HIGH SCHOOL,NY,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+SKYVIEW HIGH SCHOOL,WA,skirts,shorter than fingertips,
+SKYVIEW HIGH SCHOOL,WA,shorts,shorter than fingertips,
+KELSO HIGH SCHOOL,WA,dresses,shorter than x inches from knee,5
+KELSO HIGH SCHOOL,WA,skirts,shorter than x inches from knee,5
+KELSO HIGH SCHOOL,WA,shorts,shorter than x inches from knee,5
+CHIRENO H S,TX,skirts,shorter than x inches from knee,3
+CHIRENO H S,TX,shorts,shorter than x inches from knee,3
+RUSSELL HIGH,KS,shorts,shorter than fingertips,
+NETTLETON HIGH SCHOOL,MS,dresses,shorter than the knee,
+NETTLETON HIGH SCHOOL,MS,skirts,shorter than the knee,
+NETTLETON HIGH SCHOOL,MS,shorts,shorter than the knee,
+SALLISAW HS,OK,skirts,shorter than fingertips,
+SALLISAW HS,OK,shorts,shorter than fingertips,
+LAKER HIGH SCHOOL,MI,skirts,shorter than the knee,
+LAKER HIGH SCHOOL,MI,shorts,shorter than the knee,
+GRAND RAPIDS SENIOR HIGH,Mn,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+ASHER HS,OK,skirts,shorter than mid-thigh,
+ASHER HS,OK,shorts,shorter than mid-thigh,
+LODI HIGH,WI,skirts,shorter than fingertips,
+LODI HIGH,WI,shorts,shorter than fingertips,
+MORRISON HS,OK,skirts,shorter than fingertips,
+MORRISON HS,OK,shorts,shorter than fingertips,
+OKAY HS,OK,dresses,shorter than 2 inches from fingertips,
+OKAY HS,OK,skirts,shorter than 2 inches from fingertips,
+OKAY HS,OK,shorts,shorter than 2 inches from fingertips,
+ASSETS,TX,dresses,shorter than the knee,
+ASSETS,TX,skirts,shorter than the knee,
+ASSETS,TX,shorts,shorter than the knee,
+ASSETS,TX,skorts,shorter than the knee,
+ASSETS,TX,jumpers,shorter than the knee,
+ASSETS,TX,culottes,shorter than the knee,
+CLEAR CREEK HIGH SCHOOL,CO,dresses,shorter than mid-thigh,
+CLEAR CREEK HIGH SCHOOL,CO,skirts,shorter than mid-thigh,
+CLEAR CREEK HIGH SCHOOL,CO,shorts,shorter than mid-thigh,
+BURKBURNETT H S,TX,dresses,shorter than fingertips,
+BURKBURNETT H S,TX,skirts,shorter than fingertips,
+BURKBURNETT H S,TX,shorts,shorter than fingertips,
+RAMON C. CORTINES SCHOOL OF VISUAL AND PERFORMING ARTS,CA,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+EDISON ACADEMY,MA,skirts,shorter than mid-thigh,
+EDISON ACADEMY,MA,shorts,shorter than mid-thigh,
+MASHPEE HIGH,MA,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+MASHPEE HIGH,MA,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+MASHPEE HIGH,MA,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+SILVER VALLEY HIGH,CA,skirts,shorter than mid-thigh,
+SILVER VALLEY HIGH,CA,shorts,shorter than mid-thigh,
+CALIFORNIA HIGH,MO,dresses,shorter than fingertips,
+CALIFORNIA HIGH,MO,skirts,shorter than fingertips,
+CALIFORNIA HIGH,MO,shorts,shorter than fingertips,
+ANDREWS H S,TX,skirts,shorter than x inches from knee,4
+ANDREWS H S,TX,shorts,shorter than x inches from knee,4
+BUFFALO HIGH SCHOOL,WY,shorts,shorter than x inch inseam,3
+TAFT UNION HIGH,CA,dresses,shorter than mid-thigh,
+TAFT UNION HIGH,CA,shorts,shorter than x inch inseam,4
+GRAHAM HS,OK,dresses,shorter than x inches from knee,4
+GRAHAM HS,OK,skirts,shorter than x inches from knee,
+GRAHAM HS,OK,shorts,shorter than x inches from knee,
+CALIFORNIA HIGH,MO,dresses,shorter than mid-thigh,
+CALIFORNIA HIGH,MO,skirts,shorter than mid-thigh,
+CALIFORNIA HIGH,MO,shorts,shorter than mid-thigh,
+SWEETWATER H S,TX,dresses,shorter than x inches from knee,3.5
+SWEETWATER H S,TX,skirts,shorter than x inches from knee,3.5
+SWEETWATER H S,TX,shorts,shorter than x inches from knee,3.5
+GLEN ULLIN HIGH SCHOOL,ND,skirts,shorter than mid-thigh,
+GLEN ULLIN HIGH SCHOOL,ND,shorts,shorter than mid-thigh,
+QUARTZ HILL HIGH,CA,dresses,shorter than mid-thigh,
+QUARTZ HILL HIGH,CA,skirts,shorter than mid-thigh,
+QUARTZ HILL HIGH,CA,shorts,shorter than mid-thigh,
+QUARTZ HILL HIGH,CA,slits,shorter than mid-thigh,
+WRAY HIGH SCHOOL,CO,dresses,shorter than mid-thigh,
+WRAY HIGH SCHOOL,CO,skirts,shorter than mid-thigh,
+WRAY HIGH SCHOOL,CO,shorts,shorter than mid-thigh,
+PONCA CITY HS,OK,dresses,shorter than mid-thigh,
+PONCA CITY HS,OK,skirts,shorter than mid-thigh,
+PONCA CITY HS,OK,shorts,shorter than mid-thigh,
+HILTON HIGH SCHOOL,NY,skirts,NA,
+HILTON HIGH SCHOOL,NY,shorts,NA,
+HILTON HIGH SCHOOL,NY,skirts and shorts prohibited,NA,
+NORTH DOUGLAS HIGH SCHOOL,OR,shorts,shorter than x inch inseam,6
+COLBY SENIOR HIGH,KS,dresses,shorter than fingertips,
+COLBY SENIOR HIGH,KS,skirts,shorter than fingertips,
+COLBY SENIOR HIGH,KS,shorts,shorter than fingertips,
+SCOTTS VALLEY HIGH,CA,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+SCOTTS VALLEY HIGH,CA,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+AUBURN SENIOR HIGH,MA,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+AUBURN SENIOR HIGH,MA,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+AUBURN HIGH,VA,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+AUBURN HIGH,VA,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+HICKORY RIDGE HIGH,NC,dresses,shorter than x inches from knee,3
+HICKORY RIDGE HIGH,NC,skirts,shorter than x inches from knee,3
+HICKORY RIDGE HIGH,NC,shorts,shorter than x inches from knee,3
+DEWITT HIGH SCHOOL,AR,dresses,shorter than the knee,
+DEWITT HIGH SCHOOL,AR,skirts,shorter than the knee,
+DEWITT HIGH SCHOOL,AR,shorts,shorter than the knee,
+MARION L STEELE HIGH SCHOOL,OH,dresses,shorter than mid-thigh,
+MARION L STEELE HIGH SCHOOL,OH,skirts,shorter than mid-thigh,
+MARION L STEELE HIGH SCHOOL,OH,shorts,shorter than mid-thigh,
+BAY SHORE SENIOR HIGH SCHOOL,NY,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+BAY SHORE SENIOR HIGH SCHOOL,NY,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+SAINT HELENA HIGH,CA,skirts,shorter than mid-thigh,
+SAINT HELENA HIGH,CA,shorts,shorter than mid-thigh,
+REEDS SPRING HIGH,MO,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+REEDS SPRING HIGH,MO,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+CONNETQUOT HIGH SCHOOL,NY,dresses,shorter than fingertips,
+CONNETQUOT HIGH SCHOOL,NY,skirts,shorter than fingertips,
+CONNETQUOT HIGH SCHOOL,NY,shorts,shorter than fingertips,
+PORUM HS,OK,dresses,shorter than fingertips,
+PORUM HS,OK,skirts,shorter than fingertips,
+PORUM HS,OK,shorts,shorter than fingertips,
+MOUNT PLEASANT HIGH,NC,dresses,shorter than x inches from knee,3
+MOUNT PLEASANT HIGH,NC,skirts,shorter than x inches from knee,3
+MOUNT PLEASANT HIGH,NC,shorts,shorter than x inches from knee,3
+POTTSTOWN SHS,PA,dresses,shorter than fingertips,
+POTTSTOWN SHS,PA,skirts,shorter than fingertips,
+MENCHVILLE HIGH,VA,dresses,shorter than mid-thigh,
+MENCHVILLE HIGH,VA,skirts,shorter than mid-thigh,
+MENCHVILLE HIGH,VA,shorts,shorter than mid-thigh,
+WHEELER HIGH SCHOOL,CT,dresses,reasonable coverage,
+WHEELER HIGH SCHOOL,CT,skirts,reasonable coverage,
+WHEELER HIGH SCHOOL,CT,shorts,reasonable coverage,
+MARSHALLTOWN HIGH SCHOOL,IA,dresses,shorter than mid-thigh,
+MARSHALLTOWN HIGH SCHOOL,IA,skirts,shorter than mid-thigh,
+MARSHALLTOWN HIGH SCHOOL,IA,shorts,shorter than mid-thigh,
+NORTHWEST CABARRUS HIGH,NC,skirts,shorter than x inches from knee,3
+NORTHWEST CABARRUS HIGH,NC,shorts,shorter than x inches from knee,3
+ELKHORN AREA HIGH,WI,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+ELKHORN AREA HIGH,WI,pants,"""short""/""inappropriate length"" (no exact measurement given)",
+ELKHORN AREA HIGH,WI,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+ELKHORN AREA HIGH,WI,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+ALMONT HIGH SCHOOL,MI,dresses,shorter than fingertips,
+ALMONT HIGH SCHOOL,MI,skirts,shorter than fingertips,
+ALMONT HIGH SCHOOL,MI,shorts,shorter than fingertips,
+EASTERN YORK HS,PA,skirts,shorter than x inch inseam,4
+EASTERN YORK HS,PA,shorts,shorter than x inch inseam,4
+WASHINGTON HS,OK,skirts,shorter than fingertips,
+WASHINGTON HS,OK,shorts,shorter than fingertips,
+TALIHINA HS,OK,apparel,shorter than x inches from knee,2
+LAMPHERE HIGH SCHOOL,MI,dresses,shorter than fingertips,
+LAMPHERE HIGH SCHOOL,MI,skirts,shorter than fingertips,
+LAMPHERE HIGH SCHOOL,MI,shorts,shorter than fingertips,
+NEWBERG SENIOR HIGH SCHOOL,OR,dresses,shorter than fingertips,
+NEWBERG SENIOR HIGH SCHOOL,OR,skirts,shorter than fingertips,
+NEWBERG SENIOR HIGH SCHOOL,OR,shorts,shorter than x inch inseam,4
+EDGEWOOD H S,TX,dresses,shorter than x inches from knee,2
+EDGEWOOD H S,TX,skirts,shorter than x inches from knee,
+EDGEWOOD H S,TX,shorts,shorter than x inches from knee,
+BLAIR OAKS HIGH,MO,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+VINTON-SHELLSBURG HIGH SCHOOL,IA,skirts,shorter than fingertips,
+VINTON-SHELLSBURG HIGH SCHOOL,IA,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+ATLANTA H S,TX,skirts,shorter than fingertips,
+ATLANTA H S,TX,shorts,shorter than fingertips,
+STRAFFORD HIGH,MO,shorts,shorter than fingertips,
+QUINCY HIGH SCHOOL,WA,dresses,shorter than x inches from knee,3
+QUINCY HIGH SCHOOL,WA,shorts,shorter than x inches from knee,3
+POTOSI HIGH,WI,dresses,shorter than mid-thigh,
+POTOSI HIGH,WI,skirts,shorter than mid-thigh,
+POTOSI HIGH,WI,shorts,shorter than mid-thigh,
+BETHEL PARK HS,PA,skirts,shorter than fingertips,
+BETHEL PARK HS,PA,shorts,shorter than fingertips,
+CLINTON HIGH,WI,skirts,shorter than mid-thigh,
+CLINTON HIGH,WI,shorts,shorter than mid-thigh,
+CONCORD HIGH,NC,pants,"""short""/""inappropriate length"" (no exact measurement given)",
+CONCORD HIGH,NC,skirts,shorter than x inches from knee,3
+CONCORD HIGH,NC,shorts,shorter than x inches from knee,3
+JENKS HS,OK,dresses,shorter than fingertips,
+JENKS HS,OK,skirts,shorter than fingertips,
+JENKS HS,OK,shorts,shorter than fingertips,
+MOUNTAIN RANGE HIGH SCHOOL,CO,skirts,shorter than fingertips,
+MOUNTAIN RANGE HIGH SCHOOL,CO,shorts,shorter than fingertips,
+CHARLESTON HIGH,MO,skirts,shorter than x inches from knee,5
+CHARLESTON HIGH,MO,shorts,shorter than x inches from knee,5
+PRENTICE HIGH,WI,dresses,shorter than x inch inseam,6
+PRENTICE HIGH,WI,skirts,shorter than x inch inseam,6
+PRENTICE HIGH,WI,shorts,shorter than x inch inseam,4
+MOUNT UNION AREA SHS,PA,dresses,shorter than fingertips,
+MOUNT UNION AREA SHS,PA,skirts,shorter than fingertips,
+MOUNT UNION AREA SHS,PA,shorts,shorter than fingertips,
+JOHN STARK REGIONAL HIGH SCHOOL,NH,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+JOHN STARK REGIONAL HIGH SCHOOL,NH,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+BROOKFIELD HIGH SCHOOL,CT,dresses,long enough to move without exposing private parts,
+BROOKFIELD HIGH SCHOOL,CT,skirts,long enough to move without exposing private parts,
+BROOKFIELD HIGH SCHOOL,CT,shorts,long enough to move without exposing private parts,
+CRESTON HIGH SCHOOL,IA,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+THORP HIGH,WI,dresses,shorter than fingertips,
+THORP HIGH,WI,skirts,shorter than fingertips,
+THORP HIGH,WI,shorts,shorter than fingertips,
+NORTH FAYETTE HIGH SCHOOL,IA,skirts,shorter than fingertips,
+NORTH FAYETTE HIGH SCHOOL,IA,shorts,shorter than fingertips,
+HORNELL SENIOR HIGH SCHOOL,NY,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+CROSWELL-LEXINGTON HIGH SCHOOL,MI,dresses,shorter than mid-thigh,
+CROSWELL-LEXINGTON HIGH SCHOOL,MI,skirts,shorter than mid-thigh,
+CROSWELL-LEXINGTON HIGH SCHOOL,MI,shorts,shorter than mid-thigh,
+DANIEL HAND HIGH SCHOOL,CT,dresses,shorter than fingertips,
+DANIEL HAND HIGH SCHOOL,CT,skirts,shorter than fingertips,
+DANIEL HAND HIGH SCHOOL,CT,shorts,shorter than x inch inseam,2.5
+HOUSATONIC VALLEY REGIONAL HIGH SCHOOL,CT,dresses,shorter than fingertips,
+HOUSATONIC VALLEY REGIONAL HIGH SCHOOL,CT,skirts,shorter than fingertips,
+HOUSATONIC VALLEY REGIONAL HIGH SCHOOL,CT,shorts,to end of thumb (shorts),
+LYNNFIELD HIGH,MA,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+LYNNFIELD HIGH,MA,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+LAPINE SENIOR HIGH SCHOOL,OR,skirts,shorter than mid-thigh,
+LAPINE SENIOR HIGH SCHOOL,OR,shorts,shorter than x inch inseam,4
+MAHOPAC HIGH SCHOOL,NY,dresses,shorter than fingertips,
+MAHOPAC HIGH SCHOOL,NY,skirts,shorter than fingertips,
+MAHOPAC HIGH SCHOOL,NY,shorts,shorter than fingertips,
+NORTHLAND PINES HIGH,WI,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+BRADFORD AREA HS,PA,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+BRADFORD AREA HS,PA,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+SAUK RAPIDS-RICE SENIOR HIGH,MN,dresses,shorter than fingertips,
+SAUK RAPIDS-RICE SENIOR HIGH,MN,skirts,shorter than fingertips,
+SAUK RAPIDS-RICE SENIOR HIGH,MN,shorts,shorter than fingertips,
+SALINA HS,OK,dresses,shorter than mid-thigh,
+SALINA HS,OK,skirts,shorter than mid-thigh,
+SALINA HS,OK,shorts,shorter than mid-thigh,
+GENEVA HIGH SCH,AL,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+GENEVA HIGH SCH,AL,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+GENEVA HIGH SCH,AL,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+HOLCOMB HIGH,KS,dresses,shorter than fingertips,
+HOLCOMB HIGH,KS,skirts,shorter than fingertips,
+HOLCOMB HIGH,KS,shorts,shorter than fingertips,
+MARINER HIGH SCHOOL,FL,dresses,shorter than the knee,
+MARINER HIGH SCHOOL,FL,pants,shorter than the knee,
+MARINER HIGH SCHOOL,FL,skirts,shorter than the knee,
+MARINER HIGH SCHOOL,FL,shorts,shorter than the knee,
+PINE ISLAND SECONDARY,MN,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+ALTA LOMA HIGH,CA,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+PLEVNA HIGH SCHOOL,MT,skirts,shorter than mid-thigh,
+PLEVNA HIGH SCHOOL,MT,shorts,shorter than mid-thigh,
+UNIVERSITY CITY HIGH,CA,dresses,shorter than fingertips,
+UNIVERSITY CITY HIGH,CA,skirts,shorter than fingertips,
+UNIVERSITY CITY HIGH,CA,shorts,shorter than fingertips,
+HENDERSON H S,TX,dresses,shorter than x inches from knee,3
+HENDERSON H S,TX,skirts,shorter than x inches from knee,3
+HENDERSON H S,TX,shorts,shorter than x inches from knee,3
+SHELBY HIGH SCHOOL,MT,skirts,shorter than fingertips,
+SHELBY HIGH SCHOOL,MT,shorts,shorter than fingertips,
+HUDSON'S BAY HIGH SCHOOL,WA,skirts,shorter than fingertips,
+HUDSON'S BAY HIGH SCHOOL,WA,shorts,shorter than fingertips,
+VAN HORN HIGH,MO,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+VAN HORN HIGH,MO,pants,"""short""/""inappropriate length"" (no exact measurement given)",
+VAN HORN HIGH,MO,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+VAN HORN HIGH,MO,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+LOOKEBA-SICKLES HS,OK,dresses,shorter than fingertips,
+LOOKEBA-SICKLES HS,OK,skirts,shorter than fingertips,
+LOOKEBA-SICKLES HS,OK,shorts,shorter than fingertips,
+LOOKEBA-SICKLES HS,OK,skorts,shorter than fingertips,
+MARLIN H S,TX,dresses,shorter than x inches from knee,4
+MARLIN H S,TX,skirts,shorter than x inches from knee,4
+MARLIN H S,TX,shorts,shorter than x inches from knee,4
+HARDIN-JEFFERSON H S,TX,dresses,"shorter than the knee, ""short""/""inappropriate length"" (no exact measurement given)",
+HARDIN-JEFFERSON H S,TX,skirts,"shorter than the knee, ""short""/""inappropriate length"" (no exact measurement given)",
+HARDIN-JEFFERSON H S,TX,shorts,"shorter than the knee, ""short""/""inappropriate length"" (no exact measurement given)",
+MENOMONIE HIGH,WI,skirts,shorter than mid-thigh,
+MENOMONIE HIGH,WI,shorts,shorter than mid-thigh,
+NEW PRAGUE SENIOR HIGH,MN,skirts,shorter than mid-thigh,
+NEW PRAGUE SENIOR HIGH,MN,shorts,shorter than mid-thigh,
+SEQUOYAH HS,OK,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+SEQUOYAH HS,OK,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
