@@ -134,6 +134,24 @@ Below you'll find metadata for each file.
 | `inches` | If the `length` variable contains an `x` (e.g., `shorter than x inches from the knee`) the number in this column represents the x. For some schools, this is not a number, but an item used for reference (e.g., `width of a dollar bill`) | text |
 
 ---
+## sanctions.cdsv
+- 	**What is this?**: This file contains specific data about any sanctions for dress code violations listed directly in the `Dress Code` section of the Student Handbook or Code of Conduct.
+-   **Source(s)**: These data were collected in the same way as `banned_items.csv` and are presented without further processing.
+-   **Last Modified**: February 2, 2019
+-   **Contact Information**: [Amber Thomas](mailto:amber@pudding.cool)
+-   **Spatial Applicability**: United States
+-   **Temporal Applicability**: All data was collected for high schools' 2018-2019 school year.
+-   **Observations (Rows)**: Each row represents data on a single sanction.
+-   **Variables (Columns)**:
+
+| Header | Description | Data Type |
+|---|---|---|
+|`schoolName` |  The NCES-formatted school name. | text |
+| `state` | The two-letter state abbreviation for each school. | text |
+| `sanction` | The sanction/punishment for breaking the school dress code. | text |
+| `offense` | Some schools listed specific sanctions for the first offense (`1st`), second offense (`2nd`) etc. If no specific offense number was listed, it is entered in this column as `Any`. | text |
+
+---
 
 ## school_metadata.csv
 
@@ -152,6 +170,50 @@ Below you'll find metadata for each file.
 | `stateAbb` | The two-letter state abbreviation for each school. | text |
 | `locale` | The NCES [locale](https://nces.ed.gov/pubs2007/ruraled/exhibit_a.asp) variable (e.g., `21-Suburb: Large`, `41-Rural: Fringe`)| text |
 | `totalStudents` | The number of students attending the school (according to the NCES) | number |
+
+---
+## strap_restrictions.csv
+
+- 	**What is this?**: This file contains specific data about any strap-width restrictions for shirts/dresses.
+-   **Source(s)**: These data were collected in the same way as `banned_items.csv` and are presented without further processing.
+-   **Last Modified**: February 2, 2019
+-   **Contact Information**: [Amber Thomas](mailto:amber@pudding.cool)
+-   **Spatial Applicability**: United States
+-   **Temporal Applicability**: All data was collected for high schools' 2018-2019 school year.
+-   **Observations (Rows)**: Each row represents data on a single item rule.
+-   **Variables (Columns)**:
+
+| Header | Description | Data Type |
+|---|---|---|
+|`schoolName` |  The NCES-formatted school name. | text |
+| `state` | The two-letter state abbreviation for each school. | text |
+| `limits` | The width restriction for each strap (e.g., `to the edge of the shoulder`, `less than x inches`) | text |
+| `number` | If the `limits` variable contains an `x` (e.g., `less than x inches`) the number in this column represents the x. For some schools, this is not a number, but an item used for reference (e.g., `width of a dollar bill`) | text |
+
+---
+
+## words_percentages.csv & words_percentages.R
+
+
+- `words_percentages.csv`: The data as described below
+- `words_percentages.R`: The script used to process  `banned_items.csv` to create `words_percentages.csv`. The data was then used for the graphics in the section of The Messages Dress Codes Are Sending labelled "Most Common Words in the Rationale for Dress Codes". This script was written in the R programming language. All details describing the R session environment during processing are available [here](#Session-info).
+
+
+- 	**What is this?**: The `.csv` file contains the words manually tagged from the dress code that were used to describe the rationale that the dress code exists or that a specific item is prohibited.
+-   **Source(s)**: Since this is processed data from `banned_items.csv`, refer to the `Source` section of `banned_items.csv`.
+-   **Last Modified**: February 2, 2019
+-   **Contact Information**: [Amber Thomas](mailto:amber@pudding.cool)
+-   **Spatial Applicability**: United States
+-   **Temporal Applicability**: All data was collected for high schools' 2018-2019 school year.
+-   **Observations (Rows)**: Each row represents data on a word/phrase.
+-   **Variables (Columns)**:
+
+| Header | Description | Data Type |
+|---|---|---|
+| `item` | The general word/phrase tagged as being present in the dress code. | text |
+| `n` | The count of schools that use that word/phrase. | number |
+| `percent` | The percentage of schools (out of all schools analyzed), that include that word/phrase in their dress code policy. | number |
+| `display` | A cleaned version of the `item` for graphical display. | text |
 
 
 
