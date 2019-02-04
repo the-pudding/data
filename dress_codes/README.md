@@ -114,6 +114,25 @@ Below you'll find metadata for each file.
 | `slug` | A formatted version of the item name | text |
 
 ---
+
+## full_text.csv
+- 	**What is this?**: This file contains the entire dress code text for each school.
+-   **Source(s)**: These data were collected in the same way as `banned_items` and are presented without further processing.
+-   **Last Modified**: February 2, 2019
+-   **Contact Information**: [Amber Thomas](mailto:amber@pudding.cool)
+-   **Spatial Applicability**: United States
+-   **Temporal Applicability**: All data was collected for high schools' 2018-2019 school year.
+-   **Observations (Rows)**: Each row represents one school.
+-   **Variables (Columns)**:
+
+| Header | Description | Data Type |
+|---|---|---|
+|`schoolName` |  The NCES-formatted school name. | text |
+| `state` | The two-letter state abbreviation for each school. | text |
+| `link` | The URL link to the student handbook or dress code policy (as of November 2018 - February 2019) | text |
+| `text` | The full text of the dress code policy. This was often copied/pasted from PDF files so may have `/t` type notation for formatting purposes.  | text |
+
+---
 ## length_restrictions.csv
 
 - 	**What is this?**: This file contains specific data about any length restrictions on `shorts`, `skirts`, `dresses` etc.
@@ -134,7 +153,7 @@ Below you'll find metadata for each file.
 | `inches` | If the `length` variable contains an `x` (e.g., `shorter than x inches from the knee`) the number in this column represents the x. For some schools, this is not a number, but an item used for reference (e.g., `width of a dollar bill`) | text |
 
 ---
-## sanctions.cdsv
+## sanctions.csv
 - 	**What is this?**: This file contains specific data about any sanctions for dress code violations listed directly in the `Dress Code` section of the Student Handbook or Code of Conduct.
 -   **Source(s)**: These data were collected in the same way as `banned_items.csv` and are presented without further processing.
 -   **Last Modified**: February 2, 2019
@@ -150,6 +169,8 @@ Below you'll find metadata for each file.
 | `state` | The two-letter state abbreviation for each school. | text |
 | `sanction` | The sanction/punishment for breaking the school dress code. | text |
 | `offense` | Some schools listed specific sanctions for the first offense (`1st`), second offense (`2nd`) etc. If no specific offense number was listed, it is entered in this column as `Any`. | text |
+
+**Notes**: Some schools did not appear to list sanctions within the dress code policy, or referenced sanctions specified elsewhere. The sanctions listed here are **only** those that were listed within the text of the dress code policy so they may not indicate all possible sanctions for each school.
 
 ---
 
@@ -218,7 +239,7 @@ Below you'll find metadata for each file.
 
 
 
-
+---
 
 ## Session Info
 
