@@ -4,6 +4,7 @@ Data sets created for stories on [The Pudding](https://pudding.cool), open to th
 
 | Pudding Story Title                                                                                                      | Story Publish Date | Data Update Frequency | Keywords                                                                | Data                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------ | --------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+|[Sing My Name](https://pudding.cool/2019/05/names-in-songs)|May 2019 | never | music, names, US | [repo](https://github.com/the-pudding/data/tree/master/names-in-songs)|
 |[The Rise of Hyphenated Last Names in Pro Sports](https://pudding.cool/2019/05/hyphens/) | May 2019 | never | sports, culture, names, MLB, NBA, NFL, NHL, NWSL, WNBA | [repo](https://github.com/the-pudding/hyphenated-names) |
 |[The NBA Has A Defensive Three Seconds Problem](https://pudding.cool/2019/05/three-seconds) | May 2019 | never | basketball, NBA | [repo](https://github.com/the-pudding/data/tree/master/three-seconds) |
 |[Colorism in High Fashion](https://pudding.cool/2019/04/vogue) | April 2019 | never | fashion, diversity, US | [repo](https://github.com/the-pudding/data/tree/master/vogue) |
