@@ -16,6 +16,7 @@ Below you'll find the metadata for each file.
 -   **Variables (Columns)**:
 
 | Header | Description | Data Type |
+| --- | --- | --- |
 | `name` | name of person | text |
 | `city` | city/town name | text |
 | `neighborhood` | neighborhood name (if applicable) | text |
