@@ -7,7 +7,7 @@ Below you'll find the metadata for each file.
 ## people-map.csv
 
 -   **What is this?**: Data of the most visited person(s) Wikipedia page for each city with a "List of People from..." (~ 10,000) in the US
--   **Source(s) & Methodology**: [https://en.wikipedia.org](English Wikipedia)
+-   **Source(s) & Methodology**: [English Wikipedia](https://en.wikipedia.org)
 -   **Last Modified**: May 2019
 -   **Contact Information**: [Russell Goldenberg](mailto:russell@pudding.cool)
 -   **Spatial Applicability**: United States
