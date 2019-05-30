@@ -27,3 +27,4 @@ Below you'll find the metadata for each file.
 | `lat` | latitude of place | number |
 | `lng` | longitude of place | number |
 | `extract` | 200 character description of person | text |
+| `state` | state (or sometimes county if state is NA) | text |
