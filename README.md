@@ -4,6 +4,7 @@ Data sets created for stories on [The Pudding](https://pudding.cool), open to th
 
 | Pudding Story Title                                                                                                      | Story Publish Date | Data Update Frequency | Keywords                                                                | Data                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------ | --------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+|[A People Map of the UK](https://pudding.cool/2019/06/people-map-uk)|June 2019 | never | wiki, names, UK | [repo](https://github.com/the-pudding/data/tree/master/people-map-uk)|
 |[A People Map of the US](https://pudding.cool/2019/05/people-map)|May 2019 | never | wiki, names, US | [repo](https://github.com/the-pudding/data/tree/master/people-map)|
 |[Sing My Name](https://pudding.cool/2019/05/names-in-songs)|May 2019 | never | music, names, US | [repo](https://github.com/the-pudding/data/tree/master/names-in-songs)|
 |[The Rise of Hyphenated Last Names in Pro Sports](https://pudding.cool/2019/05/hyphens/) | May 2019 | never | sports, culture, names, MLB, NBA, NFL, NHL, NWSL, WNBA | [repo](https://github.com/the-pudding/hyphenated-names) |
