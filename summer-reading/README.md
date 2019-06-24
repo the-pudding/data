@@ -1,6 +1,5 @@
 
-This folder contains all of the data used in The Pudding essay [My
-Awesome Essay](https://pudding.cool) published in February 2018.
+This folder contains all of the data used in The Pudding essay [Hipster Summer Reading List](https://pudding.cool/2019/06/summer-reading/) published in June 2019.
 
 This file was last updated: June 24, 2019
 
