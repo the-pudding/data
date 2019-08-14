@@ -4,6 +4,7 @@ Data sets created for stories on [The Pudding](https://pudding.cool), open to th
 
 | Pudding Story Title                                                                                                      | Story Publish Date | Data Update Frequency | Keywords                                                                | Data                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------ | --------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+|[Vocal Register and Singing Voices](https://pudding.cool/2019/08/register/)| Aug 2019 | never | music | [repo](https://github.com/the-pudding/falsetto-story) |
 |[Book Covers](https://pudding.cool/2019/07/book-covers/)| July 2019 | never | books | [repo](https://github.com/the-pudding/book-covers) |
 |[Hipster Summer Reading List](https://pudding.cool/2019/06/summer-reading/)| June 2019 | never | books, library, Seattle | [repo](https://github.com/the-pudding/data/tree/master/summer-reading) |
 |[Best Year in Music](https://pudding.cool/projects/music-history/)|June 2019 | sometimes | music | [repo](https://github.com/the-pudding/music-taste-2019)|
