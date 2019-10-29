@@ -4,7 +4,8 @@ Data sets created for stories on [The Pudding](https://pudding.cool), open to th
 
 | Pudding Story Title                                                                                                      | Story Publish Date | Data Update Frequency | Keywords                                                                | Data                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------ | --------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-|[Finding Forever Homes](https://pudding.cool/2019/10/shelters)|Oct 2019| never | dogs, PetFinder, US | [repo](https://github.com/the-pudding/data/tree/master/dog-shelters)|
+|[Laughing OnLine](https://pudding.cool/2019/10/laugh)| Oct 2019 | never | laughter, Reddit | [repo](https://github.com/the-pudding/data/tree/master/laugh)|
+|[Finding Forever Homes](https://pudding.cool/2019/10/shelters)| Oct 2019 | never | dogs, PetFinder, US | [repo](https://github.com/the-pudding/data/tree/master/dog-shelters)|
 |[Vocal Register and Singing Voices](https://pudding.cool/2019/08/register/)| Aug 2019 | never | music | [repo](https://github.com/the-pudding/falsetto-story) |
 |[Book Covers](https://pudding.cool/2019/07/book-covers/)| July 2019 | never | books | [repo](https://github.com/the-pudding/book-covers) |
 |[Hipster Summer Reading List](https://pudding.cool/2019/06/summer-reading/)| June 2019 | never | books, library, Seattle | [repo](https://github.com/the-pudding/data/tree/master/summer-reading) |
