@@ -1,6 +1,6 @@
 This folder contains all of the data used in The Pudding essay Laughing OnLine published in October 2019.
 
-The data will never be updated.
+The data will never be updated. *Note: all laughs have data for 2019, only some have previous years.*
 
 Below you'll find the metadata for each file.
 
