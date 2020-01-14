@@ -136,7 +136,7 @@ nvZip <- c("89009", "89011", "89014", '89015', '89019', '89024', '89027','89032'
 statesToCheck <- c(state.abb, nvZip, "DC")
 
 # Setting up progress bar
-pb <- progress_estimated(length(limitedStates))
+pb <- progress_estimated(length(statesToCheck))
 
 # Creating fallback in case an error occurs
 findSafely <- possibly(findDogs, otherwise = NA)
