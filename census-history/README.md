@@ -1,4 +1,4 @@
-This folder contains all of the data used in The Pudding article The Evolution of the American Census published in March 2020.
+This folder contains the primary dataset used in The Pudding article The Evolution of the American Census published in March 2020.
 
 Below you'll find metadata for the dataset.
 
@@ -46,5 +46,5 @@ _Note: a question's type is inferred based on the layout of the census form and 
 | CC    | Multiple choice | What is this person's sex: male, female?       |
 | FD    | Date            | What is your month and year of birth?          |
 | FM    | Money           | What is your monthly rent or mortgage payment? |
-| FN    | Free number     | How many people live here?                     |
-| FT    | Free text       | What is your occupation?                       |
+| FN    | Number          | How many people live here?                     |
+| FT    | Text            | What is your occupation?                       |
