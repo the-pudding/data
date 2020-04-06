@@ -1,0 +1,227 @@
+"category","badword","inSongs","censored","pctCensored"
+"alcohol & drugs","addict",8,4,50
+"alcohol & drugs","alcohol",0,0,NA
+"alcohol & drugs","bar",5,3,60
+"alcohol & drugs","bars",2,1,50
+"alcohol & drugs","beer",1,0,0
+"alcohol & drugs","blow",28,7,25
+"alcohol & drugs","blunt",0,0,NA
+"alcohol & drugs","bottle",11,7,63.6363636363636
+"alcohol & drugs","bubbles",1,1,100
+"alcohol & drugs","champagne",11,9,81.8181818181818
+"alcohol & drugs","chronic",0,0,NA
+"alcohol & drugs","cigarette",7,7,100
+"alcohol & drugs","cocaine",0,0,NA
+"alcohol & drugs","coke",1,0,0
+"alcohol & drugs","crystal",3,0,0
+"alcohol & drugs","dope",3,3,100
+"alcohol & drugs","drank",4,2,50
+"alcohol & drugs","drink",32,20,62.5
+"alcohol & drugs","drug",4,3,75
+"alcohol & drugs","drunk",17,17,100
+"alcohol & drugs","ecstasy",2,1,50
+"alcohol & drugs","gin",1,1,100
+"alcohol & drugs","hennessy",1,1,100
+"alcohol & drugs","henny",3,3,100
+"alcohol & drugs","heroine",0,0,NA
+"alcohol & drugs","high",52,18,34.6153846153846
+"alcohol & drugs","holy",0,0,NA
+"alcohol & drugs","hookah",2,1,50
+"alcohol & drugs","ice",10,3,30
+"alcohol & drugs","intoxicate",2,2,100
+"alcohol & drugs","jack",4,2,50
+"alcohol & drugs","juice",4,3,75
+"alcohol & drugs","lighter",3,1,33.3333333333333
+"alcohol & drugs","lighters",1,1,100
+"alcohol & drugs","liquor",5,5,100
+"alcohol & drugs","marijuana",1,1,100
+"alcohol & drugs","martini",1,1,100
+"alcohol & drugs","mdma",0,0,NA
+"alcohol & drugs","meth",0,0,NA
+"alcohol & drugs","molly",2,2,100
+"alcohol & drugs","moonshine",1,1,100
+"alcohol & drugs","overdose",5,5,100
+"alcohol & drugs","pill",3,1,33.3333333333333
+"alcohol & drugs","pills",2,2,100
+"alcohol & drugs","pot",2,1,50
+"alcohol & drugs","pour",10,2,20
+"alcohol & drugs","prosecco",0,0,NA
+"alcohol & drugs","puff",1,1,100
+"alcohol & drugs","rum",2,1,50
+"alcohol & drugs","sake",2,0,0
+"alcohol & drugs","sip",6,2,33.3333333333333
+"alcohol & drugs","sippin",7,3,42.8571428571429
+"alcohol & drugs","smoke",7,5,71.4285714285714
+"alcohol & drugs","smoking",5,4,80
+"alcohol & drugs","sober",3,3,100
+"alcohol & drugs","spirits",2,1,50
+"alcohol & drugs","tequila",2,2,100
+"alcohol & drugs","vodka",3,1,33.3333333333333
+"alcohol & drugs","whiskey",2,2,100
+"alcohol & drugs","wine",4,4,100
+"identity","gay",1,1,100
+"identity","gentleman",2,0,0
+"identity","gentlemen",0,0,NA
+"identity","lesbian",1,1,100
+"identity","man",70,27,38.5714285714286
+"identity","men",7,4,57.1428571428571
+"identity","transgender",1,1,100
+"identity","woman",11,8,72.7272727272727
+"identity","women",3,3,100
+"other","amen",5,2,40
+"other","amnesia",1,0,0
+"other","antidepressor",0,0,NA
+"other","ball",14,4,28.5714285714286
+"other","baller",0,0,NA
+"other","ballin",3,2,66.6666666666667
+"other","bipolar",1,1,100
+"other","bless",11,5,45.4545454545455
+"other","casino",0,0,NA
+"other","christ",0,0,NA
+"other","christian",2,1,50
+"other","club",19,5,26.3157894736842
+"other","clubs",2,0,0
+"other","coma",1,1,100
+"other","counterfeit",1,1,100
+"other","crazier",0,0,NA
+"other","craziest",0,0,NA
+"other","crazy",57,5,8.7719298245614
+"other","creep",9,3,33.3333333333333
+"other","demon",3,2,66.6666666666667
+"other","devil",4,0,0
+"other","diablo",1,1,100
+"other","evil",6,1,16.6666666666667
+"other","faith",7,1,14.2857142857143
+"other","fetish",1,1,100
+"other","god",40,25,62.5
+"other","hustl",0,0,NA
+"other","ink",2,2,100
+"other","insane",10,1,10
+"other","insanity",1,0,0
+"other","jesus",4,3,75
+"other","lord",6,1,16.6666666666667
+"other","maniac",1,1,100
+"other","medicate",1,1,100
+"other","pray",23,6,26.0869565217391
+"other","priest",1,1,100
+"other","psycho",1,0,0
+"other","sanity",3,0,0
+"other","sin",4,1,25
+"other","sinner",1,0,0
+"other","sinning",0,0,NA
+"other","sins",0,0,NA
+"other","suicidal",1,1,100
+"other","suicide",0,0,NA
+"other","tattoo",9,5,55.5555555555556
+"other","toxic",1,0,0
+"other","unholy",1,1,100
+"profanity","apeshit",1,1,100
+"profanity","ass",14,14,100
+"profanity","bitch",23,23,100
+"profanity","crap",1,1,100
+"profanity","dammit",2,2,100
+"profanity","damn",37,33,89.1891891891892
+"profanity","fuck",33,33,100
+"profanity","hell",25,12,48
+"profanity","hella",3,3,100
+"profanity","hellish",1,1,100
+"profanity","nigga",9,8,88.8888888888889
+"profanity","piss",2,2,100
+"profanity","retard",1,1,100
+"profanity","savage",4,0,0
+"profanity","shit",42,42,100
+"sexual","bang",7,3,42.8571428571429
+"sexual","bed",30,12,40
+"sexual","bedroom",2,1,50
+"sexual","beds",1,0,0
+"sexual","bikini",2,2,100
+"sexual","blew",2,1,50
+"sexual","bodies",4,1,25
+"sexual","body",27,12,44.4444444444444
+"sexual","boob",2,2,100
+"sexual","booty",8,7,87.5
+"sexual","bra",0,0,NA
+"sexual","bras",2,2,100
+"sexual","breast",1,0,0
+"sexual","bun",0,0,NA
+"sexual","buns",2,2,100
+"sexual","butt",0,0,NA
+"sexual","butts",0,0,NA
+"sexual","chest",11,4,36.3636363636364
+"sexual","clothes",23,8,34.7826086956522
+"sexual","cock",3,1,33.3333333333333
+"sexual","coochie",2,2,100
+"sexual","curve",1,1,100
+"sexual","dick",2,2,100
+"sexual","dirtier",0,0,NA
+"sexual","dirty",10,3,30
+"sexual","dong",0,0,NA
+"sexual","donk",0,0,NA
+"sexual","dress",12,4,33.3333333333333
+"sexual","freak",13,9,69.2307692307692
+"sexual","grind",4,1,25
+"sexual","hip",1,0,0
+"sexual","hips",5,1,20
+"sexual","kiss",60,26,43.3333333333333
+"sexual","leg",2,1,50
+"sexual","legs",6,3,50
+"sexual","lip",3,1,33.3333333333333
+"sexual","lips",23,6,26.0869565217391
+"sexual","masturbate",0,0,NA
+"sexual","naked",4,3,75
+"sexual","neck",7,5,71.4285714285714
+"sexual","panties",1,1,100
+"sexual","pimp",4,4,100
+"sexual","pussies",0,0,NA
+"sexual","pussy",0,0,NA
+"sexual","scrotum",1,1,100
+"sexual","sex",18,14,77.7777777777778
+"sexual","skin",22,6,27.2727272727273
+"sexual","skirt",5,2,40
+"sexual","sleep",52,10,19.2307692307692
+"sexual","thigh",1,1,100
+"sexual","tit",0,0,NA
+"sexual","tits",0,0,NA
+"sexual","tongue",12,3,25
+"sexual","touch",47,15,31.9148936170213
+"sexual","underwear",0,0,NA
+"sexual","undress",2,2,100
+"sexual","waterbed",0,0,NA
+"violence","bleed",9,4,44.4444444444444
+"violence","blood",13,2,15.3846153846154
+"violence","bloodstain",1,1,100
+"violence","bomb",0,0,NA
+"violence","bullet",8,7,87.5
+"violence","crime",4,3,75
+"violence","criminal",0,0,NA
+"violence","cut",21,6,28.5714285714286
+"violence","cuts",3,2,66.6666666666667
+"violence","cutthroat",1,1,100
+"violence","cuttin",4,3,75
+"violence","dead",18,4,22.2222222222222
+"violence","death",8,3,37.5
+"violence","die",30,15,50
+"violence","dies",1,1,100
+"violence","fight",55,1,1.81818181818182
+"violence","gang",5,3,60
+"violence","gun",6,5,83.3333333333333
+"violence","guns",0,0,NA
+"violence","illegal",1,1,100
+"violence","kill",21,11,52.3809523809524
+"violence","knife",4,2,50
+"violence","knives",1,1,100
+"violence","murder",1,0,0
+"violence","poison",2,1,50
+"violence","punch",2,2,100
+"violence","scalpel",0,0,NA
+"violence","slap",0,0,NA
+"violence","slay",1,1,100
+"violence","stab",0,0,NA
+"violence","stabbed",1,0,0
+"violence","stabbing",0,0,NA
+"violence","stabs",0,0,NA
+"violence","thug",5,2,40
+"violence","trigger",2,1,50
+"violence","victim",1,1,100
+"violence","war",10,1,10
+"violence","weapon",1,1,100
