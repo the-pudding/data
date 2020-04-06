@@ -30,7 +30,7 @@ Below you'll find metadata for the dataset.
 
 ## KB_proportions.csv
 
-- **What is this?**: Porportion of bad words that were censored when present
+- **What is this?**: Proportion of bad words that were censored when present
 - **Source(s) & Methodology**: [Genuis API](https://docs.genius.com/), [Spotify API](https://developer.spotify.com/d), [R](https://www.r-project.org/)
 - **Last Modified**: April 2020
 - **Contact Information**: [Jan Diehm](mailto:jan@pudding.cool)
@@ -38,15 +38,15 @@ Below you'll find metadata for the dataset.
 - **Observations (Rows)**: Each row represents a year
 - **Variables (Columns)**:
 
-| Header                    | Description                                            | Data Type                   |
-| ------------------------- | ------------------------------------------------------ | --------------------------- |
-| `year`                    | year                                                   | number                      |
-| `alcohol`                 | proportion of badwords categorized as 'alcohol & drugs'| number                      |
-| `sexual`                  | proportion of badwords categorized as 'sexual'         | number                      |
-| `profanity`               | proportion of badwords categorized as 'profanity'      | number                      |
-| `identity`                | proportion of badwords categorized as 'identity'       | number                      |
-| `other`                   | proportion of badwords categorized as 'other'          | number                      |
-| `violence`                | proportion of badwords categorized as 'violence'       | number                      |
+| Header                    | Description                                                      | Data Type                   |
+| ------------------------- | ---------------------------------------------------------------- | --------------------------- |
+| `year`                    | year                                                             | number                      |
+| `alcohol`                 | proportion of censored bad words categorized as 'alcohol & drugs'| number                      |
+| `sexual`                  | proportion of censored bad words categorized as 'sexual'         | number                      |
+| `profanity`               | proportion of censored bad words categorized as 'profanity'      | number                      |
+| `identity`                | proportion of censored bad words categorized as 'identity'       | number                      |
+| `other`                   | proportion of censored bad words categorized as 'other'          | number                      |
+| `violence`                | proportion of censored bad words categorized as 'violence'       | number                      |
 
 _Note: badwords were manually categorized (examples below)._
 
