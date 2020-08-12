@@ -1,0 +1,272 @@
+name,year,party,white,male,whiteMale,RWB,redHex,whiteHex,blueHex,other1Hex,other2Hex,other3Hex,image
+John Delaney,2020,Democratic,Y,Y,TRUE,Y,#d74045,#ffffff,#014e7a,#87c3e8,,,2020-delaney.jpg
+Richard Ojeda,2020,Democratic,Y,Y,TRUE,Y,#cb2026,#ffffff,#0d4c8f,#262626,,,2020-ojeda.jpg
+Andrew Yang,2020,Democratic,N,Y,FALSE,Y,#e4304b,#ffffff,#21366f,#67aedc,,,2020-yang.jpg
+Julián Castro,2020,Democratic,N,Y,FALSE,Y,,#ffffff,#000134,#1177cb,,,2020-castro.jpg
+Marianne Williamson,2020,Democratic,Y,N,FALSE,N,,#ffffff,,#201648,#e280a6,,2020-williamson.jpg
+Kamala Harris,2020,Democratic,N,N,FALSE,N,#f44e42,,,#fce07d,#402f95,,2020-harris.jpg
+Elizabeth Warren,2020,Democratic,Y,N,FALSE,N,#b51a22,,#232443,#b7e4cf,,,2020-warren.jpg
+Tulsi Gabbard,2020,Democratic,N,N,FALSE,Y,#ce2f2b,,#122b49,#fd9609,#a2aebe,,2020-gabbard.jpg
+Jay Inslee,2020,Democratic,Y,Y,TRUE,Y,#db363a,#ffffff,#0c3048,#497a8b,#2d6a4b,,2020-inslee.jpg
+Amy Klobuchar,2020,Democratic,Y,N,FALSE,N,,,#00448d,#0b9e46,#fcfff6,,2020-klobuchar.jpg
+John Hickenlooper,2020,Democratic,Y,Y,TRUE,N,,#ffffff,#00adef,#520b75,,,2020-hickenlooper.jpg
+Bernie Sanders,2020,Democratic,Y,Y,TRUE,Y,#ff2245,#ffffff,#0170cc,,,,2020-sanders.jpg
+Kirsten Gillibrand,2020,Democratic,Y,N,FALSE,N,,#ffffff,#12294b,#fe256c,,,2020-gillibrand.jpg
+Wayne Messam,2020,Democratic,N,Y,FALSE,Y,#ca261a,#ffffff,#0071a5,,,,2020-messam.jpg
+Tim Ryan,2020,Democratic,Y,Y,TRUE,Y,#dd0023,#ffffff,#0097d8,,,,2020-ryan.jpg
+Beto O'Rourke,2020,Democratic,Y,Y,TRUE,N,,#ffffff,,#010101,,,2020-orourke.jpg
+Pete Buttigieg,2020,Democratic,Y,Y,TRUE,N,,,#004b82,#f3bb32,#f4e4d5,,2020-buttigieg.jpg
+Cory Booker,2020,Democratic,N,Y,FALSE,Y,#e0373e,#ffffff,#02a3fe,#020001,,,2020-booker.jpg
+Bill Weld,2020,Republican,Y,Y,TRUE,Y,#c00000,#ffffff,#012060,,,,2020-weld.jpg
+Eric Swalwell,2020,Democratic,Y,Y,TRUE,Y,#ed3733,#ffffff,#2175cb,,,,2020-swalwell.jpg
+Michael Bennet,2020,Democratic,Y,Y,TRUE,Y,#f15159,#ffffff,#223d80,,,,2020-bennet.jpg
+Seth Moulton,2020,Democratic,Y,Y,TRUE,Y,#d52043,#ffffff,#142840,#02a1c8,,,2020-moulton.jpg
+Bill de Blasio,2020,Democratic,Y,Y,TRUE,N,,#ffffff,#1f4181,#8ec63f,,,2020-deblasio.jpg
+Steve Bullock,2020,Democratic,Y,Y,TRUE,Y,#e93038,#ffffff,#05476a,#236db6,,,2020-bullock.jpg
+Donald Trump,2020,Republican,Y,Y,TRUE,Y,#c8102c,#ffffff,#161f6e,,,,2020-trump.jpg
+Joe Biden,2020,Democratic,Y,Y,TRUE,Y,#eb2026,#ffffff,#224193,,,,2020-biden.jpg
+Tom Steyer,2020,Democratic,Y,Y,TRUE,N,,#ffffff,#233c98,#f26827,,,2020-steyer.jpg
+Joe Sestak,2020,Democratic,Y,Y,TRUE,Y,#e61e04,#ffffff,#011e6a,,,,2020-sestak.jpg
+Mike Bloomberg,2020,Democratic,Y,Y,TRUE,Y,#cf1c43,#ffffff,#1c355e,#0898d7,,,2020-bloomberg.jpg
+Deval Patrick,2020,Democratic,N,Y,FALSE,N,,#ffffff,#186994,#5fa543,,,2020-patrick.jpg
+Joe Walsh,2020,Republican,Y,Y,TRUE,N,#d62329,#ffffff,,#000000,,,2020-walsh.jpg
+Rocky De La Fuente,2020,Republican,N,Y,FALSE,Y,#ff0d2b,#ffffff,#0e2d5c,,,,2020-delafuente.jpg
+Mark Sanford,2020,Republican,Y,Y,TRUE,Y,#e12826,#ffffff,#143159,,,,2020-sanford.jpg
+Mike Gravel,2020,Democratic,Y,Y,TRUE,Y,#fd4142,#ffffff,#001938,,,,2020-gravel.jpg
+Jacob Hornberger,2020,Libertarian,Y,Y,TRUE,N,,#ffffff,#323465,#ebbe3d,,,2020-hornberger.jpg
+Jo Jorgensen,2020,Libertarian,Y,N,FALSE,N,,#ffffff,,#4e0289,#ffc000,#000000,2020-jorgensen.jpg
+Vermin Supreme,2020,Libertarian,Y,Y,TRUE,N,,#ffffff,,#000000,,,2020-supreme.jpg
+Jim Gilmore,2016,Republican,Y,Y,TRUE,Y,#c50a11,#ffffff,#0e2861,,,,2016-gilmore.jpg
+John Kasich,2016,Republican,Y,Y,TRUE,Y,#c9002c,#ffffff,#073356,,,,2016-kasich.jpg
+Jim Webb,2016,Democratic,Y,Y,TRUE,Y,#ef4023,#ffffff,#012353,,,,2016-webb.jpg
+Scott Walker,2016,Republican,Y,Y,TRUE,Y,#ef4023,#ffffff,#1c3c6b,,,,2016-walker.jpg
+Chris Christie,2016,Republican,Y,Y,TRUE,Y,,#ffffff,#1b2040,,,,2016-christie.jpg
+Bobby Jindal,2016,Republican,N,Y,FALSE,Y,#eb383e,#ffffff,#2e3e57,#4894c6,#b9bbba,,2016-jindal.jpg
+Donald Trump,2016,Republican,Y,Y,TRUE,Y,#911515,#ffffff,#283681,,,,2016-trump.jpg
+Jeb Bush,2016,Republican,Y,Y,TRUE,Y,#c72229,#ffffff,#135589,,,,2016-bush.jpg
+Hillary Clinton,2016,Democratic,Y,N,FALSE,Y,#d20025,#ffffff,#01509f,,,,2016-clinton.jpg
+Rick Perry,2016,Republican,Y,Y,TRUE,Y,#c42027,#ffffff,#23245c,#28c4ed,#1a659c,,2016-perry.jpg
+Lincoln Chafee,2016,Democratic,Y,Y,TRUE,Y,#9e1a2f,#ffffff,#0a3c61,#3e873e,,,2016-chafee.jpg
+Lindsay Graham,2016,Republican,Y,Y,TRUE,Y,#d32026,#ffffff,#262463,,,,2016-graham.jpg
+George Pataki,2016,Republican,Y,Y,TRUE,Y,#e11e26,#ffffff,#232055,#4d8fcc,,,2016-pataki.jpg
+Martin O'Malley,2016,Democratic,Y,Y,TRUE,Y,#ec2739,#ffffff,#1e9bde,,,,2016-omalley.jpg
+Bernie Sanders,2016,Democratic,Y,Y,TRUE,Y,#ff2245,#ffffff,#0170cc,,,,2016-sanders.jpg
+Rick Santorum,2016,Republican,Y,Y,TRUE,Y,#ec0b43,#ffffff,#16284c,,,,2016-santorum.jpg
+Ben Carson,2016,Republican,N,Y,FALSE,Y,#f73442,#ffffff,#00263d,#0075c7,#a8353a,#e6b87d,2016-carson.jpg
+Mike Huckabee,2016,Republican,Y,Y,TRUE,Y,#d52225,#ffffff,#034984,#f0c113,,,2016-huckabee.jpg
+Carly Fiorina,2016,Republican,Y,N,FALSE,Y,#d63233,#ffffff,#1c263f,#c8c6c7,,,2016-fiorina.jpg
+Rand Paul,2016,Republican,Y,Y,TRUE,Y,#cb2028,#ffffff,#0f0f31,,,,2016-paul.jpg
+Marco Rubio,2016,Republican,N,Y,FALSE,Y,#c50e3c,#ffffff,#0f1d40,,,,2016-rubio.jpg
+Ted Cruz,2016,Republican,N,Y,FALSE,Y,#ed1941,#ffffff,#005b94,#6d6e72,,,2016-cruz.jpg
+Lawrence Lessig,2016,Democratic,Y,Y,TRUE,Y,#ff4945,#ffffff,#3451eb,,,,2016-lessig.jpg
+Gary Johnson,2016,Libertarian,Y,Y,TRUE,N,,#ffffff,#0a0c45,#ffd447,#97989a,,2016-johnson.jpg
+Jill Stein,2016,Green,Y,N,FALSE,N,,#ffffff,,#18563d,#ff9a00,,2016-stein.jpg
+Darrell Castle,2016,Constitution,Y,Y,TRUE,Y,#b3232d,#ffffff,#2a2e53,#e9e1b0,,,2016-castle.jpg
+Evan McMullin,2016,Independent,Y,Y,TRUE,Y,#c8121e,#ffffff,#014c6b,#6594a8,,,2016-mcmullin.jpg
+Mitt Romney,2012,Republican,Y,Y,TRUE,Y,#bc2b2e,#ffffff,#006395,,,,2012-romney.jpg
+Barack Obama,2012,Democratic,N,Y,FALSE,Y,#c41330,#ffffff,#0078ad,,,,2012-obama.jpg
+Rick Perry,2012,Republican,Y,Y,TRUE,Y,#a32123,#ffffff,#12326d,,,,2012-perry.jpg
+Thaddeus McCotter,2012,Republican,Y,Y,TRUE,Y,#fa564c,#ffffff,#2a4560,,,,2012-mccotter.jpg
+Jon Huntsman,2012,Republican,Y,Y,TRUE,Y,#ac151e,#ffffff,,,,,2012-huntsman.jpg
+Michele Bachmann,2012,Republican,Y,N,FALSE,Y,#820509,#ffffff,#1a2574,,,,2012-bachmann.jpg
+Rick Santorum,2012,Republican,Y,Y,TRUE,Y,#da222a,#ffffff,#142c38,#707579,,,2012-santorum.jpg
+Tim Pawlenty,2012,Republican,Y,Y,TRUE,Y,#cd1515,#ffffff,#1c2141,,,,2012-pawlenty.jpg
+Herman Cain,2012,Republican,N,Y,FALSE,Y,#f1262c,#ffffff,#172234,,,,2012-cain.jpg
+Ron Paul,2012,Republican,Y,Y,TRUE,Y,#db3936,#ffffff,#113158,#4191c4,,,2012-paul.jpg
+Newt Gingrich,2012,Republican,Y,Y,TRUE,Y,#e00000,#ffffff,#13273f,#98a2ac,,,2012-gingrich.jpg
+Gary Johnson,2012,Libertarian,Y,Y,TRUE,Y,,#ffffff,#0b499e,#006ebb,#7ca5db,,2012-johnson.jpg
+Buddy Roemer,2012,Republican,Y,Y,TRUE,Y,#fb2d2f,#ffffff,#78b5ec,#000000,,,2012-roemer.jpg
+Fred Karger,2012,Republican,Y,Y,TRUE,Y,#aa1125,#ffffff,#06355f,#d7cebf,,,2012-karger.jpg
+Jill Stein,2012,Green,Y,N,FALSE,N,,#ffffff,,#00a261,,,2012-stein.jpg
+Virgil Goode,2012,Constitution,Y,Y,TRUE,Y,,#ffffff,#0c0785,,,,2012-goode.jpg
+Rocky Anderson,2012,Justice,Y,Y,TRUE,Y,#cf1314,#ffffff,#091d38,,,,2012-anderson.jpg
+Barack Obama,2008,Democratic,N,Y,FALSE,Y,#e85446,#ffffff,#002a5c,#007cc2,#8b8a8f,,2008-obama.jpg
+Bill Richardson,2008,Democratic,Y,Y,TRUE,Y,#c4112e,#ffffff,#0d0550,#b8cef3,,,2008-richardson.jpg
+Sam Brownback,2008,Republican,Y,Y,TRUE,Y,#ee111a,#ffffff,#04119b,,,,2008-brownback.jpg
+Chris Dodd,2008,Democratic,Y,Y,TRUE,Y,#f23342,#ffffff,#12174f,,,,2008-dodd.jpg
+Fred Thompson,2008,Republican,Y,Y,TRUE,N,,#ffffff,,#321d55,#dbb56a,,2008-thompson.jpg
+Jim Gilmore,2008,Republican,Y,Y,TRUE,Y,#ea2b32,#ffffff,#0c0e72,,,,2008-gilmore.jpg
+Hillary Clinton,2008,Democratic,Y,N,FALSE,Y,#ed3126,#ffffff,#06549c,,,,2008-clinton.jpg
+Mike Huckabee,2008,Republican,Y,Y,TRUE,Y,#c80000,#ffffff,#01008e,#ffec01,,,2008-huckabee.jpg
+Duncan Hunter,2008,Republican,Y,Y,TRUE,Y,#bd2f2b,#ffffff,#2c5291,,,,2008-hunter.jpg
+Joe Biden,2008,Democratic,Y,Y,TRUE,Y,#c72228,#ffffff,#292b76,,,,2008-biden.jpg
+John Edwards,2008,Democratic,Y,Y,TRUE,Y,#c42156,#ffffff,#0a74b2,#3db56e,,,2008-edwards.jpg
+Dennis Kucinich,2008,Democratic,Y,Y,TRUE,N,,#ffffff,#1d306a,#dc6044,,,2008-kuchnich.jpg
+John McCain,2008,Republican,Y,Y,TRUE,Y,#a00000,#ffffff,#112f49,#cf9203,,,2008-mccain.jpg
+Mitt Romney,2008,Republican,Y,Y,TRUE,Y,#cc0001,#ffffff,#000154,,,,2008-romney.jpg
+Ron Paul,2008,Republican,Y,Y,TRUE,Y,#fe0000,#ffffff,#222366,,,,2008-paul.jpg
+Rudy Giuliani,2008,Republican,Y,Y,TRUE,Y,#e51837,#ffffff,#013668,,,,2008-giuliani.jpg
+Tom Tancredo,2008,Republican,Y,Y,TRUE,Y,#e10000,#ffffff,#000060,,,,2008-tancredo.jpg
+Tommy Thompson,2008,Republican,Y,Y,TRUE,Y,#c60814,#ffffff,#02193b,,,,2008-tthompson.jpg
+Tom Vilsack,2008,Democratic,Y,Y,TRUE,Y,#bb2719,#ffffff,#020f31,,,,2008-vilsack.jpg
+Mike Gravel,2008,Democratic,Y,Y,TRUE,Y,#9c2829,#ffffff,#051261,,,,2008-gravel.jpg
+Evan Bayh,2008,Democratic,Y,Y,TRUE,Y,#d83c0c,#ffffff,#28137c,,,,2008-bayh.jgg
+Alan Keyes,2008,Republican,N,Y,FALSE,Y,#c81f0a,#ffffff,#243b7f,,,,2008-keyes.jpg
+Ralph Nader,2008,Independent,Y,Y,TRUE,N,#bb2026,#ffffff,,#000000,,,2008-nader.jpg
+Bob Barr,2008,Libertarian,Y,Y,TRUE,Y,#d42011,#ffffff,#215f9c,,,,2008-barr.jpg
+Chuck Baldwin,2008,Constitution,Y,Y,TRUE,Y,#ce1040,#ffffff,#1f155c,#024c8d,,,2008-baldwin.jpg
+Al Sharpton,2004,Democratic,N,Y,FALSE,Y,#fe0000,#ffffff,,,,,2004-sharpton.jpg
+Bob Graham,2004,Democratic,Y,Y,TRUE,Y,#d53237,#ffffff,#0e2568,#000000,,,2004-graham.jpg
+George W. Bush,2004,Republican,Y,Y,TRUE,Y,#a30536,#ffffff,#27225c,,,,2004-bush.jpg
+Carol Moseley Braun,2004,Democratic,N,N,FALSE,Y,#c6293a,#ffffff,#071ede,#e3e8fb,,,2004-moseleybraun.jpg
+Dennis Kucinich,2004,Democratic,Y,Y,TRUE,Y,#e43a3a,#ffffff,#120fa4,,,,2004-kucinich.jpg
+Dick Gephardt,2004,Democratic,Y,Y,TRUE,Y,#dc0000,#ffffff,#00003c,,,,2004-gephardt.jpg
+Howard Dean,2004,Democratic,Y,Y,TRUE,N,,#ffffff,#2d518f,#dfce3a,,,2004-dean.jpg
+Joe Lieberman,2004,Democratic,Y,Y,TRUE,Y,#f40000,#ffffff,#01008c,,,,2004-lieberman.jpg
+John Edwards,2004,Democratic,Y,Y,TRUE,Y,#ab0022,#ffffff,#014184,,,,2004-edwards.jpg
+John Kerry,2004,Democratic,Y,Y,TRUE,Y,#af040a,#ffffff,#0207a1,,,,2004-kerry.jpg
+Wesley Clark,2004,Democratic,Y,Y,TRUE,Y,#bb271b,#ffffff,#17366c,,,,2004-clark.jpg
+Michael Badnarik,2004,Libertarian,Y,Y,TRUE,Y,#ee1c25,#ffffff,#0c608e,#000000,#6d6e70,,2004-badnarik.jpg
+David Cobb,2004,Green,Y,Y,TRUE,N,,#ffffff,,#00853e,,,2004-cobb.jpg
+Ralph Nader,2004,Independent,Y,Y,TRUE,N,,#ffffff,,#016531,#56a063,,2004-nader.jpg
+Michael Peroutka,2004,Constitution,N,N,TRUE,Y,#e41752,#ffffff,#3e4687,#000000,,,2004-peroutka.jpg
+Ralph Nader,2000,Green,Y,Y,TRUE,N,,#ffffff,,#016531,#56a063,,2000-nader.jpg
+John McCain,2000,Republican,Y,Y,TRUE,Y,#b1422f,#ffffff,#0f2054,,,,2000-mccain.jpg
+Pat Buchanan,2000,Reform,Y,Y,TRUE,Y,#e22d3c,#ffffff,#044d82,,,,2000-buchanan.jpg
+Bill Bradley,2000,Democratic,Y,Y,TRUE,Y,#d20000,#ffffff,#000078,,,,2000-bradley.jpg
+Alan Keyes,2000,Republican,N,Y,FALSE,Y,#b33131,#ffffff,#081154,,,,2000-keyes.jpg
+Al Gore,2000,Democratic,Y,Y,TRUE,Y,#b9261c,#ffffff,#010173,,,,2000-gore.jpg
+George W. Bush,2000,Republican,Y,Y,TRUE,Y,#d00407,#ffffff,#00003c,,,,2000-bush.jpg
+Gary Bauer,2000,Republican,Y,Y,TRUE,Y,#ea0000,#ffffff,#010088,,,,2000-bauer.jpg
+Dan Quayle,2000,Republican,Y,Y,TRUE,Y,#dc0000,#ffffff,#000074,,,,2000-quayle.jpg
+Elizabeth Dole,2000,Republican,Y,N,FALSE,Y,,#ffffff,#00006e,#65c9fa,,,2000-dole.jpg
+Steve Forbes,2000,Republican,Y,Y,TRUE,Y,#952938,#ffffff,#2d3468,,,,2000-forbes.jpg
+Lamar Alexander,2000,Republican,Y,Y,TRUE,N,#da3021,#ffffff,,#000000,,,2000-alexander.jpg
+John Kasich,2000,Republican,Y,Y,TRUE,Y,,#ffffff,#152f84,,,,2000-kasich.jpg
+Bob Smith,2000,Republican,Y,Y,TRUE,Y,,#ffffff,#050d58,,,,2000-smith.jpg
+Orrin Hatch,2000,Republican,Y,Y,TRUE,Y,#ed0038,#ffffff,#0100ca,,,,2000-hatch.jpg
+Harry Browne,2000,Libertarian,Y,Y,TRUE,Y,#750400,#ffffff,#000072,#fff383,,,2000-browne.jpg
+Steve Forbes,1996,Republican,Y,Y,TRUE,N,,#ffffff,#4d3fea,#f8f729,,,1996-forbes.jpg
+Richard Lugar,1996,Republican,Y,Y,TRUE,Y,,#ffffff,#0d2c62,#fac92f,,,1996-lugar.jpg
+Bob Dornan,1996,Republican,Y,Y,TRUE,Y,#d80001,#ffffff,#010255,,,,1996-dornan.jpg
+Bob Dole,1996,Republican,Y,Y,TRUE,Y,#eb1d1d,#ffffff,#122a84,,,,1996-dole.jpg
+Arlen Specter,1996,Republican,Y,Y,TRUE,Y,,#ffffff,#00006d,,,,1996-spector.jpg
+Alan Keyes,1996,Republican,N,Y,FALSE,N,,#ffffff,#000064,#fef400,#ecebf3,,1996-keyes.jpg
+Pat Buchanan,1996,Republican,Y,Y,TRUE,Y,#9d2117,#ffffff,#020473,,,,1996-buchanan.jpg
+Lamar Alexander,1996,Republican,Y,Y,TRUE,Y,#ca2c20,#ffffff,,,,,1996-alexander.jpg
+Phil Gramm,1996,Republican,Y,Y,TRUE,N,,#ffffff,#0e1237,#7881a2,,,1996-gramm.jpg
+Morry Taylor,1996,Republican,Y,Y,TRUE,Y,#d90916,#ffffff,#030b76,,,,1996-taylor.jpg
+Bill Clinton,1996,Democratic,Y,Y,TRUE,Y,#c72b1e,#ffffff,#14146a,#cccccc,,,1996-clinton.jpg
+Ross Perot,1996,Reform,Y,Y,TRUE,Y,#f20000,#ffffff,#0000a0,,,,1996-perot.jpg
+Pete Wilson,1996,Republican,Y,Y,TRUE,Y,#d50915,#ffffff,#010863,,,,1996-wilson.jpg
+Harry Browne,1996,Libertarian,Y,Y,TRUE,N,#901b14,#ffffff,,#000000,,,1996-browne.jpg
+John Hagelin,1996,Natural Law,Y,Y,TRUE,Y,#dd4736,#ffffff,#3a4885,,,,1996-hagelin.jpg
+Howard Phillips,1996,U.S. Taxpayers,Y,Y,TRUE,Y,,#ffffff,#3b4078,,,,1996-phillips.jpg
+Jerry Brown,1992,Democratic,Y,Y,TRUE,Y,,#ffffff,#062969,,,,1992-brown.jpg
+Pat Buchanan,1992,Republican,Y,Y,TRUE,Y,#e10b17,#ffffff,#01065a,,,,1992-buchanan.jpg
+George H.W. Bush,1992,Republican,Y,Y,TRUE,Y,#e4001c,#ffffff,#0022b2,,,,1992-bush.jpg
+Bill Clinton,1992,Democratic,Y,Y,TRUE,Y,#df0001,#ffffff,#00007c,,,,1992-clinton.jpg
+Bob Kerrey,1992,Democratic,Y,Y,TRUE,Y,#ed0505,#ffffff,#010088,#000000,,,1992-kerrey.jpg
+Paul Tsongas,1992,Democratic,Y,Y,TRUE,N,,#ffffff,#161774,#018c33,,,1992-tsongas.jpg
+L. Douglas Wilder,1992,Democratic,Y,Y,TRUE,Y,#c00000,#ffffff,#00007a,,,,1992-wilder.jpg
+Tom Harkin,1992,Democratic,Y,Y,TRUE,Y,,#ffffff,#0d0e46,,,,1992-harkin.jpg
+David Duke,1992,Republican,Y,Y,TRUE,Y,,#ffffff,#022e6d,,,,1992-duke.jpg
+Ross Perot,1992,Independent,Y,Y,TRUE,Y,#e60000,#ffffff,#00008e,,,,1992-perot.jpg
+Howard Phillips,1992,U.S. Taxpayers,Y,Y,TRUE,Y,,#ffffff,#082082,,,,1992-phillips.jpg
+Bo Gritz,1992,Populist,Y,Y,TRUE,Y,#b01711,#ffffff,#0c40ad,,,,1992-gritz.jpg
+Ron Daniels,1992,Independent,N,Y,FALSE,N,#ff0100,#ffffff,,#000000,,,1992-daniels.jpg
+Bob Dole,1988,Republican,Y,Y,TRUE,N,,,#000082,#f8de4b,,,1988-dole.jpg
+George H.W. Bush,1988,Republican,Y,Y,TRUE,Y,#ce0002,#ffffff,#01008c,,,,1988-bush.jpg
+Jesse Jackson,1988,Democratic,N,Y,FALSE,Y,#bc0000,#ffffff,,,,,1988-jackson.jpg
+Paul Simon,1988,Democratic,Y,Y,TRUE,Y,#e11919,#ffffff,#052c87,,,,1988-simon.jpg
+Joe Biden,1988,Democratic,Y,Y,TRUE,Y,#ec0000,#ffffff,#010088,,,,1988-biden.jpg
+Mike Dukakis,1988,Democratic,Y,Y,TRUE,Y,#ff2d3a,#ffffff,#1133b1,,,,1988-dukakis.jpg
+Gary Hart,1988,Democratic,Y,Y,TRUE,Y,#e60000,#ffffff,#010066,,,,1988-hart.jpg
+Al Gore,1988,Democratic,Y,Y,TRUE,Y,#c30b0b,#ffffff,#0b1b7d,,,,1988-gore.jpg
+Jack Kemp,1988,Republican,Y,Y,TRUE,Y,#e44436,#ffffff,#16518b,,,,1988-kemp.jpg
+Dick Gephardt,1988,Democratic,Y,Y,TRUE,Y,#c4493a,#ffffff,#202c80,#000000,,,1988-gephardt.jpg
+Bruce Babbitt,1988,Democratic,Y,Y,TRUE,Y,#d02b31,#ffffff,#063293,,,,1988-babbitt.jpg
+Alexander M. Haig Jr.,1988,Republican,Y,Y,TRUE,Y,#f70504,#ffffff,#00009e,,,,1988-haig.jpg
+Pete du Pont,1988,Republican,Y,Y,TRUE,N,#f04332,#ffffff,,#999999,,,1988-dupont.jpg
+Pat Robertson,1988,Republican,Y,Y,TRUE,Y,#ea0404,#ffffff,#00018d,,,,1988-robertson.jpg
+James Traficant,1988,Democratic,Y,Y,TRUE,N,,#ffffff,,#1e943e,,,1988-traficant.jpg
+Ron Paul,1988,Libertarian,Y,Y,TRUE,Y,#ff242a,#ffffff,#262fca,,,,1988-paul.jpg
+David Duke,1988,Populist,Y,Y,TRUE,Y,,#ffffff,#62a3e7,,,,1988-duke.jpg
+Alan Cranston,1984,Democratic,Y,Y,TRUE,Y,#713735,#ffffff,,,,,1984-cranston.jpg
+Gary Hart,1984,Democratic,Y,Y,TRUE,N,,#ffffff,#133597,#b3b3b3,,,1984-hart.jpg
+Walter Mondale,1984,Democratic,Y,Y,TRUE,Y,,#ffffff,#0a1861,,,,1984-mondale.jpg
+John Glenn,1984,Democratic,Y,Y,TRUE,Y,#bf4832,#ffffff,#0c1a65,,,,1984-glenn.jpg
+George McGovern,1984,Democratic,Y,Y,TRUE,Y,#da533d,#ffffff,,,,,1984-mcgovern.jpg
+Reubin Askew,1984,Democratic,Y,Y,TRUE,N,,#ffffff,,#dd6540,#38261c,,1984-askew.jpg
+Jesse Jackson,1984,Democratic,N,Y,FALSE,Y,#d20001,#ffffff,#0a0a64,#ffd600,,,1984-jackson.jpg
+Fritz Hollings,1984,Democratic,Y,Y,TRUE,Y,#c7574b,#ffffff,#13358f,,,,1984-hollings.jpg
+Ronald Reagan,1984,Republican,Y,Y,TRUE,Y,#d11919,#ffffff,#2d408c,,,,1984-reagan.jpg
+David Bergland,1984,Libertarian,Y,Y,TRUE,N,,#ffffff,,#000000,,,1984-bergland.jpg
+Sonia Johnson,1984,Citizens Party,Y,N,FALSE,N,,#ffffff,,#013d23,,,1984-johnson.jpg
+Gus Hall,1984,Communist Party USA,Y,Y,TRUE,N,#e73334,#ffffff,,#000000,,,1984-hall.jpg
+Phil Crane,1980,Republican,Y,Y,TRUE,N,,,,#f3c733,#000000,,1980-crane.jpg
+Bob Dole,1980,Republican,Y,Y,TRUE,Y,#db553c,#ffffff,#1d32af,,,,1980-dole.jpg
+Howard Baker,1980,Republican,Y,Y,TRUE,Y,#d20001,#ffffff,#000197,,,,1980-baker.jpg
+Ted Kennedy,1980,Democratic,Y,Y,TRUE,Y,,#ffffff,#000072,,,,1980-kennedy.jpg
+Ronald Reagan,1980,Republican,Y,Y,TRUE,Y,,#ffffff,#101f74,,,,1980-reagan.jpg
+John B. Anderson,1980,Independent,Y,Y,TRUE,N,#c33026,#ffffff,,#000000,,,1980-anderson.jpg
+John Connally,1980,Republican,Y,Y,TRUE,N,#df402d,#ffffff,,#000000,,,1980-connally.jpg
+George H.W. Bush,1980,Republican,Y,Y,TRUE,Y,#ba4531,#ffffff,#091760,#000000,,,1980-bush.jpg
+Jimmy Carter,1980,Democratic,Y,Y,TRUE,N,,#ffffff,,#07864f,,,1980-carter.jpg
+Lowell P. Weicker Jr.,1980,Republican,Y,Y,TRUE,Y,#fe1c0c,#ffffff,#2571c7,,,,1980-weicker.jpg
+Harold Stassen,1980,Republican,Y,Y,TRUE,Y,#ff353b,#ffffff,,,,,1980-stassen.jpg
+Ben Fernandez,1980,Republican,N,Y,TRUE,Y,,#ffffff,#374987,,,,1980-hernandez.jpg
+Jerry Brown,1980,Democratic,Y,Y,TRUE,Y,,#ffffff,#2d3ea8,,,,1980-brown.jpg
+Ed Clark,1980,Libertarian,Y,Y,TRUE,N,,#ffffff,,#20ad47,#000000,,1980-clark.jpg
+David McReynolds,1980,Socialist,Y,Y,TRUE,N,#f6070c,,,#000000,,,1980-mcreynolds.jpg
+Barry Commoner,1980,Citizens,Y,Y,TRUE,Y,#fe4b4f,#ffffff,#314e90,,,,1980-commoner.jpg
+Gus Hall,1980,Communist Party USA,Y,Y,TRUE,N,#ff0602,#ffffff,,#000000,,,1980-hall.jpg
+Joe Walsh,1980,Independent,Y,Y,TRUE,Y,#fe4f56,#ffffff,#1500de,,,,1980-walsh.jpg
+Eugene J. McCarthy,1976,Independent,Y,Y,TRUE,Y,,#ffffff,#2249b0,,,,1976-mccarthy.jpg
+Fred Harris,1976,Democratic,Y,Y,TRUE,Y,,#ffffff,#1d228a,,,,1976-harris.jpg
+Mo Udall,1976,Democratic,Y,Y,TRUE,Y,,#ffffff,#282b94,,,,1976-udall.jpg
+Franklin Church,1976,Democratic,Y,Y,TRUE,Y,,#ffffff,#1b31ab,,,,1976-church.jpg
+George Wallace,1976,Democratic,Y,Y,TRUE,Y,#ec0b19,#ffffff,#061ac7,#000000,,,1976-wallace.jpg
+Sargent Shriver,1976,Democratic,Y,Y,TRUE,Y,#d9533a,#ffffff,,,,,1976-shriver.jpg
+Henry M. Jackson,1976,Democratic,Y,Y,TRUE,Y,,#ffffff,#1e3048,,,,1976-jackson.jpg
+Jimmy Carter,1976,Democratic,Y,Y,TRUE,N,,#ffffff,,#4a7722,,,1976-carter.jpg
+Gerald Ford,1976,Republican,Y,Y,TRUE,Y,,#ffffff,#030af9,,,,1976-ford.jpg
+Ronald Reagan,1976,Republican,Y,Y,TRUE,Y,#ec5133,#ffffff,#3054a2,,,,1976-reagan.jpg
+Lloyd Bentsen,1976,Democratic,Y,Y,TRUE,Y,,#ffffff,#2491d6,,,,1976-bentsen.jpg
+Birch Bayh,1976,Democratic,Y,Y,TRUE,Y,,#ffffff,#144fd1,,,,1976-bayh.jpg
+Robert C. Byrd,1976,Democratic,Y,Y,TRUE,Y,,#ffffff,#00006a,,,,1976-byrd.jpg
+Terry Sanford,1976,Democratic,Y,Y,TRUE,Y,#e00200,#ffffff,#09097b,,,,1976-sanford.jpg
+Jerry Brown,1976,Democratic,Y,Y,TRUE,N,,#ffffff,,#6b3e39,,,1976-brown.jpg
+Milton Shapp,1976,Democratic,Y,Y,TRUE,Y,#ef0000,#ffffff,#0001b4,#000000,,,1976-shapp.jpg
+Ellen McCormack,1976,Democratic,Y,N,FALSE,Y,#fe2900,#ffffff,#0251d0,#000000,,,1976-mccormack.jpg
+Roger MacBride,1976,Libertarian,Y,Y,TRUE,N,,,,#5fac66,#0b0e1d,,1976-macbride.jpg
+Ben Bubar,1976,Prohibition,Y,Y,TRUE,N,#d32b2b,#ffffff,,#000000,,,1976-bubar.jpg
+Frank Zeidler,1976,Socialist,Y,Y,TRUE,Y,#e83940,#ffffff,#59a5d7,,,,1976-zeidler.jpg
+Gus Hall,1976,Communist,Y,Y,TRUE,N,,,,#f8531d,#000000,,1976-hall.jpg
+Vance Hartke,1972,Democratic,Y,Y,TRUE,Y,#fe0853,#ffffff,,,,,1972-hartke.jpg
+Terry Sanford,1972,Democratic,Y,Y,TRUE,Y,,#ffffff,#082c9c,,,,
+Fred Harris,1972,Democratic,Y,Y,TRUE,N,,#ffffff,#0c1c6a,#fdf860,,,1972-harris.jpg
+Eugene J. McCarthy,1972,Democratic,Y,Y,TRUE,N,,#ffffff,,#333333,,,1972-mccarthy.jpg
+George McGovern,1972,Democratic,Y,Y,TRUE,Y,,#ffffff,#000074,,,,1972-mcgovern.jpg
+John Ashbrook,1972,Republican,Y,Y,TRUE,Y,#db553c,#ffffff,#1f37bf,#000000,,,1972-ashbrook.jpg
+John Lindsay,1972,Democratic,Y,Y,TRUE,Y,#e93326,#ffffff,#1b24a3,,,,1972-lindsay.jpg
+George Wallace,1972,Democratic,Y,Y,TRUE,Y,#fe1044,#ffffff,#094cd9,,,,1972-wallace.jpg
+Hubert Humphrey,1972,Democratic,Y,Y,TRUE,Y,#ba4531,#ffffff,#091760,,,,1972-humphrey.jpg
+Henry M. Jackson,1972,Democratic,Y,Y,TRUE,Y,#c5241a,#ffffff,#1121b5,#0e1860,,,1972-jackson.jpg
+Harold Hughes,1972,Democratic,Y,Y,TRUE,Y,#e74538,#ffffff,#3485b2,#000000,,,1972-hughes.jpg
+Shirley Chisholm,1972,Democratic,N,N,FALSE,N,,,,#fdab01,#000000,,1972-chisholm.jpg
+Pete McCloskey,1972,Republican,Y,Y,TRUE,Y,#f40105,#ffffff,#00005a,,,,1972-mccloskey.jpg
+Ralph Yarborough,1972,Democratic,Y,Y,TRUE,Y,#e63224,#ffffff,#030389,,,,1972-yarborough.jpg
+Wilbur Mills,1972,Democratic,Y,Y,TRUE,Y,#d04f39,#ffffff,#132589,,,,1972-mills.jpg
+Edmund Muskie,1972,Democratic,Y,Y,TRUE,N,,,,#40205f,#df6c40,,1972-muskie.jpg
+Sam Yorty,1972,Democratic,Y,Y,TRUE,Y,#e2563d,#ffffff,#192ea3,,,,1972-yorty.jpg
+Richard Nixon,1972,Republican,Y,Y,TRUE,Y,#ff0103,#ffffff,#000070,,,,1972-nixon.jpg
+Patsy Mink,1972,Democratic,N,N,FALSE,N,,,#2b608a,#fad6d8,,,1972-mink.jpg
+John G. Schmitz,1972,American Independent,Y,Y,TRUE,Y,#e62e46,#ffffff,#050bff,,,,1972-schmitz.jpg
+John Hospers,1972,Libertarian,Y,Y,TRUE,N,,#ffffff,#2e1a7b,,,,1972-hospers.jpg
+Linda Jenness,1972,Socialist Workers,Y,N,FALSE,N,,#ffffff,,#65d449,#000000,,1972-jenness.jpg
+Benjamin Spock,1972,Peoples,Y,Y,TRUE,N,#c63018,,,#000000,,,1972-spock.jpg
+Hubert Humphrey,1968,Democratic,Y,Y,TRUE,Y,#ca4c36,#ffffff,#0e1e73,,,,1968-humphrey.jpg
+George Wallace,1968,Independent,Y,Y,TRUE,Y,#fe5f4a,,#1f2f63,,,,1968-wallace.jpg
+Nelson Rockefeller,1968,Republican,Y,Y,TRUE,Y,,#ffffff,#000074,,,,1968-rockefeller.jpg
+Richard Nixon,1968,Republican,Y,Y,TRUE,Y,#e10000,#ffffff,#00006d,,,,1968-nixon.jpg
+Robert F. Kennedy,1968,Democratic,Y,Y,TRUE,Y,#eb0505,#ffffff,#01008c,,,,1968-kennedy.jpg
+George W. Romney,1968,Republican,Y,Y,TRUE,Y,#db523f,#ffffff,#0e1e75,,,,1968-romney.jpg
+Eugene J. McCarthy,1968,Republican,Y,Y,TRUE,Y,,#ffffff,#29166f,#7cb7d5,,,1968-mccarthy.jpg
+Ronald Reagan,1968,Republican,Y,Y,TRUE,N,,#ffffff,#162247,#f2b43f,,,1968-reagan.jpg
+Harold Stassen,1968,Republican,Y,Y,TRUE,N,,#ffffff,,#74c277,,,1968-stassen.jpg
+George McGovern,1968,Democratic,Y,Y,TRUE,Y,#fd1b4d,,#31447e,,,,1968-mcgovern.jpg
+Eldridge Cleaver,1968,Peace and Freedom,N,Y,FALSE,N,,,,#ed3008,#000000,,1968-cleaver.jpg
+Fred Halstead,1968,Socialist Workers,Y,Y,TRUE,N,#ff404d,#ffffff,,#000000,,,1968-halstead.jpg
+Harold Munn,1968,Prohibition,Y,Y,TRUE,Y,#f43e67,#ffffff,#3062a7,,,,1968-munn.jpg
+Charlene Mitchell,1968,Communist,N,N,FALSE,N,#ff0801,#ffffff,,#000000,,,1968-mitchell.jpg
