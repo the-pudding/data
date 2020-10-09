@@ -13,7 +13,7 @@ Below you'll find metadata for each file.
 * **Other calculations**: the following calculations were made on all US ZIP codes, but only ZIP Codes within 10 miles of the 15 cities are included in data.csv
 
 | Name            | Description                                                                | Value | Data Type |
-| ----------------- | -------------------------------------------------------------------------- | --------- |
+| --------------- | -------------------------------------------------------------------------- | ----- | --------- |
 | `MAXTax`              | the max rate of same-sex married joint tax filers per 1000                                                            | 412.96      | number |
 | `MAXCns`              | the max rate of same-sex unmarried partner households per 1000                                                            | 112.58      | number |
 | `MAX_SS_Index`              | the max same-sex index value                                                           | 97.66      | number |
