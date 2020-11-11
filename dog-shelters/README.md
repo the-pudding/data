@@ -68,8 +68,6 @@ below:
 | env\_dogs        | Whether or not the animal is recommended for a home with other dogs                                                                                          | logical   |
 | env\_cats        | Whether or not the animal is recommended for a home with cats                                                                                                | logical   |
 | name             | The animal’s name (as given by the shelter/rescue)                                                                                                           | character |
-| tags             | Any tags given to the dog by the shelter rescue (pipe `\|` separated)                                                                                        | character |
-| photo            | The URL to the animal’s primary photo                                                                                                                        | character |
 | status           | Whether the animal is `adoptable` or not                                                                                                                     | character |
 | posted           | The date that this animal was first listed on PetFinder                                                                                                      | character |
 | contact\_city    | The rescue/shelter’s listed city                                                                                                                             | character |

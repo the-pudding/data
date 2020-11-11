@@ -23,14 +23,14 @@ library(spacyr)
 ## # access saved username and key
 ## user <- Sys.getenv("PF_ID2")
 ## pw <- Sys.getenv("PF_PW2")
-## 
+##
 ## # generate new token each session
 ## tokenURL <- "https://api.petfinder.com/v2/oauth2/token"
 ## auth <- POST(url = "https://api.petfinder.com/v2/oauth2/token",
 ##                    body = list(grant_type = "client_credentials",
 ##                                client_id = user, client_secret = pw),
 ##                    encode = "json")
-## 
+##
 ## token <- content(auth)$access_token
 # Pings API and accesses results
 accessResults <- function(state, start_page = 1){
@@ -136,7 +136,7 @@ nvZip <- c("89009", "89011", "89014", '89015', '89019', '89024', '89027','89032'
 statesToCheck <- c(state.abb, nvZip, "DC")
 
 # Setting up progress bar
-pb <- progress_estimated(length(statesToCheck))
+pb <- progress_estimated(length(limitedStates))
 
 # Creating fallback in case an error occurs
 findSafely <- possibly(findDogs, otherwise = NA)
@@ -167,7 +167,7 @@ dogs <- purrr::map_dfr(dogFiles, .f = function(file){
 
 # write to file
 write.csv(dogs, here::here("assets", "data", "raw_data", today(), "allDogs.csv"), row.names = FALSE)
-# To get full dog descriptions, I need to use the V1 API 
+# To get full dog descriptions, I need to use the V1 API
 # Pings API and accesses results
 accessShelters <- function(shelterID, start_page = 1){
   userV1 <- Sys.getenv("PF_V1")
@@ -230,11 +230,13 @@ findShelters <- function(date = today()){
 # Run function
 findShelters()
 
-dogDescriptions <- dogs %>% 
-  mutate(id = as.character(id)) %>% 
-  select(-description) %>% 
-  left_join(shelterPets, by = c("id", "org_id")) %>% 
-  distinct(id, .keep_all = TRUE)
+dogDescriptions <- dogs %>%
+  mutate(id = as.character(id)) %>%
+  select(-description) %>%
+  left_join(shelterPets, by = c("id", "org_id")) %>%
+  distinct(id, .keep_all = TRUE) %>%
+  ## Remove columns with API encoding errors
+  select(-c("photo", "tags"))
 
 # write to file
 write.csv(dogDescriptions, here::here("assets", "data", "raw_data", today(), "allDogDesc.csv"), row.names = FALSE)
