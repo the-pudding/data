@@ -1,0 +1,3734 @@
+[
+  {
+    "schoolName": "Hicksville High School",
+    "state": "NY",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Rusk High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "may-Port Cg High School",
+    "state": "ND",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["cleavage", "midriff", "torso"]
+  },
+  {
+    "schoolName": "East High",
+    "state": "UT",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "city",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "North Fort Myers High School",
+    "state": "FL",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Tomahawk High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Prior Lake High School",
+    "state": "MN",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Oologah-Talala High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "chest", "cleavage", "midriff", "torso"]
+  },
+  {
+    "schoolName": "Judith Gap High School",
+    "state": "MT",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "La Feria High School",
+    "state": "TX",
+    "prohibited": "female",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Glasgow High School",
+    "state": "MT",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Oakdale High",
+    "state": "MD",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": ["buttocks", "midriff"]
+  },
+  {
+    "schoolName": "Barnes County North High School",
+    "state": "ND",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Fonda-Fultonville Senior High School",
+    "state": "NY",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Mohonasen Senior High School",
+    "state": "NY",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Dodgeville High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["buttocks", "midriff"]
+  },
+  {
+    "schoolName": "Teague High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Arcadia High School",
+    "state": "NY",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Ravena-Coeymans-Selkirk Senior High School",
+    "state": "NY",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Northglenn High School",
+    "state": "CO",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["buttocks", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Park Vista Community High School",
+    "state": "FL",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Lathrop High",
+    "state": "CA",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Del Mar High",
+    "state": "CA",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "city",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Anamosa High School",
+    "state": "IA",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Rio Rancho High",
+    "state": "NM",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Taconic High",
+    "state": "MA",
+    "countGroup": "500-999",
+    "localeGroup": "city",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Latta High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Brookfield High",
+    "state": "MO",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Carmel High School",
+    "state": "NY",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Bremond High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Julian High",
+    "state": "CA",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Red River High School",
+    "state": "ND",
+    "countGroup": "1000-1500",
+    "localeGroup": "city",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Robertsdale High Sch",
+    "state": "AL",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "town",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Lathrop High School",
+    "state": "AK",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "city",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Athol High",
+    "state": "MA",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Savage High School",
+    "state": "MT",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "chest", "buttocks", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Beggs High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff", "torso"]
+  },
+  {
+    "schoolName": "Belton High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Milton High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Southern Columbia High School",
+    "state": "PA",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Como Park Senior High",
+    "state": "MN",
+    "countGroup": "1000-1500",
+    "localeGroup": "city",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Elsberry High",
+    "state": "MO",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Port Jervis Senior High School",
+    "state": "NY",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Longmont High School",
+    "state": "CO",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": ["back", "chest", "buttocks", "midriff"]
+  },
+  {
+    "schoolName": "Elko High School",
+    "state": "NV",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Ironton High School",
+    "state": "OH",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "suburb",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "South Jefferson High School",
+    "state": "NY",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Simsbury High School",
+    "state": "CT",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": ["chest", "midriff"]
+  },
+  {
+    "schoolName": "Windthorst High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Northbridge High",
+    "state": "MA",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Depew High School",
+    "state": "NY",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Amsterdam High School",
+    "state": "NY",
+    "countGroup": "1000-1500",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Barbers Hill High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "midriff"]
+  },
+  {
+    "schoolName": "Louisiana High",
+    "state": "MO",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Butler High School",
+    "state": "OH",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": ["back", "midriff"]
+  },
+  {
+    "schoolName": "Gateway High School",
+    "state": "CO",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "city",
+    "bodyParts": ["back", "chest", "buttocks", "midriff"]
+  },
+  {
+    "schoolName": "Pine Bush Senior High School",
+    "state": "NY",
+    "countGroup": "1500+",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Coe-Brown Northwood Academy",
+    "state": "NH",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": ["chest", "buttocks", "midriff"]
+  },
+  {
+    "schoolName": "Dawson High School",
+    "state": "MT",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["cleavage", "midriff", "torso"]
+  },
+  {
+    "schoolName": "Eleanor Roosevelt High School",
+    "state": "NY",
+    "countGroup": "500-999",
+    "localeGroup": "city",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Hinton High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["torso"]
+  },
+  {
+    "schoolName": "Girard High School",
+    "state": "PA",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Huntley Project High Schl",
+    "state": "MT",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Fruitvale High School",
+    "state": "TX",
+    "prohibited": "female",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Darlington High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Mounds High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "midriff"]
+  },
+  {
+    "schoolName": "Howe High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "town",
+    "bodyParts": ["back", "chest", "midriff"]
+  },
+  {
+    "schoolName": "Oak Grove High",
+    "state": "MO",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Mclouth High",
+    "state": "KS",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Tatum High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Cedar City High",
+    "state": "UT",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "town",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Hanover High",
+    "state": "KS",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Rice Lake High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["torso"]
+  },
+  {
+    "schoolName": "Daphne High Sch",
+    "state": "AL",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "city",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "New London High",
+    "state": "WI",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Lawson High",
+    "state": "MO",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Elgin High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": ["chest", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Akron Westfield Senior High School",
+    "state": "IA",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["buttocks", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Martinsville High",
+    "state": "VA",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["cleavage", "torso"]
+  },
+  {
+    "schoolName": "Chillicothe High",
+    "state": "MO",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Floyd High",
+    "state": "NM",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Berryville High School",
+    "state": "AR",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "East Laurens High School",
+    "state": "GA",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Turners Fall High",
+    "state": "MA",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Henrietta High School",
+    "state": "TX",
+    "prohibited": "female",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "midriff"]
+  },
+  {
+    "schoolName": "Granbury High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "town",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Rainier Senior High School",
+    "state": "WA",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "North Andrew High",
+    "state": "MO",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Carrollton High School",
+    "state": "GA",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Horn High School",
+    "state": "TX",
+    "countGroup": "1500+",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Banks County High School",
+    "state": "GA",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "chest", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Weatherford High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "rural",
+    "bodyParts": ["chest", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Amity Regional High School",
+    "state": "CT",
+    "prohibited": "female",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": ["back", "chest", "midriff"]
+  },
+  {
+    "schoolName": "Cornwall Central High School",
+    "state": "NY",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "rural",
+    "bodyParts": ["torso"]
+  },
+  {
+    "schoolName": "Central High School",
+    "state": "IA",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Washington High",
+    "state": "MO",
+    "countGroup": "1000-1500",
+    "localeGroup": "town",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Rancho Buena Vista High",
+    "state": "CA",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["back", "buttocks", "midriff"]
+  },
+  {
+    "schoolName": "Freeport Area Shs",
+    "state": "PA",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "midriff"]
+  },
+  {
+    "schoolName": "Leveretts Chapel High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "West Stokes High",
+    "state": "NC",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Nantucket High",
+    "state": "MA",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["back", "chest", "buttocks", "midriff"]
+  },
+  {
+    "schoolName": "North Carroll High",
+    "state": "MD",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": ["back", "buttocks", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Midland High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "city",
+    "bodyParts": ["midriff", "torso"]
+  },
+  {
+    "schoolName": "Spencer High School",
+    "state": "IA",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Pella High School",
+    "state": "IA",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["chest", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Mcgregor High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Westhill High School",
+    "state": "CT",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "city",
+    "bodyParts": ["chest", "midriff"]
+  },
+  {
+    "schoolName": "Quincy High",
+    "state": "MA",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Currituck County High",
+    "state": "NC",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "rural",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Nevada High School",
+    "state": "IA",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Adm Senior High School",
+    "state": "IA",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["back", "midriff"]
+  },
+  {
+    "schoolName": "Wausaukee High",
+    "state": "WI",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Pleasant Grove High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "city",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Bastrop High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "town",
+    "bodyParts": ["back", "midriff"]
+  },
+  {
+    "schoolName": "Tgu-Granville High School",
+    "state": "ND",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["cleavage"]
+  },
+  {
+    "schoolName": "Marinette High",
+    "state": "WI",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Portsmouth High School",
+    "state": "NH",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": ["cleavage"]
+  },
+  {
+    "schoolName": "Borger High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Cabool High",
+    "state": "MO",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Symmes Valley High School",
+    "state": "OH",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Weldon Valley High School",
+    "state": "CO",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Shadow Hills High",
+    "state": "CA",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "buttocks", "midriff"]
+  },
+  {
+    "schoolName": "Laingsburg High School",
+    "state": "MI",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["cleavage"]
+  },
+  {
+    "schoolName": "Columbia High School",
+    "state": "NY",
+    "countGroup": "1000-1500",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Twin Valley High School",
+    "state": "VT",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Shawano High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Hallsville High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Laurel High School",
+    "state": "MT",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["back", "chest", "midriff"]
+  },
+  {
+    "schoolName": "G.f.w. High School",
+    "state": "MN",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Wayzata High",
+    "state": "MN",
+    "countGroup": "1500+",
+    "localeGroup": "city",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Hart High School",
+    "state": "MI",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Dover High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Scotia-Glenville Senior High School",
+    "state": "NY",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Powder River Co Dist High",
+    "state": "MT",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["torso"]
+  },
+  {
+    "schoolName": "Plymouth-Whitemarsh Shs",
+    "state": "PA",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": ["back", "chest", "midriff"]
+  },
+  {
+    "schoolName": "Central High School",
+    "state": "GA",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "town",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Jericho Senior High School",
+    "state": "NY",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": ["back", "chest", "midriff"]
+  },
+  {
+    "schoolName": "Salida High School",
+    "state": "CO",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["back", "chest", "buttocks", "midriff"]
+  },
+  {
+    "schoolName": "Thomas Jefferson High School",
+    "state": "CO",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "city",
+    "bodyParts": ["back", "chest", "buttocks", "midriff"]
+  },
+  {
+    "schoolName": "Sheridan High School",
+    "state": "WY",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Nelson County High",
+    "state": "VA",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "chest", "midriff"]
+  },
+  {
+    "schoolName": "Creekview High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Hudson High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "town",
+    "bodyParts": ["back", "chest", "buttocks", "midriff"]
+  },
+  {
+    "schoolName": "Morenci High School",
+    "state": "AZ",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["back", "chest", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "West Seneca East Senior High School",
+    "state": "NY",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Weston Ranch High",
+    "state": "CA",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "city",
+    "bodyParts": ["chest", "midriff"]
+  },
+  {
+    "schoolName": "Nex Gen Academy",
+    "state": "NM",
+    "countGroup": "200-499",
+    "localeGroup": "city",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Lander Valley High School",
+    "state": "WY",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Skiatook High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Horlick High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "city",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "West Delaware High School",
+    "state": "IA",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "East Coweta High School",
+    "state": "GA",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Niskayuna High School",
+    "state": "NY",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Emporia High",
+    "state": "KS",
+    "countGroup": "1000-1500",
+    "localeGroup": "town",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Newport Middle High School (High)",
+    "state": "NH",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "South Central Calhoun High School",
+    "state": "IA",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Jackson Hole High School",
+    "state": "WY",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Iraan High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Horizon High School",
+    "state": "AZ",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "city",
+    "bodyParts": ["chest", "buttocks", "midriff"]
+  },
+  {
+    "schoolName": "Lincoln Senior High School",
+    "state": "MI",
+    "countGroup": "1000-1500",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Turpin High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Bellport Senior High School",
+    "state": "NY",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Platte Canyon High School",
+    "state": "CO",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "chest", "buttocks", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Rosemont High",
+    "state": "CA",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Bowlegs High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["buttocks", "midriff"]
+  },
+  {
+    "schoolName": "Spencerport High School",
+    "state": "NY",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Piedmont High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": ["chest", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Riverdale High School",
+    "state": "FL",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Pittsfield High School",
+    "state": "NH",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["cleavage", "torso"]
+  },
+  {
+    "schoolName": "West Islip Senior High School",
+    "state": "NY",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Kenyon-Wanamingo Senior High",
+    "state": "MN",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Crater Academy of Health and Public Services",
+    "state": "OR",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Grand Ledge High School",
+    "state": "MI",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "David Prouty High",
+    "state": "MA",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Tarkington High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "chest", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "South Glens Falls Senior High School",
+    "state": "NY",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Affton High",
+    "state": "MO",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Azle High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["cleavage", "torso"]
+  },
+  {
+    "schoolName": "Luray High",
+    "state": "VA",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Lebanon Sr. High",
+    "state": "MO",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Higley High School",
+    "state": "AZ",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["chest", "buttocks", "midriff"]
+  },
+  {
+    "schoolName": "Appoquinimink High School",
+    "state": "DE",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Quanah High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Rham High School",
+    "state": "CT",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Lynnville-Sully High School",
+    "state": "IA",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Grandview Sr. High",
+    "state": "MO",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": ["back", "chest", "buttocks", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Fontana High",
+    "state": "CA",
+    "prohibited": "female",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["chest", "midriff"]
+  },
+  {
+    "schoolName": "Whitman Hanson Regional",
+    "state": "MA",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": ["back", "midriff"]
+  },
+  {
+    "schoolName": "Harlowton High School",
+    "state": "MT",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Oak Creek High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["chest"]
+  },
+  {
+    "schoolName": "Marathon High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Akron Early College High School",
+    "state": "OH",
+    "countGroup": "200-499",
+    "localeGroup": "city",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Bonney Lake High School",
+    "state": "WA",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": ["chest", "midriff"]
+  },
+  {
+    "schoolName": "Rogers High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["chest", "midriff", "torso"]
+  },
+  {
+    "schoolName": "Athens High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Excelsior Springs High",
+    "state": "MO",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Byron Nelson High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Celina High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Frontenac Sr. High School",
+    "state": "KS",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Queen City High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Macon Sr. High",
+    "state": "MO",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Union High School",
+    "state": "IA",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Sedro Woolley Senior High School",
+    "state": "WA",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": ["torso"]
+  },
+  {
+    "schoolName": "Atascadero High",
+    "state": "CA",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Agwsr High School",
+    "state": "IA",
+    "prohibited": "female",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Keystone High School",
+    "state": "OH",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Cuba High",
+    "state": "MO",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["back", "midriff"]
+  },
+  {
+    "schoolName": "Ontario High School",
+    "state": "OR",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["back", "chest", "buttocks", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Goshen Central High School",
+    "state": "NY",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Batesville High School",
+    "state": "AR",
+    "prohibited": "female",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": ["chest", "buttocks"]
+  },
+  {
+    "schoolName": "Alamo Heights High School",
+    "state": "TX",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Rancho Verde High",
+    "state": "CA",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["buttocks", "midriff"]
+  },
+  {
+    "schoolName": "South Senior High",
+    "state": "MN",
+    "countGroup": "1500+",
+    "localeGroup": "city",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Sinton High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Lompoc High",
+    "state": "CA",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Eastern High School",
+    "state": "MI",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "midriff"]
+  },
+  {
+    "schoolName": "Shelby Co High Sch",
+    "state": "AL",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Calhoun High School",
+    "state": "GA",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Alonso High School",
+    "state": "FL",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Mira Mesa High",
+    "state": "CA",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "city",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Independence High School",
+    "state": "MS",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "chest", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Somerset High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Blue Ridge High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["cleavage", "midriff", "torso"]
+  },
+  {
+    "schoolName": "Kalkaska High School",
+    "state": "MI",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "La Jolla High",
+    "state": "CA",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "city",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "West Grand High School",
+    "state": "CO",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Park Hill High",
+    "state": "MO",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "city",
+    "bodyParts": ["back", "midriff"]
+  },
+  {
+    "schoolName": "North High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Thunder Ridge High School",
+    "state": "KS",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Calera High Sch",
+    "state": "AL",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "chest"]
+  },
+  {
+    "schoolName": "Pekin Community High School",
+    "state": "IA",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["buttocks", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Brindlee Mt High Sch",
+    "state": "AL",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Weston High",
+    "state": "MA",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": ["buttocks", "midriff", "torso"]
+  },
+  {
+    "schoolName": "Soroco High School",
+    "state": "CO",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Waconia Senior High",
+    "state": "MN",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "town",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "San Jon High",
+    "state": "NM",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Joseph Case High",
+    "state": "MA",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": ["buttocks", "midriff"]
+  },
+  {
+    "schoolName": "Wharton High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["cleavage"]
+  },
+  {
+    "schoolName": "Leavenworth Sr High",
+    "state": "KS",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "town",
+    "bodyParts": ["chest", "buttocks", "midriff"]
+  },
+  {
+    "schoolName": "Illinois Valley High School",
+    "state": "OR",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["chest", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Griffin High School",
+    "state": "GA",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Colchester High School",
+    "state": "VT",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "West Hempstead High School",
+    "state": "NY",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": ["torso"]
+  },
+  {
+    "schoolName": "Monte Vista High",
+    "state": "CA",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Century High",
+    "state": "MD",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "buttocks", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Olton High School",
+    "state": "TX",
+    "prohibited": "female",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Little Miami High School",
+    "state": "OH",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": ["buttocks", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Jefferson High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["back", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Cedar Grove-Belgium High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Hominy High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Glen Rose High School",
+    "state": "TX",
+    "prohibited": "female",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff", "torso"]
+  },
+  {
+    "schoolName": "Monroe-Woodbury High School",
+    "state": "NY",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Lovell High School",
+    "state": "WY",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Sauk Prairie High",
+    "state": "WI",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Baraboo High",
+    "state": "WI",
+    "prohibited": "female",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["chest", "buttocks", "midriff"]
+  },
+  {
+    "schoolName": "Dexter High",
+    "state": "MO",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Perry Central High School",
+    "state": "MS",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Ketchum High School",
+    "state": "OK",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Leominster High School",
+    "state": "MA",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Madras High School",
+    "state": "OR",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["chest", "buttocks", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Christiansburg High",
+    "state": "VA",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "city",
+    "bodyParts": ["back", "chest", "midriff"]
+  },
+  {
+    "schoolName": "Lebanon High School",
+    "state": "OR",
+    "countGroup": "1000-1500",
+    "localeGroup": "town",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Miller Place High School",
+    "state": "NY",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Lehigh Senior High School",
+    "state": "FL",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Sutton High School",
+    "state": "MA",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["chest", "midriff"]
+  },
+  {
+    "schoolName": "Spaulding Uhsd #41",
+    "state": "VT",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["back", "buttocks", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Tipton High School",
+    "state": "IA",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Big Piney High School",
+    "state": "WY",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Irondequoit High School",
+    "state": "NY",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Clearwater High",
+    "state": "MO",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "midriff"]
+  },
+  {
+    "schoolName": "Hilldale High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Alvarado High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Sayre High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "town",
+    "bodyParts": ["chest", "midriff"]
+  },
+  {
+    "schoolName": "Chase High",
+    "state": "KS",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Plainwell High School",
+    "state": "MI",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Cimarron High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "midriff"]
+  },
+  {
+    "schoolName": "Centralia High",
+    "state": "MO",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["torso"]
+  },
+  {
+    "schoolName": "Guymon High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["back", "chest", "midriff"]
+  },
+  {
+    "schoolName": "Hamilton High School",
+    "state": "AZ",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["buttocks", "midriff"]
+  },
+  {
+    "schoolName": "Battle Creek-Ida Grove Senior High School",
+    "state": "IA",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["torso"]
+  },
+  {
+    "schoolName": "Palacios High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "midriff"]
+  },
+  {
+    "schoolName": "Lyons Senior High School",
+    "state": "NY",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Pentucket Regional Sr High",
+    "state": "MA",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": ["buttocks", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Grantsburg High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Unionville-Sebewaing High School",
+    "state": "MI",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "midriff"]
+  },
+  {
+    "schoolName": "Danvers High",
+    "state": "MA",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Ignacio High School",
+    "state": "CO",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Binghamton High School",
+    "state": "NY",
+    "countGroup": "1500+",
+    "localeGroup": "city",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "George Mason High",
+    "state": "VA",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Omro High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["buttocks", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Nashoba Regional",
+    "state": "MA",
+    "countGroup": "1000-1500",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Pierce County High School",
+    "state": "GA",
+    "prohibited": "female",
+    "countGroup": "1000-1500",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "South Albany High School",
+    "state": "OR",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "city",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Connally High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Middle Creek High",
+    "state": "NC",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Mountain View High School",
+    "state": "WY",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["torso"]
+  },
+  {
+    "schoolName": "Fontana A. B. Miller High",
+    "state": "CA",
+    "prohibited": "female",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["chest", "midriff"]
+  },
+  {
+    "schoolName": "Texas High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "city",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Moore High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["chest", "midriff", "torso"]
+  },
+  {
+    "schoolName": "Chanhassen High School",
+    "state": "MN",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Clear Brook High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Sleepy Hollow High School",
+    "state": "NY",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Douglas High School",
+    "state": "MA",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Walpole High",
+    "state": "MA",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Memorial High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "East Hampton High School",
+    "state": "NY",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Warrenton High School",
+    "state": "OR",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff", "torso"]
+  },
+  {
+    "schoolName": "Irvine High",
+    "state": "CA",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "city",
+    "bodyParts": ["midriff", "torso"]
+  },
+  {
+    "schoolName": "Hilliard Bradley High School",
+    "state": "OH",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Aps Online School",
+    "state": "CO",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "city",
+    "bodyParts": ["chest", "buttocks", "midriff"]
+  },
+  {
+    "schoolName": "Medford High",
+    "state": "MA",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Senior High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Onteora High School",
+    "state": "NY",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Monroe City r-i High",
+    "state": "MO",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Temple High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "city",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Ripley High School",
+    "state": "MS",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["back", "chest", "midriff"]
+  },
+  {
+    "schoolName": "Haverling Senior High School",
+    "state": "NY",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "White River High School",
+    "state": "WA",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": ["back", "chest", "midriff"]
+  },
+  {
+    "schoolName": "Newton Senior High School",
+    "state": "IA",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["chest", "midriff"]
+  },
+  {
+    "schoolName": "Astoria Senior High School",
+    "state": "OR",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Carter County High School",
+    "state": "MT",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Hobbs High",
+    "state": "NM",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Hiawatha Sr High",
+    "state": "KS",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Pittsfield High",
+    "state": "MA",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "city",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Huntington High School",
+    "state": "NY",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Social Circle High School",
+    "state": "GA",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Lomira High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "East Haven High School",
+    "state": "CT",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Saratoga Springs High School",
+    "state": "NY",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Skyview High School",
+    "state": "WA",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Kelso High School",
+    "state": "WA",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["buttocks", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Chireno High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Edison Senior High",
+    "state": "MN",
+    "countGroup": "500-999",
+    "localeGroup": "city",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Russell High",
+    "state": "KS",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Nettleton High School",
+    "state": "MS",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "midriff"]
+  },
+  {
+    "schoolName": "Sallisaw High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Laker High School",
+    "state": "MI",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Grand Rapids Senior High",
+    "state": "MN",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Plymouth High",
+    "state": "WI",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Broadview High School",
+    "state": "MT",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Asher High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Lodi High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Black Hawk High",
+    "state": "WI",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Morrison High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Okay High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "California High",
+    "state": "MO",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Aliso Niguel High",
+    "state": "CA",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Andrews High School",
+    "state": "TX",
+    "countGroup": "1000-1500",
+    "localeGroup": "town",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Buffalo High School",
+    "state": "WY",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["buttocks", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Rutland Senior High School",
+    "state": "VT",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Taft Union High",
+    "state": "CA",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Graham High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Franklin High",
+    "state": "MA",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Sweetwater High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["buttocks", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "George Washington High School",
+    "state": "IA",
+    "countGroup": "1000-1500",
+    "localeGroup": "city",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Glen Ullin High School",
+    "state": "ND",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Tonasket High School",
+    "state": "WA",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Quartz Hill High",
+    "state": "CA",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Wray High School",
+    "state": "CO",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "chest", "buttocks", "midriff"]
+  },
+  {
+    "schoolName": "Ponca City High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "town",
+    "bodyParts": ["back", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Hilton High School",
+    "state": "NY",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "North Douglas High School",
+    "state": "OR",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "East Sac County High School",
+    "state": "IA",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Colby Senior High",
+    "state": "KS",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["back", "midriff"]
+  },
+  {
+    "schoolName": "Scotts Valley High",
+    "state": "CA",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff", "torso"]
+  },
+  {
+    "schoolName": "Auburn Senior High",
+    "state": "MA",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Auburn High",
+    "state": "VA",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Hickory Ridge High",
+    "state": "NC",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["back", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Dewitt High School",
+    "state": "AR",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "chest", "buttocks", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Marion l Steele High School",
+    "state": "OH",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Cameron High",
+    "state": "MO",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["chest", "buttocks", "midriff"]
+  },
+  {
+    "schoolName": "Bay Shore Senior High School",
+    "state": "NY",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Saint Helena High",
+    "state": "CA",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Reeds Spring High",
+    "state": "MO",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Connetquot High School",
+    "state": "NY",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Rondout Valley High School",
+    "state": "NY",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Porum High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "midriff"]
+  },
+  {
+    "schoolName": "Bonduel High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "midriff"]
+  },
+  {
+    "schoolName": "Farmington High",
+    "state": "NM",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "city",
+    "bodyParts": ["back", "midriff"]
+  },
+  {
+    "schoolName": "Mount Pleasant High",
+    "state": "NC",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": ["chest", "cleavage", "midriff", "torso"]
+  },
+  {
+    "schoolName": "Fountain Hills High School",
+    "state": "AZ",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": ["chest"]
+  },
+  {
+    "schoolName": "Pottstown Shs",
+    "state": "PA",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Menchville High",
+    "state": "VA",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "city",
+    "bodyParts": ["back", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Wheeler High School",
+    "state": "CT",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Marshalltown High School",
+    "state": "IA",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "town",
+    "bodyParts": ["back", "chest", "buttocks", "cleavage"]
+  },
+  {
+    "schoolName": "West Plains Sr. High",
+    "state": "MO",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Merrill High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Northwest Cabarrus High",
+    "state": "NC",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": ["back", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Elkhorn Area High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Almont High School",
+    "state": "MI",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Bourne High School",
+    "state": "MA",
+    "countGroup": "200-499",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Eastern York High School",
+    "state": "PA",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Washington High School",
+    "state": "OK",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Norwood High",
+    "state": "MA",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": ["chest", "midriff"]
+  },
+  {
+    "schoolName": "Washburn Rural High",
+    "state": "KS",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "midriff"]
+  },
+  {
+    "schoolName": "Talihina High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Lamphere High School",
+    "state": "MI",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Lake Region Uhsd #24",
+    "state": "VT",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Newberg Senior High School",
+    "state": "OR",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "town",
+    "bodyParts": ["back", "buttocks", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Edgewood High School",
+    "state": "TX",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Blair Oaks High",
+    "state": "MO",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Nicolet High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": ["back", "chest", "buttocks", "midriff"]
+  },
+  {
+    "schoolName": "Milton Senior High School",
+    "state": "VT",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Holland Patent Central High School",
+    "state": "NY",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Dickinson High School",
+    "state": "TX",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Vinton-Shellsburg High School",
+    "state": "IA",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Atlanta High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["back", "midriff"]
+  },
+  {
+    "schoolName": "Sequoyah High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Brave Center Academy",
+    "state": "ND",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "New Prague Senior High",
+    "state": "MN",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Menomonie High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": ["cleavage", "midriff", "torso"]
+  },
+  {
+    "schoolName": "Hardin-Jefferson High School",
+    "state": "TX",
+    "prohibited": "male",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Marlin High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Lookeba-Sickles High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["cleavage", "midriff", "torso"]
+  },
+  {
+    "schoolName": "Knoxville High School",
+    "state": "IA",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Van Horn High",
+    "state": "MO",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": ["back", "chest", "buttocks", "midriff"]
+  },
+  {
+    "schoolName": "Hudson's Bay High School",
+    "state": "WA",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "city",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Shelby High School",
+    "state": "MT",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "town",
+    "bodyParts": ["back", "chest", "buttocks", "midriff"]
+  },
+  {
+    "schoolName": "West Seneca West Senior High School",
+    "state": "NY",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Peabody Veterans Memorial High",
+    "state": "MA",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Red Hook Senior High School",
+    "state": "NY",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Henderson High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Nathan Hale High",
+    "state": "WI",
+    "countGroup": "1500+",
+    "localeGroup": "city",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "University City High",
+    "state": "CA",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "city",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Siuslaw High School",
+    "state": "OR",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Plevna High School",
+    "state": "MT",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "North Eugene High School",
+    "state": "OR",
+    "countGroup": "500-999",
+    "localeGroup": "city",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Littleton High School",
+    "state": "MA",
+    "countGroup": "200-499",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "West Springfield High",
+    "state": "MA",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Alta Loma High",
+    "state": "CA",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["buttocks", "midriff"]
+  },
+  {
+    "schoolName": "Pine Island Secondary",
+    "state": "MN",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Winneconne High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Beaver Dam High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "town",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Mariner High School",
+    "state": "FL",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "city",
+    "bodyParts": ["back", "midriff"]
+  },
+  {
+    "schoolName": "Milwaukie High School",
+    "state": "OR",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Holcomb High",
+    "state": "KS",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Conval Regional High School",
+    "state": "NH",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Geneva High Sch",
+    "state": "AL",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Salina High School",
+    "state": "OK",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Gilmer High School",
+    "state": "GA",
+    "countGroup": "1000-1500",
+    "localeGroup": "town",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Sauk Rapids-Rice Senior High",
+    "state": "MN",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "rural",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Bradford Area High School",
+    "state": "PA",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Northland Pines High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["chest"]
+  },
+  {
+    "schoolName": "Mahopac High School",
+    "state": "NY",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Anacortes High School",
+    "state": "WA",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Lapine Senior High School",
+    "state": "OR",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["buttocks", "midriff"]
+  },
+  {
+    "schoolName": "Lynnfield High",
+    "state": "MA",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Fairview High School",
+    "state": "PA",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["buttocks", "midriff", "torso"]
+  },
+  {
+    "schoolName": "Housatonic Valley Regional High School",
+    "state": "CT",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["chest", "midriff"]
+  },
+  {
+    "schoolName": "Daniel Hand High School",
+    "state": "CT",
+    "countGroup": "1000-1500",
+    "localeGroup": "suburb",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Croswell-Lexington High School",
+    "state": "MI",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "midriff"]
+  },
+  {
+    "schoolName": "Hornell Senior High School",
+    "state": "NY",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "North Fayette High School",
+    "state": "IA",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Thorp High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["cleavage"]
+  },
+  {
+    "schoolName": "Centerville High School",
+    "state": "IA",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["back", "midriff"]
+  },
+  {
+    "schoolName": "Creston High School",
+    "state": "IA",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Brookfield High School",
+    "state": "CT",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "suburb",
+    "bodyParts": ["chest", "midriff"]
+  },
+  {
+    "schoolName": "John Stark Regional High School",
+    "state": "NH",
+    "countGroup": "500-999",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Mount Union Area Shs",
+    "state": "PA",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["midriff", "torso"]
+  },
+  {
+    "schoolName": "Prentice High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["cleavage", "midriff", "torso"]
+  },
+  {
+    "schoolName": "Charleston High",
+    "state": "MO",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Mountain Range High School",
+    "state": "CO",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["buttocks", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Jenks High School",
+    "state": "OK",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["chest", "midriff", "torso"]
+  },
+  {
+    "schoolName": "Alberton High School",
+    "state": "MT",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Concord High",
+    "state": "NC",
+    "prohibited": "none",
+    "countGroup": "1000-1500",
+    "localeGroup": "city",
+    "bodyParts": ["back", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Clinton High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Bethel Park High School",
+    "state": "PA",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["chest", "midriff"]
+  },
+  {
+    "schoolName": "Potosi High",
+    "state": "WI",
+    "prohibited": "none",
+    "countGroup": "< 200",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Quincy High School",
+    "state": "WA",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Strafford High",
+    "state": "MO",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Silver Valley High",
+    "state": "CA",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Mashpee High",
+    "state": "MA",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "suburb",
+    "bodyParts": ["back", "cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Edison Academy",
+    "state": "MA",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Ramon C. Cortines School of Visual and Performing Arts",
+    "state": "CA",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "city",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Burkburnett High School",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "500-999",
+    "localeGroup": "town",
+    "bodyParts": ["cleavage", "midriff"]
+  },
+  {
+    "schoolName": "Henry J. Kaiser High",
+    "state": "CA",
+    "prohibited": "none",
+    "countGroup": "1500+",
+    "localeGroup": "suburb",
+    "bodyParts": ["buttocks", "midriff"]
+  },
+  {
+    "schoolName": "Mt. Vernon High",
+    "state": "MO",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": ["chest", "midriff", "torso"]
+  },
+  {
+    "schoolName": "Forsyth High",
+    "state": "MO",
+    "countGroup": "200-499",
+    "localeGroup": "town",
+    "bodyParts": [null]
+  },
+  {
+    "schoolName": "Clear Creek High School",
+    "state": "CO",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "rural",
+    "bodyParts": ["back", "chest", "buttocks", "midriff"]
+  },
+  {
+    "schoolName": "Assets",
+    "state": "TX",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "suburb",
+    "bodyParts": ["midriff"]
+  },
+  {
+    "schoolName": "Washtenaw International High School",
+    "state": "MI",
+    "prohibited": "none",
+    "countGroup": "200-499",
+    "localeGroup": "suburb",
+    "bodyParts": ["chest", "buttocks"]
+  }
+]
