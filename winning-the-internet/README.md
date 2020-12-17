@@ -11,7 +11,7 @@ Below you'll find the metadata for each file.
 - **Last Modified**: December 2020
 - **Contact Information**: [Russell Goldenberg](mailto:russell@pudding.cool)
 - **Spatial Applicability**: N/A
-- **Temporal Applicability**: June 26, 2020 - December 15, 2020
+- **Temporal Applicability**: June 18, 2020 - December 15, 2020
 - **Observations (Rows)**: Each row represents one link.
 - **Notes**: a link is programatically flagged if it appears 3+ times in a single newsletter, or contains a likely subscribe/unsubscribe url.
 - **Variables (Columns)**:
