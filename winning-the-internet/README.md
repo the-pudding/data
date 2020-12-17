@@ -1,4 +1,4 @@
-This folder contains all of the data used in The Pudding newsletter Winning the Internet published in July 2020.
+This folder contains a snapshot of the raw data used in The Pudding newsletter Winning the Internet published in July 2020.
 
 The data will sometimes be updated.
 
