@@ -1,0 +1,182 @@
+,site,country_of_pub,polarity_base,polarity_women,difference,site_clean,popularity
+33,dailysun.co.za,South Africa,0,0.5106,0.5106,dailysun.co.za,1
+93,msn.com,USA,0.186156476,0.375640564,0.189484088,msn,1
+116,pcadvisor.co.uk,UK,0.181892,0.3612,0.179308,pcadvisor.co.uk,
+95,mybroadband.co.za,South Africa,0.18925681,0.366214286,0.176957476,mybroadband.co.za,
+2,autoexpress.co.uk,UK,0.105514054,0.279166667,0.173652613,autoexpress.co.uk,
+104,news.sky.com,UK,0.271508683,0.428149321,0.156640637,news.sky,
+77,ksl.com,USA,0.313635754,0.465765008,0.152129253,ksl,1
+115,outlookindia.com,India,0.217594301,0.350099432,0.132505131,outlookindia,1
+9,businessinsider.co.za,South Africa,0.2289783,0.355294915,0.126316615,businessinsider.co.za,
+117,pcmag.com,USA,0.102921948,0.228774074,0.125852126,pcmag,
+182,zululandobserver.co.za,South Africa,0.2472488,0.371664444,0.124415644,zululandobserver.co.za,
+157,thesouthafrican.com,South Africa,0.247606387,0.369024224,0.121417836,thesouthafrican,
+5,birminghammail.co.uk,UK,0.334063059,0.455194458,0.1211314,birminghammail.co.uk,
+105,news.yahoo.com,USA,0.291531517,0.411550565,0.120019048,news.yahoo,
+144,techradar.com,UK,0.164341672,0.279383333,0.115041661,techradar,
+135,sfgate.com,USA,0.231293167,0.346014853,0.114721687,sfgate,
+176,walesonline.co.uk,UK,0.290132109,0.403370956,0.113238847,walesonline.co.uk,
+20,chroniclelive.co.uk,UK,0.307497549,0.420041254,0.112543706,chroniclelive.co.uk,
+85,manchestereveningnews.co.uk,UK,0.364288225,0.47458796,0.110299735,manchestereveningnews.co.uk,
+69,ibtimes.co.uk,UK,0.308187584,0.415513631,0.107326047,ibtimes.co.uk,
+19,chron.com,USA,0.269930625,0.377102407,0.107171782,chron,
+42,enca.com,South Africa,0.220131335,0.326768817,0.106637482,enca,
+45,espn.go.com,USA,0.157207441,0.262181026,0.104973584,espn.go,1
+143,swarajyamag.com,India,0.258699838,0.361533663,0.102833825,swarajyamag,1
+48,ewn.co.za,South Africa,0.259543323,0.362289947,0.102746624,ewn.co.za,
+18,chicagotribune.com,USA,0.253421333,0.355585479,0.102164145,chicagotribune,
+63,heraldlive.co.za,South Africa,0.2522991,0.353001709,0.100702609,heraldlive.co.za,
+61,greaterkashmir.com,India,0.23878435,0.335652817,0.096868467,greaterkashmir,
+82,liverpoolecho.co.uk,UK,0.338696217,0.434424198,0.095727981,liverpoolecho.co.uk,
+166,timesnownews.com,India,0.311210993,0.405890427,0.094679433,timesnownews,1
+110,nydailynews.com,USA,0.369138,0.461940426,0.092802426,nydailynews,1
+107,news24.com,South Africa,0.286218003,0.377393263,0.09117526,news24,1
+120,plymouthherald.co.uk,UK,0.310481688,0.400385225,0.089903537,plymouthherald.co.uk,
+50,finance.yahoo.com,USA,0.218865797,0.306875884,0.088010087,finance.yahoo,
+83,lowvelder.co.za,South Africa,0.2818514,0.368297059,0.086445659,lowvelder.co.za,
+111,nypost.com,USA,0.282383375,0.368655261,0.086271886,nypost,1
+15,cbn.co.za,South Africa,0.211167376,0.295916667,0.084749291,cbn.co.za,1
+16,cbsnews.com,USA,0.303822292,0.387774409,0.083952117,cbsnews,1
+113,oneindia.com,India,0.262733778,0.346641568,0.08390779,oneindia,
+141,standard.co.uk,UK,0.291144957,0.374523723,0.083378767,standard.co.uk,
+128,reuters.com,USA,0.247825958,0.331119872,0.083293914,reuters,1
+126,rediff.com,India,0.249515815,0.332133273,0.082617458,rediff,
+177,washingtonpost.com,USA,0.215102879,0.296957009,0.081854131,washingtonpost,1
+155,thenewsminute.com,India,0.307614721,0.386672074,0.079057354,thenewsminute,1
+91,mirror.co.uk,UK,0.341467,0.42050814,0.07904114,mirror.co.uk,1
+160,theverge.com,USA,0.185832,0.263750843,0.077918843,theverge,1
+12,businesstech.co.za,South Africa,0.175176385,0.2526125,0.077436115,businesstech.co.za,
+78,latimes.com,USA,0.243554208,0.32069096,0.077136751,latimes,
+72,india.com,India,0.291231822,0.366687967,0.075456145,india,
+35,deccanherald.com,India,0.210833913,0.286136652,0.075302739,deccanherald,1
+167,timesofindia.com,India,0.243441268,0.318491272,0.075050004,timesofindia,1
+31,dailyrecord.co.uk,UK,0.389184457,0.462960212,0.073775755,dailyrecord.co.uk,
+36,digitalspy.com,UK,0.2035633,0.276539316,0.072976016,digitalspy,
+100,nbcsports.com,USA,0.212154641,0.284349867,0.072195225,nbcsports,1
+55,freepressjournal.in,India,0.262277002,0.334427793,0.072150791,freepressjournal.in,
+29,dailymail.co.uk,UK,0.302497044,0.374469477,0.071972432,dailymail.co.uk,1
+165,timeslive.co.za,South Africa,0.288754016,0.360660386,0.071906369,timeslive.co.za,
+49,express.co.uk,UK,0.304680063,0.37599474,0.071314677,express.co.uk,
+32,dailystar.co.uk,UK,0.334397547,0.405116726,0.070719179,dailystar.co.uk,1
+40,economictimes.indiatimes.com,India,0.211475196,0.281888106,0.07041291,economictimes.indiatimes,1
+102,newindianexpress.com,India,0.221533147,0.291719077,0.070185929,newindianexpress,1
+57,gamespot.com,USA,0.225902662,0.294973333,0.069070672,gamespot,
+39,dnaindia.com,India,0.2463785,0.315342934,0.068964434,dnaindia,
+87,mashable.com,USA,0.227943042,0.296431399,0.068488357,mashable,1
+54,foxnews.com,USA,0.304442708,0.372054829,0.067612121,foxnews,1
+145,telegraph.co.uk,UK,0.252085313,0.319224492,0.06713918,telegraph.co.uk,1
+172,vice.com,USA,0.243148543,0.310226427,0.067077884,vice,1
+71,independent.co.uk,UK,0.28187046,0.348787566,0.066917107,independent.co.uk,1
+21,citizen.co.za,South Africa,0.2721367,0.33863178,0.06649508,citizen.co.za,
+124,rawstory.com,USA,0.38674507,0.453196831,0.066451761,rawstory,
+81,livemint.com,India,0.151318838,0.217365321,0.066046484,livemint,1
+75,indiatoday.in,India,0.261868169,0.326938218,0.065070049,indiatoday.in,1
+86,marketwatch.com,USA,0.226810208,0.288286913,0.061476705,marketwatch,
+122,popsugar.com,USA,0.259726874,0.320131246,0.060404372,popsugar,
+114,opindia.com,India,0.377451106,0.437674872,0.060223765,opindia,
+153,thehindu.com,India,0.174523935,0.23386034,0.059336406,thehindu,1
+140,sports.yahoo.com,USA,0.283043085,0.342360896,0.059317811,sports.yahoo,
+164,timeout.com,UK,0.209798211,0.268054774,0.058256563,timeout,
+118,people.com,USA,0.2879685,0.346176118,0.058207618,people,
+146,telegraphindia.com,UK,0.206487076,0.264252556,0.05776548,telegraphindia,
+181,yahoo.com,USA,0.272275219,0.327557484,0.055282265,yahoo,
+1,asianetnews.com,India,0.282070177,0.337229487,0.05515931,asianetnews,
+34,deccanchronicle.com,India,0.223438097,0.277839429,0.054401333,deccanchronicle,
+67,huffingtonpost.co.uk,UK,0.30173076,0.355251278,0.053520517,huffingtonpost.co.uk,1
+101,ndtv.com,India,0.277353113,0.330536917,0.053183804,ndtv,1
+23,cnet.com,USA,0.188922193,0.241704138,0.052781945,cnet,
+89,metro.co.uk,UK,0.274230738,0.326165718,0.05193498,metro.co.uk,
+106,news18.com,India,0.264043427,0.31564408,0.051600653,news18,
+74,indiatimes.com,India,0.241261217,0.292522015,0.051260798,indiatimes,
+139,sowetanlive.co.za,South Africa,0.297275636,0.346248506,0.04897287,sowetanlive.co.za,
+174,vogue.in,India,0.229856615,0.278304545,0.04844793,vogue.in,1
+73,indianexpress.com,India,0.251069312,0.298885411,0.047816099,indianexpress,
+62,health.com,USA,0.252767175,0.299757692,0.046990517,health,
+38,dispatchlive.co.za,South Africa,0.310701499,0.357586973,0.046885475,dispatchlive.co.za,
+99,nbcnews.com,USA,0.284476438,0.33041896,0.045942523,nbcnews,1
+90,mg.co.za,South Africa,0.232704417,0.278323364,0.045618948,mg.co.za,
+17,cbssports.com,USA,0.265465783,0.310709639,0.045243856,cbssports,
+92,moneyweb.co.za,South Africa,0.205860931,0.249522222,0.043661291,moneyweb.co.za,
+119,pitchfork.com,USA,0.191142279,0.234209752,0.043067473,pitchfork,
+60,gizmodo.com,USA,0.248330952,0.291240233,0.042909281,gizmodo,
+26,cosmopolitan.com,USA,0.267170049,0.310014955,0.042844906,cosmopolitan,
+161,thewire.in,India,0.269854393,0.312311029,0.042456636,thewire.in,1
+64,hindustantimes.com,India,0.276365481,0.318467811,0.04210233,hindustantimes,1
+109,npr.org,USA,0.221385375,0.263359439,0.041974064,npr.org,1
+76,iol.co.za,South Africa,0.276382991,0.317493798,0.041110808,iol.co.za,
+152,thehill.com,USA,0.24513835,0.285318835,0.040180486,thehill,
+51,firstpost.com,India,0.296786331,0.336245072,0.039458741,firstpost,1
+59,givemesport.com,UK,0.276838054,0.314611066,0.037773012,givemesport,
+142,style.yahoo.com,USA,0.285039201,0.322624777,0.037585576,style.yahoo,
+11,businesslive.co.za,South Africa,0.2378914,0.27537,0.0374786,businesslive.co.za,
+0,abcnews.go.com,USA,0.301046333,0.338147306,0.037100973,abcnews.go,
+96,mykhel.com,India,0.26259885,0.298329907,0.035731057,mykhel,
+88,mensxp.com,India,0.324468035,0.358602667,0.034134632,mensxp,
+10,businessinsider.com,USA,0.263934656,0.296661973,0.032727317,businessinsider,1
+131,salon.com,USA,0.296857311,0.329312167,0.032454855,salon,
+3,bbc.co.uk,UK,0.20663975,0.239086395,0.032446645,bbc.co.uk,1
+156,thequint.com,India,0.266815952,0.298577904,0.031761953,thequint,1
+43,eonline.com,USA,0.297120954,0.328734572,0.031613617,eonline,
+68,huffingtonpost.com,USA,0.319976063,0.351542037,0.031565973,huffingtonpost,1
+148,thebetterindia.com,India,0.301851208,0.332313949,0.03046274,thebetterindia,
+58,gawker.com,USA,0.294246996,0.323521195,0.029274199,gawker,
+22,cnbc.com,USA,0.233905,0.262483239,0.028578239,cnbc,
+150,thedailybeast.com,USA,0.309882028,0.338295028,0.028413,thedailybeast,
+136,si.com,USA,0.238245215,0.266491438,0.028246223,si,
+30,dailymaverick.co.za,South Africa,0.255461385,0.282167742,0.026706357,dailymaverick.co.za,
+154,theladbible.com,UK,0.275283974,0.299956693,0.024672719,theladbible,
+179,wired.com,USA,0.219603333,0.243591071,0.023987738,wired,1
+133,scroll.in,India,0.29718424,0.320749663,0.023565423,scroll.in,1
+149,theblaze.com,USA,0.394345165,0.416275316,0.021930152,theblaze,
+158,thesun.co.uk,UK,0.379745908,0.401276161,0.021530253,thesun.co.uk,
+130,rt.com,USA,0.340093807,0.359740556,0.019646749,rt,
+169,unilad.co.uk,UK,0.303029124,0.321121636,0.018092512,unilad.co.uk,
+8,breitbart.com,USA,0.317215091,0.335045828,0.017830737,breitbart,
+79,lifehacker.com,USA,0.248887083,0.266695918,0.017808835,lifehacker,
+13,buzzfeed.com,USA,0.308108023,0.324862746,0.016754723,buzzfeed,
+97,nationalgeographic.com,USA,0.19068799,0.207081935,0.016393945,nationalgeographic,
+24,cnn.com,UK,0.26583687,0.282206018,0.016369148,cnn,1
+53,forbes.com,USA,0.241020531,0.257352422,0.016331891,forbes,1
+162,thisismoney.co.uk,UK,0.275327766,0.291134539,0.015806773,thisismoney.co.uk,
+170,usatoday.com,USA,0.296269048,0.31140908,0.015140033,usatoday,1
+171,usmagazine.com,USA,0.259113542,0.273475502,0.01436196,usmagazine,
+7,bloomberg.com,USA,0.223276586,0.235338889,0.012062303,bloomberg,1
+25,complex.com,USA,0.275389938,0.287348566,0.011958628,complex,
+180,wsj.com,USA,0.210855667,0.22268423,0.011828564,wsj,1
+56,ft.com,UK,0.184116063,0.1953,0.011183937,ft,1
+70,ign.com,USA,0.185247083,0.196275207,0.011028123,ign,
+151,theguardian.com,UK,0.28428677,0.295093236,0.010806466,theguardian,1
+159,thetimes.co.uk,UK,0.289156064,0.298529407,0.009373343,thetimes.co.uk,
+47,ew.com,USA,0.232930292,0.241885408,0.008955116,ew,
+27,dailycaller.com,USA,0.303585982,0.311029792,0.00744381,dailycaller,
+37,digitaltrends.com,USA,0.226049355,0.233321277,0.007271921,digitaltrends,
+41,edition.cnn.com,UK,0.283689803,0.289983094,0.00629329,edition.cnn,
+112,nytimes.com,USA,0.209340875,0.215567835,0.00622696,nytimes,1
+127,refinery29.com,USA,0.243101383,0.249264302,0.006162919,refinery29,
+44,espn.co.uk,UK,0.248350995,0.254235088,0.005884092,espn.co.uk,1
+6,bleacherreport.com,USA,0.290018125,0.295554845,0.00553672,bleacherreport,
+168,tmz.com,USA,0.227775907,0.231976765,0.004200858,tmz,
+173,vogue.com,USA,0.22938004,0.232969676,0.003589637,vogue,1
+132,scoopwhoop.com,India,0.341280508,0.344489412,0.003208903,scoopwhoop,1
+147,theatlantic.com,USA,0.228511875,0.231305241,0.002793366,theatlantic,1
+65,hollywoodreporter.com,USA,0.225008764,0.227566298,0.002557535,hollywoodreporter,
+163,time.com,USA,0.271484018,0.273924515,0.002440496,time,
+4,bbc.com,UK,0.227439231,0.229351695,0.001912464,bbc,1
+138,slate.com,USA,0.253108875,0.254705498,0.001596623,slate,
+14,capetownetc.com,South Africa,0.201169152,0.199761364,-0.001407789,capetownetc,1
+137,skysports.com,UK,0.256384562,0.253928219,-0.002456343,skysports,
+134,seekingalpha.com,USA,0.205144094,0.200554545,-0.004589549,seekingalpha,
+121,politico.com,USA,0.20528,0.200318803,-0.004961197,politico,
+28,dailykos.com,USA,0.274208511,0.26605,-0.008158511,dailykos,
+46,espncricinfo.com,USA,0.11325563,0.104852941,-0.008402689,espncricinfo,
+175,vox.com,USA,0.2724922,0.262449355,-0.010042845,vox,1
+108,newsmax.com,USA,0.253546052,0.242600714,-0.010945337,newsmax,
+98,nature.com,UK,0.177995336,0.166996875,-0.010998461,nature,1
+129,rollingstone.com,USA,0.242947132,0.227969777,-0.014977355,rollingstone,1
+125,realsimple.com,USA,0.2979135,0.276573333,-0.021340167,realsimple,
+52,fivethirtyeight.com,USA,0.238447468,0.208862105,-0.029585362,fivethirtyeight,1
+123,prokerala.com,India,0.184015562,0.14306087,-0.040954693,prokerala,
+80,littlethings.com,USA,0.319853025,0.263826087,-0.056026938,littlethings,
+94,msnbc.com,USA,0.285536272,0.225151351,-0.060384921,msnbc,1
+178,which.co.uk,UK,0.260788768,0.1456,-0.115188768,which.co.uk,
+84,makeuseof.com,UK,0.259944111,0,-0.259944111,makeuseof,
