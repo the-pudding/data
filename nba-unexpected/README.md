@@ -9,7 +9,7 @@ Below you'll find the metadata for each file.
 - **What is this?**: Data for each player's most unexpected performance between 1985-2022.
 - **Source(s) & Methodology**: basketball-reference.com. More methods below.
 - **Last Modified**: February 2023
-- **Contact Information**: [Russell Goldenberg](mailto:russell@pudding.cool)
+- **Contact Information**: [Russell Samora](mailto:russell@pudding.cool)
 - **Spatial Applicability**: N/A
 - **Temporal Applicability**: 1985 - 2022
 - **Observations (Rows)**: Each row represents one player and their top unexpected performance.
