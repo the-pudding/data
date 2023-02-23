@@ -1,4 +1,4 @@
-This folder contains a the processed csv file for the story The Greatest Unexpected NBA Performances published in February 2023.
+This folder contains the processed data for the story The Greatest Unexpected NBA Performances published in February 2023.
 
 The data will never be updated.
 
