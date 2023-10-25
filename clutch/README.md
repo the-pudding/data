@@ -18,7 +18,7 @@ This file contains all NBA players who took shots who took clutch shots going ba
 | `ft_pct_all`          | Percent of all free throws made                                                                                                                        | float     |
 | `gp_all`              | Number of games played (including playoffs)                                                                                                            | integer   |
 | `pct_clutch_adjusted` | Percent of clutch shots made, normalized for distance/difficulty of the shots                                                                          | float     |
-| `swg_made_per_game`   | Cummulative [swing] of all made clutch shots divided by games played. Can be thought of their average impact (on the team's win probability) per game. | float     |
+| `swg_made_per_game`   | Cummulative swing of all made clutch shots divided by games played. Swing is the difference between the team's win probability if the shot is made vs. if it was missed. The size of that gap is the swing value (greater values represent more clutch / high stakes moments). `swg_made_per_game` be thought of the player's average impact (on the team's win probability), normalized for games played. | float     |
 
 ## wnba.csv
 
@@ -32,4 +32,4 @@ Same thing, but for the WNBA.
 | `pct_adjusted`      | Percent of clutch shots made, normalized for distance/difficulty of the shots                                                                          | float     |
 | `gp_all`            | Total games played                                                                                                                                     | integer   |
 | `ft_pct_all`        | Percent of all free throws made                                                                                                                        | float     |
-| `swg_made_per_game` | Cummulative [swing] of all made clutch shots divided by games played. Can be thought of their average impact (on the team's win probability) per game. | float     |
+| `swg_made_per_game` | Cummulative swing of all made clutch shots divided by games played. Swing is the difference between the team's win probability if the shot is made vs. if it was missed. The size of that gap is the swing value (greater values represent more clutch / high stakes moments). `swg_made_per_game` be thought of the player's average impact (on the team's win probability), normalized for games played. | float     |
