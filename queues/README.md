@@ -5,7 +5,7 @@ Queues are guaranteed to form when the demand rate exceeds the supply capacity, 
 # Scene \# 1: Pooled vs. Parallel (Ticket counter)
 ***
 [add assumptions box]
-![Ticket counter: assumptions](/figures/assumptions_box_sc1.png)
+![Ticket counter: assumptions](figures/assumptions_box_sc1.png)
 
 **Core Takeaway:** Pooled queues (where a single line leads to multiple agents) can be much faster than parallel queues (where each line leads to one agent) because they create economies of scale and allow for flexible reallocation of capacity in response to variability (e.g., if one customer takes an unusually long time to serve). Pooling can achieve lower wait times for a given capacity level or lower capacity utilization for a given service level.
 
