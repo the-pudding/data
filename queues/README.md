@@ -28,13 +28,16 @@ Queues are guaranteed to form when the demand rate exceeds the supply capacity, 
 
 
 
-References
+### References
 ***
 Richard Larson and Amedeo Odoni. 1981. Urban Operations Research. Prentice-Hall.
+
 Gerard Cachon and Christian Terwiesch. 2018. Matching Supply with Demand: An Introduction to Operations Management (4th ed.). McGraw-Hill.
+
 Gerard Cachon and Christian Terwiesch. 2022. Operations Management (3rd ed.). McGraw-Hill.
+
 Lecture notes and course materials on queueing theory and simulation/stochastic modeling by Daniel S. Myers
 
-Acknowledgements
+### Acknowledgements
 ***
 Many thanks to Professor Daniel S. Myers, Shraddha Rana, Dr. Angela Acocella, Professor Abhishek Deshmane for their feedback and suggestions during the development of this story.
