@@ -5,12 +5,20 @@ Queues are guaranteed to form when the demand rate exceeds the supply capacity, 
 # Scene \# 1: Pooled vs. Parallel (Ticket counter)
 ***
 [add assumptions box]
+![Ticket counter: assumptions](/figures/assumptions_box_sc1.png)
 
 **Core Takeaway:** Pooled queues (where a single line leads to multiple agents) can be much faster than parallel queues (where each line leads to one agent) because they create economies of scale and allow for flexible reallocation of capacity in response to variability (e.g., if one customer takes an unusually long time to serve). Pooling can achieve lower wait times for a given capacity level or lower capacity utilization for a given service level.
 
-# Scene \# 2: Priority queues and fairness (Cafe)
+# Scene \# 2: Priority queues and fairness (Café)
 ***
 [add assumptions box]
+
+In a system with multiple classes, waiting time includes the following components: 
+- Remaining service time for those already in service when you arrive
+- Service time for those still waiting for service when you arrive
+- Service time for those who arrive after you, but who must be served first (this is zero unless you’re using a preemptive priority policy)
+- Your own service time
+
 
 **Core Takeaway:** Moving “quick” customers to the front of the queue ahead of “slow” customers can significantly decrease average wait times, but it comes at the cost of longer waits for the “slow” customers. More generally, queue designers have to trade off different considerations, including fairness vs optimal system performance.
 
@@ -28,7 +36,7 @@ Queues are guaranteed to form when the demand rate exceeds the supply capacity, 
 
 
 
-### References
+## References
 ***
 Richard Larson and Amedeo Odoni. 1981. Urban Operations Research. Prentice-Hall.
 
@@ -39,5 +47,5 @@ Gerard Cachon and Christian Terwiesch. 2022. Operations Management (3rd ed.). Mc
 Lecture notes and course materials on queueing theory and simulation/stochastic modeling by Daniel S. Myers
 
 ### Acknowledgements
-***
+**
 Many thanks to Professor Daniel S. Myers, Shraddha Rana, Dr. Angela Acocella, Professor Abhishek Deshmane for their feedback and suggestions during the development of this story.
