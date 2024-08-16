@@ -47,22 +47,22 @@ In a system with multiple classes, waiting time includes the following component
 - Your own service time
 
 
-In general, you can think e 
+In general, you can think of the wait time under each policy for a customer in each class as follows. Note that each term in the equations below corresponds to one of the components described above. Can you identify which is which?
 
-<ins>__Equal Priority__</sins> \
+<ins>__Equal Priority__</ins> \
 Coffee: $$W_c = Q_c S_c + Q_s s_s + s_c$$ \
 Sandwich: $$W_s = Q_s S_s + Q_c s_c + s_s$$ \
 
-__Non-preemptive priority for coffee-drinkers__ \
+<ins>__Non-preemptive priority for coffee-drinkers__</ins> \
 Coffee: $$W_c = Q_c S_c + U_s s_s s_c$$ \ 
 Sandwich: $$W_s = Q_s S_s + Q_c s_c + \lambda_c W_s s_c + s_s$$ \
 
-__Preemptive priority for coffee-drinkers__ \
+<ins>__Preemptive priority for coffee-drinkers__</ins> \
 Coffee: $$W_c = Q_c S_c + s_c$$ \
 Sandwich:  $$W_s = Q_s S_s + Q_c s_c + \lambda_c (W_s - s_s) s_c + s_s$$ \
 
 
-We generated a sequence of coffee and sandwiches arriving according to the parameters stated above, and then calculated the exact wait time (from arrival to service completion) for each class under each policy.
+To study this empirically, we generated a sequence of coffee and sandwich customers arriving according to the parameters stated above, and then calculated the exact wait time (from arrival to service completion) for each class under each policy.
 
 The figure below demonstrates the distribution of wait times under each policy. As you may have expected, non-preemptive priority provides a compromise between a fully preemptive policy and treating all customers equally (though sandwich customers may not see it that way!).
 
