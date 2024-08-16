@@ -16,11 +16,13 @@ Over these 1000 reps, we varied the interarrival time (using a normal distributi
 We calculated how long it would take a newly-arriving customer to get through each line using the following formulas: 
 
 Wait time for a single server:
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+$$W = s \left( \frac{U}{1-U} \right) \left(\frac{(CV_a + CV_s)^2}{2} \right)$$
 
 Wait time for multiple servers:
 
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+$$W = \frac{s}{m} \left( \frac{U}{1-U} \right) \left(\frac{(CV_a + CV_s)^2}{2} \right)$$
+
+where $$s$$ is the processing time for a single server and $$m$$ is the number of servers.
 
 and used that to calculate the reduction in waiting time that was achieved through pooling.
 
@@ -51,15 +53,21 @@ In general, you can think of the wait time under each policy for a customer in e
 
 <ins>__Equal Priority__</ins> \
 Coffee: $$W_c = Q_c S_c + Q_s s_s + s_c$$ \
-Sandwich: $$W_s = Q_s S_s + Q_c s_c + s_s$$ \
+Sandwich: $$W_s = Q_s S_s + Q_c s_c + s_s$$ 
 
 <ins>__Non-preemptive priority for coffee-drinkers__</ins> \
-Coffee: $$W_c = Q_c S_c + U_s s_s s_c$$ \ 
-Sandwich: $$W_s = Q_s S_s + Q_c s_c + \lambda_c W_s s_c + s_s$$ \
+Coffee: $$W_c = Q_c S_c + U_s s_s s_c$$ \
+Sandwich: $$W_s = Q_s S_s + Q_c s_c + \lambda_c W_s s_c + s_s$$
 
 <ins>__Preemptive priority for coffee-drinkers__</ins> \
 Coffee: $$W_c = Q_c S_c + s_c$$ \
-Sandwich:  $$W_s = Q_s S_s + Q_c s_c + \lambda_c (W_s - s_s) s_c + s_s$$ \
+Sandwich:  $$W_s = Q_s S_s + Q_c s_c + \lambda_c (W_s - s_s) s_c + s_s$$
+
+where
+$$𝑄_𝐶:$$ avg \# coffee customers in queue
+$$𝑠_𝑐:$$ service time for coffee customers
+$$𝑄_𝑠:$$ avg \# sandwich customers in queue
+$$𝑠_𝑠:$$ service time for sandwich customers
 
 
 To study this empirically, we generated a sequence of coffee and sandwich customers arriving according to the parameters stated above, and then calculated the exact wait time (from arrival to service completion) for each class under each policy.
