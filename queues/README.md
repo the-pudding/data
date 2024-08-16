@@ -47,20 +47,27 @@ In a system with multiple classes, waiting time includes the following component
 - Your own service time
 
 
-We then calculated wait time (from arrival to service completion) for each class under each policy:
+In general, you can think e 
 
-__Equal Priority__
-Coffee: $$W_c = Q_c S_c + Q_s s_s + s_c$$
-Sandwich:$$W_s = Q_s S_s + Q_c s_c + s_s$$
+<ins>__Equal Priority__</sins> \
+Coffee: $$W_c = Q_c S_c + Q_s s_s + s_c$$ \
+Sandwich: $$W_s = Q_s S_s + Q_c s_c + s_s$$ \
 
-__Non-preemptive priority for coffee-drinkers__
-Coffee: $$W_c = Q_c S_c + U_s s_s s_c$$
-Sandwich: $$W_s = Q_s S_s + Q_c s_c + \lambda_c W_s s_c + s_s$$
+__Non-preemptive priority for coffee-drinkers__ \
+Coffee: $$W_c = Q_c S_c + U_s s_s s_c$$ \ 
+Sandwich: $$W_s = Q_s S_s + Q_c s_c + \lambda_c W_s s_c + s_s$$ \
 
-__Preemptive priority for coffee-drinkers__
-Coffee: $$W_c = Q_c S_c + s_c$$
-Sandwich:  $$W_s = Q_s S_s + Q_c s_c + \lambda_c (W_s - s_s) s_c + s_s$$
+__Preemptive priority for coffee-drinkers__ \
+Coffee: $$W_c = Q_c S_c + s_c$$ \
+Sandwich:  $$W_s = Q_s S_s + Q_c s_c + \lambda_c (W_s - s_s) s_c + s_s$$ \
 
+
+We generated a sequence of coffee and sandwiches arriving according to the parameters stated above, and then calculated the exact wait time (from arrival to service completion) for each class under each policy.
+
+The figure below demonstrates the distribution of wait times under each policy. As you may have expected, non-preemptive priority provides a compromise between a fully preemptive policy and treating all customers equally (though sandwich customers may not see it that way!).
+
+<p align="center">
+<img src="figures/policy_comparison_plot_sc2.png" alt="Wait time distribution under three different priority policies" width=250 height=300> </p>
 
 **Core Takeaway:** Moving “quick” customers to the front of the queue ahead of “slow” customers can significantly decrease average wait times, but it comes at the cost of longer waits for the “slow” customers. More generally, queue designers have to trade off different considerations, including fairness vs optimal system performance.
 
