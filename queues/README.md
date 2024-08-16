@@ -1,10 +1,38 @@
 # The story behind [insert video title]
 Queues are guaranteed to form when the demand rate exceeds the supply capacity, or the number of customers who can be served per unit of time. However, even when average capacity exceeds the average demand rate, queues can still form when there’s sufficient variability in either arrival times or the time required for service.
 
+This video highlights a few different situations where queues might arise, all in the familiar context of an airport.
 
 # Scene \# 1: Pooled vs. Parallel (Ticket counter)
 ***
 <img src="figures/assumptions_box_sc1.png" width=250 height=300>
+
+In the first scene, we explore the concept of pooling, which allows us to use system capacity in  a more efficient way. 
+
+To create this simulation, we generated random interarrival times and service times from the exponential distribution with λ = 1.2, and then calculated the resulting waiting times for the parallel and pooled scenarios.
+
+Over these 1000 reps, we varied the interarrival time (using a normal distribution centered at 45 seconds and with SD = , to represent periods of the day/week that are slightly more or less busy) and server utilization (using a uniform distribution, ranging between 60 and 85%). Varying arrival time and utilization has the effect of also varying the service time.
+
+We calculated how long it would take a newly-arriving customer to get through each line using the following formulas: 
+
+Wait time for a single server:
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+
+Wait time for multiple servers:
+
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+
+and used that to calculate the reduction in waiting time that was achieved through pooling.
+
+If we were to increase the variability of interarrival times,  we would still get more than 65% of 
+
+
+
+Pre-assigning customers to a server can lead to a situation where passengers in one queue are waiting despite some of the other servers being available. Pooling allows the system to eliminate such inefficient imbalances by flexibly redeploying capacity.
+
+In general, wait time depends on system capacity, server utilization, and variability in arrival or processing times.
+
+Wait times - and also, the difference in wait times between a parallel and pooled setup - are sensitive to server utilization level (i.e., how busy a server is), which is why planners often opt to have slack in server availability. The number of servers changes how high this sensitivity is.
 
 **Core Takeaway:** Pooled queues (where a single line leads to multiple agents) can be much faster than parallel queues (where each line leads to one agent) because they create economies of scale and allow for flexible reallocation of capacity in response to variability (e.g., if one customer takes an unusually long time to serve). Pooling can achieve lower wait times for a given capacity level or lower capacity utilization for a given service level.
 
@@ -17,6 +45,21 @@ In a system with multiple classes, waiting time includes the following component
 - Service time for those still waiting for service when you arrive
 - Service time for those who arrive after you, but who must be served first (this is zero unless you’re using a preemptive priority policy)
 - Your own service time
+
+
+We then calculated wait time (from arrival to service completion) for each class under each policy:
+
+__Equal Priority__
+Coffee: $$W_c = Q_c S_c + Q_s s_s + s_c$$
+Sandwich:$$W_s = Q_s S_s + Q_c s_c + s_s$$
+
+__Non-preemptive priority for coffee-drinkers__
+Coffee: $$W_c = Q_c S_c + U_s s_s s_c$$
+Sandwich: $$W_s = Q_s S_s + Q_c s_c + \lambda_c W_s s_c + s_s$$
+
+__Preemptive priority for coffee-drinkers__
+Coffee: $$W_c = Q_c S_c + s_c$$
+Sandwich:  $$W_s = Q_s S_s + Q_c s_c + \lambda_c (W_s - s_s) s_c + s_s$$
 
 
 **Core Takeaway:** Moving “quick” customers to the front of the queue ahead of “slow” customers can significantly decrease average wait times, but it comes at the cost of longer waits for the “slow” customers. More generally, queue designers have to trade off different considerations, including fairness vs optimal system performance.
