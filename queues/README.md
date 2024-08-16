@@ -16,15 +16,16 @@ Over these 1000 reps, we varied the interarrival time (using a normal distributi
 We calculated how long it would take a newly-arriving customer to get through each line using the following formulas: 
 
 Wait time for a single server:
-$$W = s \left( \frac{U}{1-U} \right) \left(\frac{(CV_a + CV_s)^2}{2} \right)$$
+
+$$W_{parallel} = s \left( \frac{U}{1-U} \right) \left(\frac{(CV_a + CV_s)^2}{2} \right)$$
 
 Wait time for multiple servers:
 
-$$W = \frac{s}{m} \left( \frac{U}{1-U} \right) \left(\frac{(CV_a + CV_s)^2}{2} \right)$$
+$$W_{pooled} = \frac{s}{m} \left( \frac{U}{1-U} \right) \left(\frac{(CV_a + CV_s)^2}{2} \right)$$
 
 where $$s$$ is the processing time for a single server and $$m$$ is the number of servers.
 
-and used that to calculate the reduction in waiting time that was achieved through pooling.
+After calculating both quantities for a single customer, we calculated the reduction in waiting time that was achieved through pooling.
 
 If we were to increase the variability of interarrival times,  we would still get more than 65% of 
 
