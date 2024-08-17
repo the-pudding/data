@@ -17,7 +17,7 @@ We calculated how long it would take a newly-arriving customer to get through ea
 
 Wait time for a single server:
 
-$$W_{parallel} = s \left( \frac{U^{(\sqrt{2(m+1)}-1)}}{1-U} \right) \left(\frac{(CV_a + CV_s)^2}{2} \right)$$
+$$W_{parallel} = s \left( \frac{U^{\sqrt{2(m+1)}-1}}{1-U} \right) \left(\frac{(CV_a + CV_s)^2}{2} \right)$$
 
 Wait time for multiple servers:
 
