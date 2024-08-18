@@ -7,35 +7,35 @@ This video highlights a few different situations where queues might arise, all i
 ***
 <img src="figures/assumptions_box_sc1.png" width=250 height=300>
 
-In the first scene, we explore the concept of pooling, which allows us to use system capacity in  a more efficient way. 
+In the first scene, we explore the concept of pooling. Pre-assigning customers to a server can lead to a situation where passengers in one queue are waiting despite some of the other servers being available. Pooling allows the system to eliminate such inefficient imbalances by flexibly redeploying capacity.
 
-To create this simulation, we generated random interarrival times and service times from the exponential distribution with λ = 1.2, and then calculated the resulting waiting times for the parallel and pooled scenarios.
+For our first example, we assume that customers arrive every 45 seconds, and that it takes 90 seconds to serve each one We calculated how long it would take an average newly-arriving customer to get through each line using the following formulas: 
 
-Over these 1000 reps, we varied the interarrival time (using a normal distribution centered at 45 seconds and with SD = , to represent periods of the day/week that are slightly more or less busy) and server utilization (using a uniform distribution, ranging between 60 and 85%). Varying arrival time and utilization has the effect of also varying the service time.
-
-We calculated how long it would take a newly-arriving customer to get through each line using the following formulas: 
-
-Wait time for a single server:
+Average wait time for customers in the single server setup:
 
 $$W_{parallel} = s \left( \frac{U^{\sqrt{2(m+1)}-1}}{1-U} \right) \left(\frac{(CV_a + CV_s)^2}{2} \right)$$
 
-Wait time for multiple servers:
+Average wait time for customers in the multiple-server setup:
 
 $$W_{pooled} = \frac{s}{m} \left( \frac{U}{1-U} \right) \left(\frac{(CV_a + CV_s)^2}{2} \right)$$
 
+
 where $$s$$ is the processing time for a single server and $$m$$ is the number of servers.
 
-After calculating both quantities for a single customer, we calculated the reduction in waiting time that was achieved through pooling.
+Comparing these two wait times allowed us to calculate the reduction in waiting time that was achieved through pooling.
 
-If we were to increase the variability of interarrival times,  we would still get more than 65% of 
+In reality, there would be some variation in arrival and processing times
+
+To create this simulation, we perturbed the interarrival time slightly (using a normal distribution centered at 45 seconds and with SD = 1, Varying arrival time and utilization has the effect of also varying the service time. Over these 1000 reps, we then calculated the resulting waiting times for the parallel and pooled scenarios using the same formulas as above.
+
+The result was XXX.
 
 
+If we were to increase the variability of interarrival times to more accurately represent periods of the day/week that are slightly more or less busy (e.g., SD of X for interarrival times and Y for service times) and server utilization (using a uniform distribution, ranging between 60 and 85%). we would still get a reduction or more for XYZ.
 
-Pre-assigning customers to a server can lead to a situation where passengers in one queue are waiting despite some of the other servers being available. Pooling allows the system to eliminate such inefficient imbalances by flexibly redeploying capacity.
+[include a note on how we got utilization]
 
-In general, wait time depends on system capacity, server utilization, and variability in arrival or processing times.
-
-Wait times - and also, the difference in wait times between a parallel and pooled setup - are sensitive to server utilization level (i.e., how busy a server is), which is why planners often opt to have slack in server availability. The number of servers changes how high this sensitivity is.
+In general, wait time depends on system capacity, server utilization, and variability in arrival or processing times. It's worth noting that wait times - and also, the difference in wait times between a parallel and pooled setup - are sensitive to server utilization level (i.e., how busy a server is), which is why planners often opt to have slack in server availability. The number of servers changes how high this sensitivity is.
 
 **Core Takeaway:** Pooled queues (where a single line leads to multiple agents) can be much faster than parallel queues (where each line leads to one agent) because they create economies of scale and allow for flexible reallocation of capacity in response to variability (e.g., if one customer takes an unusually long time to serve). Pooling can achieve lower wait times for a given capacity level or lower capacity utilization for a given service level.
 
