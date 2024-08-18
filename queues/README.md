@@ -7,7 +7,7 @@ This video highlights a few different situations where queues might arise, all i
 ***
 <img src="figures/assumptions_box_sc1.png" width=250 height=300>
 
-In the first scene, we explore the concept of pooling. Pre-assigning customers to a server can lead to a situation where passengers in one queue are waiting despite some of the other servers being available. Pooling allows the system to eliminate such inefficient imbalances by flexibly redeploying capacity.
+In the first scene, we explore the concept of pooling. Pre-assigning customers to a server can lead to a situation where passengers in one queue are waiting despite some of the other servers being available. Pooling allows the system to eliminate such inefficient imbalances* by flexibly redeploying capacity.
 
 For our first example, we assume that customers arrive every 45 seconds, and that it takes 90 seconds to serve each one We calculated how long it would take an average newly-arriving customer to get through each line using the following formulas: 
 
@@ -35,13 +35,19 @@ If we were to increase the variability of interarrival times to more accurately 
 
 [include a note on how we got utilization]
 
-In general, wait time depends on system capacity, server utilization, and variability in arrival or processing times. It's worth noting that wait times - and also, the difference in wait times between a parallel and pooled setup - are sensitive to server utilization level (i.e., how busy a server is), which is why planners often opt to have slack in server availability. The number of servers changes how high this sensitivity is.
+In general, wait time depends on system capacity, server utilization, and variability** in arrival or processing times. It's worth noting that wait times - and also, the difference in wait times between a parallel and pooled setup - are [sensitive](https://nickarnosti.com/blog/longwaits/#fn6) to server utilization level (i.e., how busy a server is), which is why planners often opt to have slack in server availability. The number of servers changes how high this sensitivity is [3].
 
 **Core Takeaway:** Pooled queues (where a single line leads to multiple agents) can be much faster than parallel queues (where each line leads to one agent) because they create economies of scale and allow for flexible reallocation of capacity in response to variability (e.g., if one customer takes an unusually long time to serve). Pooling can achieve lower wait times for a given capacity level or lower capacity utilization for a given service level.
+
+*Note: this may backfire in settings such as healthcare, where the relationship between customer and server (or the server’s sense of [“customer ownership”](https://knowledge.insead.edu/operations/when-several-queues-are-better-one)) can impact processing time, or in settings where customers are [delay-sensitive](https://pubsonline.informs.org/doi/10.1287/mnsc.2020.3663) and decide whether or not to join based on queue length.
+
+**In the context of queueing, this is typically measured using what’s called the “coefficient of variation,”  or the ratio of the standard deviation to the mean for each quantity.
 
 # Scene \# 2: Priority queues and fairness (Café)
 ***
 <img src="figures/assumptions_box_sc2.png" width=250 height=300>
+
+In our second example, we consider a situation where we have more than one type of customers. These are formally known as “multiclass” models, where customer groups may have different arrival rates and service rates
 
 In a system with multiple classes, waiting time includes the following components: 
 - Remaining service time for those already in service when you arrive
@@ -70,7 +76,6 @@ $$𝑠_𝑐:$$ service time for coffee customers
 $$𝑄_𝑠:$$ avg \# sandwich customers in queue
 $$𝑠_𝑠:$$ service time for sandwich customers
 
-
 To study this empirically, we generated a sequence of coffee and sandwich customers arriving according to the parameters stated above, and then calculated the exact wait time (from arrival to service completion) for each class under each policy.
 
 The figure below demonstrates the distribution of wait times under each policy. As you may have expected, non-preemptive priority provides a compromise between a fully preemptive policy and treating all customers equally (though sandwich customers may not see it that way!).
@@ -96,13 +101,13 @@ The figure below demonstrates the distribution of wait times under each policy. 
 
 ## References
 ***
-Richard Larson and Amedeo Odoni. 1981. Urban Operations Research. Prentice-Hall.
+[1] Richard Larson and Amedeo Odoni. 1981. Urban Operations Research. Prentice-Hall.
 
-Gerard Cachon and Christian Terwiesch. 2018. Matching Supply with Demand: An Introduction to Operations Management (4th ed.). McGraw-Hill.
+[2] Gerard Cachon and Christian Terwiesch. 2018. Matching Supply with Demand: An Introduction to Operations Management (4th ed.). McGraw-Hill.
 
-Gerard Cachon and Christian Terwiesch. 2022. Operations Management (3rd ed.). McGraw-Hill.
+[3] Gerard Cachon and Christian Terwiesch. 2022. Operations Management (3rd ed.). McGraw-Hill.
 
-Lecture notes and course materials on queueing theory and simulation/stochastic modeling by Daniel S. Myers
+[4] Lecture notes and course materials on queueing theory and simulation/stochastic modeling by Daniel S. Myers
 
 ### Acknowledgements
 **
