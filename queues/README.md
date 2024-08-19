@@ -3,6 +3,19 @@ Queues are guaranteed to form when the demand rate exceeds the supply capacity, 
 
 This video highlights a few different situations where queues might arise, all in the familiar context of an airport.
 
+See a summary of core takeaways below, and scroll further down for additional detail.
+
+| Scene      | Description | Setting | Core takeaway     |
+| :---  |    :----:   | :----:   |         ---: |
+| 1      | Pooled vs Parallel        | Ticket counter        | 
+**Core Takeaway:** Pooled queues (where a single line leads to multiple agents) can be much faster than parallel queues (where each line leads to one agent) because they create economies of scale and allow for flexible reallocation of capacity in response to variability (e.g., if one customer takes an unusually long time to serve). Pooling can achieve lower wait times for a given capacity level or lower capacity utilization for a given service level.   |
+| 2   | Priority queues and fairness        | Café      |**Core Takeaway:** Moving “quick” customers to the front of the queue ahead of “slow” customers can significantly decrease average wait times, but it comes at the cost of longer waits for the “slow” customers. More generally, queue designers have to trade off different considerations, including fairness vs optimal system performance.     |
+| 3      | Alternative queueing disciplines       | Concert tix   | 
+**Core Takeaway:** When a good has limited supply and service (specifically, the service of allowing customers to purchase the good) is provided on a first-come-first-serve (aka first-in-first-out, or FIFO) basis, customers can end up queuing earlier and earlier in order to secure an opportunity for service. Think pre-announced drops of the latest iPhone or shoe model, sports tickets, concert tickets, etc. This can spiral until the entire benefit gained from the good is eaten up by the cost of queuing. As such, people who value the product the most may be disadvantaged in a FIFO system with limited goods. Queue designers can use solutions such as lotteries to mitigate this issue.    |
+| 4   | Boundless queues        | Immigration      |
+**Core Takeaway:** If system capacity (represented by the processing time, or service rate) exceeds the rate of new arrivals, queues may either a) never arise (if there is no variability) or b) arise temporarily due to variability in arrivals or processing, but the system will eventually be able to resolve the queues. If the service rate is slower than the arrival rate, queue length and wait time can increase indefinitely.      |
+
+
 # Scene \# 1: Pooled vs. Parallel (Ticket counter)
 ***
 <img src="figures/assumptions_box_sc1.png" width=250 height=300>
@@ -37,7 +50,6 @@ If we were to increase the variability of interarrival times to more accurately 
 
 In general, wait time depends on system capacity, server utilization, and variability** in arrival or processing times. It's worth noting that wait times - and also, the difference in wait times between a parallel and pooled setup - are [sensitive](https://nickarnosti.com/blog/longwaits/#fn6) to server utilization level (i.e., how busy a server is), which is why planners often opt to have slack in server availability. The number of servers changes how high this sensitivity is [3].
 
-**Core Takeaway:** Pooled queues (where a single line leads to multiple agents) can be much faster than parallel queues (where each line leads to one agent) because they create economies of scale and allow for flexible reallocation of capacity in response to variability (e.g., if one customer takes an unusually long time to serve). Pooling can achieve lower wait times for a given capacity level or lower capacity utilization for a given service level.
 
 *Note: this may backfire in settings such as healthcare, where the relationship between customer and server (or the server’s sense of [“customer ownership”](https://knowledge.insead.edu/operations/when-several-queues-are-better-one)) can impact processing time, or in settings where customers are [delay-sensitive](https://pubsonline.informs.org/doi/10.1287/mnsc.2020.3663) and decide whether or not to join based on queue length.
 
@@ -83,16 +95,22 @@ The figure below demonstrates the distribution of wait times under each policy. 
 <p align="center">
 <img src="figures/policy_comparison_plot_sc2.png" alt="Wait time distribution under three different priority policies" width=250 height=300> </p>
 
-**Core Takeaway:** Moving “quick” customers to the front of the queue ahead of “slow” customers can significantly decrease average wait times, but it comes at the cost of longer waits for the “slow” customers. More generally, queue designers have to trade off different considerations, including fairness vs optimal system performance.
+
 
 # Scene \# 3: Alternative queueing disciplines (Beyoncé tickets)
 ***
 
-In this scenario, you're queueing for a scarce good (concert tickets), so service is not guaranteed even if you complete the wait. The default queue policy is typically first in, first out (FIFO) – this can cause issues for highly competitive/desirable/scarce goods. Because there is a mismatch between cost of waiting and value of the good, FIFO may fail to allocate the good to those who value it most. 
- 
-Your private value of seeing Beyonce is, e.g., $1000. As the wait time required to get a ticket increases, you are priced out of the ability to wait for a ticket. 
+In this scenario, you're queueing for a scarce good (concert tickets), so service is not guaranteed even if you complete the wait. Ticket prices often vary widely even within a single section, and are used to differentially target customers with different willingness to pay. That said, even for tickets at the same price, there is limited supply, and not everyone who wants one will get one - especially for sought-after artists.
 
-**Core Takeaway:** When a good has limited supply and service (specifically, the service of allowing customers to purchase the good) is provided on a first-come-first-serve (aka first-in-first-out, or FIFO) basis, customers can end up queuing earlier and earlier in order to secure an opportunity for service. Think pre-announced drops of the latest iPhone or shoe model, sports tickets, concert tickets, etc. This can spiral until the entire benefit gained from the good is eaten up by the cost of queuing. As such, people who value the product the most may be disadvantaged in a FIFO system with limited goods. Queue designers can use solutions such as lotteries to mitigate this issue.
+You have a private and subconscious value on seeing Beyonce (e.g., $1000). In this case, each person’s value is private (and perhaps not even known to the individuals themselves). In other cases, value is known to each individual, and can be elicited using auctions or similar methods. Also, because there is a chance of not securing the ticket, some people may calculate an “expected value” which incorporates their beliefs about the likelihood of securing a ticket.
+
+You also incur a certain cost while waiting. Most people aren’t explicitly tallying these costs, but you can imagine that each person has a subconscious “willingness to wait”, perhaps captured by the length of time beyond which even the guarantee of a ticket would no longer be worth enduring the wait. This is connected to the fact that each person has an opportunity cost of waiting (perhaps the amount they might be earning at work if they hadn’t taken time off to wait). If we could determine this figure for each person, we could find the point at which we’d expect them to abandon the queue. 
+
+
+The default queue policy is typically first in, first out (FIFO) – this can cause issues for highly competitive goods. Because of a mismatch between cost of waiting and value of the good, FIFO may fail to allocate the good to those who value it most.
+
+FIFO policies have other issues: theymay also incentivize scalpers to hoard tickets and sell them at a premium. Allowing fans to pay for priority access to the queue is one option that has been used in many settings, but imposing additional financial burden for a good that is already so costly may be undesirable. Other alternatives, such as releasing tickets in stages, offering scheduled viewing or buying windows, or even unusual policies such as [serving the last person to arrive first](https://www.sciencenordic.com/culture-denmark-environment/queues-move-faster-if-the-last-person-is-served-first/1420582), may incentivize users to change their behavior in a way that reduces average waiting time. Queue designers have a lot to consider when allocating complex resources like this.
+
 
 # Scene \# 4: Boundless queues (Immigration)
 ***
@@ -107,10 +125,6 @@ Lines at the airport fluctuate over the course of the day, and clear completely 
 Just as service capacity can be increased through staffing levels, it can be decreased for some or all customers. For example, when some staff are dedicated to serving customers from a different group, those groups are facing different service rates, as in the case of priority queues or quotas. At the airport, this could be queues for foreign versus domestic passengers. In the immigration context shared in the video, these quotas are nationality - based.
 
 Once the wait time becomes effectively infinite, customers have no choice but to opt out of service. A consistent inability of a system to process customers faster than they arrive is therefore a more serious problem.
-
-**Core Takeaway:** If system capacity (represented by the processing time, or service rate) exceeds the rate of new arrivals, queues may either a) never arise (if there is no variability) or b) arise temporarily due to variability in arrivals or processing, but the system will eventually be able to resolve the queues. If the service rate is slower than the arrival rate, queue length and wait time can increase indefinitely.
-
-
 
 ## References
 ***
