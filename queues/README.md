@@ -30,21 +30,19 @@ Average wait time for customers in the multiple-server setup:
 $$W_{pooled} = \frac{s}{m} \left( \frac{U}{1-U} \right) \left(\frac{(CV_a + CV_s)^2}{2} \right)$$
 
 
-where $$s$$ is the processing time for a single server and $$m$$ is the number of servers.
+where $$s$$ is the processing time for a single server, $$m$$ is the number of servers, $$U$$ is utilization, and $$CV$$ represents the coefficient of variation.
 
-Comparing these two wait times allowed us to calculate the reduction in waiting time that was achieved through pooling.
+Comparing these two wait times allowed us to calculate the reduction in waiting time that was achieved through pooling. The reduction for this simple example with zero variation was 76.2\%.
 
-In reality, there would be some variation in arrival and processing times
+In reality, there would likely be greater variation in arrival times. Variability in processing times may depend on how standardized processes are, so we limit their variability for now.
 
-To create this simulation, we slightly perturbed the interarrival time (using a normal distribution centered at 45 seconds and with SD = 1), as well as the service time ($$\mu = 90, \sigma = 1$$). Varying arrival time and service time has the effect of also varying the utilization between 61.5\% and 73.1\%. Importantly, utilization is always below 100\%, which means that we have a stable queue. Over these 1000 reps, we then calculated the resulting waiting times for the parallel and pooled scenarios using the same formulas as above.
+To create a basic simulation, we slightly perturbed the interarrival time (using a normal distribution centered at 45 seconds and with SD = 1), as well as the service time ($$\mu = 90, \sigma = 1$$). Varying arrival time and service time has the effect of also varying the utilization between 61.5\% and 73.1\%. Importantly, utilization is always below 100\%, which means that we have a stable queue. Over these 1000 reps, we then calculated the resulting waiting times for the parallel and pooled scenarios using the same formulas as above.
 
 The result was an average pooling reduction of 76.2\%, with all 1000 reps achieving a reduction of at least 74%.
 
-
-If we  increase the variability of interarrival times to more accurately represent periods of the day/week that are slightly more or less busy (e.g., SD of 4 seconds for interarrival times), the time between passenger arrivals ranges between 34 seconds and 58 second across the 1000 reps). With service times still distributed tightly around 90 seconds, this causes server utilization to vary between 52 and 88\%). Even with this greater variability, we would still get a reduction of 70\% or more for all reps.
+If we increase the variability of interarrival times to SD = 4 seconds in order to more accurately represent periods of the day/week that are slightly more or less busy, the time between passenger arrivals is still centered at 45 seconds, but now ranges between 34 seconds and 58 second across the 1000 reps. With service times still distributed tightly around 90 seconds, this causes server utilization to vary between 52 and 88\%). Even with this greater variability, pooling would still result in a reduction of 70\% or more for all 1,000 reps.
 
 In general, wait time depends on system capacity, server utilization, and variability** in arrival or processing times. It's worth noting that wait times - and also, the difference in wait times between a parallel and pooled setup - are [sensitive](https://nickarnosti.com/blog/longwaits/#fn6) to server utilization level (i.e., how busy a server is), which is why planners often opt to have slack in server availability. The number of servers changes how high this sensitivity is [3].
-
 
 *Note: this may backfire in settings such as healthcare, where the relationship between customer and server (or the server’s sense of [“customer ownership”](https://knowledge.insead.edu/operations/when-several-queues-are-better-one)) can impact processing time, or in settings where customers are [delay-sensitive](https://pubsonline.informs.org/doi/10.1287/mnsc.2020.3663) and decide whether or not to join based on queue length.
 
@@ -62,8 +60,14 @@ In a system with multiple classes, waiting time includes the following component
 - Service time for those who arrive after you, but who must be served first (this is zero unless you’re using a preemptive priority policy)
 - Your own service time
 
+We consider three possible priority policies:
+- Equal priority (all customers served in order of arrival)
+- Pre-emptive priority (Newly-arriving coffee drinkers interrupt sandwich service)
+- Non-preemptive priority (Newly-arriving coffee drinkers skip to front of queue, but don’t interrupt sandwich service)
 
-In general, you can think of the wait time under each policy for a customer in each class as follows. Note that each term in the equations below corresponds to one of the components described above. Can you identify which is which?
+Each customer's wait time is determined by the number and ordering of customers of each class who are on waiting in front of the focal customer. We set the ratio of coffee to sandwich arrivals exogenously, but the exact order of arrival is subject to randomness.
+
+In a general M/M/1 setup (i.e, exponentially distributed interarrival and service times), you can think of the wait time under each policy for an average arriving customer in each class as follows. Note that each term in the equations below corresponds to one of the components described above. Can you identify which is which?
 
 <ins>__Equal Priority__</ins> \
 Coffee: $$W_c = Q_c S_c + Q_s s_s + s_c$$ \
@@ -87,7 +91,11 @@ $$𝑄_𝑠:$$ avg \# sandwich customers in queue
 
 $$𝑠_𝑠:$$ service time for sandwich customers
 
-To study this empirically, we generated a sequence of coffee and sandwich customers arriving according to the parameters stated above, and then calculated the exact wait time (from arrival to service completion) for each class under each policy.
+To study our multiclass system empirically, we generated a sequence of coffee and sandwich customers arriving according to the parameters stated above. For our first example, we generated 21 arrivals (16 cofee/5 sandwich) during a 30-minute window.Note that in this case, we treat service times as deterministic, rather than random.
+
+We then explicitly calculated the exact wait time (from arrival to service completion) for each arriving customer under each of the three priority policies.
+
+We repeated this 1,000 times, generating a slightly different number of arrivals each time (but with the same average ratio of 3 coffee: 1 sandwich).
 
 The figure below demonstrates the distribution of wait times under each policy. As you may have expected, non-preemptive priority provides a compromise between a fully preemptive policy and treating all customers equally (though sandwich customers may not see it that way!).
 
@@ -97,7 +105,11 @@ The figure below demonstrates the distribution of wait times under each policy. 
 We mention in the video the idea of providing "some, but not infinite" priority: To implement this, the shop owners might decide to optimize for minimizing the average wait time while ensuring that the maximum wait time does not exceed a certain limit. The outcome of this might be that if there are coffee-orderers waiting, they can take a break from making sandwiches, but only up to a maximum number of coffee orders.
 
 
-If the average wait time for sandwich orders increases enough, the sandwich-orderer might get tired or reach the point where they’d have to leave to catch their flight, and therefore abandon the queue. Finding compromise solutions is therefore important.
+If the average wait time for sandwich orders increases enough, the sandwich-orderers might get tired or reach the point where they’d have to leave to catch their flight, and therefore abandon the queue. Finding compromise solutions is therefore important.
+
+More on: 
+
+- Express Lanes at supermarkets ( [link](https://operationsroom.wordpress.com/2014/10/17/how-should-a-supermarket-organize-its-checkout-lanes/) )
 
 # Scene \# 3: Alternative queueing disciplines (Beyoncé tickets)
 ***
@@ -110,6 +122,10 @@ You also incur a certain cost while waiting. Most people aren’t explicitly tal
 A common default queue policy is typically first in, first out (FIFO) – but this can cause issues for highly competitive goods. Because of a mismatch between cost of waiting and value of the good, FIFO may fail to allocate the good to those who value it most, and may instead advantage those with a lower cost of waiting.
 
 FIFO policies have other issues: they may also incentivize scalpers to hoard tickets and sell them at a premium. Allowing fans to pay for priority access to the queue is one option that has been used in many settings, but imposing additional financial burden for a good that is already so costly may be undesirable. Other alternatives, such as releasing tickets in stages, offering scheduled viewing or buying windows, or even unusual policies such as [serving the last person to arrive first](https://www.sciencenordic.com/culture-denmark-environment/queues-move-faster-if-the-last-person-is-served-first/1420582), may incentivize users to change their behavior in a way that reduces average waiting time. Queue designers have a lot to consider when allocating complex resources like this.
+
+More on:
+
+- Lotteries ( [link](https://operationsroom.wordpress.com/2012/12/11/apple-replaces-queues-with-a-lottery/) )
 
 
 # Scene \# 4: Boundless queues (Immigration)
@@ -125,6 +141,13 @@ Queues at the airport fluctuate in length over the course of the day, and disapp
 Just as service capacity can be increased through staffing levels, it can be decreased for some or all customers. For example, when some staff are dedicated to serving customers from a different group, those groups are facing different service rates, as in the case of priority queues or quotas. At the airport, this could be queues for foreign versus domestic passengers. In the immigration context shared in the video, these quotas are nationality - based.
 
 Once the wait time becomes effectively infinite, customers have no choice but to opt out of service. A consistent inability of a system to process customers faster than they arrive is therefore a more serious problem.
+
+More on:
+
+- Green card allocation by nationality ([link](https://www.uscis.gov/green-card/green-card-processes-and-procedures/visa-availability-and-priority-dates))
+- Sample visa bulletin (with priority dates) for May 2024 ([link](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2024/visa-bulletin-for-may-2024.html))
+- Wait time for Indian GC candidates ([link] (https://www.boundless.com/blog/indians-face-134-year-wait-employment-based-green-card/))
+-Airport border delays at major US airports ([link](https://www.wsj.com/articles/SB10001424052702304743704577382250767742434))
 
 ## References
 ***
