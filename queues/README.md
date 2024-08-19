@@ -87,13 +87,26 @@ The figure below demonstrates the distribution of wait times under each policy. 
 
 # Scene \# 3: Alternative queueing disciplines (Beyoncé tickets)
 ***
-[add assumptions box]
+
+In this scenario, you're queueing for a scarce good (concert tickets), so service is not guaranteed even if you complete the wait. The default queue policy is typically first in, first out (FIFO) – this can cause issues for highly competitive/desirable/scarce goods. Because there is a mismatch between cost of waiting and value of the good, FIFO may fail to allocate the good to those who value it most. 
+ 
+Your private value of seeing Beyonce is, e.g., $1000. As the wait time required to get a ticket increases, you are priced out of the ability to wait for a ticket. 
 
 **Core Takeaway:** When a good has limited supply and service (specifically, the service of allowing customers to purchase the good) is provided on a first-come-first-serve (aka first-in-first-out, or FIFO) basis, customers can end up queuing earlier and earlier in order to secure an opportunity for service. Think pre-announced drops of the latest iPhone or shoe model, sports tickets, concert tickets, etc. This can spiral until the entire benefit gained from the good is eaten up by the cost of queuing. As such, people who value the product the most may be disadvantaged in a FIFO system with limited goods. Queue designers can use solutions such as lotteries to mitigate this issue.
 
 # Scene \# 4: Boundless queues (Immigration)
 ***
-[add assumptions box]
+<img src="figures/assumptions_box_sc4.png" width=250 height=300>
+
+In the final scene, we explore the idea that a queue can, for all practical purposes, become infinitely long under the right (well, wrong) circumstances.
+
+Two queue properties are relevant here: The service rate refers to how quickly each person gets through the line (in other words, the system’s capacity), and the arrival rate is how quickly new people are arriving - this represents demand.
+
+Lines at the airport fluctuate over the course of the day, and clear completely when the balance between capacity and demand rate becomes more favorable-for example, due to a slowdown in flight arrivals or the addition of more immigration officers. Airports can take proactive measures to prevent these queues from getting too long by controlling arrival rate, service rate, or both. For example, an airport may limit the number of international flights that can arrive in a given hour, and tools such as pre-approval programs like Global entry can help reduce the time required to serve some customers.
+
+Just as service capacity can be increased through staffing levels, it can be decreased for some or all customers. For example, when some staff are dedicated to serving customers from a different group, those groups are facing different service rates, as in the case of priority queues or quotas. At the airport, this could be queues for foreign versus domestic passengers. In the immigration context shared in the video, these quotas are nationality - based.
+
+Once the wait time becomes effectively infinite, customers have no choice but to opt out of service. A consistent inability of a system to process customers faster than they arrive is therefore a more serious problem.
 
 **Core Takeaway:** If system capacity (represented by the processing time, or service rate) exceeds the rate of new arrivals, queues may either a) never arise (if there is no variability) or b) arise temporarily due to variability in arrivals or processing, but the system will eventually be able to resolve the queues. If the service rate is slower than the arrival rate, queue length and wait time can increase indefinitely.
 
