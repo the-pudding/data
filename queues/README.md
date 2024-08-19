@@ -77,10 +77,14 @@ Sandwich: $$W_s = Q_s S_s + Q_c s_c + \lambda_c W_s s_c + s_s$$
 Coffee: $$W_c = Q_c S_c + s_c$$ \
 Sandwich:  $$W_s = Q_s S_s + Q_c s_c + \lambda_c (W_s - s_s) s_c + s_s$$
 
-where
+where:
+
 $$𝑄_𝐶:$$ avg \# coffee customers in queue
+
 $$𝑠_𝑐:$$ service time for coffee customers
+
 $$𝑄_𝑠:$$ avg \# sandwich customers in queue
+
 $$𝑠_𝑠:$$ service time for sandwich customers
 
 To study this empirically, we generated a sequence of coffee and sandwich customers arriving according to the parameters stated above, and then calculated the exact wait time (from arrival to service completion) for each class under each policy.
