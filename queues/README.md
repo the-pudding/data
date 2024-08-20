@@ -3,7 +3,7 @@ Queues are guaranteed to form when the demand rate exceeds the supply capacity, 
 
 This video highlights a few different situations where queues might arise, all in the familiar context of an airport.
 
-See a summary of core takeaways below, and scroll further down for additional detail.
+See a summary of core takeaways below, and scroll further down for additional details.
 
 | **Scene**      | **Description** | **Setting** | **Core takeaway**     |
 | :---  |    :----:   | :----:   |         :--- |
@@ -83,13 +83,13 @@ Sandwich:  $$W_s = Q_s S_s + Q_c s_c + \lambda_c (W_s - s_s) s_c + s_s$$
 
 where:
 
-$$𝑄_𝐶:$$ avg \# coffee customers in queue
+$$𝑄_𝐶 =$$ avg \# coffee customers in queue
 
-$$𝑠_𝑐:$$ service time for coffee customers
+$$𝑠_𝑐 =$$ service time for coffee customers
 
-$$𝑄_𝑠:$$ avg \# sandwich customers in queue
+$$𝑄_𝑠 =$$ avg \# sandwich customers in queue
 
-$$𝑠_𝑠:$$ service time for sandwich customers
+$$𝑠_𝑠 =$$ service time for sandwich customers
 
 To study our multiclass system empirically, we generated a sequence of coffee and sandwich customers arriving according to the parameters stated above. For our first example, we generated 21 arrivals (16 cofee/5 sandwich) during a 30-minute window.Note that in this case, we treat service times as deterministic, rather than random.
 
@@ -109,7 +109,7 @@ If the average wait time for sandwich orders increases enough, the sandwich-orde
 
 More on: 
 
-- Express Lanes at supermarkets ( [link](https://operationsroom.wordpress.com/2014/10/17/how-should-a-supermarket-organize-its-checkout-lanes/) )
+- Express lanes at supermarkets ( [link](https://operationsroom.wordpress.com/2014/10/17/how-should-a-supermarket-organize-its-checkout-lanes/) )
 
 # Scene \# 3: Alternative queueing disciplines (Beyoncé tickets)
 ***
@@ -146,8 +146,8 @@ More on:
 
 - Green card allocation by nationality ([link](https://www.uscis.gov/green-card/green-card-processes-and-procedures/visa-availability-and-priority-dates))
 - Sample visa bulletin (with priority dates) for May 2024 ([link](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2024/visa-bulletin-for-may-2024.html))
-- Wait time for Indian GC candidates ([link] (https://www.boundless.com/blog/indians-face-134-year-wait-employment-based-green-card/))
--Airport border delays at major US airports ([link](https://www.wsj.com/articles/SB10001424052702304743704577382250767742434))
+- Wait time for Indian GC candidates ([link](https://www.boundless.com/blog/indians-face-134-year-wait-employment-based-green-card/))
+- Airport border delays at major US airports ([link](https://www.wsj.com/articles/SB10001424052702304743704577382250767742434))
 
 ## References
 ***
