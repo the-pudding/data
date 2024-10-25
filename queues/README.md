@@ -39,7 +39,7 @@ To create a basic simulation, we slightly perturbed the interarrival time (using
 
 Varying arrival time and service time has the effect of also varying the utilization between 61.5\% and 73.1\%. Importantly, utilization is always below 100\%, which means that we have a stable queue. Over these 1,000 reps, we then calculated the resulting waiting times for the parallel and pooled scenarios using the same formulas as above.
 
-The result was an average pooling reduction of 76.2\%, with all 1000 reps achieving a reduction of at least 74%.
+The result was an average pooling reduction of 76.2\%, with all 1,000 reps achieving a reduction of at least 74%.
 
 Next, we increase the variability of interarrival times to SD = 4 seconds in order to more accurately represent periods of the day/week that are slightly more or less busy. This means that the time between passenger arrivals is still centered at 45 seconds, but now ranges between 34 seconds and 58 second across the 1000 reps. With service times still distributed tightly around 90 seconds, this causes server utilization to vary between 52 and 88\%). Even with this increased variability, pooling would still result in a reduction of 70\% or more for all 1,000 reps.
 
@@ -71,20 +71,23 @@ The focal customer's expected wait time (upon arrival) is determined by the numb
 In a general M/M/1 setup (i.e, exponentially distributed interarrival and service times), you can think of the wait time under each policy for an average arriving customer in each class as follows. Note that each term in the equations below corresponds to one of the components described above. Can you identify which is which?
 
 <ins>__Equal Priority__</ins> \
-Coffee: $$W_c = Q_c S_c + Q_s s_s + s_c$$ \
-Sandwich: $$W_s = Q_s S_s + Q_c s_c + s_s$$ 
+Coffee: $$W_c = Q_c s_c + Q_s s_s + s_c$$ \
+Sandwich: $$W_s = Q_s s_s + Q_c s_c + s_s$$ 
 
 <ins>__Non-preemptive priority for coffee-drinkers__</ins> \
-Coffee: $$W_c = Q_c S_c + U_s s_s s_c$$ \
-Sandwich: $$W_s = Q_s S_s + Q_c s_c + \lambda_c W_s s_c + s_s$$
+Coffee: $$W_c = Q_c S_c + U_s s_s + s_c$$ \
+Sandwich: $$W_s = Q_s S_s + Q_c s_c + \lambda_c (W_s - s_s) s_c + s_s$$
 
 <ins>__Preemptive priority for coffee-drinkers__</ins> \
 Coffee: $$W_c = Q_c S_c + s_c$$ \
-Sandwich:  $$W_s = Q_s S_s + Q_c s_c + \lambda_c (W_s - s_s) s_c + s_s$$
+Sandwich:  $$W_s = Q_s S_s + Q_c s_c + \lambda_c W_s s_c + s_s$$
 
 where:
+$$ W_c =$$ total waiting time for coffee customer
 
-$$𝑄_𝐶 =$$ avg \# coffee customers in queue
+$$ W_s =$$ total waiting time for sandwich customer
+
+$$𝑄_c =$$ avg \# coffee customers in queue
 
 $$𝑠_𝑐 =$$ service time for coffee customers
 
@@ -92,7 +95,7 @@ $$𝑄_𝑠 =$$ avg \# sandwich customers in queue
 
 $$𝑠_𝑠 =$$ service time for sandwich customers
 
-To study our multiclass system empirically, we generated a sequence of coffee and sandwich customers arriving according to the parameters stated above. For our first example, we generated 21 arrivals (16 coffee/5 sandwich) during a 30-minute window. Note that in this case, we treat service times as deterministic, rather than random (i.e., M/D/1, rather than M/M/1).
+To study our multiclass system empirically, we generated a sequence of coffee and sandwich customers arriving according to the parameters stated above. For our first example, we generated 21 arrivals (16 coffee/5 sandwich) during a 30-minute window. Note that in this case, we treat service times as deterministic, rather than random (i.e., our system is M/D/1, rather than M/M/1).
 
 We then explicitly calculated the exact wait time (from arrival to service completion) for each arriving customer under each of the three priority policies.
 
@@ -118,7 +121,7 @@ More on:
 ***
 In this scenario, you're queueing for a scarce good (concert tickets). There are many ways to allocate scarce goods: ticket prices often vary widely even within a single section, and are used to differentially target customers with different willingness to pay. That said, even for tickets at the same price, there is limited supply, and not everyone who wants one will get one - especially for sought-after artists. In other words, service is not guaranteed even if you complete the wait.
 
-You place a certain amount of value on seeing Beyonce (e.g., $1000). In this case, each person’s value is private (and perhaps not even consciously known to the individuals themselves). In other cases, value is known to each individual, and can be elicited using auctions or similar methods. Also, because there is a chance of not securing the ticket, some people may calculate an “expected value” which incorporates their beliefs about the likelihood of securing a ticket.
+You place a certain amount of value on seeing Beyonce (e.g., $1,000). In this case, each person’s value is private (and perhaps not even consciously known to the individuals themselves). In other cases, value is known to each individual, and can be elicited using auctions or similar methods. Also, because there is a chance of not securing the ticket, some people may calculate an “expected value” which incorporates their beliefs about the likelihood of securing a ticket.
 
 You also incur a certain cost while waiting. Most people aren’t explicitly tallying these costs, but you can imagine that each person has a subconscious “willingness to wait”, perhaps captured by the length of time beyond which even the guarantee of a ticket would no longer be worth enduring the wait. This is connected to the fact that each person has an opportunity cost of waiting (perhaps the amount they might be earning at work if they hadn’t taken time off to wait). If we could determine this figure for each person, we could find the point at which we’d expect them to abandon the queue. 
 
