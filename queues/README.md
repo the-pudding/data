@@ -9,8 +9,8 @@ See a summary of core takeaways below, and scroll further down for additional de
 | :---  |    :----:   | :----:   |         :--- |
 | 1      | Pooled vs Parallel        | Ticket counter        | Pooled queues (where a single line leads to multiple agents) can be much faster than parallel queues (where each line leads to one agent) because they create economies of scale and allow for flexible reallocation of capacity in response to variability (e.g., if one customer takes an unusually long time to serve). Pooling can achieve lower wait times for a given capacity level or lower capacity utilization for a given service level.   |
 | 2   | Priority queues and fairness        | Café      | Moving “quick” customers to the front of the queue ahead of “slow” customers can significantly decrease average wait times, but it comes at the cost of longer waits for the “slow” customers. More generally, queue designers have to trade off different considerations, including fairness vs optimal system performance.     |
-| 3   | Alternative queueing disciplines       | Concert tickets  | When a good has limited supply and service (specifically, the service of allowing customers to purchase the good) is provided on a first-come-first-serve (aka first-in-first-out, or FIFO) basis, customers can end up queuing earlier and earlier in order to secure an opportunity for service. Think pre-announced drops of the latest iPhone or shoe model, sports tickets, concert tickets, etc. This can spiral until the entire benefit gained from the good is eaten up by the cost of queuing. As such, people who value the product the most may be disadvantaged in a FIFO system with limited goods. Queue designers can use solutions such as lotteries to mitigate this issue.    |
-| 4   | Boundless queues        | Immigration      | If system capacity (represented by the processing time, or service rate) exceeds the rate of new arrivals, queues may either a) never arise (if there is no variability) or b) arise temporarily due to variability in arrivals or processing, but the system will eventually be able to resolve the queues. If the service rate is slower than the arrival rate, queue length and wait time can increase indefinitely.      |
+| 3   | Alternative queueing disciplines       | Concert tickets  | When a good has limited supply and service--specifically, the service of allowing customers to purchase the good--is provided on a first-come-first-serve (aka first-in-first-out, or FIFO) basis, customers can end up joining the queue earlier and earlier in order to secure an opportunity for service. Think pre-announced drops of the latest iPhone or shoe model, sports tickets, concert tickets, etc. This can spiral out of control until the entire benefit gained from the good is eaten up by the cost of queuing. As such, people who value the product the most may be disadvantaged in a FIFO system with limited supply. Queue designers can use solutions such as lotteries to mitigate this issue.    |
+| 4   | Boundless queues        | Immigration      | If system capacity (represented by the processing time, or service rate) exceeds the rate of new arrivals, queues may either a) never arise (if there is no variability) or b) arise temporarily due to variability in arrivals or processing, but eventually be resolved. However, if the service rate is _slower_ than the arrival rate, queue length and wait time can increase indefinitely.      |
 
 
 # Scene \# 1: Pooled vs. Parallel (Ticket counter)
@@ -19,7 +19,7 @@ See a summary of core takeaways below, and scroll further down for additional de
 
 In the first scene, we explore the concept of pooling. Pre-assigning customers to a server can lead to a situation where passengers in one queue are waiting despite some of the other servers being available. Pooling allows the system to eliminate such inefficient imbalances* by flexibly redeploying capacity.
 
-For our first example, we assume that customers arrive every 45 seconds, and that it takes 90 seconds to serve each one We calculated how long it would take an average newly-arriving customer to get through each line using the following formulas: 
+For our first example, we assume that customers arrive every 45 seconds, and that it takes 90 seconds to serve each one. We calculated how long it would take an average newly-arriving customer to get through each line using the following formulas: 
 
 Average wait time for customers in the single server setup:
 
@@ -30,23 +30,24 @@ Average wait time for customers in the multiple-server setup:
 $$W_{pooled} = \frac{s}{m} \left( \frac{U}{1-U} \right) \left(\frac{(CV_a + CV_s)^2}{2} \right)$$
 
 
-where $$s$$ is the processing time for a single server, $$m$$ is the number of servers, $$U$$ is utilization, and $$CV$$ represents the coefficient of variation.
+where $$s$$ is the processing time for a single server, $$m$$ is the number of servers, $$U$$ is utilization, and $$CV$$ represents the coefficient of variation**.
 
 Comparing these two wait times allowed us to calculate the reduction in waiting time that was achieved through pooling. The reduction for this simple example with zero variation was 76.2\%.
 
-In reality, there would likely be greater variation in arrival times. Variability in processing times may depend on how standardized processes are, so we limit their variability for now.
 
-To create a basic simulation, we slightly perturbed the interarrival time (using a normal distribution centered at 45 seconds and with SD = 1), as well as the service time ($$\mu = 90, \sigma = 1$$). Varying arrival time and service time has the effect of also varying the utilization between 61.5\% and 73.1\%. Importantly, utilization is always below 100\%, which means that we have a stable queue. Over these 1000 reps, we then calculated the resulting waiting times for the parallel and pooled scenarios using the same formulas as above.
+To create a basic simulation, we slightly perturbed the interarrival time (using a normal distribution centered at 45 seconds and with a standard deviation of 1), as well as the service time ($$\mu = 90, \sigma = 1$$). In reality, there would likely be greater variation in arrival times - we'll explore this in a moment. Variability in processing times may depend on how standardized processes are; for simplicity, we limit their variability for now.
+
+Varying arrival time and service time has the effect of also varying the utilization between 61.5\% and 73.1\%. Importantly, utilization is always below 100\%, which means that we have a stable queue. Over these 1,000 reps, we then calculated the resulting waiting times for the parallel and pooled scenarios using the same formulas as above.
 
 The result was an average pooling reduction of 76.2\%, with all 1000 reps achieving a reduction of at least 74%.
 
-If we increase the variability of interarrival times to SD = 4 seconds in order to more accurately represent periods of the day/week that are slightly more or less busy, the time between passenger arrivals is still centered at 45 seconds, but now ranges between 34 seconds and 58 second across the 1000 reps. With service times still distributed tightly around 90 seconds, this causes server utilization to vary between 52 and 88\%). Even with this greater variability, pooling would still result in a reduction of 70\% or more for all 1,000 reps.
+Next, we increase the variability of interarrival times to SD = 4 seconds in order to more accurately represent periods of the day/week that are slightly more or less busy. This means that the time between passenger arrivals is still centered at 45 seconds, but now ranges between 34 seconds and 58 second across the 1000 reps. With service times still distributed tightly around 90 seconds, this causes server utilization to vary between 52 and 88\%). Even with this increased variability, pooling would still result in a reduction of 70\% or more for all 1,000 reps.
 
-In general, wait time depends on system capacity, server utilization, and variability** in arrival or processing times. It's worth noting that wait times - and also, the difference in wait times between a parallel and pooled setup - are [sensitive](https://nickarnosti.com/blog/longwaits/#fn6) to server utilization level (i.e., how busy a server is), which is why planners often opt to have slack in server availability. The number of servers changes how high this sensitivity is [3].
+In general, wait time depends on system capacity, server utilization, and variability in arrival or processing times. It's worth noting that wait times - and also, the difference in wait times between a parallel and pooled setup - are [sensitive](https://nickarnosti.com/blog/longwaits) to server utilization level (i.e., how busy a server is), which is why planners often opt to build in slack in server availability. The number of servers changes how high this sensitivity is [3].
 
 *Note: this may backfire in settings such as healthcare, where the relationship between customer and server (or the server’s sense of [“customer ownership”](https://knowledge.insead.edu/operations/when-several-queues-are-better-one)) can impact processing time, or in settings where customers are [delay-sensitive](https://pubsonline.informs.org/doi/10.1287/mnsc.2020.3663) and decide whether or not to join based on queue length.
 
-**In the context of queueing, this is typically measured using what’s called the “coefficient of variation,”  or the ratio of the standard deviation to the mean for each quantity.
+**This is a normalized measure of variability that's used commonly in the context of queueing. It's defined as the ratio of the standard deviation to the mean.
 
 # Scene \# 2: Priority queues and fairness (Café)
 ***
