@@ -53,20 +53,20 @@ In general, wait time depends on system capacity, server utilization, and variab
 ***
 <img src="figures/assumptions_box_sc2.png" width=250 height=300>
 
-In our second example, we consider a situation where we have more than one type of customers. These are formally known as “multiclass” models, where customer groups may have different arrival rates and service rates.
+In our second example, we consider a situation where we have more than one type of customer. These are formally known as “multiclass” models, where customer groups may differ in terms of arrival rates and service rates (and possibly other characteristics).
 
-In a system with multiple classes, waiting time includes the following components: 
+In this setting*, waiting time includes the following components: 
 - Remaining service time for those already in service when you arrive
 - Service time for those still waiting for service when you arrive
-- Service time for those who arrive after you, but who must be served first (this is zero unless you’re using a preemptive priority policy)
+- Service time for those who arrive after you, but must be served first (this is zero unless you’re using a preemptive priority policy)
 - Your own service time
 
 We consider three possible priority policies:
 - Equal priority (all customers served in order of arrival)
-- Pre-emptive priority (Newly-arriving coffee drinkers interrupt sandwich service)
-- Non-preemptive priority (Newly-arriving coffee drinkers skip to front of queue, but don’t interrupt sandwich service)
+- Preemptive priority (Newly-arriving coffee drinkers interrupt sandwich service)
+- Non-preemptive priority (Newly-arriving coffee drinkers skip to front of queue, but don’t interrupt sandwich service that's already begun)
 
-Each customer's wait time is determined by the number and ordering of customers of each class who are on waiting in front of the focal customer. We set the ratio of coffee to sandwich arrivals exogenously, but the exact order of arrival is subject to randomness.
+The focal customer's expected wait time (upon arrival) is determined by the number and ordering of customers of each class who are already waiting. We set the ratio of coffee to sandwich arrivals exogenously, but the exact order of arrival is subject to randomness.
 
 In a general M/M/1 setup (i.e, exponentially distributed interarrival and service times), you can think of the wait time under each policy for an average arriving customer in each class as follows. Note that each term in the equations below corresponds to one of the components described above. Can you identify which is which?
 
@@ -92,21 +92,23 @@ $$𝑄_𝑠 =$$ avg \# sandwich customers in queue
 
 $$𝑠_𝑠 =$$ service time for sandwich customers
 
-To study our multiclass system empirically, we generated a sequence of coffee and sandwich customers arriving according to the parameters stated above. For our first example, we generated 21 arrivals (16 cofee/5 sandwich) during a 30-minute window.Note that in this case, we treat service times as deterministic, rather than random.
+To study our multiclass system empirically, we generated a sequence of coffee and sandwich customers arriving according to the parameters stated above. For our first example, we generated 21 arrivals (16 coffee/5 sandwich) during a 30-minute window. Note that in this case, we treat service times as deterministic, rather than random (i.e., M/D/1, rather than M/M/1).
 
 We then explicitly calculated the exact wait time (from arrival to service completion) for each arriving customer under each of the three priority policies.
 
-We repeated this 1,000 times, generating a slightly different number of arrivals each time (but with the same average ratio of 3 coffee: 1 sandwich).
+We repeated this 1,000 times, generating a slightly different number of arrivals each time (but using the same average ratio of 3 coffee: 1 sandwich).
 
 The figure below demonstrates the distribution of wait times under each policy. As you may have expected, non-preemptive priority provides a compromise between a fully preemptive policy and treating all customers equally (though sandwich customers may not see it that way!).
 
 <p align="center">
 <img src="figures/policy_comparison_plot_sc2.png" alt="Wait time distribution under three different priority policies" width=600 height=400> </p>
 
-We mention in the video the idea of providing "some, but not infinite" priority: To implement this, the shop owners might decide to optimize for minimizing the average wait time while ensuring that the maximum wait time does not exceed a certain limit. The outcome of this might be that if there are coffee-orderers waiting, they can take a break from making sandwiches, but only up to a maximum number of coffee orders.
+We mention in the video the idea of providing "some, but not infinite" priority: To implement this, the shop owners might decide to optimize for minimizing the average wait time while ensuring that the maximum wait time stays below a certain limit. Practically speaking, this could mean that if there are coffee-orderers waiting, the barista can take a break from making sandwiches, but only up to a maximum number of coffee orders.
 
 
 If the average wait time for sandwich orders increases enough, the sandwich-orderers might get tired or reach the point where they’d have to leave to catch their flight, and therefore abandon the queue. Finding compromise solutions is therefore important.
+
+*We're using a variation of the "tagged customer method", which helps us think about estimated wait time in terms of the situation that an arbitrary customer might face upon arrival. Thank you to Daniel Myers for this suggestion!
 
 More on: 
 
