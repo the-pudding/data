@@ -139,7 +139,7 @@ More on:
 
 # Scene \# 4: Boundless queues (Immigration)
 ***
-<img src="figures/assumptions_box_sc4.png" width=400 height=230>
+<img src="figures/assumptions_box_sc4.png" width=290 height=170>
 
 In the final scene, we explore the idea that a queue can, for all practical purposes, become infinitely long under the right (well, wrong) circumstances.
 
