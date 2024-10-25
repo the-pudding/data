@@ -120,6 +120,8 @@ More on:
 
 # Scene \# 3: Alternative queueing disciplines (Beyoncé tickets)
 ***
+<img src="figures/assumptions_box_sc3.png" width=250 height=300>
+
 In this scenario, you're queueing for a scarce good (concert tickets). There are many ways to allocate scarce goods: ticket prices often vary widely even within a single section, and are used to differentially target customers with different levels of  willingness to pay. That said, even for tickets at the same price, there is limited supply, and not everyone who wants one will get one - especially for sought-after artists. In other words, service is not guaranteed even if you complete the wait.
 
 You place a certain amount of value on seeing Beyonce (e.g., $1,000). Because there is a chance of not securing a ticket, some people may calculate an “expected value” which incorporates their beliefs about the likelihood of securing a ticket. In this case, each person’s value is private (and perhaps not even consciously known to the individuals themselves). In other cases, value is known to each individual, and can be elicited using auctions or similar methods.
