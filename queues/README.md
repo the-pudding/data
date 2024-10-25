@@ -1,4 +1,4 @@
-# The story behind [insert video title]
+# The story behind "Tired of waiting in line?" (link to video)
 Queues are guaranteed to form when the demand rate exceeds the supply capacity, or the number of customers who can be served per unit of time. However, even when average capacity exceeds the average demand rate, queues can still form when there’s sufficient variability in either arrival times or the time required for service.
 
 This video highlights a few different situations where queues might arise, all in the familiar context of an airport.
@@ -13,7 +13,7 @@ See a summary of core takeaways below, and scroll further down for additional de
 | 4   | Boundless queues        | Immigration      | If system capacity (represented by the processing time, or service rate) exceeds the rate of new arrivals, queues may either a) never arise (if there is no variability) or b) arise temporarily due to variability in arrivals or processing, but eventually be resolved. However, if the service rate is _slower_ than the arrival rate, queue length and wait time can increase indefinitely.      |
 
 
-# Scene \# 1: Pooled vs. Parallel (Ticket counter)
+# Scene \# 1: Pooled vs. parallel (Ticket counter)
 ***
 <img src="figures/assumptions_box_sc1.png" width=250 height=300>
 
@@ -83,9 +83,10 @@ Coffee: $$W_c = Q_c S_c + s_c$$ \
 Sandwich:  $$W_s = Q_s S_s + Q_c s_c + \lambda_c W_s s_c + s_s$$
 
 where:
-$$ W_c =$$ total waiting time for coffee customer
 
-$$ W_s =$$ total waiting time for sandwich customer
+$$W_c =$$ total waiting time for coffee customer
+
+$$W_s =$$ total waiting time for sandwich customer
 
 $$𝑄_c =$$ avg \# coffee customers in queue
 
@@ -104,7 +105,7 @@ We repeated this 1,000 times, generating a slightly different number of arrivals
 The figure below demonstrates the distribution of wait times under each policy. As you may have expected, non-preemptive priority provides a compromise between a fully preemptive policy and treating all customers equally (though sandwich customers may not see it that way!).
 
 <p align="center">
-<img src="figures/policy_comparison_plot_sc2.png" alt="Wait time distribution under three different priority policies" width=600 height=400> </p>
+<img src="figures/priority_plot_reordered.png" alt="Wait time distribution under three different priority policies" width=600 height=400> </p>
 
 We mention in the video the idea of providing "some, but not infinite" priority: To implement this, the shop owners might decide to optimize for minimizing the average wait time while ensuring that the maximum wait time stays below a certain limit. Practically speaking, this could mean that if there are coffee-orderers waiting, the barista can take a break from making sandwiches, but only up to a maximum number of coffee orders.
 
@@ -119,13 +120,13 @@ More on:
 
 # Scene \# 3: Alternative queueing disciplines (Beyoncé tickets)
 ***
-In this scenario, you're queueing for a scarce good (concert tickets). There are many ways to allocate scarce goods: ticket prices often vary widely even within a single section, and are used to differentially target customers with different willingness to pay. That said, even for tickets at the same price, there is limited supply, and not everyone who wants one will get one - especially for sought-after artists. In other words, service is not guaranteed even if you complete the wait.
+In this scenario, you're queueing for a scarce good (concert tickets). There are many ways to allocate scarce goods: ticket prices often vary widely even within a single section, and are used to differentially target customers with different levels of  willingness to pay. That said, even for tickets at the same price, there is limited supply, and not everyone who wants one will get one - especially for sought-after artists. In other words, service is not guaranteed even if you complete the wait.
 
-You place a certain amount of value on seeing Beyonce (e.g., $1,000). In this case, each person’s value is private (and perhaps not even consciously known to the individuals themselves). In other cases, value is known to each individual, and can be elicited using auctions or similar methods. Also, because there is a chance of not securing the ticket, some people may calculate an “expected value” which incorporates their beliefs about the likelihood of securing a ticket.
+You place a certain amount of value on seeing Beyonce (e.g., $1,000). Because there is a chance of not securing a ticket, some people may calculate an “expected value” which incorporates their beliefs about the likelihood of securing a ticket. In this case, each person’s value is private (and perhaps not even consciously known to the individuals themselves). In other cases, value is known to each individual, and can be elicited using auctions or similar methods.
 
-You also incur a certain cost while waiting. Most people aren’t explicitly tallying these costs, but you can imagine that each person has a subconscious “willingness to wait”, perhaps captured by the length of time beyond which even the guarantee of a ticket would no longer be worth enduring the wait. This is connected to the fact that each person has an opportunity cost of waiting (perhaps the amount they might be earning at work if they hadn’t taken time off to wait). If we could determine this figure for each person, we could find the point at which we’d expect them to abandon the queue. 
+You also incur a certain cost while waiting. Most people aren’t explicitly tallying these costs, but you can imagine that each person has a subconscious “willingness to wait”, perhaps captured by the length of time beyond which even the guarantee of a ticket would no longer be worth enduring the wait. This is connected to the fact that each person has an opportunity cost of waiting--for example, perhaps the amount they might have earned at work that day if they hadn’t taken time off to wait. If we could determine this figure for each person, we could calculate the point at which we’d expect them to abandon the queue. 
 
-A common default queue policy is typically first in, first out (FIFO) – but this can cause issues for highly competitive goods. Because of a mismatch between cost of waiting and value of the good, FIFO may fail to allocate the good to those who value it most, and may instead advantage those with a lower cost of waiting.
+A typical default queue policy is first in, first out (FIFO) – but this can cause issues for highly competitive goods. Because of a mismatch between the cost of waiting and value placed on the good, FIFO may fail to allocate a good or service to those who value it most, and may instead advantage those who have a lower cost of waiting.
 
 FIFO policies have other issues: they may also incentivize scalpers to hoard tickets and sell them at a premium. Allowing fans to pay for priority access to the queue is one option that has been used in many settings, but imposing additional financial burden for a good that is already so costly may be undesirable. Other alternatives, such as releasing tickets in stages, offering scheduled viewing or buying windows, or even unusual policies such as [serving the last person to arrive first](https://www.sciencenordic.com/culture-denmark-environment/queues-move-faster-if-the-last-person-is-served-first/1420582), may incentivize users to change their behavior in a way that reduces average waiting time. Queue designers have a lot to consider when allocating complex resources like this.
 
@@ -142,18 +143,18 @@ In the final scene, we explore the idea that a queue can, for all practical purp
 
 Two queue properties are relevant here: the service rate refers to how quickly each person gets through the line (in other words, it's connected to the system’s capacity), and the arrival rate is how quickly new people are arriving - this represents demand.
 
-Queues at the airport fluctuate in length over the course of the day, and disappear completely when the balance between capacity and demand rate becomes more favorable-for example, due to a slowdown in flight arrivals or the addition of more immigration officers. Airports can take proactive measures to prevent these queues from getting too long by controlling arrival rate, service rate, or both. For example, an airport may limit the number of international flights that can arrive in a given hour, and tools such as pre-approval programs like Global entry can help reduce the time required to serve some customers.
+Queues at the airport fluctuate in length over the course of the day, and disappear completely when the balance between capacity and demand rate becomes more favorable-for example, due to a slowdown in flight arrivals or the addition of more immigration officers. Airports can take proactive measures to prevent these queues from getting too long by controlling arrival rate, service rate, or both. For example, an airport may limit the number of international flights that can arrive in a given hour, and tools such as pre-approval programs like Global Entry can help reduce the time required to serve some customers.
 
-Just as service capacity can be increased through staffing levels, it can be decreased for some or all customers. For example, when some staff are dedicated to serving customers from a different group, those groups are facing different service rates, as in the case of priority queues or quotas. At the airport, this could be queues for foreign versus domestic passengers. In the immigration context shared in the video, these quotas are nationality - based.
+Just as service capacity can be increased through staffing levels, it can be decreased for some or all customers. For example, when dedicated staff are assigned to serve customers from particular groups, those groups experience different service rates, as in the case of priority queues or quotas. At the airport, one example could be queues for foreign versus domestic passengers. In the longer-term immigration context shared in the video, quotas are often nationality - based.
 
-Once the wait time becomes effectively infinite, customers have no choice but to opt out of service. A consistent inability of a system to process customers faster than they arrive is therefore a more serious problem.
+Once the wait time becomes effectively infinite, customers have no choice but to opt out of service. Any system's consistent inability to process customers faster than they arrive is therefore a serious problem.
 
 More on:
 
 - Green card allocation by nationality ([link](https://www.uscis.gov/green-card/green-card-processes-and-procedures/visa-availability-and-priority-dates))
-- Sample visa bulletin (with priority dates) for May 2024 ([link](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2024/visa-bulletin-for-may-2024.html))
-- Wait time for Indian GC candidates ([link](https://www.boundless.com/blog/indians-face-134-year-wait-employment-based-green-card/))
-- Airport border delays at major US airports ([link](https://www.wsj.com/articles/SB10001424052702304743704577382250767742434))
+- Sample visa bulletin (with priority dates) for October 2024 ([link](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2025/visa-bulletin-for-october-2024.html))
+- Wait time for Indian green card candidates (September 2023, Boundless Immigration) ([link](https://www.boundless.com/blog/indians-face-134-year-wait-employment-based-green-card/))
+- Airport border delays at major US airports (May 2012, WSJ) ([link](https://www.wsj.com/articles/SB10001424052702304743704577382250767742434))
 
 ## References
 ***
