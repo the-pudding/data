@@ -120,7 +120,7 @@ More on:
 
 # Scene \# 3: Alternative queueing disciplines (Beyoncé tickets)
 ***
-<img src="figures/assumptions_box_sc3.png">
+<img src="figures/assumptions_box_sc3.png" width=250 height=200>
 
 In this scenario, you're queueing for a scarce good (concert tickets). There are many ways to allocate scarce goods: ticket prices often vary widely even within a single section, and are used to differentially target customers with different levels of  willingness to pay. That said, even for tickets at the same price, there is limited supply, and not everyone who wants one will get one - especially for sought-after artists. In other words, service is not guaranteed even if you complete the wait.
 
