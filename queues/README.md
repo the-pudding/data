@@ -132,6 +132,14 @@ A typical default queue policy is first in, first out (FIFO) – but this can ca
 
 FIFO policies have other issues: they may also incentivize scalpers to hoard tickets and sell them at a premium. Allowing fans to pay for priority access to the queue is one option that has been used in many settings, but imposing additional financial burden for a good that is already so costly may be undesirable. Other alternatives, such as releasing tickets in stages, offering scheduled viewing or buying windows, or even unusual policies such as [serving the last person to arrive first](https://www.sciencenordic.com/culture-denmark-environment/queues-move-faster-if-the-last-person-is-served-first/1420582), may incentivize users to change their behavior in a way that reduces average waiting time. Queue designers have a lot to consider when allocating complex resources like this.
 
+How might we measure or compare how well two different queueing disciplines perform in this system? Standard metrics such as waiting time or average queue length may not capture the full picture. Other things that could be useful to measure include the following:
+- Percentage of customers who waited but did not get a ticket (even better if we can show the distribution of how long customers waited before going home empty-handed)
+- Waiting cost incurred per customer (even better if we can compare to value placed on ticket)
+- Percentage of customers who had to abandon the queue
+- Comparison of the distribution of ticket holders to the distribution of "fan dedication". In other words, can we quantify how effective a particular mechanism was at allocating this product to those who valued or needed it most?
+- Can you think of any others?
+
+
 More on:
 
 - Lotteries ( [link](https://operationsroom.wordpress.com/2012/12/11/apple-replaces-queues-with-a-lottery/) )
