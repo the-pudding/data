@@ -164,7 +164,8 @@ More on:
 - Green card allocation by nationality ([link](https://www.uscis.gov/green-card/green-card-processes-and-procedures/visa-availability-and-priority-dates))
 - Sample visa bulletin (with priority dates) for October 2024 ([link](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2025/visa-bulletin-for-october-2024.html))
 - Wait time for Indian green card candidates (September 2023, Boundless Immigration) ([link](https://www.boundless.com/blog/indians-face-134-year-wait-employment-based-green-card/))
-- Airport border delays at major US airports (May 2012, WSJ) ([link](https://www.wsj.com/articles/SB10001424052702304743704577382250767742434))
+- CBP data on airport wait times ([link](https://awt.cbp.gov))
+- Airport border delays at major airports (May 2012, WSJ) ([link](https://www.wsj.com/articles/SB10001424052702304743704577382250767742434))
 
 ## References
 ***
