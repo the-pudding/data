@@ -1,5 +1,6 @@
 # The story behind "Tired of waiting in line?"
-### _by Mureji Fatunde_
+###### _by Mureji Fatunde_
+
 Queues are guaranteed to form when the demand rate exceeds the supply capacity, or the number of customers who can be served per unit of time. However, even when average capacity exceeds the average demand rate, queues can still form when there’s sufficient variability in either arrival times or the time required for service.
 
 This video highlights a few different situations where queues might arise, all in the familiar context of an airport.
