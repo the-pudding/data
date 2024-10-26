@@ -177,5 +177,5 @@ More on:
 [4] Lecture notes and course materials on queueing theory and simulation/stochastic modeling by Daniel S. Myers
 
 ### Acknowledgements
-**
+***
 Many thanks to Professor Daniel S. Myers, Dr. Shraddha Rana, Dr. Angela Acocella, and Professor Abhishek Deshmane for their feedback and suggestions during the development of this story.
