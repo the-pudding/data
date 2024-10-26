@@ -19,7 +19,7 @@ See a summary of core takeaways below, and scroll further down for additional de
 
 In the first scene, we explore the concept of pooling. Pre-assigning customers to a server can lead to a situation where passengers in one queue are waiting despite some of the other servers being available. Pooling allows the system to eliminate such inefficient imbalances* by flexibly redeploying capacity.
 
-For our first example, we assume that customers arrive every 45 seconds, and that it takes 90 seconds to serve each one. We calculated how long it would take an average newly-arriving customer to get through each line using the following formulas [2]: 
+For our first example, we assume that customers arrive every 45 seconds, and that it takes 90 seconds to serve each one. We calculated how long it would take an average newly-arriving customer to get through each line using the following formulas [1]: 
 
 Average wait time for customers in the single server setup:
 
@@ -43,7 +43,7 @@ The result was an average pooling reduction of 76.2\%, with all 1,000 reps achie
 
 Next, we increase the variability of interarrival times to SD = 4 seconds in order to more accurately represent periods of the day/week that are slightly more or less busy. This means that the time between passenger arrivals is still centered at 45 seconds, but now ranges between 34 seconds and 58 second across the 1,000 reps. With service times still distributed tightly around 90 seconds, this causes server utilization to vary between 52 and 88\%). Even with this increased variability, pooling would still result in a reduction of 70\% or more for all 1,000 reps.
 
-In general, wait time depends on system capacity, server utilization, and variability in arrival or processing times. It's worth noting that wait times - and also, the difference in wait times between a parallel and pooled setup - are [sensitive](https://nickarnosti.com/blog/longwaits) to server utilization level (i.e., how busy a server is), which is why planners often opt to build in slack in server availability. The number of servers changes how high this sensitivity is [3].
+In general, wait time depends on system capacity, server utilization, and variability in arrival or processing times. It's worth noting that wait times - and also, the difference in wait times between a parallel and pooled setup - are [sensitive](https://nickarnosti.com/blog/longwaits) to server utilization level (i.e., how busy a server is), which is why planners often opt to build in slack in server availability. The number of servers changes how high this sensitivity is [2].
 
 *Note: this may backfire in settings such as healthcare, where the relationship between customer and server (or the server’s sense of [“customer ownership”](https://knowledge.insead.edu/operations/when-several-queues-are-better-one)) can impact processing time, or in settings where customers are [delay-sensitive](https://pubsonline.informs.org/doi/10.1287/mnsc.2020.3663) and decide whether or not to join based on queue length.
 
@@ -61,7 +61,7 @@ In this setting*, waiting time for a newly-arriving customer includes the follow
 - Service time for those who arrive after you, but must be served first (this is zero unless you’re using a preemptive priority policy)
 - Your own service time
 
-We consider three possible priority policies:
+We consider three possible priority policies [3]:
 - Equal priority (all customers served in order of arrival)
 - Preemptive priority (Newly-arriving coffee drinkers interrupt sandwich service)
 - Non-preemptive priority (Newly-arriving coffee drinkers skip to front of queue, but don’t interrupt sandwich service that's already begun)
@@ -124,7 +124,7 @@ More on:
 
 In this scenario, you're queueing for a scarce good (concert tickets). There are many ways to allocate scarce goods: ticket prices often vary widely even within a single section, and are used to differentially target customers with different levels of  willingness to pay. That said, even for tickets at the same price, there is limited supply, and not everyone who wants one will get one - especially for sought-after artists. In other words, service is not guaranteed even if you complete the wait.
 
-You place a certain amount of value on seeing Beyonce (e.g., $1,000). Because there is a chance of not securing a ticket, some people may calculate an “expected value” which incorporates their beliefs about the likelihood of securing a ticket. In this case, each person’s value is private (and perhaps not even consciously known to the individuals themselves). In other cases, value is known to each individual, and can be elicited using auctions or other methods.
+You place a certain amount of value on seeing Beyoncé (e.g., $1,000). Because there is a chance of not securing a ticket, some people may calculate an “expected value” which incorporates their beliefs about the likelihood of securing a ticket. In this case, each person’s value is private (and perhaps not even consciously known to the individuals themselves). In other cases, value is known to each individual, and can be elicited using auctions or other methods.
 
 You also incur a certain cost while waiting. Most people aren’t explicitly tallying these costs, but you can imagine that each person has a subconscious “willingness to wait”, perhaps captured by the length of time beyond which even the guarantee of a ticket would no longer be worth enduring the wait. This is connected to the fact that each person has an opportunity cost of waiting – for example, perhaps the amount they might have earned at work that day if they hadn’t taken time off to wait. If we could determine this figure for each person, we could calculate the point at which we’d expect them to abandon the queue. 
 
@@ -168,11 +168,11 @@ More on:
 
 ## References
 ***
-[1] Richard Larson and Amedeo Odoni. 1981. Urban Operations Research. Prentice-Hall.
+[1] Gerard Cachon and Christian Terwiesch. 2018. Matching Supply with Demand: An Introduction to Operations Management (4th ed.). McGraw-Hill.
 
-[2] Gerard Cachon and Christian Terwiesch. 2018. Matching Supply with Demand: An Introduction to Operations Management (4th ed.). McGraw-Hill.
+[2] Gerard Cachon and Christian Terwiesch. 2022. Operations Management (3rd ed.). McGraw-Hill.
 
-[3] Gerard Cachon and Christian Terwiesch. 2022. Operations Management (3rd ed.). McGraw-Hill.
+[3] Richard Larson and Amedeo Odoni. 1981. Urban Operations Research. Prentice-Hall.
 
 [4] Lecture notes and course materials on queueing theory and simulation/stochastic modeling by Daniel S. Myers
 
