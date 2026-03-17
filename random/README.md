@@ -4,7 +4,7 @@ The data will never be updated.
 
 Below you'll find the metadata for each file.
 
-## birthdays.csv
+## trials.csv
 
 - **What is this?**: Data for each individual's responses to the three experiments.
 - **Source(s) & Methodology**: Live internet experiment at the URL.
