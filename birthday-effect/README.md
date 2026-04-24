@@ -39,7 +39,7 @@ note: this is missing for many entries
 
 ### marital
 * m: married
-* s: single
+* s: single / never married
 * d: divorced
 * w: widowed
 * a: married but separated
