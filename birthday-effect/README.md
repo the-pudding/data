@@ -42,10 +42,16 @@ note: this is missing for many entries
 * s: single
 * d: divorced
 * w: widowed
+* a: married but separated
+* u: unknown
+
 
 ### manner
 * n: natural
 * a: accident
 * s: suicide
 * h: homicide
+* c: could not be determined
+* p: pending investigation
+* t: unsure what this is
 
