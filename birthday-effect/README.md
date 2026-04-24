@@ -53,5 +53,5 @@ note: this is missing for many entries
 * h: homicide
 * c: could not be determined
 * p: pending investigation
-* t: unsure what this is
+* t: (unsure what this is)
 
